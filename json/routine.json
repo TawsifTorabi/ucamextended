@@ -1,0 +1,142 @@
+[
+ {
+  "Department": "BSCSE",
+  "Course Code": "CSE 313\/CSE 3313\/EEE 4411",
+  "Course Name": "Computer Architecture",
+  "Section": "A",
+  "Faculty": "KSM",
+  "Date": "May 29, 2022",
+  "Time": "2:00 PM - 4:00 PM",
+  "Ranges": "308 (011052008-011201020)                                                                                                                                                                                                                       309 (011201024-021181001)"
+ },
+ {
+  "Department": "BSCSE",
+  "Course Code": "CSE 313\/CSE 3313\/EEE 4411",
+  "Course Name": "Computer Architecture",
+  "Section": "B",
+  "Faculty": "KSM",
+  "Date": "May 29, 2022",
+  "Time": "2:00 PM - 4:00 PM",
+  "Ranges": "310 (011151231-011201073)                                                                                                                                                                                                                       322 (011201075-011202313)"
+ },
+ {
+  "Department": "BSCSE",
+  "Course Code": "CSE 313\/CSE 3313\/EEE 4411",
+  "Course Name": "Computer Architecture",
+  "Section": "C",
+  "Faculty": "AnM",
+  "Date": "May 29, 2022",
+  "Time": "2:00 PM - 4:00 PM",
+  "Ranges": "323 (011162093-011201141)                                                                                                                                                                                                                       324 (011201143-021181066)"
+ },
+ {
+  "Department": "BSCSE",
+  "Course Code": "CSE 313\/CSE 3313\/EEE 4411",
+  "Course Name": "Computer Architecture",
+  "Section": "D",
+  "Faculty": "SAhSh",
+  "Date": "May 29, 2022",
+  "Time": "2:00 PM - 4:00 PM",
+  "Ranges": "325 (011171257-011192050)                                                                                                                                                                                                                       429 (011192066-021181074)"
+ },
+ {
+  "Department": "BSCSE",
+  "Course Code": "CSE 313\/CSE 3313\/EEE 4411",
+  "Course Name": "Computer Architecture",
+  "Section": "E",
+  "Faculty": "SAhSh",
+  "Date": "May 29, 2022",
+  "Time": "2:00 PM - 4:00 PM",
+  "Ranges": "328 (011152212-011201167)                                                                                                                                                                                                                       329 (011201170-021181052)"
+ },
+ {
+  "Department": "BSCSE",
+  "Course Code": "MATH 2205\/STAT 205",
+  "Course Name": "Probability and Statistics",
+  "Section": "A",
+  "Faculty": "MUn",
+  "Date": "May 30, 2022",
+  "Time": "2:00 PM - 4:00 PM",
+  "Ranges": "401 (011161155-011201181)                                                                                                                                                                                                                       402 (011201307-011213067)"
+ },
+ {
+  "Department": "BSCSE",
+  "Course Code": "MATH 2205\/STAT 205",
+  "Course Name": "Probability and Statistics",
+  "Section": "B",
+  "Faculty": "JAS",
+  "Date": "May 30, 2022",
+  "Time": "2:00 PM - 4:00 PM",
+  "Ranges": "322 (011171147-011193034)                                                                                                                                                                                                                       310 (011193047-011203053)"
+ },
+ {
+  "Department": "BSCSE",
+  "Course Code": "MATH 2205\/STAT 205",
+  "Course Name": "Probability and Statistics",
+  "Section": "C",
+  "Faculty": "JAS",
+  "Date": "May 30, 2022",
+  "Time": "2:00 PM - 4:00 PM",
+  "Ranges": "323 (011142060-011193027)                                                                                                                                                                                                                       309 (011193042-011202328)"
+ },
+ {
+  "Department": "BSCSE",
+  "Course Code": "MATH 2205\/STAT 205",
+  "Course Name": "Probability and Statistics",
+  "Section": "D",
+  "Faculty": "MUn",
+  "Date": "May 30, 2022",
+  "Time": "2:00 PM - 4:00 PM",
+  "Ranges": "330 (011191060-011202248)"
+ },
+ {
+  "Department": "BSCSE",
+  "Course Code": "CSE 2233\/CSI 233",
+  "Course Name": "Theory of Computation",
+  "Section": "A",
+  "Faculty": "IMK",
+  "Date": "June 01, 2022",
+  "Time": "9:00 AM - 11:00 AM",
+  "Ranges": "309 (011181024-011201097)                                                                                                                                                                                                                       310 (011201119-011211124)"
+ },
+ {
+  "Department": "BSCSE",
+  "Course Code": "CSE 2233\/CSI 233",
+  "Course Name": "Theory of Computation",
+  "Section": "B",
+  "Faculty": "AZ",
+  "Date": "June 01, 2022",
+  "Time": "9:00 AM - 11:00 AM",
+  "Ranges": "322 (011171257-011201286)                                                                                                                                                                                                                       323 (011201298-011203024)"
+ },
+ {
+  "Department": "BSCSE",
+  "Course Code": "CSE 2233\/CSI 233",
+  "Course Name": "Theory of Computation",
+  "Section": "C",
+  "Faculty": "NHn",
+  "Date": "June 01, 2022",
+  "Time": "9:00 AM - 11:00 AM",
+  "Ranges": "324 (011172056-011201079)                                                                                                                                                                                                                       423 (011201091-011202337)"
+ },
+ {
+  "Department": "BSCSE",
+  "Course Code": "CSE 2233\/CSI 233",
+  "Course Name": "Theory of Computation",
+  "Section": "D",
+  "Faculty": "NSS",
+  "Date": "June 01, 2022",
+  "Time": "9:00 AM - 11:00 AM",
+  "Ranges": "424 (011171104-011201291)                                                                                                                                                                                                                       425 (011201293-011202300)"
+ },
+ {
+  "Department": "BSCSE",
+  "Course Code": "CSE 2233\/CSI 233",
+  "Course Name": "Theory of Computation",
+  "Section": "E",
+  "Faculty": "NSS",
+  "Date": "June 01, 2022",
+  "Time": "9:00 AM - 11:00 AM",
+  "Ranges": "428 (011162015-011201230)                                                                                                                                                                                                                       429 (011201234-011202280)"
+ }
+]
