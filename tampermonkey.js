@@ -20,11 +20,18 @@
         'http://localhost/UIUExamRoomFinder/aurna-lightbox.css',
         'http://localhost/UIUExamRoomFinder/aurna-lightbox.js'
     ];
+
     var metaData = [
         'https://facebook.com/tawsiftorabi',
         'https://github.com/TawsifTorabi/realtimeHTML',
         'UCAM Extended Plugin',
-        'v0.1.1 Beta'
+        'v0.1.1 Beta',
+        'Tawsif Torabi',
+        'http://tawsiftorabi.github.io'
+    ];
+
+    var otherLinks = [
+        'http://localhost/UIUExamRoomFinder/plugin.css'
     ];
 
 
@@ -36,8 +43,20 @@
     **************
     **************/
 
+
+    ///////////////////////////
+    ///////////////////////////
+    //All Custom Functions/////
+    ///////////////////////////
+    ///////////////////////////
+
+    var U1customFunctions = window.U1customFunctions = {};
+
+
+
+
     //Check Where the User is right now.
-    function PageChecker(name){
+    U1customFunctions.PageChecker = function(name){
 
 		var catchedURL = window.location.href;
 
@@ -45,8 +64,17 @@
             var mmiString = catchedURL.split('?')[0];
             //Check if the page is the routine page
             if(mmiString.split('/')[5] == "RptStudentClassRoutine.aspx"){
-                alert('Routine Page!');
                 console.log("Routine Page = True");
+                return true;
+            }else{
+                return false;
+            }
+        }
+
+		if(name == 'login'){
+            //Check if the page is the login page
+            if(catchedURL.split('/')[4] == "Login.aspx"){
+                console.log("Login Page = True");
                 return true;
             }else{
                 return false;
@@ -56,7 +84,6 @@
         if(name == 'home'){
             //Check if the page is the home page
             if(catchedURL.split('/')[4].split('.')[0] == "StudentHome"){
-                alert('Home Page!');
                 console.log("Home Page = True");
                 return true;
             }else{
@@ -71,10 +98,15 @@
 
 
 
+
+
     //Number Comma Separator
     function numberWithCommas(x) {
         return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
     }
+
+
+
 
     //Number Comma Separator remover
     function numberWithoutCommas(x) {
@@ -84,13 +116,6 @@
 
 
 
-    ///////////////////////////
-    ///////////////////////////
-    //All Custom Functions/////
-    ///////////////////////////
-    ///////////////////////////
-
-    var U1customFunctions = window.U1customFunctions = {};
 
 	//Reset Plugin, Remove All Data Stored By This Plugin
 	U1customFunctions.ResetPlugin = function(){
@@ -131,15 +156,23 @@
 
         //Sets settings for the Routine Button
 		var RoutineBtnSettingsInput = document.getElementsByName('ShowRoutineBtn');
+        var RoutineBtnElement = document.getElementById('classRoutineExt');
+
         for(var k=0; RoutineBtnSettingsInput.length>k; k++){
             if(RoutineBtnSettingsInput[k].value == 'yes'){
-                RoutineBtnSettingsInput[k].addEventListener("click", function(){U1customFunctions.ShowRoutineBtn('set', true)});
+                RoutineBtnSettingsInput[k].addEventListener("click", function(){
+                    U1customFunctions.ShowRoutineBtn('set', true);
+                    RoutineBtnElement.style.display = 'inherit';
+                });
                 if(U1customFunctions.ShowRoutineBtn('get') == 'true'){
-                    RoutineBtnSettingsInput[j].setAttribute('checked', 'checked');
+                    RoutineBtnSettingsInput[k].setAttribute('checked', 'checked');
                 }
             }
             if(RoutineBtnSettingsInput[k].value == 'no'){
-                RoutineBtnSettingsInput[k].addEventListener("click", function(){U1customFunctions.ShowRoutineBtn('set', false)});
+                RoutineBtnSettingsInput[k].addEventListener("click", function(){
+                    U1customFunctions.ShowRoutineBtn('set', false);
+                    RoutineBtnElement.style.display = 'none';
+                });
                 if(U1customFunctions.ShowRoutineBtn('get') == 'false'){
                     RoutineBtnSettingsInput[k].setAttribute('checked', 'checked');
                 }
@@ -199,12 +232,12 @@
 	U1customFunctions.ShowRoutineBtn = function(opt, bool){
 		if(opt == 'set' && bool == true){
 			localStorage.setItem('ShowRoutineBtn', true);
-            console.log('ShowRoutineBtn set as true');
+            console.log('ShowRoutineBtn = true');
             return bool;
 		}
 		if(opt == 'set' && bool == false){
 			localStorage.setItem('ShowRoutineBtn', false);
-            console.log('ShowRoutineBtn set as false');
+            console.log('ShowRoutineBtn = false');
             return bool;
 		}
 		if(opt == 'get' && bool == null){
@@ -261,25 +294,122 @@
 	U1customFunctions.GetDept = function(idPrefix){
 		if(idPrefix == '011'){
             return 'CSE';
-		}
-        if(idPrefix == '021'){
+		}else if(idPrefix == '021'){
             return 'EEE';
-		}
-		if(idPrefix == '111'){
+		}else if(idPrefix == '111'){
             return 'BBA';
-		}
-        if(idPrefix == '121'){
+		}else if(idPrefix == '121'){
             return 'ECONOMICS';
-		}
-        if(idPrefix == '031'){
+		}else if(idPrefix == '031'){
             return 'CIVIL';
-		}
+		} else {
+            return 'Wrong Dept. Code';
+        }
 
 	}
 
     /////////////////////////////////////////
     //GetDepartment function Ends//////////
     /////////////////////////////////////////
+
+
+
+
+    ////////////////////////////////////////////////////
+    //Get Department & Batch Code function Starts//////////
+    ///////////////////////////////////////////////////
+
+    U1customFunctions.GetStudentDeptCode = function(stuId){
+        var studSplit = stuId.toString().split('');
+        var StudentIdDeptCode = studSplit[0]+studSplit[1]+studSplit[2];
+        return U1customFunctions.GetDept(StudentIdDeptCode);
+    };
+
+        U1customFunctions.GetStudentBatchCode = function(stuId){
+        var studSplit = stuId.toString().split('');
+        var StudentIdDeptCode = studSplit[3]+studSplit[4]+studSplit[5];
+        return StudentIdDeptCode;
+    };
+
+    ///////////////////////////////////////////////
+    //Get Department & Batch Code function Ends//////////
+    ///////////////////////////////////////////////
+
+
+    ///////////////////////////////////////////////
+    //Appened Floatbox function Starts/////////////
+    ///////////////////////////////////////////////
+
+    U1customFunctions.AppendFloatbox = function(){
+        //Appened Floatbox
+        var floatboxHTML = document.createElement("div");
+        floatboxHTML.id = "floating_box";
+
+        var NewHTML = "<h2>"+metaData[2]+" <small>"+metaData[3]+"</small></h2>"
+        + "<h4>User Settings: </h4>"
+        + "<table>"
+        + "<tr>"
+        + "<td style='padding:5px'>Student ID: "+ localStorage.getItem('studentIDVar') + " (" + U1customFunctions.GetStudentDeptCode(localStorage.getItem('studentIDVar')) + ")</td>"
+        + "<td style='text-align: center; width: 180px;'></td>"
+        + "</tr>"
+        + " <tr>"
+        + "    <td style='padding:5px'>Automatic load Current Trimester Routine in the Class Routine Page: </td>"
+        + "    <td style='text-align: center; width: 180px;'><input type='radio' value='yes' name='AutoLoadRoutine'/> Yes  <input type='radio' name='AutoLoadRoutine' value='no'/> No </td>"
+        + "</tr>"
+        + "<tr>"
+        + "    <td style='padding:5px'>Show Class Routine Button on the Homepage: </td>"
+        + "<td style='text-align: center; width: 180px;'><input type='radio' name='ShowRoutineBtn' value='yes'/> Yes  <input type='radio' name='ShowRoutineBtn' value='no'/> No </td>"
+        + "</tr>"
+        + "<tr>"
+        + "    <td style='padding:5px'></td>"
+        + "    <td style='text-align: center; width: 180px;'></td>"
+        + "</tr>"
+        + "</table>"
+        + "</br>"
+        + "</br>"
+        + "</br>"
+        + "</br>"
+        + "<center><a class='about-button' href='"+metaData[0]+"' target='_blank' style='padding: 5px 10px; text-decoration:none;'>"
+        + "<svg id='miniIcons' xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'><path d='M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm3 8h-1.35c-.538 0-.65.221-.65.778v1.222h2l-.209 2h-1.791v7h-3v-7h-2v-2h2v-2.308c0-1.769.931-2.692 3.029-2.692h1.971v3z'/></svg>"
+        + "Me on Facebook"
+        + "</a>&nbsp;&nbsp;"
+        + "<a class='about-button' href='"+metaData[1]+"' target='_blank' style='padding: 5px 10px; text-decoration:none;'>"
+        + "<svg id='miniIcons' xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'><path d='M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z'/></svg>"
+        + "Code On Github</a></br></br></center>"
+        ;
+
+        var settingBtn = document.createElement("button");
+        settingBtn.innerHTML = 'Plugin Settings';
+        settingBtn.style.color = "black";
+        settingBtn.style.fontWeight = "bold";
+        settingBtn.id = "plugsettingBtn";
+        settingBtn.setAttribute('onclick', 'aurnaIframe("'+ NewHTML +'"); U1customFunctions.Setting1();');
+
+        var titleText1 = document.createElement("span");
+        titleText1.innerHTML = metaData[2];
+        titleText1.style.color = "black";
+        titleText1.fontWeight = "bold";
+        titleText1.id = "plugsettingBtn";
+
+        var titleText2 = document.createElement("small");
+        titleText2.innerHTML = "by <a href='"+ metaData[5] +"' target='_blank'>" + metaData[4] + "</a>";
+        titleText2.style.color = "black";
+        titleText2.style.fontSize = "9px";
+        titleText2.id = "plugsettingBtn";
+
+
+        document.body.appendChild(floatboxHTML);
+        floatboxHTML.appendChild(titleText1);
+        floatboxHTML.appendChild(titleText2);
+        floatboxHTML.appendChild(settingBtn);
+
+
+    };
+
+    ///////////////////////////////////////////////
+    //Appened Floatbox function Ends/////////////
+    ///////////////////////////////////////////////
+
 
     /**************
     ***************
@@ -293,11 +423,10 @@
 
 
     ////////////////////////////////////////////////
-    //Starts Main Code/////////////
+    /////////Starts Main Code/////////////
     ////////////////////////////////////////////////
 
     //Ektu Credits
-    //http://localhost/UIUExamRoomFinder/appcode.js
     console.log(metaData[2] + ' ' + metaData[3] + ' - Written by @TawsifTorabi');
     console.log('Check on Github - ' + metaData[1]);
 
@@ -314,18 +443,28 @@
     document.body.appendChild(script1);
 
 
+    //Appened Other StyleSheets
+    var css1 = document.createElement("link");
+    css1.href = otherLinks[0];
+    css1.type = "text/css";
+    css1.rel = "stylesheet";
+    document.body.appendChild(css1);
 
-    //Necessary variable parsing
 
 
-    var StudentId = document.getElementById('ctl00_lbtnUserName').innerHTML; //StudentID containing element from document
-    var StudentIdNumArray = StudentId.toString().split('');
-    var StudentIdBatchNum = StudentIdNumArray[0]+[1]+[2];
+    if(U1customFunctions.PageChecker('login') == false){
 
-    var studentIDNullOP = (localStorage.getItem('studentIDVar') == null); //Check if student is captured
+        //Append Pugin Floatbox if the current page is not login page.
+        U1customFunctions.AppendFloatbox();
+
+        //Necessary variable parsing
+        var StudentId = document.getElementById('ctl00_lbtnUserName').innerHTML; //StudentID containing element from document
+
+        var studentIDNullOP = (localStorage.getItem('studentIDVar') == null); //Check if student id is captured
         //if Student Id is not stored in browser
         if(studentIDNullOP == true){
             console.log('*Student ID not found in localStorage');
+
             //Check if id containing element is available in the document
             if(typeof(StudentId) != 'undefined' && StudentId != null){
                 console.log('Stored ID from doc - '+ StudentId);
@@ -333,8 +472,8 @@
                 console.log('*Student ID stored');
                 console.log('Stored ID - '+localStorage.getItem('studentIDVar'));
 
-                console.log('Batch Number - ' + StudentIdBatchNum);
-                localStorage.setItem('studentBatchNumber', StudentIdBatchNum);
+                localStorage.setItem('studentDeptCode', U1customFunctions.GetStudentDeptCode(StudentId));
+                console.log('Dept. Code Stored - ' + U1customFunctions.GetStudentDeptCode(StudentId));
 
             } else{
                 console.log('*Error finding Student ID Containing Element');
@@ -344,7 +483,8 @@
         //if Student Id is stored in browser
         if(studentIDNullOP == false){
             console.log('*Student ID found Stored previously');
-            console.log('Stored ID - '+localStorage.getItem('studentIDVar'));
+            console.log('Stored Student ID - '+ localStorage.getItem('studentIDVar'));
+            console.log('Dept. Code - ' + localStorage.getItem('studentDeptCode'));
 
             //Check if id containing element is available in the document
             if(typeof(StudentId) != 'undefined' && StudentId != null){
@@ -363,8 +503,11 @@
                     console.log('*Student ID re-addressed');
                     console.log('Stored ID - '+localStorage.getItem('studentIDVar'));
 
-                    console.log('Batch Number - ' + StudentIdBatchNum);
-                    localStorage.setItem('studentBatchNumber', StudentIdBatchNum);
+                    localStorage.setItem('studentDeptCode', U1customFunctions.GetStudentDeptCode(StudentId));
+                    console.log('Dept. Code Set - ' + U1customFunctions.GetStudentDeptCode(StudentId));
+
+                    localStorage.setItem('studentBatchNumber', U1customFunctions.GetStudentBatchCode(StudentId));
+                    console.log('Batch Code Set - ' + U1customFunctions.GetStudentBatchCode(StudentId));
                 }
 
             } else{
@@ -374,16 +517,16 @@
 
 
 
-    //Batch & Trimester Information Parsing
-    var BatchIndicatorElement = document.getElementById('ctl00_lblCurrent');
-    //Split Batch HTML Element to Current Batch, Running Trimester and Year
-    var CurrentBatch = parseInt(BatchIndicatorElement.innerHTML.split(',')[1].split('-')[0]);
-    var CurrentTrimester = BatchIndicatorElement.innerHTML.split(',')[1].split('-')[1].split(' ')[1];
-    var CurrentYear = parseInt(BatchIndicatorElement.innerHTML.split(',')[1].split('-')[1].split(' ')[2]);
+        //Batch & Trimester Information Parsing
+        var BatchIndicatorElement = document.getElementById('ctl00_lblCurrent');
+        //Split Batch HTML Element to Current Batch, Running Trimester and Year
+        var CurrentBatch = parseInt(BatchIndicatorElement.innerHTML.split(',')[1].split('-')[0]);
+        var CurrentTrimester = BatchIndicatorElement.innerHTML.split(',')[1].split('-')[1].split(' ')[1];
+        var CurrentYear = parseInt(BatchIndicatorElement.innerHTML.split(',')[1].split('-')[1].split(' ')[2]);
 
-    var TrimesterInfoString = CurrentBatch +':'+ CurrentTrimester +':'+ CurrentYear;
+        var TrimesterInfoString = CurrentBatch +':'+ CurrentTrimester +':'+ CurrentYear;
 
-    var TrimesterNullOP = (localStorage.getItem('TrimesterInfo') == null); //Check if batch info is captured
+        var TrimesterNullOP = (localStorage.getItem('TrimesterInfo') == null); //Check if batch info is captured
 
         //if Trimester Info is not stored in browser
         if(TrimesterNullOP == true){
@@ -426,100 +569,71 @@
         }
 
 
+        //Run Script depending on pages
+        //Check If the page is Homepage
+        if(U1customFunctions.PageChecker('home') == true){
 
+            var catchedURLfromAnchor = document.querySelectorAll('[role="menuitem"]')[2].lastChild.href;
+            var mmiString = catchedURLfromAnchor.split('?')[1];
+            var mmiCode,RoutineURL, scriptHalt;
+            if(mmiString.split('=')[0] == "mmi"){
+                mmiCode = mmiString.split('=')[1];
+                RoutineURL = "https://ucam.uiu.ac.bd/Student/Report/RptStudentClassRoutine.aspx?mmi=" + mmiCode;
+                scriptHalt = 'false';
+            }else{
+                console.log("Error Getting mmi Session ID");
+                scriptHalt = 'true';
+            }
 
-
-    //Run Script depending on pages
-    //Check If the page is Homepage
-    if(PageChecker('home') == true){
-
-        var catchedURLfromAnchor = document.querySelectorAll('[role="menuitem"]')[2].lastChild.href;
-        var mmiString = catchedURLfromAnchor.split('?')[1];
-        var mmiCode,RoutineURL, scriptHalt;
-        if(mmiString.split('=')[0] == "mmi"){
-            mmiCode = mmiString.split('=')[1];
-            RoutineURL = "https://ucam.uiu.ac.bd/Student/Report/RptStudentClassRoutine.aspx?mmi=" + mmiCode;
-            scriptHalt = 'false';
-        }else{
-            console.log("Error Getting mmi Session ID");
-            scriptHalt = 'true';
+            let Anchors = document.querySelectorAll('[role="menuitem"]');
+            var AnchorsNum = Anchors.length;
+            var SelectedAnchor, i;
+            if(scriptHalt == 'false'){
+                for(i=0; AnchorsNum>i; i++){
+                    if(Anchors[i].lastChild.innerHTML == "Registration"){
+                        SelectedAnchor = Anchors[i];
+                        const Clode = SelectedAnchor.cloneNode(true);
+                        var NewAnchor1 = SelectedAnchor.parentElement.appendChild(Clode);
+                        NewAnchor1.lastChild.innerHTML = "Class Routine";
+                        NewAnchor1.lastChild.style.color = "red";
+                        NewAnchor1.lastChild.href = RoutineURL;
+                        NewAnchor1.lastChild.id = "classRoutineExt";
+                        if(U1customFunctions.ShowRoutineBtn('get') == 'true'){
+                            NewAnchor1.lastChild.style.display = "inherit";
+                        }else if(U1customFunctions.ShowRoutineBtn('get') == 'false'){
+                            NewAnchor1.lastChild.style.display = "none";
+                            console.log('To Show routine btn, enable from settings.');
+                        }
+                    }
+                }
+            }else{
+                console.log('Script Stopped, Can not find session id');
+            }
         }
 
-        let Anchors = document.querySelectorAll('[role="menuitem"]');
-        var AnchorsNum = Anchors.length;
-        var SelectedAnchor, i;
-        if(scriptHalt == 'false'){
-            for(i=0; AnchorsNum>i; i++){
-                if(Anchors[i].lastChild.innerHTML == "Registration"){
-                    SelectedAnchor = Anchors[i];
-                    const Clode = SelectedAnchor.cloneNode(true);
-                    var NewAnchor1 = SelectedAnchor.parentElement.appendChild(Clode);
-                    NewAnchor1.lastChild.innerHTML = "Class Routine";
-                    NewAnchor1.lastChild.style.color = "red";
-                    NewAnchor1.lastChild.href = RoutineURL;
-
-                var NewHTML = "<h2>"+metaData[2]+" <small>"+metaData[3]+"</small></h2>";
-                    NewHTML += "<h4>User Settings: </h4>";
-                    NewHTML += "<table>";
-                    NewHTML += "    <tr>";
-                    NewHTML += "    <td style='padding:5px'>Automatic load Current Trimester Routine in the Class Routine Page: </td>";
-                    NewHTML += "<td style='text-align: center; width: 180px;'><input type='radio' value='yes' name='AutoLoadRoutine'/> Yes  <input type='radio' name='AutoLoadRoutine' value='no'/> No </td>";
-                    NewHTML += "</tr>";
-                    NewHTML += "<tr>";
-                    NewHTML += "    <td style='padding:5px'>Show Class Routine Button on the Homepage: </td>";
-                    NewHTML += "<td style='text-align: center; width: 180px;'><input type='radio' name='ShowRoutineBtn' value='yes'/> Yes  <input type='radio' name='ShowRoutineBtn' value='no'/> No </td>";
-                    NewHTML += "</tr>";
-                    NewHTML += "<tr>";
-                    NewHTML += "    <td style='padding:5px'>Student ID: </td>";
-                    NewHTML += "<td style='text-align: center; width: 180px;'><input disabled id='StudentIdInputArea' value='"+ localStorage.getItem('studentIDVar') +"' type='text' maxlength='9'/></td>";
-                    NewHTML += "</tr>";
-                    NewHTML += "</table>";
-                    NewHTML += "</br>";
-                    NewHTML += "<center><a class='about-button' href='"+metaData[0]+"' target='_blank' style='padding: 5px 10px; text-decoration:none;'>Me on Facebook</a>&nbsp;&nbsp;";
-                    NewHTML += "<a class='about-button' href='"+metaData[1]+"' target='_blank' style='padding: 5px 10px; text-decoration:none;'>Code On Github</a></br></br></center>";
 
 
 
+        if(U1customFunctions.PageChecker('routine') == true){
 
-                    var NewAnchor2 = NewAnchor1.parentElement.appendChild(NewAnchor1.cloneNode(true));
-                    NewAnchor2.lastChild.innerHTML = "Plugin Settings";
-                    NewAnchor2.lastChild.style.color = "green";
-                    NewAnchor2.lastChild.style.fontWeight = "bold";
-                    NewAnchor2.lastChild.href = 'javascript:void(0)';
-                    NewAnchor2.lastChild.setAttribute('onclick', 'aurnaIframe("'+ NewHTML +'"); U1customFunctions.Setting1();');
+            console.log('Routine Page Loaded! Initialized...');
 
+            var BatchSelector = document.getElementById('ctl00_MainContainer_ddlAcaCalBatch');
+
+            if(U1customFunctions.AutoLoadClassRoutine('get') == 'true'){
+                if(BatchSelector.selectedIndex !== 2){
+                    BatchSelector.selectedIndex = 2;
+                    document.getElementById("ctl00_MainContainer_Button1").click();
                 }
             }
-        }else{
-            console.log('Script Stopped, Can not find session id');
-        }
-    }
 
-
-
-    if(PageChecker('routine') == true){
-        console.log('Routine Page Loaded! Initialized...');
-
-        var BatchSelector = document.getElementById('ctl00_MainContainer_ddlAcaCalBatch');
-
-        if(U1customFunctions.AutoLoadClassRoutine('get') == 'true'){
-
-            if(BatchSelector.selectedIndex !== 2){
-                BatchSelector.selectedIndex = 2;
-                document.getElementById("ctl00_MainContainer_Button1").click();
-            }
-            //if(BatchSelector.selectedIndex == 2){
-             //   window.addEventListener('load', function() {
-
-              //  });
-            //}
         }
 
+
+
+    }else if(U1customFunctions.PageChecker('login') == true){
+        console.log('This is login Page, Daddy told me to do nothing.')
     }
-
-
-
-
 
 
 })();
