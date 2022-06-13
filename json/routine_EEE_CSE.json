@@ -138,5 +138,15 @@
   "Date": "June 01, 2022",
   "Time": "9:00 AM - 11:00 AM",
   "Ranges": "428 (011162015-011201230)                                                                                                                                                                                                                       429 (011201234-011202280)"
+ },
+ {
+  "Department": "BSCSE",
+  "Course Code": "CSE 2233\/CSI 233",
+  "Course Name": "Theory of Computation",
+  "Section": "E",
+  "Faculty": "NSS",
+  "Date": "June 01, 2022",
+  "Time": "9:00 AM - 11:00 AM",
+  "Ranges": "428 (011162015-011201230)                                                                                                                                                                                                                       429 (011201234-011202280)"
  }
 ]
