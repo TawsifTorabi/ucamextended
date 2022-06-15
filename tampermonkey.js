@@ -23,7 +23,7 @@
 
     var metaData = [
         'https://facebook.com/tawsiftorabi',
-        'https://github.com/TawsifTorabi/realtimeHTML',
+        'https://github.com/TawsifTorabi/UCAMextended',
         'UCAM Extended Plugin',
         'v0.1.1 Beta',
         'Tawsif Torabi',
@@ -33,6 +33,13 @@
     var otherLinks = [
         'http://localhost/UIUExamRoomFinder/plugin.css'
     ];
+
+    var Jsonfiles = [
+        'https://raw.githubusercontent.com/TawsifTorabi/UCAMextended/main/json/routine_EEE_CSE.json',
+        'https://raw.githubusercontent.com/TawsifTorabi/UCAMextended/main/json/settings.json'
+    ];
+
+
 
 
 
@@ -50,10 +57,13 @@
     ///////////////////////////
     ///////////////////////////
 
+
+    String.prototype.isMatch = function(s){
+	   return this.match(s)!==null
+	}
+
+
     var U1customFunctions = window.U1customFunctions = {};
-
-
-
 
     //Check Where the User is right now.
     U1customFunctions.PageChecker = function(name){
@@ -336,6 +346,100 @@
     ///////////////////////////////////////////////
 
 
+
+
+
+
+    ///////////////////////////////////////////////
+    //Show Exam Routine function Starts//////////
+    ///////////////////////////////////////////////
+
+	U1customFunctions.ShowExamRoutine = function(arr){
+
+		var CourseArr = localStorage.getItem('CurrentCoursesArray').split(',');
+		var StudentID = localStorage.getItem('studentIDVar');
+
+		var out = "";
+		var i, j;
+
+		console.log('Courses  Count - > ' + CourseArr.length);
+
+		out += 	"<table width='95%' border style='font-size: 11px;font-family: Bahnschrift;'>" +
+				"<tr>"+
+				"<th>Dept.</th>"+
+				"<th>Code</th>"+
+				"<th>Course Name</th>"+
+				"<th>Section</th>"+
+				"<th>Teacher</th>"+
+				"<th>Date</th>"+
+				"<th>Time</th>"+
+				"<th>Room No.</th>";
+
+		for(j = 0; j < CourseArr.length; j++){ 				//Iterate for Course Array Length , 4 Times for this
+
+			console.log('Json Count - > ' + arr.length);
+
+			var UserCourseCode = CourseArr[j].split(' ')[0] +' '+ CourseArr[j].split(' ')[1];
+			var UserSection = CourseArr[j].split(' ')[2].split('')[1];
+
+			console.log('>> Current Course/Section: ' + UserCourseCode + ' / ' + UserSection);
+
+
+
+			for(i = 0; i < arr.length; i++){				//Iterate for total json file, 216 times for this
+
+				//Print Iteration Number
+				//console.log(i);
+
+				if(arr[i].CourseCode.isMatch(UserCourseCode) == true && arr[i].Section.isMatch(UserSection) == true){
+					console.log(i);
+					console.log("User Course Code Matched -> " + UserCourseCode);
+					console.log("JSON Course Code -> "+ arr[i].CourseCode);
+					console.log('Section -> ' + arr[i].Section);
+					console.log("**********Course Section Matched -> " + UserSection);
+
+					var roomString = arr[i].Room.replace(/\s+/g,' ').trim(); // Removes Extra Spaces
+					var newRoomString1 = roomString.split(' ')[0] + ' ' + roomString.split(' ')[1];
+					var newRoomString2 = roomString.split(' ')[2] + ' ' + roomString.split(' ')[3];
+
+					out += 	"<tr>"+
+							"<td align='center'>" + arr[i].Dept + " </td>"+
+							"<td align='center'>" + arr[i].CourseCode + " </td>"+
+							"<td align='center'>" + arr[i].CourseTitle + " </td>"+
+							"<td align='center'> "+ arr[i].Section +" </td>"+
+							"<td align='center'> "+ arr[i].Teacher +" </td>"+
+							"<td align='center'> "+ arr[i].ExamDate +" </td>"+
+							"<td align='center'> "+ arr[i].ExamTime +"</td>"+
+							"<td align='center'> "+ newRoomString1 +'</br>'+ newRoomString2 +"</td>"+
+							"</tr>";
+				}
+			}
+
+		}
+		out += "</table>";
+
+		return out;
+	}
+
+
+
+
+    ///////////////////////////////////////////////
+    //Fresher Welcome Message Starts//////////
+    ///////////////////////////////////////////////
+
+    U1customFunctions.fresherWelcome = function(){
+        if(U1customFunctions.GetTrimesterInfo('CurrentBatch') == localStorage.getItem('studentBatchNumber')){
+            alert('Hello Freshers!');
+        }
+    };
+    ///////////////////////////////////////////////
+    //Fresher Welcome Message Ends//////////
+    ///////////////////////////////////////////////
+
+
+
+
     ///////////////////////////////////////////////
     //Appened Floatbox function Starts/////////////
     ///////////////////////////////////////////////
@@ -345,18 +449,44 @@
         var floatboxHTML = document.createElement("div");
         floatboxHTML.id = "floating_box";
 
+        var NewHTML3 = 'Default';
+        var xmlhttpRoutine = new XMLHttpRequest();
+        var url = Jsonfiles[0];
+        xmlhttpRoutine.onreadystatechange = function(){
+            if (this.readyState == 4 && this.status == 200){
+                console.log('Routine JSON Request OK');
+                var nArr = JSON.parse(this.responseText);
+                console.log(nArr);
+                var NewHTML3 = U1customFunctions.ShowExamRoutine(nArr);
+                console.log('HTML CONTENT -> ' + NewHTML3);
+                document.getElementById('examRoutineBtn').setAttribute('onclick', 'aurnaIframe("'+ NewHTML3 +'");');
+            }
+        };
+        xmlhttpRoutine.open("GET", url, true);
+        xmlhttpRoutine.send();
+
+
+
+        var examRoutineBtn = document.createElement("button");
+        examRoutineBtn.innerHTML = 'See Exam Routine';
+        examRoutineBtn.style.color = "red";
+        examRoutineBtn.style.fontWeight = "bold";
+        examRoutineBtn.id = "examRoutineBtn";
+        examRoutineBtn.setAttribute('class', 'plugsettingBtn');
+
+
         var NewHTML = "<h2>"+metaData[2]+" <small>"+metaData[3]+"</small></h2>"
         + "<h4>User Settings: </h4>"
         + "<table>"
-        + "<tr>"
-        + "<td style='padding:5px'>Student ID: "+ localStorage.getItem('studentIDVar') + " (" + U1customFunctions.GetStudentDeptCode(localStorage.getItem('studentIDVar')) + ")</td>"
+        + "<tr style='line-height: 8px;'>"
+        + "<td style='padding:5px'><b>Student ID: "+ localStorage.getItem('studentIDVar') + " (" + U1customFunctions.GetStudentDeptCode(localStorage.getItem('studentIDVar')) + ")</b></td>"
         + "<td style='text-align: center; width: 180px;'></td>"
         + "</tr>"
-        + " <tr>"
+        + " <tr style='line-height: 14px;border-bottom: 1pt dotted #777;'>"
         + "    <td style='padding:5px'>Automatic load Current Trimester Routine in the Class Routine Page: </td>"
         + "    <td style='text-align: center; width: 180px;'><input type='radio' value='yes' name='AutoLoadRoutine'/> Yes  <input type='radio' name='AutoLoadRoutine' value='no'/> No </td>"
         + "</tr>"
-        + "<tr>"
+        + "<tr style='line-height: 14px;border-bottom: 1pt dotted #777;'>"
         + "    <td style='padding:5px'>Show Class Routine Button on the Homepage: </td>"
         + "<td style='text-align: center; width: 180px;'><input type='radio' name='ShowRoutineBtn' value='yes'/> Yes  <input type='radio' name='ShowRoutineBtn' value='no'/> No </td>"
         + "</tr>"
@@ -382,26 +512,27 @@
         settingBtn.innerHTML = 'Plugin Settings';
         settingBtn.style.color = "black";
         settingBtn.style.fontWeight = "bold";
-        settingBtn.id = "plugsettingBtn";
+        settingBtn.setAttribute('class', 'plugsettingBtn');
         settingBtn.setAttribute('onclick', 'aurnaIframe("'+ NewHTML +'"); U1customFunctions.Setting1();');
 
         var titleText1 = document.createElement("span");
         titleText1.innerHTML = metaData[2];
         titleText1.style.color = "black";
         titleText1.fontWeight = "bold";
-        titleText1.id = "plugsettingBtn";
+        titleText1.setAttribute('class', 'plugsettingBtn');
 
         var titleText2 = document.createElement("small");
-        titleText2.innerHTML = "by <a href='"+ metaData[5] +"' target='_blank'>" + metaData[4] + "</a>";
+        titleText2.innerHTML = "by <a href='"+ metaData[5] +"' target='_blank'>" + metaData[4] + "</a></br>";
         titleText2.style.color = "black";
         titleText2.style.fontSize = "9px";
-        titleText2.id = "plugsettingBtn";
+        titleText2.setAttribute('class', 'plugsettingBtn');
 
 
         document.body.appendChild(floatboxHTML);
         floatboxHTML.appendChild(titleText1);
         floatboxHTML.appendChild(titleText2);
         floatboxHTML.appendChild(settingBtn);
+        floatboxHTML.appendChild(examRoutineBtn);
 
 
     };
@@ -409,6 +540,39 @@
     ///////////////////////////////////////////////
     //Appened Floatbox function Ends/////////////
     ///////////////////////////////////////////////
+
+
+
+    U1customFunctions.ArrayMatch = function(storedRoutePrev, routineArr){
+        var storedRoute = storedRoutePrev;
+        if(storedRoute.split(',').length == routineArr.length){
+            var j=0;
+            for(i=0; routineArr.length>i; i++){
+                if(storedRoute.split(',')[i] == routineArr[i]){
+                     j++;
+                    //console.log(j);
+                    //console.log('Array Data Matched -> '+routineArr[i]+'/'+storedRoute.split(',')[i]);
+                }else{
+                    //console.log('Array Data Mismatched -> '+routineArr[i]+'/'+storedRoute.split(',')[i]);
+                }
+            }
+
+            //console.log('now j is ->' + j);
+            //console.log('now storedRoute.split(",").length is ->' + storedRoute.split(',').length);
+            //console.log('now routineArr.length is ->' + routineArr.length);
+
+            if(j !== routineArr.length){
+                //console.log('All Array Data Mismatched, returned false');
+                return false;
+            }else{
+                //console.log('All Array Data Matched, returned true');
+                return true;
+            }
+        }else{
+            //console.log('All Array Length Mismatched, returned false');
+            return false;
+        }
+    }
 
 
     /**************
@@ -456,6 +620,8 @@
 
         //Append Pugin Floatbox if the current page is not login page.
         U1customFunctions.AppendFloatbox();
+
+
 
         //Necessary variable parsing
         var StudentId = document.getElementById('ctl00_lbtnUserName').innerHTML; //StudentID containing element from document
@@ -569,9 +735,17 @@
         }
 
 
+
         //Run Script depending on pages
         //Check If the page is Homepage
         if(U1customFunctions.PageChecker('home') == true){
+
+
+            //If The Student is fresher, show a dialogue box on login
+            if(U1customFunctions.GetStudentBatchCode(localStorage.getItem('studentIDVar')) == U1customFunctions.GetTrimesterInfo('CurrentBatch')){
+                U1customFunctions.fresherWelcome();
+            }
+
 
             var catchedURLfromAnchor = document.querySelectorAll('[role="menuitem"]')[2].lastChild.href;
             var mmiString = catchedURLfromAnchor.split('?')[1];
@@ -588,27 +762,67 @@
             let Anchors = document.querySelectorAll('[role="menuitem"]');
             var AnchorsNum = Anchors.length;
             var SelectedAnchor, i;
+
             if(scriptHalt == 'false'){
+
                 for(i=0; AnchorsNum>i; i++){
+
                     if(Anchors[i].lastChild.innerHTML == "Registration"){
+
                         SelectedAnchor = Anchors[i];
                         const Clode = SelectedAnchor.cloneNode(true);
                         var NewAnchor1 = SelectedAnchor.parentElement.appendChild(Clode);
+
                         NewAnchor1.lastChild.innerHTML = "Class Routine";
                         NewAnchor1.lastChild.style.color = "red";
                         NewAnchor1.lastChild.href = RoutineURL;
                         NewAnchor1.lastChild.id = "classRoutineExt";
+
                         if(U1customFunctions.ShowRoutineBtn('get') == 'true'){
                             NewAnchor1.lastChild.style.display = "inherit";
                         }else if(U1customFunctions.ShowRoutineBtn('get') == 'false'){
                             NewAnchor1.lastChild.style.display = "none";
                             console.log('To Show routine btn, enable from settings.');
                         }
+
                     }
                 }
             }else{
                 console.log('Script Stopped, Can not find session id');
             }
+
+
+
+
+            //Save Home Page Course and section information to local storage
+            var HomeRoutineTable = document.getElementById('ctl00_MainContainer_Class_Schedule');
+            var RoutineRowsElement = document.getElementsByClassName('hoverable');
+
+            if(typeof(HomeRoutineTable) != 'undefined' && HomeRoutineTable != null){
+
+                if((HomeRoutineTable.id == RoutineRowsElement[0].parentElement.parentElement.id) == true){
+                    var routineRowsLength = RoutineRowsElement.length;
+                    var CoursesArray = [];
+
+                    for(var y=0; routineRowsLength>y; y++){
+                        var elem12 = RoutineRowsElement[y].firstElementChild.textContent;
+                        if(CoursesArray.some(element => element == elem12) == false){
+                           CoursesArray.push(elem12);
+                        }
+                    }
+
+                    if(U1customFunctions.ArrayMatch(localStorage.getItem('CurrentCoursesArray'), CoursesArray) == false){
+                        localStorage.setItem('CurrentCoursesArray', CoursesArray);
+                        console.log('Course List Updated');
+                    } else{
+                        console.log('Course List Matched');
+                    }
+                }
+
+            }
+
+            //Ends Homepage Script
+
         }
 
 
