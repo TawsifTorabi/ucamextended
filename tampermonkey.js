@@ -36,6 +36,7 @@
 
     var Jsonfiles = [
         'https://raw.githubusercontent.com/TawsifTorabi/UCAMextended/main/json/routine_EEE_CSE.json',
+        'https://raw.githubusercontent.com/TawsifTorabi/UCAMextended/main/json/routine_BBA.json',
         'https://raw.githubusercontent.com/TawsifTorabi/UCAMextended/main/json/settings.json'
     ];
 
@@ -364,16 +365,16 @@
 
 		console.log('Courses  Count - > ' + CourseArr.length);
 
-		out += 	"<table width='95%' border style='font-size: 11px;font-family: Bahnschrift;'>" +
+		out += 	"<table width='95%' border style='font-size: 11px;font-family: Signika;'>" +
 				"<tr>"+
-				"<th>Dept.</th>"+
-				"<th>Code</th>"+
-				"<th>Course Name</th>"+
-				"<th>Section</th>"+
-				"<th>Teacher</th>"+
-				"<th>Date</th>"+
-				"<th>Time</th>"+
-				"<th>Room No.</th>";
+				"<th class='rtTh'>Dept.</th>"+
+				"<th class='rtTh'>Code</th>"+
+				"<th class='rtTh'>Course Name</th>"+
+				"<th class='rtTh'>Section</th>"+
+				"<th class='rtTh'>Teacher</th>"+
+				"<th class='rtTh'>Date</th>"+
+				"<th class='rtTh'>Time</th>"+
+				"<th class='rtTh'>Room No.</th>";
 
 		for(j = 0; j < CourseArr.length; j++){ 				//Iterate for Course Array Length , 4 Times for this
 
@@ -400,7 +401,12 @@
 
 					var roomString = arr[i].Room.replace(/\s+/g,' ').trim(); // Removes Extra Spaces
 					var newRoomString1 = roomString.split(' ')[0] + ' ' + roomString.split(' ')[1];
-					var newRoomString2 = roomString.split(' ')[2] + ' ' + roomString.split(' ')[3];
+
+                    if(roomString.split(' ')[2] == null){
+                        //var newRoomString2 = '</br>' + roomString.split(' ')[2] + ' ' + roomString.split(' ')[3];
+                    }else{
+                        //var newRoomString2 = '</br>' + roomString.split(' ')[2] + ' ' + roomString.split(' ')[3];
+                    }
 
 					out += 	"<tr>"+
 							"<td align='center'>" + arr[i].Dept + " </td>"+
@@ -410,7 +416,7 @@
 							"<td align='center'> "+ arr[i].Teacher +" </td>"+
 							"<td align='center'> "+ arr[i].ExamDate +" </td>"+
 							"<td align='center'> "+ arr[i].ExamTime +"</td>"+
-							"<td align='center'> "+ newRoomString1 +'</br>'+ newRoomString2 +"</td>"+
+                            "<td align='center'> "+ newRoomString1 + newRoomString2 +"</td>"+
 							"</tr>";
 				}
 			}
@@ -420,21 +426,8 @@
 
 		return out;
 	}
-
-
-
-
     ///////////////////////////////////////////////
-    //Fresher Welcome Message Starts//////////
-    ///////////////////////////////////////////////
-
-    U1customFunctions.fresherWelcome = function(){
-        if(U1customFunctions.GetTrimesterInfo('CurrentBatch') == localStorage.getItem('studentBatchNumber')){
-            alert('Hello Freshers!');
-        }
-    };
-    ///////////////////////////////////////////////
-    //Fresher Welcome Message Ends//////////
+    //Show Exam Routine function Ends//////////
     ///////////////////////////////////////////////
 
 
@@ -449,7 +442,7 @@
         var floatboxHTML = document.createElement("div");
         floatboxHTML.id = "floating_box";
 
-        var NewHTML3 = 'Default';
+        var NewHTML3 = '';
         var xmlhttpRoutine = new XMLHttpRequest();
         var url = Jsonfiles[0];
         xmlhttpRoutine.onreadystatechange = function(){
@@ -469,7 +462,7 @@
 
         var examRoutineBtn = document.createElement("button");
         examRoutineBtn.innerHTML = 'See Exam Routine';
-        examRoutineBtn.style.color = "red";
+        examRoutineBtn.style.color = "#a82323";
         examRoutineBtn.style.fontWeight = "bold";
         examRoutineBtn.id = "examRoutineBtn";
         examRoutineBtn.setAttribute('class', 'plugsettingBtn');
@@ -543,6 +536,29 @@
 
 
 
+
+    ///////////////////////////////////////////////
+    //Fresher Welcome Message Starts//////////
+    ///////////////////////////////////////////////
+
+    U1customFunctions.fresherWelcome = function(){
+        if(U1customFunctions.GetTrimesterInfo('CurrentBatch') == localStorage.getItem('studentBatchNumber')){
+            alert('Hello Freshers!');
+        }
+    };
+    ///////////////////////////////////////////////
+    //Fresher Welcome Message Ends//////////
+    ///////////////////////////////////////////////
+
+
+
+
+
+    ///////////////////////////////////////////////
+    //Array Matching Function Starts//////////
+    ///////////////////////////////////////////////
+
+
     U1customFunctions.ArrayMatch = function(storedRoutePrev, routineArr){
         var storedRoute = storedRoutePrev;
         if(storedRoute.split(',').length == routineArr.length){
@@ -573,6 +589,12 @@
             return false;
         }
     }
+
+    ///////////////////////////////////////////////
+    //Array Matching Function Ends//////////
+    ///////////////////////////////////////////////
+
+
 
 
     /**************
@@ -617,11 +639,6 @@
 
 
     if(U1customFunctions.PageChecker('login') == false){
-
-        //Append Pugin Floatbox if the current page is not login page.
-        U1customFunctions.AppendFloatbox();
-
-
 
         //Necessary variable parsing
         var StudentId = document.getElementById('ctl00_lbtnUserName').innerHTML; //StudentID containing element from document
@@ -843,6 +860,9 @@
 
         }
 
+
+		//Append Pugin Floatbox if the current page is not login page.
+		U1customFunctions.AppendFloatbox();
 
 
     }else if(U1customFunctions.PageChecker('login') == true){
