@@ -232,10 +232,41 @@
 
 
 
+       //Sets settings for the Plugin Top Bar
+		var PluginBtnSettingsInput = document.getElementsByName('fixpluginbtn');
+        var PluginBtnElement = document.getElementById('floating_box');
+
+        for(k=0; PluginBtnSettingsInput.length>k; k++){
+
+            if(PluginBtnSettingsInput[k].value == 'yes'){
+                PluginBtnSettingsInput[k].addEventListener("click", function(){
+                    U1customFunctions.SetPluginBtn('set', true);
+                    PluginBtnElement.style.position = 'fixed';
+                });
+
+                if(U1customFunctions.SetPluginBtn('get') == 'true'){
+                    PluginBtnSettingsInput[k].setAttribute('checked', 'checked');
+                }
+            }
+
+            if(PluginBtnSettingsInput[k].value == 'no'){
+                PluginBtnSettingsInput[k].addEventListener("click", function(){
+                    U1customFunctions.SetPluginBtn('set', false);
+                    PluginBtnElement.style.position = 'absolute';
+                });
+
+                if(U1customFunctions.SetPluginBtn('get') == 'false'){
+                    PluginBtnSettingsInput[k].setAttribute('checked', 'checked');
+                }
+            }
+
+        }
+
+
+
 
         //Sets settings for the Homepage add course title to routine
 		var AddCourseTitleRoutineSettingsInput = document.getElementsByName('AddCourseTitleRoutine');
-        //var RoutineBtnElement = document.getElementById('classRoutineExt');
 
         for(k=0; AddCourseTitleRoutineSettingsInput.length>k; k++){
             if(AddCourseTitleRoutineSettingsInput[k].value == 'yes'){
@@ -371,6 +402,37 @@
     //Show Routine Button Toggle function Ends////////////
     //////////////////////////////////////////////////////
 
+
+
+
+    //////////////////////////////////////////////////////
+    //Set Plugin Button Fixed or Absolute Toggle  function Starts//////////
+    //////////////////////////////////////////////////////
+    //Use this function to let user set if the Class Routine Shortcut Button will show on homepage
+    //opt parameter sets the opt value by user defined 'set' or 'get'.
+    //'set' will set the boolean value and 'get' will return the value from the localStorage
+
+	U1customFunctions.SetPluginBtn = function(opt, bool){
+		if(opt == 'set' && bool == true){
+			localStorage.setItem('SetPluginBtnFixed', true);
+            console.log('SetPluginBtnFixed = true');
+            return bool;
+		}
+		if(opt == 'set' && bool == false){
+			localStorage.setItem('SetPluginBtnFixed', false);
+            console.log('SetPluginBtnFixed = false');
+            return bool;
+		}
+		if(opt == 'get' && bool == null){
+			var RBool = localStorage.getItem('SetPluginBtnFixed');
+            return RBool;
+            var logData = 'SetPluginBtnFixed returned'+ RBool;
+            console.log(logData);
+		}
+	}
+    //////////////////////////////////////////////////////
+    //Set Plugin Button Fixed or Absolute Toggle function Ends////////////
+    //////////////////////////////////////////////////////
 
 
 
@@ -546,6 +608,37 @@
 
 
 
+
+    ///////////////////////////////////////////////
+    //Set Settings function Starts//////////
+    ///////////////////////////////////////////////
+
+	U1customFunctions.SetSettings = function(arr){
+
+		var out = "";
+		var i, j;
+
+		for(j = 0; j < arr.length; j++){ 				//Iterate for Course Array Length , 4 Times for this
+
+			console.log('Json Count - > ' + arr.length);
+			for(i = 0; i < arr.length; i++){				//Iterate for total json file, 216 times for this
+
+				//Print Iteration Number
+				//console.log(i);
+
+				}
+			}
+
+		}
+
+    ///////////////////////////////////////////////
+    //Set Settings function Ends//////////
+    ///////////////////////////////////////////////
+
+
+
+
+
     ///////////////////////////////////////////////
     //Appened Floatbox function Starts/////////////
     ///////////////////////////////////////////////
@@ -587,6 +680,10 @@
         + "<tr style='line-height: 8px;'>"
         + "<td style='padding:5px'><b>Student ID: "+ localStorage.getItem('studentIDVar') + " (" + U1customFunctions.GetStudentDeptCode(localStorage.getItem('studentIDVar')) + ")</b></td>"
         + "<td style='text-align: center; width: 180px;'></td>"
+        + "</tr>"
+        + "<tr style='line-height: 14px;border-bottom: 1pt dotted red;'>"
+        + "    <td style='padding:5px'>Fix the PLUGIN Button to Top: </td>"
+        + "<td style='text-align: center; width: 180px;'><input type='radio' name='fixpluginbtn' value='yes'/> Yes  <input type='radio' name='fixpluginbtn' value='no'/> No </td>"
         + "</tr>"
         + " <tr style='line-height: 14px;border-bottom: 1pt dotted #777;'>"
         + "    <td style='padding:5px'>Automatic load Current Trimester Routine in the Class Routine Page: </td>"
@@ -637,12 +734,12 @@
         titleText2.style.fontSize = "9px";
         titleText2.setAttribute('class', 'plugsettingBtn');
 
-
         document.body.appendChild(floatboxHTML);
         floatboxHTML.appendChild(titleText1);
         floatboxHTML.appendChild(titleText2);
         floatboxHTML.appendChild(settingBtn);
         floatboxHTML.appendChild(examRoutineBtn);
+
 
 
     };
@@ -651,6 +748,23 @@
     //Appened Floatbox function Ends/////////////
     ///////////////////////////////////////////////
 
+
+
+
+    ///////////////////////////////////////////////
+    //Set Floatbox Style function Starts/////////////
+    ///////////////////////////////////////////////
+    U1customFunctions.setFloatbox = function(){
+        var elem0 = document.getElementById('floating_box');
+        if(U1customFunctions.ShowRoutineBtn('get') == 'true'){
+            elem0.style.position = 'fixed';
+        }else if(U1customFunctions.ShowRoutineBtn('get') == 'false'){
+            elem0.style.position = 'absolute';
+        }
+    };
+    ///////////////////////////////////////////////
+    //Set Floatbox Style function Ends/////////////
+    ///////////////////////////////////////////////
 
 
 
@@ -757,14 +871,15 @@
 
     if(U1customFunctions.PageChecker('login') == false){
 
-        //var NewHTML3 = '';
+        var SettingsArr;
         var xmlhttpSettings = new XMLHttpRequest();
         var settingJsonUrl = Jsonfiles[0];
         xmlhttpSettings.onreadystatechange = function(){
             if (this.readyState == 4 && this.status == 200){
                 console.log('Settings JSON Request OK');
-                var nArr = JSON.parse(this.responseText);
-                console.log(nArr);
+                SettingsArr = JSON.parse(this.responseText);
+                U1customFunctions.SetSettings(SettingsArr);
+                console.log(SettingsArr);
             }
         };
         xmlhttpSettings.open("GET", settingJsonUrl, true);
@@ -1005,6 +1120,8 @@
 
 		//Append Pugin Floatbox if the current page is not login page.
 		U1customFunctions.AppendFloatbox();
+        U1customFunctions.setFloatbox();
+
 
 
     }else if(U1customFunctions.PageChecker('login') == true){
