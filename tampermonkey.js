@@ -35,9 +35,9 @@
     ];
 
     var Jsonfiles = [
+        'https://raw.githubusercontent.com/TawsifTorabi/UCAMextended/main/json/settings.json',
         'https://raw.githubusercontent.com/TawsifTorabi/UCAMextended/main/json/routine_EEE_CSE.json',
-        'https://raw.githubusercontent.com/TawsifTorabi/UCAMextended/main/json/routine_BBA.json',
-        'https://raw.githubusercontent.com/TawsifTorabi/UCAMextended/main/json/settings.json'
+        'https://raw.githubusercontent.com/TawsifTorabi/UCAMextended/main/json/routine_BBA.json'
     ];
 
 
@@ -137,6 +137,46 @@
 
 
 
+
+    //Set the homepage routine style
+	U1customFunctions.SetTitleHomePageRoutine = function(bool){
+		if(bool == true){
+            var RoutineRowsElementX = document.getElementsByClassName('hoverable');
+            for(i=0; i< RoutineRowsElementX.length; i++){
+                var g = RoutineRowsElementX[i].childNodes[1];							//Course Codes
+                var f = RoutineRowsElementX[i].childNodes[2];							//Times Schedule
+                var h = RoutineRowsElementX[i].title;									//Course Name
+
+                g.innerHTML = "<span style='font-size: 11px;'>" + g.innerHTML + " " + h.replace('Laboratory','Lab') + "</span>";
+                f.innerHTML = "<span style='font-size: 11px;color: #2a9fa5;'>" + f.innerHTML + "</span>";
+            }
+        }
+
+        if(bool == false){
+            RoutineRowsElementX = document.getElementsByClassName('hoverable');
+            for(i=0; i< RoutineRowsElementX.length; i++){
+                g = RoutineRowsElementX[i].childNodes[1];								//Course Codes
+                var g2 = RoutineRowsElementX[i].childNodes[1].childNodes[0];			//New Course Codes
+
+                f = RoutineRowsElementX[i].childNodes[2];								//Times Schedule
+                var f2 = RoutineRowsElementX[i].childNodes[2].childNodes[0];			//New Times Schedule
+
+                h = RoutineRowsElementX[i].title.replace('Laboratory','Lab');			//Course Name
+
+
+                var CourseCodeString = g2.innerHTML.replace(h, "").trim();
+                var timeString = f2.textContent;
+
+                g.innerHTML = CourseCodeString;
+                f.innerHTML = timeString;
+            }
+        }
+	}
+
+
+
+
+
     //Setting1 Function
     //This Function Adds event listener to the Plugin Options
     //And sets value of the settings to the local storage
@@ -186,6 +226,42 @@
                 });
                 if(U1customFunctions.ShowRoutineBtn('get') == 'false'){
                     RoutineBtnSettingsInput[k].setAttribute('checked', 'checked');
+                }
+            }
+        }
+
+
+
+
+        //Sets settings for the Homepage add course title to routine
+		var AddCourseTitleRoutineSettingsInput = document.getElementsByName('AddCourseTitleRoutine');
+        //var RoutineBtnElement = document.getElementById('classRoutineExt');
+
+        for(k=0; AddCourseTitleRoutineSettingsInput.length>k; k++){
+            if(AddCourseTitleRoutineSettingsInput[k].value == 'yes'){
+                AddCourseTitleRoutineSettingsInput[k].addEventListener("click", function(){
+                    if(U1customFunctions.ShowHomeCourseTitleRoutine('get') !== 'true'){
+                        U1customFunctions.ShowHomeCourseTitleRoutine('set', true);
+                        U1customFunctions.SetTitleHomePageRoutine(true);
+                    }else{
+                        //Do Nothing
+                    }
+                });
+                if(U1customFunctions.ShowHomeCourseTitleRoutine('get') == 'true'){
+                    AddCourseTitleRoutineSettingsInput[k].setAttribute('checked', 'checked');
+                }
+            }
+            if(AddCourseTitleRoutineSettingsInput[k].value == 'no'){
+                AddCourseTitleRoutineSettingsInput[k].addEventListener("click", function(){
+                    if(U1customFunctions.ShowHomeCourseTitleRoutine('get') !== 'false'){
+                        U1customFunctions.ShowHomeCourseTitleRoutine('set', false);
+                        U1customFunctions.SetTitleHomePageRoutine(false);
+                    }else{
+                        //Do Nothing
+                    }
+                });
+                if(U1customFunctions.ShowHomeCourseTitleRoutine('get') == 'false'){
+                    AddCourseTitleRoutineSettingsInput[k].setAttribute('checked', 'checked');
                 }
             }
         }
@@ -240,6 +316,39 @@
     //opt parameter sets the opt value by user defined 'set' or 'get'.
     //'set' will set the boolean value and 'get' will return the value from the localStorage
 
+	U1customFunctions.ShowHomeCourseTitleRoutine = function(opt, bool){
+		if(opt == 'set' && bool == true){
+			localStorage.setItem('AddCourseNameRoutineHomepage', true);
+            console.log('AddCourseNameRoutineHomepage = true');
+            return bool;
+		}
+		if(opt == 'set' && bool == false){
+			localStorage.setItem('AddCourseNameRoutineHomepage', false);
+            console.log('AddCourseNameRoutineHomepage = false');
+            return bool;
+		}
+		if(opt == 'get' && bool == null){
+			var CourseTitleBtnBool = localStorage.getItem('AddCourseNameRoutineHomepage');
+            console.log('AddCourseNameRoutineHomepage returned'+ CourseTitleBtnBool);
+            return CourseTitleBtnBool;
+		}
+	}
+    //////////////////////////////////////////////////////
+    //Show Routine Button Toggle function Ends////////////
+    //////////////////////////////////////////////////////
+
+
+
+
+
+
+    //////////////////////////////////////////////////////
+    //Show Routine Button Toggle function Starts//////////
+    //////////////////////////////////////////////////////
+    //Use this function to let user set if the Class Routine Shortcut Button will show on homepage
+    //opt parameter sets the opt value by user defined 'set' or 'get'.
+    //'set' will set the boolean value and 'get' will return the value from the localStorage
+
 	U1customFunctions.ShowRoutineBtn = function(opt, bool){
 		if(opt == 'set' && bool == true){
 			localStorage.setItem('ShowRoutineBtn', true);
@@ -261,6 +370,10 @@
     //////////////////////////////////////////////////////
     //Show Routine Button Toggle function Ends////////////
     //////////////////////////////////////////////////////
+
+
+
+
 
 
 
@@ -402,10 +515,10 @@
 					var roomString = arr[i].Room.replace(/\s+/g,' ').trim(); // Removes Extra Spaces
 					var newRoomString1 = roomString.split(' ')[0] + ' ' + roomString.split(' ')[1];
 
-                    if(roomString.split(' ')[2] == null){
-                        //var newRoomString2 = '</br>' + roomString.split(' ')[2] + ' ' + roomString.split(' ')[3];
+                    if((roomString.split(' ')[2] == null) == true){
+                        var newRoomString2 = '';
                     }else{
-                        //var newRoomString2 = '</br>' + roomString.split(' ')[2] + ' ' + roomString.split(' ')[3];
+                        newRoomString2 = '</br>' + roomString.split(' ')[2] + ' ' + roomString.split(' ')[3];
                     }
 
 					out += 	"<tr>"+
@@ -444,14 +557,14 @@
 
         var NewHTML3 = '';
         var xmlhttpRoutine = new XMLHttpRequest();
-        var url = Jsonfiles[0];
+        var url = Jsonfiles[1];
         xmlhttpRoutine.onreadystatechange = function(){
             if (this.readyState == 4 && this.status == 200){
                 console.log('Routine JSON Request OK');
                 var nArr = JSON.parse(this.responseText);
                 console.log(nArr);
                 var NewHTML3 = U1customFunctions.ShowExamRoutine(nArr);
-                console.log('HTML CONTENT -> ' + NewHTML3);
+                //console.log('HTML CONTENT -> ' + NewHTML3);
                 document.getElementById('examRoutineBtn').setAttribute('onclick', 'aurnaIframe("'+ NewHTML3 +'");');
             }
         };
@@ -482,6 +595,10 @@
         + "<tr style='line-height: 14px;border-bottom: 1pt dotted #777;'>"
         + "    <td style='padding:5px'>Show Class Routine Button on the Homepage: </td>"
         + "<td style='text-align: center; width: 180px;'><input type='radio' name='ShowRoutineBtn' value='yes'/> Yes  <input type='radio' name='ShowRoutineBtn' value='no'/> No </td>"
+        + "</tr>"
+        + "<tr style='line-height: 14px;border-bottom: 1pt dotted #777;'>"
+        + "    <td style='padding:5px'>Add Courses Name to Routine at Homepage: </td>"
+        + "<td style='text-align: center; width: 180px;'><input type='radio' name='AddCourseTitleRoutine' value='yes'/> Yes  <input type='radio' name='AddCourseTitleRoutine' value='no'/> No </td>"
         + "</tr>"
         + "<tr>"
         + "    <td style='padding:5px'></td>"
@@ -639,6 +756,21 @@
 
 
     if(U1customFunctions.PageChecker('login') == false){
+
+        //var NewHTML3 = '';
+        var xmlhttpSettings = new XMLHttpRequest();
+        var settingJsonUrl = Jsonfiles[0];
+        xmlhttpSettings.onreadystatechange = function(){
+            if (this.readyState == 4 && this.status == 200){
+                console.log('Settings JSON Request OK');
+                var nArr = JSON.parse(this.responseText);
+                console.log(nArr);
+            }
+        };
+        xmlhttpSettings.open("GET", settingJsonUrl, true);
+        xmlhttpSettings.send();
+
+
 
         //Necessary variable parsing
         var StudentId = document.getElementById('ctl00_lbtnUserName').innerHTML; //StudentID containing element from document
@@ -834,9 +966,18 @@
                     } else{
                         console.log('Course List Matched');
                     }
+
+                    if(U1customFunctions.ShowHomeCourseTitleRoutine('get') == 'true'){
+                        U1customFunctions.SetTitleHomePageRoutine(true);
+                    }
+
                 }
 
             }
+
+
+
+
 
             //Ends Homepage Script
 
@@ -853,6 +994,7 @@
 
             if(U1customFunctions.AutoLoadClassRoutine('get') == 'true'){
                 if(BatchSelector.selectedIndex !== 2){
+                    //if(BatchSelector.options[1].innerHTML.isMatch(U1customFunctions.GetTrimesterInfo('CurrentBatch')) == true)
                     BatchSelector.selectedIndex = 2;
                     document.getElementById("ctl00_MainContainer_Button1").click();
                 }
