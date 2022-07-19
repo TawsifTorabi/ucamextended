@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+#floating_box {
+	position: absolute;
+	right: 41%;
+	padding: 10px 15px;
+	background: linear-gradient(to right,#17dd98,#0df3a3);
+	box-shadow: #00000024 1px 1px 11px;
+	z-index: 999;
+	top: 0px;
+	left: 34%;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	text-align: center;
+	font-size: 10px;
+	font-family: helvetica;
+	display: inline-block;
+}
+#jText{
+	font-weight: bold; 
+	color: rgb(52, 52, 109); 
+	font-family: Roboto;
+}
+.plugsettingBtn{
+  	color: black;
+  	margin-right: 8px;
+  	font-weight: bold;
+	margin-top: 5px;
+	font-family: Roboto;
+}
+.about-button {
+	-webkit-box-shadow: rgba(0,0,0,0.2) 0 1px 0 0;
+	-moz-box-shadow: rgba(0,0,0,0.2) 0 1px 0 0;
+	box-shadow: rgba(0,0,0,0.2) 0 1px 0 0;
+	color: #000;
+	background-color: #FA2;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 8px;
+	border: none;
+	font-family: Roboto;
+	font-size: 13px;
+	font-weight: bold;
+	height: 36px;
+	padding: 4px 16px;
+}
+#miniIcons {
+	display: inline-block;
+	height: 18px;
+	vertical-align: middle;
+}
+.rtTh {
+	text-align: center;
+}
