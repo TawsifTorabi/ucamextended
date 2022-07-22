@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         UCAM Extended
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.1.1
 // @description  Having Pera lying to your dad? Here it is!
-// @author       NUNU
+// @author       Tawsif Torabi
 // @match        *://ucam.uiu.ac.bd/*
 // @icon         https://www.google.com/s2/favicons?domain=ac.bd
 // @grant        none
@@ -17,8 +17,8 @@
 
     //Declare Datas
     var Aurna = [
-        'http://localhost/UIUExamRoomFinder/aurna-lightbox.css',
-        'http://localhost/UIUExamRoomFinder/aurna-lightbox.js'
+        'https://tawsiftorabi.github.io/ucamextended/src/aurna-lightbox_v0.1.css',
+        'https://tawsiftorabi.github.io/ucamextended/src/aurna-lightbox_v0.1.js'
     ];
 
     var metaData = [
@@ -31,7 +31,7 @@
     ];
 
     var otherLinks = [
-        'http://localhost/UIUExamRoomFinder/plugin.css'
+        'https://tawsiftorabi.github.io/ucamextended/src/plugin_v0.1.css'
     ];
 
     var Jsonfiles = [
@@ -538,15 +538,29 @@
 		var out = "";
 		var i, j;
 
+        var GlobalData1 = JSON.parse(localStorage.getItem('GlobalSettings'));
+
+        if(GlobalData1.general[0].currentExam == 'midterm'){
+            var examTermName = 'Mid Term';
+        }else if(GlobalData1.general[0].currentExam == 'final'){
+            examTermName = 'Final';
+        }
+
+        var examTrimester = GlobalData1.general[0].examTrimester.split(':')[1] + " " + GlobalData1.general[0].examTrimester.split(':')[2];
+        var deptCode = localStorage.getItem('studentDeptCode');
+
+
+
 		console.log('Courses  Count - > ' + CourseArr.length);
 
-		out += 	"<table width='95%' border style='font-size: 11px;font-family: Signika;'>" +
+		out += 	"<style>td, th {padding: 4px;}</style>"+
+                "<h3>"+ examTermName+ " Exam Routine </h3>"+
+                "<h4>"+ deptCode +", "+ examTrimester +"</h4>"+
+                "<table width='95%' border style='font-size: 11px;font-family: unset;'>" +
 				"<tr>"+
 				"<th class='rtTh'>Dept.</th>"+
-				"<th class='rtTh'>Code</th>"+
 				"<th class='rtTh'>Course Name</th>"+
-				"<th class='rtTh'>Section</th>"+
-				"<th class='rtTh'>Teacher</th>"+
+				"<th class='rtTh'>Teacher/Section</th>"+
 				"<th class='rtTh'>Date</th>"+
 				"<th class='rtTh'>Time</th>"+
 				"<th class='rtTh'>Room No.</th>";
@@ -585,10 +599,8 @@
 
 					out += 	"<tr>"+
 							"<td align='center'>" + arr[i].Dept + " </td>"+
-							"<td align='center'>" + arr[i].CourseCode + " </td>"+
-							"<td align='center'>" + arr[i].CourseTitle + " </td>"+
-							"<td align='center'> "+ arr[i].Section +" </td>"+
-							"<td align='center'> "+ arr[i].Teacher +" </td>"+
+							"<td align='center'>" + " (" + arr[i].CourseCode + ") " + arr[i].CourseTitle + " </td>"+
+							"<td align='center'> " + arr[i].Teacher + " (" + arr[i].Section + ")" + " </td>"+
 							"<td align='center'> "+ arr[i].ExamDate +" </td>"+
 							"<td align='center'> "+ arr[i].ExamTime +"</td>"+
                             "<td align='center'> "+ newRoomString1 + newRoomString2 +"</td>"+
@@ -614,22 +626,14 @@
     ///////////////////////////////////////////////
 
 	U1customFunctions.SetSettings = function(arr){
+        //arr is already JSON Parsed
+        if(localStorage.getItem('GlobalSettings') !== JSON.stringify(arr)){
+            localStorage.setItem('GlobalSettings', JSON.stringify(arr));
+            console.log('Global Setting Mismatched, Refreshed');
+        }
 
-		var out = "";
-		var i, j;
+    };
 
-		for(j = 0; j < arr.length; j++){ 				//Iterate for Course Array Length , 4 Times for this
-
-			console.log('Json Count - > ' + arr.length);
-			for(i = 0; i < arr.length; i++){				//Iterate for total json file, 216 times for this
-
-				//Print Iteration Number
-				//console.log(i);
-
-				}
-			}
-
-		}
 
     ///////////////////////////////////////////////
     //Set Settings function Ends//////////
@@ -650,14 +654,20 @@
 
         var NewHTML3 = '';
         var xmlhttpRoutine = new XMLHttpRequest();
-        var url = Jsonfiles[1];
+
+        if(localStorage.getItem('studentDeptCode') == 'CSE'){
+            var url = Jsonfiles[1];
+        }else if(localStorage.getItem('studentDeptCode') == 'BBA'){
+            url = Jsonfiles[2];
+        }
+
+
         xmlhttpRoutine.onreadystatechange = function(){
             if (this.readyState == 4 && this.status == 200){
                 console.log('Routine JSON Request OK');
                 var nArr = JSON.parse(this.responseText);
                 console.log(nArr);
                 var NewHTML3 = U1customFunctions.ShowExamRoutine(nArr);
-                //console.log('HTML CONTENT -> ' + NewHTML3);
                 document.getElementById('examRoutineBtn').setAttribute('onclick', 'aurnaIframe("'+ NewHTML3 +'");');
             }
         };
@@ -738,7 +748,12 @@
         floatboxHTML.appendChild(titleText1);
         floatboxHTML.appendChild(titleText2);
         floatboxHTML.appendChild(settingBtn);
-        floatboxHTML.appendChild(examRoutineBtn);
+
+        var GlobalSettings_3 = JSON.parse(localStorage.getItem('GlobalSettings'));
+        var TrimesterInfoLocal = localStorage.getItem('TrimesterInfo');
+        if(GlobalSettings_3.general[0].routineAvailble == 'yes' && GlobalSettings_3.general[0].examTrimester == TrimesterInfoLocal ){
+            floatboxHTML.appendChild(examRoutineBtn);
+        }
 
 
 
@@ -756,10 +771,12 @@
     ///////////////////////////////////////////////
     U1customFunctions.setFloatbox = function(){
         var elem0 = document.getElementById('floating_box');
-        if(U1customFunctions.ShowRoutineBtn('get') == 'true'){
+        if(U1customFunctions.SetPluginBtn('get') == 'true'){
             elem0.style.position = 'fixed';
-        }else if(U1customFunctions.ShowRoutineBtn('get') == 'false'){
+            console.log('setFloatbox Fixed');
+        }else if(U1customFunctions.SetPluginBtn('get') == 'false'){
             elem0.style.position = 'absolute';
+            console.log('setFloatbox Absolute');
         }
     };
     ///////////////////////////////////////////////
@@ -1121,6 +1138,7 @@
 		//Append Pugin Floatbox if the current page is not login page.
 		U1customFunctions.AppendFloatbox();
         U1customFunctions.setFloatbox();
+
 
 
 
