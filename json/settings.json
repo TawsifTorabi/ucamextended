@@ -1,9 +1,3 @@
-/*
-routineAvailble = yes v no
-currentExam = midterm v final
-examStatus = pending v done
-*/
-
 {
 	"general":[{
 		"routineAvailble": "yes",
