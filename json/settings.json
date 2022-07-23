@@ -1,8 +1,15 @@
+/*
+routineAvailble = yes v no
+currentExam = midterm v final
+examStatus = pending v done
+*/
+
 {
 	"general":[{
-		"routineAvailble": "no",
+		"routineAvailble": "yes",
 		"currentExam": "midterm",
 		"examStatus": "pending",
 		"examTrimester": "221:Spring:2022"
 	}]
 }
+
