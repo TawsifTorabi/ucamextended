@@ -370,6 +370,79 @@
 
 
 
+    //////////////////////////////////////////////////////
+    //Fresher Message function Starts////////////
+    //////////////////////////////////////////////////////
+
+    U1customFunctions.FresherMsg = function(){
+        document.addEventListener('readystatechange', event => {
+            if (event.target.readyState === "complete") {
+
+                if(localStorage.getItem('studentDeptCode') == 'CSE'){
+                    var uiucsecontents = 'If you are a CSE Student, or you got friends in CSE, </br>'+
+                        'You can visit this webapp to search for CSE notes, books, class recordings, assignments and other contents </br>👉'+
+                        '<i><b><a target=\'_blank\'href=\'https://tawsiftorabi.github.io/uiucse/\'>UIU CSE CONTENTS</a></b></i>'+
+                        '</br>'+
+                        'A lot of people worked for this project to help students out, so a big shout out to all the people. 💖</br>';
+                }else{
+                    uiucsecontents = '';
+                }
+
+
+
+                var tt = '<h2>Hello Bondhu!</h2>'+
+                    '<p style=\'font-size: 14px;\'>Your Student ID tells that you are a fresher. We all were. </br>Even I was called fresher for 2 years due to Corona Pandemic. 😂‚</br>'+
+                    'Don\'t worry, it doesn\'t mean anything, show love and respect to everyone. ✌ </br>'+
+                    'And If you need any help with study or anything, we all are here to help. 💖</br>'+
+                    '🎉Welcome to UIU 🎉'+
+                    '</br>'+
+                    '</br>'+
+                    uiucsecontents+
+                    'Peace, Over and Out 🕶</br>'+
+                    '</p></br>'+
+                    '<span style=\'font-size: 15px;\'><input id=\'HideFresherMsg\' type=\'checkbox\'> Don\'t show this Message Again</br></span>';
+
+
+                aurnaIframe(tt);
+
+                document.getElementById('HideFresherMsg').addEventListener("click", function(){
+                    if(localStorage.getItem('FresherMsg') == 'false'){
+                        localStorage.setItem('FresherMsg', true);
+                        document.getElementById('HideFresherMsg').setAttribute('checked', 'checked');
+                    }else if(localStorage.getItem('FresherMsg') == 'true'){
+                        localStorage.setItem('FresherMsg', false);
+                        document.getElementById('HideFresherMsg').setAttribute('checked', 'unchecked');
+                    }
+
+                });
+            }
+        });
+    }
+
+    U1customFunctions.FresherMsgInit = function(){
+
+        var stuid= localStorage.getItem('studentIDVar');
+
+        var StudentBatchNum = stuid.split('')[3] + stuid.split('')[4] + stuid.split('')[5];
+        //var StudentBatchNum = '221';
+
+        var BatchCode = localStorage.getItem('TrimesterInfo').split(':')[0];
+
+        if(StudentBatchNum == BatchCode){
+            if(localStorage.getItem('FresherMsg') == null){
+                localStorage.setItem('FresherMsg', true);
+            }
+            if(localStorage.getItem('FresherMsg') == 'true'){
+                U1customFunctions.FresherMsg();
+            }
+        }
+    }
+
+
+    //////////////////////////////////////////////////////
+    //Fresher Message function Ends////////////
+    //////////////////////////////////////////////////////
+
 
 
 
@@ -668,7 +741,10 @@
                 var nArr = JSON.parse(this.responseText);
                 console.log(nArr);
                 var NewHTML3 = U1customFunctions.ShowExamRoutine(nArr);
-                document.getElementById('examRoutineBtn').setAttribute('onclick', 'aurnaIframe("'+ NewHTML3 +'");');
+                var examRtnBtn1 = document.getElementById('examRoutineBtn');
+                if(typeof(examRtnBtn1) != 'undefined' && examRtnBtn1 != null){
+                    examRtnBtn1.setAttribute('onclick', 'aurnaIframe("'+ NewHTML3 +'");');
+                }
             }
         };
         xmlhttpRoutine.open("GET", url, true);
@@ -682,6 +758,16 @@
         examRoutineBtn.style.fontWeight = "bold";
         examRoutineBtn.id = "examRoutineBtn";
         examRoutineBtn.setAttribute('class', 'plugsettingBtn');
+
+
+        if(localStorage.getItem('studentDeptCode') == 'CSE'){
+            var cseCourseContents = "Visit This Website to get Class Recordings: "+
+                "<i><b><a href='https://tawsiftorabi.github.io/uiucse/' target='_blank'>UIU CSE CONTENTS</a></b></i>"
+            ;
+        }else{
+            cseCourseContents = '';
+        }
+
 
 
         var NewHTML = "<h2>"+metaData[2]+" <small>"+metaData[3]+"</small></h2>"
@@ -713,6 +799,7 @@
         + "</tr>"
         + "</table>"
         + "</br>"
+        + cseCourseContents
         + "</br>"
         + "</br>"
         + "</br>"
@@ -809,33 +896,37 @@
 
     U1customFunctions.ArrayMatch = function(storedRoutePrev, routineArr){
         var storedRoute = storedRoutePrev;
-        if(storedRoute.split(',').length == routineArr.length){
-            var j=0;
-            for(i=0; routineArr.length>i; i++){
-                if(storedRoute.split(',')[i] == routineArr[i]){
-                     j++;
-                    //console.log(j);
-                    //console.log('Array Data Matched -> '+routineArr[i]+'/'+storedRoute.split(',')[i]);
-                }else{
-                    //console.log('Array Data Mismatched -> '+routineArr[i]+'/'+storedRoute.split(',')[i]);
-                }
-            }
+		if(storedRoute !== null){
+			if(storedRoute.split(',').length == routineArr.length){
+				var j=0;
+				for(i=0; routineArr.length>i; i++){
+					if(storedRoute.split(',')[i] == routineArr[i]){
+						 j++;
+						//console.log(j);
+						//console.log('Array Data Matched -> '+routineArr[i]+'/'+storedRoute.split(',')[i]);
+					}else{
+						//console.log('Array Data Mismatched -> '+routineArr[i]+'/'+storedRoute.split(',')[i]);
+					}
+				}
 
-            //console.log('now j is ->' + j);
-            //console.log('now storedRoute.split(",").length is ->' + storedRoute.split(',').length);
-            //console.log('now routineArr.length is ->' + routineArr.length);
+				//console.log('now j is ->' + j);
+				//console.log('now storedRoute.split(",").length is ->' + storedRoute.split(',').length);
+				//console.log('now routineArr.length is ->' + routineArr.length);
 
-            if(j !== routineArr.length){
-                //console.log('All Array Data Mismatched, returned false');
-                return false;
-            }else{
-                //console.log('All Array Data Matched, returned true');
-                return true;
-            }
-        }else{
-            //console.log('All Array Length Mismatched, returned false');
-            return false;
-        }
+				if(j !== routineArr.length){
+					//console.log('All Array Data Mismatched, returned false');
+					return false;
+				}else{
+					//console.log('All Array Data Matched, returned true');
+					return true;
+				}
+			}else{
+				//console.log('All Array Length Mismatched, returned false');
+				return false;
+			}
+		}else{
+			return false;
+		}
     }
 
     ///////////////////////////////////////////////
@@ -955,6 +1046,9 @@
 
                     localStorage.setItem('studentBatchNumber', U1customFunctions.GetStudentBatchCode(StudentId));
                     console.log('Batch Code Set - ' + U1customFunctions.GetStudentBatchCode(StudentId));
+
+                    //Reset FresherMsg
+                    localStorage.setItem('FresherMsg', true);
                 }
 
             } else{
@@ -1123,22 +1217,33 @@
             console.log('Routine Page Loaded! Initialized...');
 
             var BatchSelector = document.getElementById('ctl00_MainContainer_ddlAcaCalBatch');
+            var CurrentBatchId = parseInt(localStorage.getItem('TrimesterInfo').split(':')[0])+1;
 
-            if(U1customFunctions.AutoLoadClassRoutine('get') == 'true'){
-                if(BatchSelector.selectedIndex !== 2){
-                    //if(BatchSelector.options[1].innerHTML.isMatch(U1customFunctions.GetTrimesterInfo('CurrentBatch')) == true)
-                    BatchSelector.selectedIndex = 2;
-                    document.getElementById("ctl00_MainContainer_Button1").click();
+            if(U1customFunctions.AutoLoadClassRoutine('get') == 'true' && localStorage.getItem('AutoLoadRoutineStatus') == 'false'){
+                for(var t=0; t<3; t++){
+                    if(BatchSelector[t].innerHTML.isMatch(CurrentBatchId)){
+                        BatchSelector.selectedIndex = t;
+                        localStorage.setItem('AutoLoadRoutineStatus', true);
+                        document.getElementById("ctl00_MainContainer_Button1").click();
+                    }else{
+                        console.log('No Matching Option found to load Routine of Current Trimester');
+                    }
                 }
+
             }
 
+        }
+
+        if(U1customFunctions.PageChecker('routine') !== true){
+            localStorage.setItem('AutoLoadRoutineStatus', false);
+            console.log('Routine Page Autoloader Status set as FALSE');
         }
 
 
 		//Append Pugin Floatbox if the current page is not login page.
 		U1customFunctions.AppendFloatbox();
         U1customFunctions.setFloatbox();
-
+        U1customFunctions.FresherMsgInit();
 
 
 
