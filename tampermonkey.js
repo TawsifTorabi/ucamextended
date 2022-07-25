@@ -9,7 +9,8 @@
 // @grant        none
 // @require      https://code.jquery.com/jquery-3.5.1.min.js
 // @require      https://cdn.jsdelivr.net/npm/table-to-json@1.0.0/lib/jquery.tabletojson.min.js
-// @updateURL	 https://raw.githubusercontent.com/TawsifTorabi/UCAMextended/main/tampermonkey.js
+// @downloadURL  https://raw.githubusercontent.com/TawsifTorabi/UCAMextended/main/tampermonkey.js
+// @updateURL    https://raw.githubusercontent.com/TawsifTorabi/UCAMextended/main/tampermonkey.js
 // @grant        unsafeWindow
 // ==/UserScript==
 
