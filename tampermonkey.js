@@ -15,6 +15,8 @@
 
 (function() {
     'use strict';
+	
+    var sampler;
 
     //Declare Datas
     var Aurna = [
