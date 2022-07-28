@@ -2,7 +2,7 @@
 // @name         UCAM Extended
 // @namespace    http://tampermonkey.net/
 // @version      0.1.1
-// @description  Adds Functionality to UIU UCAM Website
+// @description  A Web Plugin for UIU UCAM Portal to add more functionalities.
 // @author       Tawsif Torabi
 // @match        *://ucam.uiu.ac.bd/*
 // @icon         https://www.google.com/s2/favicons?domain=ac.bd
