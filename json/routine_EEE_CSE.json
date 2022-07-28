@@ -5,39 +5,39 @@
   "CourseTitle": "Chemistry",
   "Section": "A",
   "Teacher": "MASq",
-  "ExamDate": "May 29, 2022",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "308 (021173012-021211024)"
+  "Room": "407 (021171069-021212024)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 425\/CSE 4325",
   "CourseTitle": "Microprocessors and Microcontrollers",
   "Section": "A",
-  "Teacher": "NaFA",
-  "ExamDate": "May 29, 2022",
+  "Teacher": "MHR",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "309 (011163016-011191006)                                                                                                                                                                                                                       310 (011191008-011193058)"
+  "Room": "403 (011152167-011191165)                                                                                                                                                                                                                       404 (011191178-011202140)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 425\/CSE 4325",
   "CourseTitle": "Microprocessors and Microcontrollers",
   "Section": "B",
-  "Teacher": "MHR",
-  "ExamDate": "May 29, 2022",
+  "Teacher": "FaHa",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "322 (011151234-011183013)                                                                                                                                                                                                                       323 (011183021-011201130)"
+  "Room": "405 (011151323-011193028)                                                                                                                                                                                                                       406 (011193040-011221541)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 425\/CSE 4325",
   "CourseTitle": "Microprocessors and Microcontrollers",
   "Section": "C",
-  "Teacher": "FaHa",
-  "ExamDate": "May 29, 2022",
+  "Teacher": "MHR",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "324 (011151231-011191057)                                                                                                                                                                                                                       325 (011191060-011202249)"
+  "Room": "401 (011161155-011191234)                                                                                                                                                                                                                       402 (011191237-011201396)"
  },
  {
   "Dept": "BSCSE",
@@ -45,9 +45,9 @@
   "CourseTitle": "Operating Systems",
   "Section": "A",
   "Teacher": "MdMIm",
-  "ExamDate": "May 29, 2022",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "422 (011142063-011181292)                                                                                                                                                                                                                       328 (011182050-011193136)"
+  "Room": "309 (011163015-011192086)"
  },
  {
   "Dept": "BSCSE",
@@ -55,9 +55,9 @@
   "CourseTitle": "Operating Systems",
   "Section": "B",
   "Teacher": "MdMIm",
-  "ExamDate": "May 29, 2022",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "329 (011152069-011191033)                                                                                                                                                                                                                       330 (011191034-011201057)"
+  "Room": "310 (011161004-011183081)                                                                                                                                                                                                                       322 (011183091-011211018)"
  },
  {
   "Dept": "BSEEE",
@@ -65,9 +65,9 @@
   "CourseTitle": "Digital Signal Processing",
   "Section": "A",
   "Teacher": "RM",
-  "ExamDate": "May 29, 2022",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "401 (021132162-021192023)"
+  "Room": "408 (021151038-021191034)                                                                                                                                                                                                                       409 (021191036-021201072)"
  },
  {
   "Dept": "BSCSE",
@@ -75,29 +75,29 @@
   "CourseTitle": "English I",
   "Section": "A",
   "Teacher": "SaHn",
-  "ExamDate": "May 29, 2022",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "401 (011213123-011221024)                                                                                                                                                                                                                       402 (011221025-011221609)"
+  "Room": "330 (011221358-011222020)                                                                                                                                                                                                                       401 (011222021-011222299)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "ENG 101\/ENG 1011",
   "CourseTitle": "English I",
   "Section": "B",
-  "Teacher": "SaHn",
-  "ExamDate": "May 29, 2022",
+  "Teacher": "MaShu",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "403 (011213120-011221056)                                                                                                                                                                                                                       404 (011221057-011221587)"
+  "Room": "423 (011221056-011222046)                                                                                                                                                                                                                       424 (011222047-011222346)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "ENG 101\/ENG 1011",
   "CourseTitle": "English I",
   "Section": "C",
-  "Teacher": "NLB",
-  "ExamDate": "May 29, 2022",
+  "Teacher": "SaHn",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "405 (011212123-011221081)                                                                                                                                                                                                                       406 (011221082-011221601)"
+  "Room": "402 (011212118-011222067)                                                                                                                                                                                                                       403 (011222068-011222360)"
  },
  {
   "Dept": "BSCSE",
@@ -105,139 +105,79 @@
   "CourseTitle": "English I",
   "Section": "D",
   "Teacher": "SaAn",
-  "ExamDate": "May 29, 2022",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "407 (011213126-011221110)                                                                                                                                                                                                                       408 (011221111-011221595)"
+  "Room": "404 (011221304-011222101)                                                                                                                                                                                                                       405 (011222102-011222342)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "ENG 101\/ENG 1011",
   "CourseTitle": "English I",
   "Section": "E",
-  "Teacher": "SaAn",
-  "ExamDate": "May 29, 2022",
+  "Teacher": "NLB",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "409 (011173010-011221143)                                                                                                                                                                                                                       410 (011221145-011221589)"
+  "Room": "406 (011212088-011222127)                                                                                                                                                                                                                       407 (011222128-011222313)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "ENG 101\/ENG 1011",
   "CourseTitle": "English I",
   "Section": "F",
-  "Teacher": "SMT",
-  "ExamDate": "May 29, 2022",
+  "Teacher": "SaAn",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "411 (011221014-011221175)                                                                                                                                                                                                                       422 (011221176-011221604)"
+  "Room": "408 (011221361-011222361)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "ENG 101\/ENG 1011",
   "CourseTitle": "English I",
   "Section": "G",
-  "Teacher": "SaAn",
-  "ExamDate": "May 29, 2022",
+  "Teacher": "DH",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "423 (011221182-011221207)                                                                                                                                                                                                                       424 (011221208-011221592)"
+  "Room": "409 (011221278-011222186)                                                                                                                                                                                                                       410 (011222187-011222331)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "ENG 101\/ENG 1011",
   "CourseTitle": "English I",
   "Section": "H",
-  "Teacher": "NLB",
-  "ExamDate": "May 29, 2022",
+  "Teacher": "SMT",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "425 (011221211-011221233)                                                                                                                                                                                                                       604 (011221234-011221511)"
+  "Room": "428 (011221044-011222209)                                                                                                                                                                                                                       422 (011222210-011222357)"
  },
  {
-  "Dept": "BSCSE",
-  "CourseCode": "ENG 101\/ENG 1011",
-  "CourseTitle": "English I",
-  "Section": "I",
-  "Teacher": "MaShu",
-  "ExamDate": "May 29, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "428 (011221241-011221262)                                                                                                                                                                                                                       429 (011221263-011221590)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "ENG 101\/ENG 1011",
-  "CourseTitle": "English I",
-  "Section": "J",
-  "Teacher": "SaAr",
-  "ExamDate": "May 29, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "611 (011212070-011221291)                                                                                                                                                                                                                       431 (011221292-011221608)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "ENG 101\/ENG 1011",
+  "Dept": "BSEEE",
+  "CourseCode": "ENG 1011",
   "CourseTitle": "English I",
   "Section": "K",
-  "Teacher": "SMT",
-  "ExamDate": "May 29, 2022",
+  "Teacher": "MaShu",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "432 (011172174-011221319)                                                                                                                                                                                                                       330 (011221321-011221610)"
+  "Room": "425 (021211019-021222060)"
  },
  {
-  "Dept": "BSCSE",
-  "CourseCode": "ENG 101\/ENG 1011",
+  "Dept": "BSEEE",
+  "CourseCode": "ENG 1011",
   "CourseTitle": "English I",
   "Section": "L",
-  "Teacher": "MaShu",
-  "ExamDate": "May 29, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "601 (011211121-011221354)                                                                                                                                                                                                                       602 (011221355-011221584)"
- },
- {
-  "Dept": "BSEEE",
-  "CourseCode": "ENG 101\/ENG 1011",
-  "CourseTitle": "English I",
-  "Section": "M",
-  "Teacher": "MaShu",
-  "ExamDate": "May 29, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "308 (021211025-021221021)                                                                                                                                                                                                                       309 (021221022-021221106)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "ENG 101\/ENG 1011",
-  "CourseTitle": "English I",
-  "Section": "N",
   "Teacher": "SaHn",
-  "ExamDate": "May 29, 2022",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "325 (011213001-011221467)                                                                                                                                                                                                                       605 (011221468-011221597)"
+  "Room": "411 (021222001-021222048)"
  },
  {
   "Dept": "BSCSE",
-  "CourseCode": "ENG 101\/ENG 1011",
+  "CourseCode": "ENG 1011",
   "CourseTitle": "English I",
-  "Section": "X",
-  "Teacher": "SaAr",
-  "ExamDate": "May 29, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "328 (011213138-011221538)                                                                                                                                                                                                                       329 (011221539-011221605)"
- },
- {
-  "Dept": "BSEEE",
-  "CourseCode": "ENG 101\/ENG 1011",
-  "CourseTitle": "English I",
-  "Section": "Y",
-  "Teacher": "SaAn",
-  "ExamDate": "May 29, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "310 (021172032-021221051)                                                                                                                                                                                                                       322 (021221052-021221102)"
- },
- {
-  "Dept": "BSEEE",
-  "CourseCode": "ENG 101\/ENG 1011",
-  "CourseTitle": "English I",
-  "Section": "Z",
+  "Section": "Z (new open)",
   "Teacher": "MdNA",
-  "ExamDate": "May 29, 2022",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "323 (021211007-021221079)                                                                                                                                                                                                                       324 (021221080-021221105)"
+  "Room": "308 (011213120-011222320)                                                                                                                                                                                                                       309 (011222321-011222359)"
  },
  {
   "Dept": "BSCSE",
@@ -245,9 +185,9 @@
   "CourseTitle": "Industrial and Operational Management",
   "Section": "A",
   "Teacher": "GKR",
-  "ExamDate": "May 29, 2022",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "402 (011123071-011201078)                                                                                                                                                                                                                       403 (011201079-011212156)"
+  "Room": "310 (011152160-011201021)                                                                                                                                                                                                                       322 (011201068-021182032)"
  },
  {
   "Dept": "BSCSE",
@@ -255,9 +195,9 @@
   "CourseTitle": "Industrial and Operational Management",
   "Section": "B",
   "Teacher": "GKR",
-  "ExamDate": "May 29, 2022",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "404 (011172101-011202069)                                                                                                                                                                                                                       405 (011202078-011203055)"
+  "Room": "323 (011172101-011201065)                                                                                                                                                                                                                       324 (011201079-011212104)"
  },
  {
   "Dept": "BSCSE",
@@ -265,149 +205,219 @@
   "CourseTitle": "Industrial and Operational Management",
   "Section": "C",
   "Teacher": "GKR",
-  "ExamDate": "May 29, 2022",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "406 (011172096-011201108)                                                                                                                                                                                                                       407 (011201146-011203062)"
+  "Room": "325 (011171264-011192043)                                                                                                                                                                                                                       328 (011192069-021182029)"
  },
  {
   "Dept": "BSEEE",
   "CourseCode": "IPE 401\/IPE 4101",
-  "CourseTitle": "Industrial Management",
+  "CourseTitle": "Industrial Production Engineering",
   "Section": "D",
   "Teacher": "GKR",
-  "ExamDate": "May 29, 2022",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "408 (021163006-021183021)                                                                                                                                                                                                                       409 (021183024-021211018)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "MATH 187",
-  "CourseTitle": "Fourier & Laplace Transformations & Complex Variable",
-  "Section": "A",
-  "Teacher": "MUn",
-  "ExamDate": "May 29, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "410 (011133077-011181062)                                                                                                                                                                                                                       411 (011181093-011182107)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "ENG 1013\/ENG 103",
-  "CourseTitle": "English II",
-  "Section": "A",
-  "Teacher": "MaMM",
-  "ExamDate": "May 29, 2022",
-  "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "322 (011212023-011213039)                                                                                                                                                                                                                       323 (011213040-011213210)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "ENG 1013\/ENG 103",
-  "CourseTitle": "English II",
-  "Section": "B",
-  "Teacher": "SMT",
-  "ExamDate": "May 29, 2022",
-  "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "324 (011211081-011213082)                                                                                                                                                                                                                       325 (011213083-011213202)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "ENG 1013\/ENG 103",
-  "CourseTitle": "English II",
-  "Section": "C",
-  "Teacher": "SaHn",
-  "ExamDate": "May 29, 2022",
-  "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "328 (011211015-011213109)                                                                                                                                                                                                                       329 (011213116-011213206)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "ENG 1013\/ENG 103",
-  "CourseTitle": "English II",
-  "Section": "D",
-  "Teacher": "SMT",
-  "ExamDate": "May 29, 2022",
-  "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "330 (011211049-011213108)                                                                                                                                                                                                                       401 (011213128-011221485)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "ENG 1013\/ENG 103",
-  "CourseTitle": "English II",
-  "Section": "E",
-  "Teacher": "SaHn",
-  "ExamDate": "May 29, 2022",
-  "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "402 (011213011-011213119)                                                                                                                                                                                                                       403 (011213139-011213209)"
+  "Room": "422 (021131142-021202010)"
  },
  {
   "Dept": "BSEEE",
+  "CourseCode": "ENG 1013",
+  "CourseTitle": "English II",
+  "Section": "L",
+  "Teacher": "SMT",
+  "ExamDate": "August 06, 2022",
+  "ExamTime": "11:30 AM - 1:30 PM",
+  "Room": "431 (021221001-021221049)                                                                                                                                                                                                                       432 (021221051-021221102)"
+ },
+ {
+  "Dept": "BSEEE",
+  "CourseCode": "ENG 1013",
+  "CourseTitle": "English II",
+  "Section": "M",
+  "Teacher": "SMT",
+  "ExamDate": "August 06, 2022",
+  "ExamTime": "11:30 AM - 1:30 PM",
+  "Room": "428 (021211015-021221062)                                                                                                                                                                                                                       429 (021221068-021221107)"
+ },
+ {
+  "Dept": "BSEEE",
+  "CourseCode": "ENG 1013",
+  "CourseTitle": "English II",
+  "Section": "N",
+  "Teacher": "MaMM",
+  "ExamDate": "August 06, 2022",
+  "ExamTime": "11:30 AM - 1:30 PM",
+  "Room": "308 (021213051-021221086)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "ENG 1013\/ENG 103",
+  "CourseTitle": "English II",
+  "Section": "A",
+  "Teacher": "DN",
+  "ExamDate": "August 06, 2022",
+  "ExamTime": "11:30 AM - 1:30 PM",
+  "Room": "309 (011221001-011221159)                                                                                                                                                                                                                       310 (011221173-011221563)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "ENG 1013\/ENG 103",
+  "CourseTitle": "English II",
+  "Section": "B",
+  "Teacher": "NLB",
+  "ExamDate": "August 06, 2022",
+  "ExamTime": "11:30 AM - 1:30 PM",
+  "Room": "322 (011213105-011221257)                                                                                                                                                                                                                       323 (011221262-011221600)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "ENG 1013\/ENG 103",
+  "CourseTitle": "English II",
+  "Section": "C",
+  "Teacher": "DN",
+  "ExamDate": "August 06, 2022",
+  "ExamTime": "11:30 AM - 1:30 PM",
+  "Room": "324 (011221053-011221238)                                                                                                                                                                                                                       325 (011221246-011221604)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "ENG 1013\/ENG 103",
+  "CourseTitle": "English II",
+  "Section": "D",
+  "Teacher": "SaAn",
+  "ExamDate": "August 06, 2022",
+  "ExamTime": "11:30 AM - 1:30 PM",
+  "Room": "328 (011212106-011221367)                                                                                                                                                                                                                       329 (011221375-011221581)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "ENG 1013\/ENG 103",
+  "CourseTitle": "English II",
+  "Section": "E",
+  "Teacher": "NLB",
+  "ExamDate": "August 06, 2022",
+  "ExamTime": "11:30 AM - 1:30 PM",
+  "Room": "330 (011211002-011221448)                                                                                                                                                                                                                       401 (011221449-011221597)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "ENG 1013\/ENG 103",
+  "CourseTitle": "English II",
+  "Section": "F",
+  "Teacher": "MaShu",
+  "ExamDate": "August 06, 2022",
+  "ExamTime": "11:30 AM - 1:30 PM",
+  "Room": "402 (011221026-011221205)                                                                                                                                                                                                                       403 (011221208-021221042)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "ENG 1013\/ENG 103",
+  "CourseTitle": "English II",
+  "Section": "G",
+  "Teacher": "NLB",
+  "ExamDate": "August 06, 2022",
+  "ExamTime": "11:30 AM - 1:30 PM",
+  "Room": "404 (011142060-011221250)                                                                                                                                                                                                                       405 (011221261-011221608)"
+ },
+ {
+  "Dept": "BSCSE",
   "CourseCode": "ENG 1013\/ENG 103",
   "CourseTitle": "English II",
   "Section": "H",
+  "Teacher": "SaHn",
+  "ExamDate": "August 06, 2022",
+  "ExamTime": "11:30 AM - 1:30 PM",
+  "Room": "406 (011213090-011221309)                                                                                                                                                                                                                       407 (011221319-011221588)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "ENG 1013\/ENG 103",
+  "CourseTitle": "English II",
+  "Section": "I",
+  "Teacher": "SaAn",
+  "ExamDate": "August 06, 2022",
+  "ExamTime": "11:30 AM - 1:30 PM",
+  "Room": "408 (011221014-011221429)                                                                                                                                                                                                                       409 (011221443-021213015)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "ENG 1013\/ENG 103",
+  "CourseTitle": "English II",
+  "Section": "J",
+  "Teacher": "SaHn",
+  "ExamDate": "August 06, 2022",
+  "ExamTime": "11:30 AM - 1:30 PM",
+  "Room": "410 (011213001-011221288)                                                                                                                                                                                                                       411 (011221298-011221603)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "ENG 1013\/ENG 103",
+  "CourseTitle": "English II",
+  "Section": "K",
+  "Teacher": "SMT",
+  "ExamDate": "August 06, 2022",
+  "ExamTime": "11:30 AM - 1:30 PM",
+  "Room": "422 (011221042-011221368)                                                                                                                                                                                                                       423 (011221379-011221610)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "ENG 1013\/ENG 103",
+  "CourseTitle": "English II",
+  "Section": "U",
   "Teacher": "MaShu",
-  "ExamDate": "May 29, 2022",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "309 (021213001-021213029)                                                                                                                                                                                                                       310 (021213030-021213050)"
+  "Room": "424 (011213154-011221270)                                                                                                                                                                                                                       425 (011221313-011222277)"
  },
  {
   "Dept": "BSCSE",
-  "CourseCode": "ENG 1207",
-  "CourseTitle": "Intensive English II",
-  "Section": "A",
-  "Teacher": "NLB",
-  "ExamDate": "May 29, 2022",
-  "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "308 (011193012-111203020)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "CSE 313\/CSE 3313\/EEE 4411",
+  "CourseCode": "CSE 313\/CSE 3313",
   "CourseTitle": "Computer Architecture",
   "Section": "A",
-  "Teacher": "KSM",
-  "ExamDate": "May 29, 2022",
+  "Teacher": "AzAk",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "308 (011052008-011201020)                                                                                                                                                                                                                       309 (011201024-021181001)"
+  "Room": "403 (011162047-011201217)                                                                                                                                                                                                                       404 (011201257-021181050)"
  },
  {
   "Dept": "BSCSE",
-  "CourseCode": "CSE 313\/CSE 3313\/EEE 4411",
+  "CourseCode": "CSE 313\/CSE 3313",
   "CourseTitle": "Computer Architecture",
   "Section": "B",
-  "Teacher": "KSM",
-  "ExamDate": "May 29, 2022",
+  "Teacher": "SAhSh",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "310 (011151231-011201073)                                                                                                                                                                                                                       322 (011201075-011202313)"
+  "Room": "405 (011161205-011201173)                                                                                                                                                                                                                       406 (011201232-021173008)"
  },
  {
   "Dept": "BSCSE",
-  "CourseCode": "CSE 313\/CSE 3313\/EEE 4411",
+  "CourseCode": "CSE 313\/CSE 3313",
   "CourseTitle": "Computer Architecture",
   "Section": "C",
   "Teacher": "AnM",
-  "ExamDate": "May 29, 2022",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "323 (011162093-011201141)                                                                                                                                                                                                                       324 (011201143-021181066)"
+  "Room": "407 (011152160-011201234)                                                                                                                                                                                                                       408 (011201274-011202337)"
  },
  {
   "Dept": "BSCSE",
-  "CourseCode": "CSE 313\/CSE 3313\/EEE 4411",
+  "CourseCode": "CSE 313\/CSE 3313",
   "CourseTitle": "Computer Architecture",
   "Section": "D",
-  "Teacher": "SAhSh",
-  "ExamDate": "May 29, 2022",
+  "Teacher": "AZ",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "325 (011171257-011192050)                                                                                                                                                                                                                       429 (011192066-021181074)"
+  "Room": "409 (011161012-011203042)"
  },
  {
   "Dept": "BSCSE",
-  "CourseCode": "CSE 313\/CSE 3313\/EEE 4411",
+  "CourseCode": "CSE 313\/CSE 3313",
   "CourseTitle": "Computer Architecture",
   "Section": "E",
   "Teacher": "SAhSh",
-  "ExamDate": "May 29, 2022",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "328 (011152212-011201167)                                                                                                                                                                                                                       329 (011201170-021181052)"
+  "Room": "410 (011171318-011201321)                                                                                                                                                                                                                       411 (011201334-021181063)"
  },
  {
   "Dept": "BSCSE",
@@ -415,9 +425,19 @@
   "CourseTitle": "Project Management",
   "Section": "A",
   "Teacher": "HS",
-  "ExamDate": "May 29, 2022",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "401 (011161155-011173055)                                                                                                                                                                                                                       402 (011173068-011192083)"
+  "Room": "309 (011142063-011182071)                                                                                                                                                                                                                       310 (011191003-011193149)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "CSE 469\/PMG 4101",
+  "CourseTitle": "Project Management",
+  "Section": "B",
+  "Teacher": "SA",
+  "ExamDate": "August 06, 2022",
+  "ExamTime": "2:00 PM - 4:00 PM",
+  "Room": "322 (011161135-011191075)                                                                                                                                                                                                                       323 (011191086-011211018)"
  },
  {
   "Dept": "BSCSE",
@@ -425,9 +445,19 @@
   "CourseTitle": "Machine Learning",
   "Section": "A",
   "Teacher": "DMF",
-  "ExamDate": "May 29, 2022",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "403 (011152209-011191083)                                                                                                                                                                                                                       404 (011191097-011192126)"
+  "Room": "324 (011182021-011202199)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "CSE 4889\/CSE 489",
+  "CourseTitle": "Machine Learning",
+  "Section": "B",
+  "Teacher": "DMF",
+  "ExamDate": "August 06, 2022",
+  "ExamTime": "2:00 PM - 4:00 PM",
+  "Room": "325 (011181054-011192107)"
  },
  {
   "Dept": "BSEEE",
@@ -435,59 +465,89 @@
   "CourseTitle": "Microprocessor and Interfacing",
   "Section": "A",
   "Teacher": "SAmd",
-  "ExamDate": "May 29, 2022",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "405 (021163033-021181075)                                                                                                                                                                                                                       406 (021181083-021191065)"
+  "Room": "429 (021153015-021193008)"
+ },
+ {
+  "Dept": "BSEEE",
+  "CourseCode": "EEE 4211\/EEE 471",
+  "CourseTitle": "Transmission and Distribution System",
+  "Section": "A",
+  "Teacher": "HB",
+  "ExamDate": "August 06, 2022",
+  "ExamTime": "2:00 PM - 4:00 PM",
+  "Room": "431 (021132162-021181060)                                                                                                                                                                                                                       432 (021181065-021203014)"
  },
  {
   "Dept": "BSEEE",
   "CourseCode": "MAT 2105",
   "CourseTitle": "Linear Algebra and Differential Equations",
   "Section": "A",
-  "Teacher": "MMaRn",
-  "ExamDate": "May 29, 2022",
+  "Teacher": "MIA",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "407 (021183021-021211010)                                                                                                                                                                                                                       408 (021211017-021212028)"
+  "Room": "603 (021183027-021213050)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "MATH 1151",
+  "CourseTitle": "Fundamental Calculus",
+  "Section": "F (new open)",
+  "Teacher": "MTN",
+  "ExamDate": "August 06, 2022",
+  "ExamTime": "2:00 PM - 4:00 PM",
+  "Room": "409 (011191105-011212163)                                                                                                                                                                                                                       410 (011212164-011222356)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "MATH 1151\/MATH 151",
   "CourseTitle": "Fundamental Calculus",
   "Section": "A",
-  "Teacher": "JAS",
-  "ExamDate": "May 29, 2022",
+  "Teacher": "NPn",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "409 (011162109-011211122)                                                                                                                                                                                                                       410 (011211134-011213113)"
+  "Room": "329 (011193131-011213098)                                                                                                                                                                                                                       330 (011213102-011221295)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "MATH 1151\/MATH 151",
   "CourseTitle": "Fundamental Calculus",
   "Section": "B",
-  "Teacher": "MTN",
-  "ExamDate": "May 29, 2022",
+  "Teacher": "MUn",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "411 (011172174-011212021)                                                                                                                                                                                                                       422 (011212049-011221533)"
+  "Room": "401 (011201077-011213092)                                                                                                                                                                                                                       402 (011213094-011222152)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "MATH 1151\/MATH 151",
   "CourseTitle": "Fundamental Calculus",
   "Section": "C",
-  "Teacher": "MTN",
-  "ExamDate": "May 29, 2022",
+  "Teacher": "MUn",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "423 (011161033-011212085)                                                                                                                                                                                                                       424 (011212086-011221390)"
+  "Room": "403 (011193054-011213101)                                                                                                                                                                                                                       404 (011213104-011221477)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "MATH 1151\/MATH 151",
   "CourseTitle": "Fundamental Calculus",
   "Section": "D",
-  "Teacher": "JAS",
-  "ExamDate": "May 29, 2022",
+  "Teacher": "NPn",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "425 (011191049-011212042)                                                                                                                                                                                                                       407 (011212044-011221218)"
+  "Room": "405 (011202272-011213100)                                                                                                                                                                                                                       406 (011213110-011221610)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "MATH 1151\/MATH 151",
+  "CourseTitle": "Fundamental Calculus",
+  "Section": "E",
+  "Teacher": "NPn",
+  "ExamDate": "August 06, 2022",
+  "ExamTime": "2:00 PM - 4:00 PM",
+  "Room": "407 (011191049-011213015)                                                                                                                                                                                                                       408 (011213016-011222241)"
  },
  {
   "Dept": "BSCSE",
@@ -495,109 +555,129 @@
   "CourseTitle": "Calculus and Linear Algebra",
   "Section": "A",
   "Teacher": "MTN",
-  "ExamDate": "May 29, 2022",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "308 (011171008-011211126)"
+  "Room": "411 (011182042-011202132)                                                                                                                                                                                                                       422 (011203054-011212150)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "MATH 183\/MATH 2183",
   "CourseTitle": "Calculus and Linear Algebra",
   "Section": "B",
-  "Teacher": "MIA",
-  "ExamDate": "May 29, 2022",
+  "Teacher": "MTN",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "309 (011171168-011203040)                                                                                                                                                                                                                       310 (011203048-011211132)"
+  "Room": "423 (011162109-011221485)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "MATH 183\/MATH 2183",
   "CourseTitle": "Calculus and Linear Algebra",
   "Section": "C",
-  "Teacher": "MJU",
-  "ExamDate": "May 29, 2022",
+  "Teacher": "MTN",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "428 (011163116-011212074)"
+  "Room": "424 (011182037-011211137)                                                                                                                                                                                                                       425 (011212009-011221598)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "MATH 183\/MATH 2183",
   "CourseTitle": "Calculus and Linear Algebra",
   "Section": "D",
-  "Teacher": "MIA",
-  "ExamDate": "May 29, 2022",
+  "Teacher": "JAS",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "322 (011172201-011212104, 012211045)"
+  "Room": "428 (011163116-011212078)                                                                                                                                                                                                                       429 (011212079-011221427)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "SOC 101\/SOC 2101",
   "CourseTitle": "Society, Environment and Engineering Ethics",
   "Section": "A",
-  "Teacher": "MRA",
-  "ExamDate": "May 29, 2022",
+  "Teacher": "SKS",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "323 (011173066-011201314)                                                                                                                                                                                                                       324 (011201316-011203042)"
+  "Room": "422 (011171104-011202189)                                                                                                                                                                                                                       423 (011203023-011212074)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "SOC 101\/SOC 2101",
   "CourseTitle": "Society, Environment and Engineering Ethics",
   "Section": "B",
-  "Teacher": "SAhSh",
-  "ExamDate": "May 29, 2022",
+  "Teacher": "SKS",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "325 (011142063-011201254)                                                                                                                                                                                                                       408 (011201263-011221598)"
+  "Room": "424 (011163089-011201471)                                                                                                                                                                                                                       425 (011202072-011221597)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "SOC 101\/SOC 2101",
   "CourseTitle": "Society, Environment and Engineering Ethics",
   "Section": "C",
-  "Teacher": "NSS",
-  "ExamDate": "May 29, 2022",
+  "Teacher": "JJM",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "328 (011172113-011221350)"
+  "Room": "428 (011171257-011222362)"
  },
  {
   "Dept": "BSEEE",
   "CourseCode": "SOC 101\/SOC 3101",
   "CourseTitle": "Society, Environment and Engineering Ethics",
-  "Section": "F",
+  "Section": "D",
   "Teacher": "MdMR",
-  "ExamDate": "May 29, 2022",
+  "ExamDate": "August 06, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "329 (021141001-021193003)                                                                                                                                                                                                                       330 (021193013-021213052)"
+  "Room": "601 (021131122-021201077)                                                                                                                                                                                                                       602 (021201078-021203013)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "CSE 4521\/CSE 4621\/CSI 421",
+  "CourseTitle": "Computer Graphics",
+  "Section": "A",
+  "Teacher": "MHAK",
+  "ExamDate": "August 07, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "308 (011161117-011181203)                                                                                                                                                                                                                       309 (011181206-011201218)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 4611\/CSI 411",
-  "CourseTitle": "Compiler Design",
+  "CourseTitle": "Compiler",
   "Section": "A",
   "Teacher": "NHn",
-  "ExamDate": "May 30, 2022",
+  "ExamDate": "August 07, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "309 (011151323-011181283)                                                                                                                                                                                                                       310 (011182018-011201252)"
+  "Room": "309 (011163016-011183026)                                                                                                                                                                                                                       310 (011183036-011203024)"
  },
  {
   "Dept": "BSCSE",
-  "CourseCode": "CSE 4621\/CSI 421",
-  "CourseTitle": "Computer Graphics",
-  "Section": "A",
-  "Teacher": "MHAK",
-  "ExamDate": "May 30, 2022",
+  "CourseCode": "CSE 4611\/CSI 411",
+  "CourseTitle": "Compiler",
+  "Section": "B",
+  "Teacher": "NHn",
+  "ExamDate": "August 07, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "309 (011151218-011181022)                                                                                                                                                                                                                       310 (011181023-011221598)"
+  "Room": "322 (011151323-011211018)"
  },
  {
   "Dept": "BSEEE",
   "CourseCode": "EEE 121\/EEE 2401",
   "CourseTitle": "Structured Programming Language",
   "Section": "A",
-  "Teacher": "MdHn",
-  "ExamDate": "May 30, 2022",
+  "Teacher": "SAmd",
+  "ExamDate": "August 07, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "322 (021161098-021201017)                                                                                                                                                                                                                       323 (021201019-021213004)"
+  "Room": "308 (021161098-021213021)"
+ },
+ {
+  "Dept": "BSEEE",
+  "CourseCode": "EEE 313\/EEE 4111",
+  "CourseTitle": "Solid State Devices",
+  "Section": "A",
+  "Teacher": "IBC",
+  "ExamDate": "August 07, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "401 (021141081-021182028)                                                                                                                                                                                                                       402 (021182029-021192043)"
  },
  {
   "Dept": "BSEEE",
@@ -605,19 +685,9 @@
   "CourseTitle": "Numerical Analysis",
   "Section": "A",
   "Teacher": "MKMR",
-  "ExamDate": "May 30, 2022",
+  "ExamDate": "August 07, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "Computer Lab 13 (021163019-021182030)"
- },
- {
-  "Dept": "BSEEE",
-  "CourseCode": "EEE 4115\/EEE 433",
-  "CourseTitle": "Optoelectronics",
-  "Section": "A",
-  "Teacher": "IBC",
-  "ExamDate": "May 30, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "324 (021131142-021173018)                                                                                                                                                                                                                       325 (021173023-021203014)"
+  "Room": "401 (021152028-021182033)"
  },
  {
   "Dept": "BSCSE",
@@ -625,9 +695,9 @@
   "CourseTitle": "Financial and Managerial Accounting",
   "Section": "A",
   "Teacher": "MdAHn",
-  "ExamDate": "May 30, 2022",
+  "ExamDate": "August 07, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "309 (011161133-011191161)                                                                                                                                                                                                                       310 (011191165-011203062)"
+  "Room": "308 (011153072-011192103)                                                                                                                                                                                                                       309 (011192105-021173029)"
  },
  {
   "Dept": "BSCSE",
@@ -635,19 +705,9 @@
   "CourseTitle": "Financial and Managerial Accounting",
   "Section": "B",
   "Teacher": "MdAHn",
-  "ExamDate": "May 30, 2022",
+  "ExamDate": "August 07, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "322 (011163060-011191153)                                                                                                                                                                                                                       330 (011191180-011212087)"
- },
- {
-  "Dept": "BSEEE",
-  "CourseCode": "ACT 111\/ACT 3101",
-  "CourseTitle": "Financial and Managerial Accounting",
-  "Section": "C",
-  "Teacher": "IJ",
-  "ExamDate": "May 30, 2022",
-  "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "402 (021171002-021193005)                                                                                                                                                                                                                       401 (021193016-021213052)"
+  "Room": "310 (011162047-011193091)                                                                                                                                                                                                                       322 (011193107-011212108)"
  },
  {
   "Dept": "BSCSE",
@@ -655,9 +715,9 @@
   "CourseTitle": "Cloud Computing",
   "Section": "A",
   "Teacher": "AKMMI",
-  "ExamDate": "May 30, 2022",
+  "ExamDate": "August 07, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "323 (011163062-011191239)"
+  "Room": "308 (011151234-011191065)                                                                                                                                                                                                                       309 (011191074-011221598)"
  },
  {
   "Dept": "BSCSE",
@@ -665,9 +725,9 @@
   "CourseTitle": "Introduction to Bioinformatics",
   "Section": "A",
   "Teacher": "ShKS",
-  "ExamDate": "May 30, 2022",
+  "ExamDate": "August 07, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "324 (011143129-011183003)                                                                                                                                                                                                                       325 (011183028-011191228)"
+  "Room": "401 (011181007-011202249)"
  },
  {
   "Dept": "BSEEE",
@@ -675,9 +735,9 @@
   "CourseTitle": "Digital Electronics",
   "Section": "A",
   "Teacher": "MdZA",
-  "ExamDate": "May 30, 2022",
+  "ExamDate": "August 07, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "324 (021162038-021193027)                                                                                                                                                                                                                       325 (021201001-021202086)"
+  "Room": "408 (021162038-021201053)                                                                                                                                                                                                                       409 (021201055-021203003)"
  },
  {
   "Dept": "BSEEE",
@@ -685,29 +745,39 @@
   "CourseTitle": "Control System",
   "Section": "A",
   "Teacher": "MKMR",
-  "ExamDate": "May 30, 2022",
+  "ExamDate": "August 07, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "328 (021131122-021181003)                                                                                                                                                                                                                       329 (021181020-021191070)"
+  "Room": "410 (021132162-021211001)"
  },
  {
   "Dept": "BSEEE",
-  "CourseCode": "MAT 1103\/MATH 151",
+  "CourseCode": "MAT 1103",
   "CourseTitle": "Calculus II",
   "Section": "A",
-  "Teacher": "AkAd",
-  "ExamDate": "May 30, 2022",
+  "Teacher": "MIA",
+  "ExamDate": "August 07, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "328 (021173023-021213020)                                                                                                                                                                                                                       329 (021213021-021213050)"
+  "Room": "423 (021201035-021221049)                                                                                                                                                                                                                       424 (021221050-021221099)"
+ },
+ {
+  "Dept": "BSEEE",
+  "CourseCode": "MAT 1103",
+  "CourseTitle": "Calculus II",
+  "Section": "B",
+  "Teacher": "MIA",
+  "ExamDate": "August 07, 2022",
+  "ExamTime": "2:00 PM - 4:00 PM",
+  "Room": "411 (021183008-021221029)                                                                                                                                                                                                                       422 (021221035-021221105)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "MATH 2205\/STAT 205",
   "CourseTitle": "Probability and Statistics",
   "Section": "A",
-  "Teacher": "MUn",
-  "ExamDate": "May 30, 2022",
+  "Teacher": "JAS",
+  "ExamDate": "August 07, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "401 (011161155-011201181)                                                                                                                                                                                                                       402 (011201307-011213067)"
+  "Room": "402 (011162077-011201334)                                                                                                                                                                                                                       403 (011201407-011203041)"
  },
  {
   "Dept": "BSCSE",
@@ -715,29 +785,19 @@
   "CourseTitle": "Probability and Statistics",
   "Section": "B",
   "Teacher": "JAS",
-  "ExamDate": "May 30, 2022",
+  "ExamDate": "August 07, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "322 (011171147-011193034)                                                                                                                                                                                                                       310 (011193047-011203053)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "MATH 2205\/STAT 205",
-  "CourseTitle": "Probability and Statistics",
-  "Section": "C",
-  "Teacher": "JAS",
-  "ExamDate": "May 30, 2022",
-  "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "323 (011142060-011193027)                                                                                                                                                                                                                       309 (011193042-011202328)"
+  "Room": "404 (011161155-011193103)                                                                                                                                                                                                                       405 (011193104-011221470)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "MATH 2205\/STAT 205",
   "CourseTitle": "Probability and Statistics",
   "Section": "D",
-  "Teacher": "MUn",
-  "ExamDate": "May 30, 2022",
+  "Teacher": "JAS",
+  "ExamDate": "August 07, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "330 (011191060-011202248)"
+  "Room": "406 (011161117-011201116)                                                                                                                                                                                                                       407 (011201122-011212025)"
  },
  {
   "Dept": "BSCSE",
@@ -745,9 +805,9 @@
   "CourseTitle": "Artificial Intelligence",
   "Section": "A",
   "Teacher": "FTI",
-  "ExamDate": "May 31, 2022",
+  "ExamDate": "August 08, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "308 (011163006-011191195)                                                                                                                                                                                                                       309 (011191204-011201216)"
+  "Room": "309 (011162063-011201137)                                                                                                                                                                                                                       310 (011201141-011202286)"
  },
  {
   "Dept": "BSCSE",
@@ -755,9 +815,9 @@
   "CourseTitle": "Artificial Intelligence",
   "Section": "B",
   "Teacher": "RRK",
-  "ExamDate": "May 31, 2022",
+  "ExamDate": "August 08, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "310 (011171016-011191210)                                                                                                                                                                                                                       322 (011191212-011201460)"
+  "Room": "322 (011123071-011192024)                                                                                                                                                                                                                       323 (011192025-011202275)"
  },
  {
   "Dept": "BSCSE",
@@ -765,9 +825,9 @@
   "CourseTitle": "Artificial Intelligence",
   "Section": "C",
   "Teacher": "RRK",
-  "ExamDate": "May 31, 2022",
+  "ExamDate": "August 08, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "323 (011123071-011191041)                                                                                                                                                                                                                       324 (011191067-011202199)"
+  "Room": "324 (011142063-011193057)                                                                                                                                                                                                                       325 (011193114-011213067)"
  },
  {
   "Dept": "BSCSE",
@@ -775,19 +835,19 @@
   "CourseTitle": "Artificial Intelligence",
   "Section": "D",
   "Teacher": "ShKS",
-  "ExamDate": "May 31, 2022",
+  "ExamDate": "August 08, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "325 (011171282-011202249)"
+  "Room": "328 (011162077-011193019)                                                                                                                                                                                                                       329 (011193139-011202003)"
  },
  {
   "Dept": "BSCSE",
-  "CourseCode": "CSI 229",
-  "CourseTitle": "Numerical Methods",
-  "Section": "A",
-  "Teacher": "SaIs",
-  "ExamDate": "May 31, 2022",
+  "CourseCode": "CSE 3811\/CSI 341",
+  "CourseTitle": "Artificial Intelligence",
+  "Section": "E",
+  "Teacher": "MHUM",
+  "ExamDate": "August 08, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "325 (011162093-011182135)"
+  "Room": "330 (011152024-011203024)"
  },
  {
   "Dept": "BSEEE",
@@ -795,59 +855,39 @@
   "CourseTitle": "Electrical Properties of Materials",
   "Section": "A",
   "Teacher": "IBC",
-  "ExamDate": "May 31, 2022",
+  "ExamDate": "August 08, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "308 (021163012-021191058)                                                                                                                                                                                                                       309 (021191073-021221101)"
+  "Room": "308 (021131142-021202010)"
  },
  {
   "Dept": "BSEEE",
-  "CourseCode": "MAT 1101\/MATH 003",
-  "CourseTitle": "Calculus I",
-  "Section": "A",
-  "Teacher": "MUn",
-  "ExamDate": "May 31, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "324 (011171104-021221017)                                                                                                                                                                                                                       330 (021221019-021221100)"
- },
- {
-  "Dept": "BSEEE",
-  "CourseCode": "MAT 1101\/MATH 003",
+  "CourseCode": "MAT 1101",
   "CourseTitle": "Calculus I",
   "Section": "B",
-  "Teacher": "MIA",
-  "ExamDate": "May 31, 2022",
+  "Teacher": "AkAd",
+  "ExamDate": "August 08, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "328 (011172097-021221046)                                                                                                                                                                                                                       329 (021221048-021221106)"
+  "Room": "322 (021211027-021222036)                                                                                                                                                                                                                       323 (021222037-021222060)"
  },
  {
   "Dept": "BSEEE",
   "CourseCode": "MAT 1101\/MATH 003",
   "CourseTitle": "Calculus I",
-  "Section": "C",
-  "Teacher": "MIA",
-  "ExamDate": "May 31, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "322 (021193031-021221078)                                                                                                                                                                                                                       323 (021221079-021221105)"
- },
- {
-  "Dept": "BSEEE",
-  "CourseCode": "MATH 203",
-  "CourseTitle": "Linear Algebra and Matrices",
   "Section": "A",
-  "Teacher": "MdSaIm",
-  "ExamDate": "May 31, 2022",
+  "Teacher": "MIA",
+  "ExamDate": "August 08, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "328 (021151102-021182023)"
+  "Room": "309 (011172056-021222005)                                                                                                                                                                                                                       310 (021222006-021222048)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "BIO 3105",
   "CourseTitle": "Biology for Engineers",
   "Section": "A",
-  "Teacher": "NRy",
-  "ExamDate": "May 31, 2022",
+  "Teacher": "HAA",
+  "ExamDate": "August 08, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "309 (011183051-011201140)                                                                                                                                                                                                                       310 (011201144-011221541)"
+  "Room": "323 (011183042-011201316)                                                                                                                                                                                                                       324 (011201325-011221350)"
  },
  {
   "Dept": "BSCSE",
@@ -855,19 +895,19 @@
   "CourseTitle": "Biology for Engineers",
   "Section": "B",
   "Teacher": "NRy",
-  "ExamDate": "May 31, 2022",
+  "ExamDate": "August 08, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "322 (011191035-011193127)                                                                                                                                                                                                                       323 (011193135-011213124)"
+  "Room": "325 (011191006-011201208)                                                                                                                                                                                                                       328 (011201222-011221598)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "BIO 3105",
   "CourseTitle": "Biology for Engineers",
   "Section": "C",
-  "Teacher": "NRy",
-  "ExamDate": "May 31, 2022",
+  "Teacher": "HAA",
+  "ExamDate": "August 08, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "324 (011183002-011192115)                                                                                                                                                                                                                       325 (011192122-011211077)"
+  "Room": "329 (011181037-011201090)                                                                                                                                                                                                                       330 (011201098-011221157)"
  },
  {
   "Dept": "BSCSE",
@@ -875,9 +915,9 @@
   "CourseTitle": "Digital Logic Design",
   "Section": "A",
   "Teacher": "MMAS",
-  "ExamDate": "May 31, 2022",
+  "ExamDate": "August 08, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "309 (011181254-011211078)                                                                                                                                                                                                                       310 (011211081-011213104)"
+  "Room": "402 (011181206-011213093)                                                                                                                                                                                                                       403 (011213102-011222063)"
  },
  {
   "Dept": "BSCSE",
@@ -885,39 +925,39 @@
   "CourseTitle": "Digital Logic Design",
   "Section": "B",
   "Teacher": "MHAK",
-  "ExamDate": "May 31, 2022",
+  "ExamDate": "August 08, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "322 (011182012-011212028)                                                                                                                                                                                                                       323 (011212039-011213112)"
+  "Room": "404 (011182012-011213076)                                                                                                                                                                                                                       405 (011213083-011221283)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 1325\/CSE 225",
   "CourseTitle": "Digital Logic Design",
   "Section": "C",
-  "Teacher": "MHAK",
-  "ExamDate": "May 31, 2022",
+  "Teacher": "ATR",
+  "ExamDate": "August 08, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "324 (011183102-011212067)                                                                                                                                                                                                                       325 (011212093-011212164)"
+  "Room": "406 (011202015-011213069)                                                                                                                                                                                                                       407 (011213079-011222169)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 1325\/CSE 225",
   "CourseTitle": "Digital Logic Design",
   "Section": "D",
-  "Teacher": "AnM",
-  "ExamDate": "May 31, 2022",
+  "Teacher": "TG",
+  "ExamDate": "August 08, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "328 (011163116-011212077)                                                                                                                                                                                                                       329 (011212078-011221489)"
+  "Room": "408 (011191001-011213080)                                                                                                                                                                                                                       409 (011213085-011222260)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 1325\/CSE 225",
   "CourseTitle": "Digital Logic Design",
   "Section": "E",
-  "Teacher": "SS",
-  "ExamDate": "May 31, 2022",
+  "Teacher": "NaFA",
+  "ExamDate": "August 08, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "330 (011172056-011211134)                                                                                                                                                                                                                       401 (011212009-011221358)"
+  "Room": "410 (011191175-011213066)                                                                                                                                                                                                                       411 (011213074-011222337)"
  },
  {
   "Dept": "BSCSE",
@@ -925,19 +965,19 @@
   "CourseTitle": "Digital System Design",
   "Section": "A",
   "Teacher": "IMK",
-  "ExamDate": "May 31, 2022",
+  "ExamDate": "August 08, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "328 (011161133-011181128)                                                                                                                                                                                                                       329 (011181132-011191089)"
+  "Room": "328 (011142060-011181135)                                                                                                                                                                                                                       329 (011181140-011201021)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 429\/CSE 4329",
   "CourseTitle": "Digital System Design",
   "Section": "B",
-  "Teacher": "MdAbH",
-  "ExamDate": "May 31, 2022",
+  "Teacher": "MAMr",
+  "ExamDate": "August 08, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "330 (011133077-011181094)                                                                                                                                                                                                                       401 (011181145-011191098)"
+  "Room": "330 (011161205-011181054)                                                                                                                                                                                                                       401 (011181056-011182145)"
  },
  {
   "Dept": "BSEEE",
@@ -945,29 +985,19 @@
   "CourseTitle": "Electrical Circuits II",
   "Section": "A",
   "Teacher": "MRK",
-  "ExamDate": "May 31, 2022",
+  "ExamDate": "August 08, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "402 (021151072-021211015)                                                                                                                                                                                                                       403 (021211017-021213052)"
+  "Room": "309 (021183008-021213010)                                                                                                                                                                                                                       310 (021213012-021221042)"
  },
  {
   "Dept": "BSEEE",
   "CourseCode": "EEE 203\/EEE 2201",
   "CourseTitle": "Energy Conversion I",
   "Section": "A",
-  "Teacher": "HB",
-  "ExamDate": "May 31, 2022",
+  "Teacher": "BKM",
+  "ExamDate": "August 08, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "402 (021162038-021201072)                                                                                                                                                                                                                       403 (021201076-021202086)"
- },
- {
-  "Dept": "BSEEE",
-  "CourseCode": "EEE 203\/EEE 2201",
-  "CourseTitle": "Energy Conversion I",
-  "Section": "B",
-  "Teacher": "HB",
-  "ExamDate": "May 31, 2022",
-  "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "404 (021161083-021201042)                                                                                                                                                                                                                       405 (021201045-021202073)"
+  "Room": "308 (021162038-021201045)                                                                                                                                                                                                                       309 (021201054-021203013)"
  },
  {
   "Dept": "BSEEE",
@@ -975,29 +1005,9 @@
   "CourseTitle": "Engineering Electromagnetics",
   "Section": "A",
   "Teacher": "BKM",
-  "ExamDate": "May 31, 2022",
+  "ExamDate": "August 08, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "404 (021141071-021201059)"
- },
- {
-  "Dept": "BSEEE",
-  "CourseCode": "EEE 303\/EEE 3305",
-  "CourseTitle": "Engineering Electromagnetics",
-  "Section": "B",
-  "Teacher": "BKM",
-  "ExamDate": "May 31, 2022",
-  "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "405 (021131122-021221101)"
- },
- {
-  "Dept": "BSEEE",
-  "CourseCode": "EEE 4315\/EEE 455",
-  "CourseTitle": "Digital Communication",
-  "Section": "A",
-  "Teacher": "RM",
-  "ExamDate": "May 31, 2022",
-  "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "308 (021172005-021211001)"
+  "Room": "401 (021151115-021191049)                                                                                                                                                                                                                       402 (021191050-021221101)"
  },
  {
   "Dept": "BSCSE",
@@ -1005,9 +1015,9 @@
   "CourseTitle": "Structured Programming Language",
   "Section": "A",
   "Teacher": "MBAd",
-  "ExamDate": "June 01, 2022",
+  "ExamDate": "August 10, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "309 (011202109-011213040)                                                                                                                                                                                                                       310 (011213042-011213210)"
+  "Room": "401 (011181085-011221155)                                                                                                                                                                                                                       402 (011221159-011221573)"
  },
  {
   "Dept": "BSCSE",
@@ -1015,9 +1025,9 @@
   "CourseTitle": "Structured Programming Language",
   "Section": "B",
   "Teacher": "ME",
-  "ExamDate": "June 01, 2022",
+  "ExamDate": "August 10, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "322 (011201115-011213041)                                                                                                                                                                                                                       323 (011213046-011221357)"
+  "Room": "403 (011203063-011221281)                                                                                                                                                                                                                       404 (011221282-011222169)"
  },
  {
   "Dept": "BSCSE",
@@ -1025,19 +1035,19 @@
   "CourseTitle": "Structured Programming Language",
   "Section": "C",
   "Teacher": "MMAS",
-  "ExamDate": "June 01, 2022",
+  "ExamDate": "August 10, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "324 (011191055-011213098)                                                                                                                                                                                                                       325 (011213109-011213205)"
+  "Room": "405 (011182050-011221131)                                                                                                                                                                                                                       406 (011221134-011221557)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 1111\/CSI 121",
   "CourseTitle": "Structured Programming Language",
   "Section": "D",
-  "Teacher": "AZ",
-  "ExamDate": "June 01, 2022",
+  "Teacher": "TG",
+  "ExamDate": "August 10, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "328 (011183104-011213102)                                                                                                                                                                                                                       329 (011213103-011213197)"
+  "Room": "407 (011192141-011221106)                                                                                                                                                                                                                       408 (011221133-011221586)"
  },
  {
   "Dept": "BSCSE",
@@ -1045,49 +1055,129 @@
   "CourseTitle": "Structured Programming Language",
   "Section": "E",
   "Teacher": "ME",
-  "ExamDate": "June 01, 2022",
+  "ExamDate": "August 10, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "330 (011173066-011213078)                                                                                                                                                                                                                       401 (011213080-011213208)"
+  "Room": "409 (011182108-011221199)                                                                                                                                                                                                                       410 (011221242-011221588)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 1111\/CSI 121",
   "CourseTitle": "Structured Programming Language",
   "Section": "F",
-  "Teacher": "MBAd",
-  "ExamDate": "June 01, 2022",
+  "Teacher": "FAH",
+  "ExamDate": "August 10, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "402 (011182012-011213024)                                                                                                                                                                                                                       403 (011213038-011213206)"
+  "Room": "411 (011182042-011221296)                                                                                                                                                                                                                       422 (011221299-011221600)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "CSE 1111\/CSI 121",
+  "CourseTitle": "Structured Programming Language",
+  "Section": "G",
+  "Teacher": "GoS",
+  "ExamDate": "August 10, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "423 (011172019-011221291)                                                                                                                                                                                                                       424 (011221303-011221608)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "CSE 1111\/CSI 121",
+  "CourseTitle": "Structured Programming Language",
+  "Section": "H",
+  "Teacher": "AzAk",
+  "ExamDate": "August 10, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "425 (011161205-011221178)                                                                                                                                                                                                                       428 (011221220-011222277)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "CSE 1111\/CSI 121",
+  "CourseTitle": "Structured Programming Language",
+  "Section": "I",
+  "Teacher": "ATR",
+  "ExamDate": "August 10, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "429 (011182012-011221221)                                                                                                                                                                                                                       431 (011221222-011221592)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "CSE 1111\/CSI 121",
+  "CourseTitle": "Structured Programming Language",
+  "Section": "J",
+  "Teacher": "KM",
+  "ExamDate": "August 10, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "432 (011211044-011221330)                                                                                                                                                                                                                       601 (011221346-011221585)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "CSE 1111\/CSI 121",
+  "CourseTitle": "Structured Programming Language",
+  "Section": "K",
+  "Teacher": "NSS",
+  "ExamDate": "August 10, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "602 (011213066-011221340)                                                                                                                                                                                                                       603 (011221342-011221605)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "CSE 1111\/CSI 121",
+  "CourseTitle": "Structured Programming Language",
+  "Section": "L",
+  "Teacher": "SSSk",
+  "ExamDate": "August 10, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "604 (011201317-011221183)                                                                                                                                                                                                                       605 (011221232-011221583)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "CSE 1111\/CSI 121",
+  "CourseTitle": "Structured Programming Language",
+  "Section": "M",
+  "Teacher": "MBAd",
+  "ExamDate": "August 10, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "611 (011203066-011221057)                                                                                                                                                                                                                       701 (011221081-011222315)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "CSE 1111\/CSI 121",
+  "CourseTitle": "Structured Programming Language",
+  "Section": "N (new open)",
+  "Teacher": "MdMrRn",
+  "ExamDate": "August 10, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "702 (011183102-011213174)                                                                                                                                                                                                                       703 (011213188-011221603)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 2233\/CSI 233",
   "CourseTitle": "Theory of Computation",
   "Section": "A",
-  "Teacher": "IMK",
-  "ExamDate": "June 01, 2022",
+  "Teacher": "AZ",
+  "ExamDate": "August 10, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "309 (011181024-011201097)                                                                                                                                                                                                                       310 (011201119-011211124)"
+  "Room": "401 (011162003-011201425)                                                                                                                                                                                                                       402 (011201431-011222271)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 2233\/CSI 233",
   "CourseTitle": "Theory of Computation",
   "Section": "B",
-  "Teacher": "AZ",
-  "ExamDate": "June 01, 2022",
+  "Teacher": "IMK",
+  "ExamDate": "August 10, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "322 (011171257-011201286)                                                                                                                                                                                                                       323 (011201298-011203024)"
+  "Room": "403 (011162018-011201251)                                                                                                                                                                                                                       404 (011201265-011222362)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 2233\/CSI 233",
   "CourseTitle": "Theory of Computation",
   "Section": "C",
-  "Teacher": "NHn",
-  "ExamDate": "June 01, 2022",
+  "Teacher": "IMK",
+  "ExamDate": "August 10, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "324 (011172056-011201079)                                                                                                                                                                                                                       423 (011201091-011202337)"
+  "Room": "405 (011161012-011201257)                                                                                                                                                                                                                       406 (011201309-011212072)"
  },
  {
   "Dept": "BSCSE",
@@ -1095,49 +1185,39 @@
   "CourseTitle": "Theory of Computation",
   "Section": "D",
   "Teacher": "NSS",
-  "ExamDate": "June 01, 2022",
+  "ExamDate": "August 10, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "424 (011171104-011201291)                                                                                                                                                                                                                       425 (011201293-011202300)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "CSE 2233\/CSI 233",
-  "CourseTitle": "Theory of Computation",
-  "Section": "E",
-  "Teacher": "NSS",
-  "ExamDate": "June 01, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "428 (011162015-011201230)                                                                                                                                                                                                                       429 (011201234-011202280)"
+  "Room": "407 (011181265-011202090)                                                                                                                                                                                                                       408 (011202095-011222212)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 4165\/CSE 465",
   "CourseTitle": "Web Programming",
   "Section": "A",
-  "Teacher": "SHqA",
-  "ExamDate": "June 01, 2022",
+  "Teacher": "NHn",
+  "ExamDate": "August 10, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "431 (011152167-011191092)                                                                                                                                                                                                                       432 (011191097-011192110)"
+  "Room": "310 (011153060-011191034)                                                                                                                                                                                                                       322 (011191038-011192112)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 4165\/CSE 465",
   "CourseTitle": "Web Programming",
   "Section": "B",
-  "Teacher": "MMAS",
-  "ExamDate": "June 01, 2022",
+  "Teacher": "NHn",
+  "ExamDate": "August 10, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "428 (011142063-011183032)                                                                                                                                                                                                                       429 (011183094-011192126)"
+  "Room": "323 (011123071-011191106)                                                                                                                                                                                                                       324 (011191122-011193149)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 4165\/CSE 465",
   "CourseTitle": "Web Programming",
   "Section": "C",
-  "Teacher": "RUR",
-  "ExamDate": "June 01, 2022",
+  "Teacher": "SHqA",
+  "ExamDate": "August 10, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "424 (011162151-011182061)                                                                                                                                                                                                                       425 (011182076-011211018)"
+  "Room": "325 (011171264-011192115)"
  },
  {
   "Dept": "BSEEE",
@@ -1145,59 +1225,69 @@
   "CourseTitle": "Electrical Circuits I",
   "Section": "A",
   "Teacher": "MRK",
-  "ExamDate": "June 01, 2022",
+  "ExamDate": "August 10, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "431 (021172026-021213014)                                                                                                                                                                                                                       432 (021213015-021213049)"
+  "Room": "322 (021181074-021221043)                                                                                                                                                                                                                       323 (021221045-021222059)"
+ },
+ {
+  "Dept": "BSEEE",
+  "CourseCode": "EEE 1001\/EEE 101",
+  "CourseTitle": "Electrical Circuits I",
+  "Section": "B",
+  "Teacher": "BKM",
+  "ExamDate": "August 10, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "309 (021202011-021221041)                                                                                                                                                                                                                       310 (021221046-021221099)"
  },
  {
   "Dept": "BSEEE",
   "CourseCode": "EEE 309\/EEE 3307",
   "CourseTitle": "Communication Theory",
   "Section": "A",
-  "Teacher": "KIUA",
-  "ExamDate": "June 01, 2022",
+  "Teacher": "RM",
+  "ExamDate": "August 10, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "601 (021141081-021191070)"
+  "Room": "409 (021151200-021191001)                                                                                                                                                                                                                       410 (021191003-021203014)"
  },
  {
   "Dept": "BSEEE",
-  "CourseCode": "EEE 4223\/EEE 483",
-  "CourseTitle": "Renewable Energy",
+  "CourseCode": "EEE 4217\/EEE 477",
+  "CourseTitle": "Power System Protection",
   "Section": "A",
-  "Teacher": "AvSa",
-  "ExamDate": "June 01, 2022",
+  "Teacher": "HB",
+  "ExamDate": "August 10, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "602 (021131142-021173030)                                                                                                                                                                                                                       603 (021181001-021211001)"
+  "Room": "411 (021091109-021181046)                                                                                                                                                                                                                       422 (021181052-021191065)"
  },
  {
   "Dept": "BSEEE",
   "CourseCode": "MAT 2107\/MATH 187",
   "CourseTitle": "Complex Variables, Fourier and Laplace Transforms",
   "Section": "A",
-  "Teacher": "BKM",
-  "ExamDate": "June 01, 2022",
+  "Teacher": "MUn",
+  "ExamDate": "August 10, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "604 (021163019-021201001)                                                                                                                                                                                                                       605 (021201030-021212012)"
+  "Room": "425 (021171021-021201012)                                                                                                                                                                                                                       428 (021201031-021222047)"
  },
  {
   "Dept": "BSEEE",
   "CourseCode": "MAT 2107\/MATH 187",
   "CourseTitle": "Complex Variables, Fourier and Laplace Transforms",
   "Section": "B",
-  "Teacher": "MUn",
-  "ExamDate": "June 01, 2022",
+  "Teacher": "MIA",
+  "ExamDate": "August 10, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "611 (021181044-021201098)"
+  "Room": "423 (021163019-021201084)                                                                                                                                                                                                                       424 (021201090-021213004)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 2215\/CSI 217",
   "CourseTitle": "Data Structure and Algorithms I",
   "Section": "A",
-  "Teacher": "AZ",
-  "ExamDate": "June 01, 2022",
+  "Teacher": "MdTH",
+  "ExamDate": "August 10, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "322 (011162093-011201085)                                                                                                                                                                                                                       323 (011201139-011211057)"
+  "Room": "309 (011193082-011202234)                                                                                                                                                                                                                       310 (011202244-011211125)"
  },
  {
   "Dept": "BSCSE",
@@ -1205,9 +1295,9 @@
   "CourseTitle": "Data Structure and Algorithms I",
   "Section": "B",
   "Teacher": "MoI",
-  "ExamDate": "June 01, 2022",
+  "ExamDate": "August 10, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "328 (011181042-011211013)"
+  "Room": "322 (011181080-011201102)                                                                                                                                                                                                                       323 (011201121-011212086)"
  },
  {
   "Dept": "BSCSE",
@@ -1215,29 +1305,29 @@
   "CourseTitle": "Data Structure and Algorithms I",
   "Section": "C",
   "Teacher": "MNH",
-  "ExamDate": "June 01, 2022",
+  "ExamDate": "August 10, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "324 (011161033-011201229)                                                                                                                                                                                                                       325 (011201231-011202333)"
+  "Room": "324 (011163087-011201367)                                                                                                                                                                                                                       325 (011201440-011212082)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 2215\/CSI 217",
   "CourseTitle": "Data Structure and Algorithms I",
   "Section": "D",
-  "Teacher": "MNH",
-  "ExamDate": "June 01, 2022",
+  "Teacher": "SHqA",
+  "ExamDate": "August 10, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "308 (011162114-011201242)                                                                                                                                                                                                                       309 (011201249-011211111)"
+  "Room": "328 (011181177-011202212)                                                                                                                                                                                                                       329 (011202248-011211118)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 2215\/CSI 217",
   "CourseTitle": "Data Structure and Algorithms I",
   "Section": "E",
-  "Teacher": "ShSh",
-  "ExamDate": "June 01, 2022",
+  "Teacher": "MNH",
+  "ExamDate": "August 10, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "310 (011171104-011203060)"
+  "Room": "330 (011173083-011211088)"
  },
  {
   "Dept": "BSCSE",
@@ -1245,69 +1335,129 @@
   "CourseTitle": "Computer Networks",
   "Section": "A",
   "Teacher": "AKMMI",
-  "ExamDate": "June 01, 2022",
+  "ExamDate": "August 10, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "322 (011172008-011191074)                                                                                                                                                                                                                       323 (011191088-021191025)"
+  "Room": "431 (011153056-011192088)                                                                                                                                                                                                                       432 (011192094-021191070)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 323\/CSE 3711\/EEE 4413",
   "CourseTitle": "Computer Networks",
   "Section": "B",
-  "Teacher": "MRA",
-  "ExamDate": "June 01, 2022",
+  "Teacher": "ASKP",
+  "ExamDate": "August 10, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "324 (011143002-011182143)                                                                                                                                                                                                                       325 (011183022-021181099)"
+  "Room": "601 (011143002-011192011)                                                                                                                                                                                                                       602 (011192013-021181051)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 323\/CSE 3711\/EEE 4413",
   "CourseTitle": "Computer Networks",
   "Section": "C",
+  "Teacher": "ASKP",
+  "ExamDate": "August 10, 2022",
+  "ExamTime": "2:00 PM - 4:00 PM",
+  "Room": "603 (011181176-011192084)                                                                                                                                                                                                                       604 (011192122-021152014)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "CSE 323\/CSE 3711\/EEE 4413",
+  "CourseTitle": "Computer Networks",
+  "Section": "D",
   "Teacher": "SaIm",
-  "ExamDate": "June 01, 2022",
+  "ExamDate": "August 10, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "328 (011171236-011191175)                                                                                                                                                                                                                       329 (011192018-021203014)"
+  "Room": "605 (011181014-011192101)                                                                                                                                                                                                                       611 (011193070-021191012)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 4523\/CSI 423",
-  "CourseTitle": "Simulation and Modeling",
+  "CourseTitle": "Simulation & Modeling",
   "Section": "A",
-  "Teacher": "MSSh",
-  "ExamDate": "June 01, 2022",
+  "Teacher": "MAMr",
+  "ExamDate": "August 10, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "330 (011143129-011211018)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "CSE 4523\/CSI 423",
-  "CourseTitle": "Simulation and Modeling",
-  "Section": "B",
-  "Teacher": "MSSh",
-  "ExamDate": "June 01, 2022",
-  "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "401 (011133077-011181202)                                                                                                                                                                                                                       402 (011181204-011182132)"
+  "Room": "308 (011143129-011181096)                                                                                                                                                                                                                       309 (011181126-011202140)"
  },
  {
   "Dept": "BSEEE",
   "CourseCode": "EEE 205\/EEE 2203",
   "CourseTitle": "Energy Conversion II",
   "Section": "A",
-  "Teacher": "AvSa",
-  "ExamDate": "June 01, 2022",
+  "Teacher": "IA",
+  "ExamDate": "August 10, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "308 (021171021-021192037)                                                                                                                                                                                                                       309 (021192041-021221101)"
+  "Room": "308 (021152028-021202076)"
+ },
+ {
+  "Dept": "BSEEE",
+  "CourseCode": "BDS 1201",
+  "CourseTitle": "History of the Emergence of Bangladesh",
+  "Section": "K",
+  "Teacher": "JoA",
+  "ExamDate": "August 11, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "402 (021213003-021221039)                                                                                                                                                                                                                       403 (021221041-021222047)"
+ },
+ {
+  "Dept": "BSEEE",
+  "CourseCode": "BDS 1201",
+  "CourseTitle": "History of the Emergence of Bangladesh",
+  "Section": "L",
+  "Teacher": "JoA",
+  "ExamDate": "August 11, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "330 (011212168-021221016)                                                                                                                                                                                                                       401 (021221017-021221098)"
+ },
+ {
+  "Dept": "BSEEE",
+  "CourseCode": "BDS 1201",
+  "CourseTitle": "History of the Emergence of Bangladesh",
+  "Section": "M",
+  "Teacher": "SMMI",
+  "ExamDate": "August 11, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "328 (021211002-021213039)                                                                                                                                                                                                                       329 (021213051-021221102)"
+ },
+ {
+  "Dept": "BSEEE",
+  "CourseCode": "BDS 1201",
+  "CourseTitle": "History of the Emergence of Bangladesh",
+  "Section": "N",
+  "Teacher": "OTS",
+  "ExamDate": "August 11, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "325 (021212006-021221100)"
+ },
+ {
+  "Dept": "BSEEE",
+  "CourseCode": "BDS 1201",
+  "CourseTitle": "History of the Emergence of Bangladesh",
+  "Section": "U ( New Students)",
+  "Teacher": "SaB",
+  "ExamDate": "August 11, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "404 (021222001-021222048)"
+ },
+ {
+  "Dept": "BSEEE",
+  "CourseCode": "BDS 1201",
+  "CourseTitle": "History of the Emergence of Bangladesh",
+  "Section": "V ( New students)",
+  "Teacher": "SaB",
+  "ExamDate": "August 11, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "405 (021222027-021222060)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 3411\/CSI 311",
   "CourseTitle": "System Analysis and Design",
   "Section": "A",
-  "Teacher": "FAH",
-  "ExamDate": "June 02, 2022",
+  "Teacher": "SA",
+  "ExamDate": "August 11, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "309 (011172108-011192010)                                                                                                                                                                                                                       310 (011192011-011202199)"
+  "Room": "409 (011163016-011193040)                                                                                                                                                                                                                       410 (011193045-011221541)"
  },
  {
   "Dept": "BSCSE",
@@ -1315,29 +1465,39 @@
   "CourseTitle": "System Analysis and Design",
   "Section": "B",
   "Teacher": "SA",
-  "ExamDate": "June 02, 2022",
+  "ExamDate": "August 11, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "322 (011123071-011191019)                                                                                                                                                                                                                       323 (011191043-011211018)"
+  "Room": "411 (011163046-011192075)                                                                                                                                                                                                                       422 (011192140-011202337)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 3411\/CSI 311",
   "CourseTitle": "System Analysis and Design",
   "Section": "C",
-  "Teacher": "SA",
-  "ExamDate": "June 02, 2022",
+  "Teacher": "ASh",
+  "ExamDate": "August 11, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "324 (011142060-011191075)                                                                                                                                                                                                                       325 (011191092-011201262)"
+  "Room": "423 (011171011-011202140)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "CSE 3411\/CSI 311",
+  "CourseTitle": "System Analysis and Design",
+  "Section": "D",
+  "Teacher": "ASh",
+  "ExamDate": "August 11, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "424 (011151234-011192004)                                                                                                                                                                                                                       425 (011192115-011213067)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 3521\/CSI 221",
   "CourseTitle": "Database Management Systems",
   "Section": "A",
-  "Teacher": "NaFA",
-  "ExamDate": "June 02, 2022",
+  "Teacher": "SaIs",
+  "ExamDate": "August 11, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "310 (011151234-011192148)                                                                                                                                                                                                                       322 (011193014-011202021)"
+  "Room": "428 (011153056-011201192)                                                                                                                                                                                                                       429 (011201250-011202286)"
  },
  {
   "Dept": "BSCSE",
@@ -1345,19 +1505,19 @@
   "CourseTitle": "Database Management Systems",
   "Section": "B",
   "Teacher": "FAH",
-  "ExamDate": "June 02, 2022",
+  "ExamDate": "August 11, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "323 (011181086-011201047)                                                                                                                                                                                                                       324 (011201088-011202328)"
+  "Room": "431 (011181024-011201070)                                                                                                                                                                                                                       432 (011201073-011203027)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 3521\/CSI 221",
   "CourseTitle": "Database Management Systems",
   "Section": "C",
-  "Teacher": "SHqA",
-  "ExamDate": "June 02, 2022",
+  "Teacher": "MdRIm",
+  "ExamDate": "August 11, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "325 (011172193-011201169)                                                                                                                                                                                                                       328 (011201171-011202295)"
+  "Room": "601 (011181043-011201126)                                                                                                                                                                                                                       602 (011201161-011202260)"
  },
  {
   "Dept": "BSCSE",
@@ -1365,9 +1525,9 @@
   "CourseTitle": "Database Management Systems",
   "Section": "D",
   "Teacher": "NaFA",
-  "ExamDate": "June 02, 2022",
+  "ExamDate": "August 11, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "329 (011181133-011201016)                                                                                                                                                                                                                       330 (011201017-011212072)"
+  "Room": "603 (011181018-011201110)                                                                                                                                                                                                                       604 (011201115-011201440)"
  },
  {
   "Dept": "BSCSE",
@@ -1375,9 +1535,9 @@
   "CourseTitle": "Database Management Systems",
   "Section": "E",
   "Teacher": "SaIs",
-  "ExamDate": "June 02, 2022",
+  "ExamDate": "August 11, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "401 (011163072-011191152)                                                                                                                                                                                                                       402 (011191177-011213067)"
+  "Room": "605 (011162093-011201230)                                                                                                                                                                                                                       611 (011201235-011203033)"
  },
  {
   "Dept": "BSEEE",
@@ -1385,49 +1545,49 @@
   "CourseTitle": "Power System",
   "Section": "A",
   "Teacher": "BKM",
-  "ExamDate": "June 02, 2022",
+  "ExamDate": "August 11, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "328 (021171002-021192047)"
+  "Room": "401 (021151056-021193008)"
  },
  {
-  "Dept": "BSCSE",
-  "CourseCode": "EEE 4261",
-  "CourseTitle": "Green Computing",
+  "Dept": "BSEEE",
+  "CourseCode": "EEE 4117\/EEE 435",
+  "CourseTitle": "Analog Integrated Circuits",
   "Section": "A",
-  "Teacher": "MdMIm",
-  "ExamDate": "June 02, 2022",
+  "Teacher": "IBC",
+  "ExamDate": "August 11, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "329 (011183003-011201232)"
+  "Room": "308 (021131122-021181089)                                                                                                                                                                                                                       309 (021181090-021203014)"
  },
  {
   "Dept": "BSEEE",
   "CourseCode": "MAT 2109\/MATH 201",
   "CourseTitle": "Coordinate Geometry and Vector Analysis",
   "Section": "A",
-  "Teacher": "AkAd",
-  "ExamDate": "June 02, 2022",
+  "Teacher": "NPn",
+  "ExamDate": "August 11, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "330 (021161098-021201077)                                                                                                                                                                                                                       401 (021201084-021211024)"
+  "Room": "308 (021161098-021193028)                                                                                                                                                                                                                       309 (021201001-021203012)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "MATH 201\/MATH 2201",
   "CourseTitle": "Coordinate Geometry and Vector Analysis",
   "Section": "A",
-  "Teacher": "MJU",
-  "ExamDate": "June 02, 2022",
+  "Teacher": "MUn",
+  "ExamDate": "August 11, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "402 (011181140-011203027)"
+  "Room": "428 (011182064-011211134)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "MATH 201\/MATH 2201",
   "CourseTitle": "Coordinate Geometry and Vector Analysis",
   "Section": "B",
-  "Teacher": "MTN",
-  "ExamDate": "June 02, 2022",
+  "Teacher": "AkAd",
+  "ExamDate": "August 11, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "403 (011153060-011201309)                                                                                                                                                                                                                       404 (011201370-011211057)"
+  "Room": "429 (011171008-011211125)"
  },
  {
   "Dept": "BSCSE",
@@ -1435,9 +1595,9 @@
   "CourseTitle": "Coordinate Geometry and Vector Analysis",
   "Section": "C",
   "Teacher": "AkAd",
-  "ExamDate": "June 02, 2022",
+  "ExamDate": "August 11, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "405 (011173033-011203042)"
+  "Room": "431 (011153060-011203072)                                                                                                                                                                                                                       432 (011211001-011212104)"
  },
  {
   "Dept": "BSCSE",
@@ -1445,19 +1605,19 @@
   "CourseTitle": "Coordinate Geometry and Vector Analysis",
   "Section": "D",
   "Teacher": "AkAd",
-  "ExamDate": "June 02, 2022",
+  "ExamDate": "August 11, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "406 (011153020-011212056)"
+  "Room": "601 (011161245-011201173)                                                                                                                                                                                                                       602 (011201179-011211126)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 1115\/CSI 211",
   "CourseTitle": "Object Oriented Programming",
   "Section": "A",
-  "Teacher": "DMF",
-  "ExamDate": "June 02, 2022",
+  "Teacher": "MRA",
+  "ExamDate": "August 11, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "403 (011181199-011212001)                                                                                                                                                                                                                       404 (011212010-011212117)"
+  "Room": "308 (011171104-011211100)                                                                                                                                                                                                                       309 (011211106-011222063)"
  },
  {
   "Dept": "BSCSE",
@@ -1465,9 +1625,9 @@
   "CourseTitle": "Object Oriented Programming",
   "Section": "B",
   "Teacher": "DMF",
-  "ExamDate": "June 02, 2022",
+  "ExamDate": "August 11, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "405 (011181131-011211077)                                                                                                                                                                                                                       406 (011211096-011212167)"
+  "Room": "310 (011182032-011221485)"
  },
  {
   "Dept": "BSCSE",
@@ -1475,39 +1635,39 @@
   "CourseTitle": "Object Oriented Programming",
   "Section": "C",
   "Teacher": "ShKS",
-  "ExamDate": "June 02, 2022",
+  "ExamDate": "August 11, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "407 (011151323-011211029)                                                                                                                                                                                                                       408 (011211076-011212161)"
+  "Room": "322 (011162109-011212002)                                                                                                                                                                                                                       323 (011212009-011221350)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 1115\/CSI 211",
   "CourseTitle": "Object Oriented Programming",
   "Section": "D",
-  "Teacher": "FmSh",
-  "ExamDate": "June 02, 2022",
+  "Teacher": "FAH",
+  "ExamDate": "August 11, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "409 (011181060-011221350)"
+  "Room": "324 (011162032-011212126)                                                                                                                                                                                                                       325 (011212140-011222260)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 1115\/CSI 211",
   "CourseTitle": "Object Oriented Programming",
   "Section": "E",
-  "Teacher": "FmSh",
-  "ExamDate": "June 02, 2022",
+  "Teacher": "MRA",
+  "ExamDate": "August 11, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "410 (011171257-011202314)                                                                                                                                                                                                                       411 (011202332-011212154)"
+  "Room": "328 (011183042-011212059)                                                                                                                                                                                                                       329 (011212060-011213181)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 1115\/CSI 211",
   "CourseTitle": "Object Oriented Programming",
   "Section": "F",
-  "Teacher": "MRA",
-  "ExamDate": "June 02, 2022",
+  "Teacher": "MdRIm",
+  "ExamDate": "August 11, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "422 (011163013-011212144)"
+  "Room": "330 (011151323-011201282)                                                                                                                                                                                                                       401 (011201357-011212156)"
  },
  {
   "Dept": "BSCSE",
@@ -1515,9 +1675,9 @@
   "CourseTitle": "Software Engineering",
   "Section": "A",
   "Teacher": "RUR",
-  "ExamDate": "June 02, 2022",
+  "ExamDate": "August 11, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "407 (011161205-011191003)                                                                                                                                                                                                                       408 (011191007-011201057)"
+  "Room": "422 (011153060-011191115)                                                                                                                                                                                                                       423 (011191121-011201262)"
  },
  {
   "Dept": "BSCSE",
@@ -1525,39 +1685,29 @@
   "CourseTitle": "Software Engineering",
   "Section": "B",
   "Teacher": "RUR",
-  "ExamDate": "June 02, 2022",
+  "ExamDate": "August 11, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "406 (011151218-011181279)                                                                                                                                                                                                                       410 (011182016-011192126)"
+  "Room": "424 (011123071-011183025)                                                                                                                                                                                                                       425 (011183026-011193149)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 3421\/CSI 321",
   "CourseTitle": "Software Engineering",
   "Section": "C",
-  "Teacher": "SHqA",
-  "ExamDate": "June 02, 2022",
+  "Teacher": "RUR",
+  "ExamDate": "August 11, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "411 (011153037-011182107)                                                                                                                                                                                                                       422 (011182130-011191242)"
+  "Room": "428 (011142063-011191027)                                                                                                                                                                                                                       429 (011191045-011202199)"
  },
  {
   "Dept": "BSEEE",
   "CourseCode": "EEE 211\/EEE 2301",
   "CourseTitle": "Signals and Linear System",
   "Section": "A",
-  "Teacher": "SdM",
-  "ExamDate": "June 02, 2022",
+  "Teacher": "RM",
+  "ExamDate": "August 11, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "423 (021131142-021192029)                                                                                                                                                                                                                       424 (021192032-021201108)"
- },
- {
-  "Dept": "BSEEE",
-  "CourseCode": "EEE 211\/EEE 2301",
-  "CourseTitle": "Signals and Linear System",
-  "Section": "B",
-  "Teacher": "SdM",
-  "ExamDate": "June 02, 2022",
-  "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "425 (021151062-021201085)"
+  "Room": "401 (021131142-021192042)                                                                                                                                                                                                                       402 (021192043-021203009)"
  },
  {
   "Dept": "BSEEE",
@@ -1565,49 +1715,49 @@
   "CourseTitle": "Power Electronics",
   "Section": "A",
   "Teacher": "IA",
-  "ExamDate": "June 02, 2022",
+  "ExamDate": "August 11, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "423 (021141001-021192001)"
- },
- {
-  "Dept": "BSEEE",
-  "CourseCode": "EEE 4211\/EEE 471",
-  "CourseTitle": "Transmission and Distribution System",
-  "Section": "A",
-  "Teacher": "BKM",
-  "ExamDate": "June 02, 2022",
-  "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "424 (021141081-021191025)"
+  "Room": "308 (021131122-021181025)                                                                                                                                                                                                                       309 (021181031-021192047)"
  },
  {
   "Dept": "BSEEE",
   "CourseCode": "PHY 103\/PHY 1103",
   "CourseTitle": "Physics II",
   "Section": "A",
-  "Teacher": "MAn",
-  "ExamDate": "June 02, 2022",
+  "Teacher": "NRy",
+  "ExamDate": "August 11, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "308 (021172029-021213004)"
+  "Room": "322 (021171016-021213041)"
+ },
+ {
+  "Dept": "BSEEE",
+  "CourseCode": "PHY 103\/PHY 1103",
+  "CourseTitle": "Physics II",
+  "Section": "B",
+  "Teacher": "SaDa",
+  "ExamDate": "August 11, 2022",
+  "ExamTime": "2:00 PM - 4:00 PM",
+  "Room": "310 (021163012-021212027)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "BDS 1201",
   "CourseTitle": "History of the Emergence of Bangladesh",
   "Section": "A",
-  "Teacher": "SKS",
-  "ExamDate": "June 04, 2022",
+  "Teacher": "MoRn",
+  "ExamDate": "August 13, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "405 (011211049-011213041)                                                                                                                                                                                                                       406 (011213042-021212025)"
+  "Room": "309 (011212038-011221190)                                                                                                                                                                                                                       310 (011221194-011221573)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "BDS 1201",
   "CourseTitle": "History of the Emergence of Bangladesh",
   "Section": "B",
-  "Teacher": "JJM",
-  "ExamDate": "June 04, 2022",
+  "Teacher": "MoRn",
+  "ExamDate": "August 13, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "407 (011211022-011213089)                                                                                                                                                                                                                       408 (011213101-021211009)"
+  "Room": "322 (011212023-011221207)                                                                                                                                                                                                                       323 (011221212-011221594)"
  },
  {
   "Dept": "BSCSE",
@@ -1615,9 +1765,9 @@
   "CourseTitle": "History of the Emergence of Bangladesh",
   "Section": "C",
   "Teacher": "SKS",
-  "ExamDate": "June 04, 2022",
+  "ExamDate": "August 13, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "308 (011211004-011213131)                                                                                                                                                                                                                       309 (011213134-021211029)"
+  "Room": "324 (011211032-011221167)                                                                                                                                                                                                                       325 (011221208-011222063)"
  },
  {
   "Dept": "BSCSE",
@@ -1625,9 +1775,9 @@
   "CourseTitle": "History of the Emergence of Bangladesh",
   "Section": "D",
   "Teacher": "SKS",
-  "ExamDate": "June 04, 2022",
+  "ExamDate": "August 13, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "310 (011211060-011213209)"
+  "Room": "328 (011211002-011221369)                                                                                                                                                                                                                       329 (011221375-011222337)"
  },
  {
   "Dept": "BSCSE",
@@ -1635,19 +1785,89 @@
   "CourseTitle": "History of the Emergence of Bangladesh",
   "Section": "E",
   "Teacher": "JJM",
-  "ExamDate": "June 04, 2022",
+  "ExamDate": "August 13, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "322 (011213011-011213110)                                                                                                                                                                                                                       323 (011213117-011213206)"
+  "Room": "330 (011221015-011221279)                                                                                                                                                                                                                       401 (011221323-011221596)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "BDS 1201",
+  "CourseTitle": "History of the Emergence of Bangladesh",
+  "Section": "F",
+  "Teacher": "MoRn",
+  "ExamDate": "August 13, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "402 (011213138-011221378)                                                                                                                                                                                                                       403 (011221381-011221554)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "BDS 1201",
+  "CourseTitle": "History of the Emergence of Bangladesh",
+  "Section": "G",
+  "Teacher": "JJM",
+  "ExamDate": "August 13, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "404 (011213177-011221447)                                                                                                                                                                                                                       405 (011221449-011221610)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "BDS 1201",
+  "CourseTitle": "History of the Emergence of Bangladesh",
+  "Section": "H",
+  "Teacher": "JJM",
+  "ExamDate": "August 13, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "406 (011213199-011221286)                                                                                                                                                                                                                       407 (011221297-011221604)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "BDS 1201",
+  "CourseTitle": "History of the Emergence of Bangladesh",
+  "Section": "I",
+  "Teacher": "SMAn",
+  "ExamDate": "August 13, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "408 (011212112-011221273)                                                                                                                                                                                                                       409 (011221298-011221590)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "BDS 1201",
+  "CourseTitle": "History of the Emergence of Bangladesh",
+  "Section": "J",
+  "Teacher": "SKS",
+  "ExamDate": "August 13, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "410 (011213120-011221288)                                                                                                                                                                                                                       411 (011221294-011221605)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "BDS 1201",
+  "CourseTitle": "History of the Emergence of Bangladesh",
+  "Section": "T",
+  "Teacher": "JJM",
+  "ExamDate": "August 13, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "422 (011213010-011221241)                                                                                                                                                                                                                       423 (011221242-011221607)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "CSE 2213",
+  "CourseTitle": "Discrete Mathematics",
+  "Section": "L (new open)",
+  "Teacher": "KSM",
+  "ExamDate": "August 13, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "308 (011192021-011222302)                                                                                                                                                                                                                       309 (011222303-011222361)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 2213\/CSI 219",
   "CourseTitle": "Discrete Mathematics",
   "Section": "A",
-  "Teacher": "FF",
-  "ExamDate": "June 04, 2022",
+  "Teacher": "MiBa",
+  "ExamDate": "August 13, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "310 (011201061-011221020)                                                                                                                                                                                                                       424 (011221021-011221569)"
+  "Room": "422 (011192114-011222011)                                                                                                                                                                                                                       423 (011222012-011222341)"
  },
  {
   "Dept": "BSCSE",
@@ -1655,9 +1875,9 @@
   "CourseTitle": "Discrete Mathematics",
   "Section": "B",
   "Teacher": "MHUM",
-  "ExamDate": "June 04, 2022",
+  "ExamDate": "August 13, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "324 (011172099-011221050)                                                                                                                                                                                                                       325 (011221051-011221587)"
+  "Room": "424 (011183102-011222039)                                                                                                                                                                                                                       425 (011222040-011222346)"
  },
  {
   "Dept": "BSCSE",
@@ -1665,9 +1885,9 @@
   "CourseTitle": "Discrete Mathematics",
   "Section": "C",
   "Teacher": "ASKP",
-  "ExamDate": "June 04, 2022",
+  "ExamDate": "August 13, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "328 (011192055-011221075)                                                                                                                                                                                                                       329 (011221076-011221601)"
+  "Room": "428 (011181260-011222068)                                                                                                                                                                                                                       429 (011222069-011222360)"
  },
  {
   "Dept": "BSCSE",
@@ -1675,9 +1895,9 @@
   "CourseTitle": "Discrete Mathematics",
   "Section": "D",
   "Teacher": "MiBa",
-  "ExamDate": "June 04, 2022",
+  "ExamDate": "August 13, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "422 (011171283-011221108)                                                                                                                                                                                                                       423 (011221109-011221518)"
+  "Room": "431 (011192124-011222098)                                                                                                                                                                                                                       432 (011222099-011222356)"
  },
  {
   "Dept": "BSCSE",
@@ -1685,119 +1905,49 @@
   "CourseTitle": "Discrete Mathematics",
   "Section": "E",
   "Teacher": "MRA",
-  "ExamDate": "June 04, 2022",
+  "ExamDate": "August 13, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "425 (011191260-011221138)                                                                                                                                                                                                                       428 (011221139-011221609)"
+  "Room": "601 (011182097-011222123)                                                                                                                                                                                                                       602 (011222124-011222313)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 2213\/CSI 219",
   "CourseTitle": "Discrete Mathematics",
   "Section": "F",
-  "Teacher": "FF",
-  "ExamDate": "June 04, 2022",
+  "Teacher": "MuI",
+  "ExamDate": "August 13, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "429 (011171056-011221165)                                                                                                                                                                                                                       601 (011221166-011221420)"
+  "Room": "603 (011162047-011222148)                                                                                                                                                                                                                       604 (011222149-011222355)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 2213\/CSI 219",
   "CourseTitle": "Discrete Mathematics",
   "Section": "G",
-  "Teacher": "ATR",
-  "ExamDate": "June 04, 2022",
+  "Teacher": "MHUM",
+  "ExamDate": "August 13, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "432 (011192011-011221202)                                                                                                                                                                                                                       431 (011221203-011221606)"
+  "Room": "605 (011203065-011222187)                                                                                                                                                                                                                       611 (011222188-011222359)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 2213\/CSI 219",
   "CourseTitle": "Discrete Mathematics",
   "Section": "H",
-  "Teacher": "ATR",
-  "ExamDate": "June 04, 2022",
+  "Teacher": "MuI",
+  "ExamDate": "August 13, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "330 (011162015-011221227)                                                                                                                                                                                                                       401 (011221228-011221497)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "CSE 2213\/CSI 219",
-  "CourseTitle": "Discrete Mathematics",
-  "Section": "I",
-  "Teacher": "ASKP",
-  "ExamDate": "June 04, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "402 (011193082-011221260)                                                                                                                                                                                                                       403 (011221261-011221580)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "CSE 2213\/CSI 219",
-  "CourseTitle": "Discrete Mathematics",
-  "Section": "J",
-  "Teacher": "MiBa",
-  "ExamDate": "June 04, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "404 (011201258-011221293)                                                                                                                                                                                                                       405 (011221294-011221602)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "CSE 2213\/CSI 219",
-  "CourseTitle": "Discrete Mathematics",
-  "Section": "K",
-  "Teacher": "MHUM",
-  "ExamDate": "June 04, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "406 (011193033-011221312)                                                                                                                                                                                                                       407 (011221313-011221585)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "CSE 2213\/CSI 219",
-  "CourseTitle": "Discrete Mathematics",
-  "Section": "L",
-  "Teacher": "MiBa",
-  "ExamDate": "June 04, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "408 (011182042-011221349)                                                                                                                                                                                                                       409 (011221351-011221588)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "CSE 2213\/CSI 219",
-  "CourseTitle": "Discrete Mathematics",
-  "Section": "M",
-  "Teacher": "MoI",
-  "ExamDate": "June 04, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "308 (011213001-011221467)                                                                                                                                                                                                                       309 (011221468-011221593)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "CSE 2213\/CSI 219",
-  "CourseTitle": "Discrete Mathematics",
-  "Section": "N",
-  "Teacher": "ShSh",
-  "ExamDate": "June 04, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "322 (011202004-011221531)                                                                                                                                                                                                                       323 (011221532-011221556)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "CSE 2213\/CSI 219",
-  "CourseTitle": "Discrete Mathematics",
-  "Section": "O",
-  "Teacher": "ASKP",
-  "ExamDate": "June 04, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "410 (011171071-011221570)                                                                                                                                                                                                                       411 (011221571-011221610)"
+  "Room": "701 (011193100-011222204)                                                                                                                                                                                                                       702 (011222205-011222351)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 2217\/CSI 227",
   "CourseTitle": "Data Structure and Algorithms II",
   "Section": "A",
-  "Teacher": "FTI",
-  "ExamDate": "June 04, 2022",
+  "Teacher": "MdTH",
+  "ExamDate": "August 13, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "401 (011161004-011193052)                                                                                                                                                                                                                       402 (011201075-011202295)"
+  "Room": "310 (011163060-011201240)                                                                                                                                                                                                                       322 (011201260-011211102)"
  },
  {
   "Dept": "BSCSE",
@@ -1805,49 +1955,49 @@
   "CourseTitle": "Data Structure and Algorithms II",
   "Section": "B",
   "Teacher": "MdSR",
-  "ExamDate": "June 04, 2022",
+  "ExamDate": "August 13, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "403 (011172108-011201244)                                                                                                                                                                                                                       404 (011201335-011203024)"
+  "Room": "323 (011162093-011201231)                                                                                                                                                                                                                       324 (011201239-011202200)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 2217\/CSI 227",
   "CourseTitle": "Data Structure and Algorithms II",
   "Section": "C",
-  "Teacher": "FGF",
-  "ExamDate": "June 04, 2022",
+  "Teacher": "SSSk",
+  "ExamDate": "August 13, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "431 (011173026-011193144)                                                                                                                                                                                                                       432 (011201005-011213067)"
+  "Room": "325 (011163072-011193125)                                                                                                                                                                                                                       328 (011193154-011203025)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 2217\/CSI 227",
   "CourseTitle": "Data Structure and Algorithms II",
   "Section": "D",
-  "Teacher": "FGF",
-  "ExamDate": "June 04, 2022",
+  "Teacher": "FTI",
+  "ExamDate": "August 13, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "409 (011163072-011193062)                                                                                                                                                                                                                       410 (011193075-011203025)"
+  "Room": "329 (011172056-011201111)                                                                                                                                                                                                                       330 (011201112-011203033)"
  },
  {
   "Dept": "BSCSE",
-  "CourseCode": "CSI 415",
-  "CourseTitle": "Pattern Recognition",
-  "Section": "A",
-  "Teacher": "MHR",
-  "ExamDate": "June 04, 2022",
+  "CourseCode": "CSE 2217\/CSI 227",
+  "CourseTitle": "Data Structure and Algorithms II",
+  "Section": "E",
+  "Teacher": "GoS",
+  "ExamDate": "August 13, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "603 (011143129-011182061)"
+  "Room": "401 (011172007-011192148)                                                                                                                                                                                                                       402 (011193094-011211111)"
  },
  {
   "Dept": "BSEEE",
   "CourseCode": "ECO 2101\/ECO 213",
   "CourseTitle": "Economics",
-  "Section": "C",
+  "Section": "B",
   "Teacher": "TaA",
-  "ExamDate": "June 04, 2022",
+  "ExamDate": "August 13, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "604 (021153014-021201057)                                                                                                                                                                                                                       605 (021201058-021203009)"
+  "Room": "405 (021131142-021202044)"
  },
  {
   "Dept": "BSCSE",
@@ -1855,19 +2005,29 @@
   "CourseTitle": "Economics",
   "Section": "A",
   "Teacher": "TaA",
-  "ExamDate": "June 04, 2022",
+  "ExamDate": "August 13, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "601 (011161117-011182005)                                                                                                                                                                                                                       602 (011182031-011202309)"
+  "Room": "403 (011162151-011201157)                                                                                                                                                                                                                       404 (011201171-011222212)"
  },
  {
   "Dept": "BSEEE",
   "CourseCode": "EEE 207\/EEE 2103",
   "CourseTitle": "Electronics II",
   "Section": "A",
-  "Teacher": "MdHn",
-  "ExamDate": "June 04, 2022",
+  "Teacher": "MdZA",
+  "ExamDate": "August 13, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "603 (021171016-021201030)                                                                                                                                                                                                                       604 (021201032-021202005)"
+  "Room": "406 (021172027-021222047)"
+ },
+ {
+  "Dept": "BSEEE",
+  "CourseCode": "EEE 4331\/EEE 491",
+  "CourseTitle": "Biomedical Engineering",
+  "Section": "A",
+  "Teacher": "KIUA",
+  "ExamDate": "August 13, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "407 (021123096-021192049)"
  },
  {
   "Dept": "BSEEE",
@@ -1875,49 +2035,49 @@
   "CourseTitle": "Physics I",
   "Section": "A",
   "Teacher": "MAn",
-  "ExamDate": "June 04, 2022",
+  "ExamDate": "August 13, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "701 (021191072-021213012)                                                                                                                                                                                                                       702 (021213014-021213050)"
+  "Room": "409 (021183013-021221017)                                                                                                                                                                                                                       410 (021221023-021222059)"
+ },
+ {
+  "Dept": "BSEEE",
+  "CourseCode": "PHY 101\/PHY 1101",
+  "CourseTitle": "Physics I",
+  "Section": "B",
+  "Teacher": "MAn",
+  "ExamDate": "August 13, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "408 (021183014-021222017)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 113\/EEE 2113",
   "CourseTitle": "Electrical Circuits",
   "Section": "A",
+  "Teacher": "MaRa",
+  "ExamDate": "August 13, 2022",
+  "ExamTime": "2:00 PM - 4:00 PM",
+  "Room": "309 (011172019-011203034)                                                                                                                                                                                                                       310 (011203040-011212140)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "CSE 113\/EEE 2113",
+  "CourseTitle": "Electrical Circuits",
+  "Section": "B",
+  "Teacher": "AnM",
+  "ExamDate": "August 13, 2022",
+  "ExamTime": "2:00 PM - 4:00 PM",
+  "Room": "322 (011181060-011201420)                                                                                                                                                                                                                       323 (011201439-011213123)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "CSE 113\/EEE 2113",
+  "CourseTitle": "Electrical Circuits",
+  "Section": "D",
   "Teacher": "FaHa",
-  "ExamDate": "June 04, 2022",
+  "ExamDate": "August 13, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "402 (011191176-011203010)                                                                                                                                                                                                                       403 (011203012-011213170)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "CSE 113\/EEE 2113",
-  "CourseTitle": "Electrical Circuits",
-  "Section": "B",
-  "Teacher": "QFN",
-  "ExamDate": "June 04, 2022",
-  "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "309 (011161133-011202074)                                                                                                                                                                                                                       310 (011202081-011211088)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "CSE 113\/EEE 2113",
-  "CourseTitle": "Electrical Circuits",
-  "Section": "C",
-  "Teacher": "QFN",
-  "ExamDate": "June 04, 2022",
-  "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "322 (011181060-011201423)                                                                                                                                                                                                                       323 (011201425-011212072)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "CSE 113\/EEE 2113",
-  "CourseTitle": "Electrical Circuits",
-  "Section": "D",
-  "Teacher": "MaRa",
-  "ExamDate": "June 04, 2022",
-  "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "324 (011181195-011221427)"
+  "Room": "324 (011182085-011211124)                                                                                                                                                                                                                       325 (011211133-011213020)"
  },
  {
   "Dept": "BSCSE",
@@ -1925,9 +2085,9 @@
   "CourseTitle": "Electrical Circuits",
   "Section": "E",
   "Teacher": "MaRa",
-  "ExamDate": "June 04, 2022",
+  "ExamDate": "August 13, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "325 (011171083-011201356)                                                                                                                                                                                                                       328 (011201374-011213123)"
+  "Room": "328 (011181012-011202309)                                                                                                                                                                                                                       329 (011203064-011222315)"
  },
  {
   "Dept": "BSCSE",
@@ -1935,79 +2095,69 @@
   "CourseTitle": "Electronics",
   "Section": "A",
   "Teacher": "MdAbH",
-  "ExamDate": "June 04, 2022",
+  "ExamDate": "August 13, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "310 (011181037-011201271)                                                                                                                                                                                                                       322 (011201353-011211057)"
+  "Room": "323 (011162015-011201176)                                                                                                                                                                                                                       324 (011201212-011213067)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 123\/EEE 2123",
   "CourseTitle": "Electronics",
   "Section": "B",
-  "Teacher": "MdAbH",
-  "ExamDate": "June 04, 2022",
+  "Teacher": "AnM",
+  "ExamDate": "August 13, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "323 (011142060-011201301)                                                                                                                                                                                                                       324 (011201309-011202301)"
+  "Room": "325 (011162003-011201002)                                                                                                                                                                                                                       328 (011201025-011203072)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 123\/EEE 2123",
   "CourseTitle": "Electronics",
   "Section": "C",
-  "Teacher": "AnM",
-  "ExamDate": "June 04, 2022",
+  "Teacher": "MdAbH",
+  "ExamDate": "August 13, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "403 (011162015-011201149)                                                                                                                                                                                                                       404 (011201150-011202304)"
+  "Room": "329 (011162109-011192065)                                                                                                                                                                                                                       330 (011193065-011203004)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 123\/EEE 2123",
   "CourseTitle": "Electronics",
   "Section": "D",
-  "Teacher": "AnM",
-  "ExamDate": "June 04, 2022",
+  "Teacher": "MdAbH",
+  "ExamDate": "August 13, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "405 (011172073-011201086)                                                                                                                                                                                                                       406 (011201170-011203055)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "CSE 123\/EEE 2123",
-  "CourseTitle": "Electronics",
-  "Section": "E",
-  "Teacher": "ATR",
-  "ExamDate": "June 04, 2022",
-  "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "407 (011151231-011201081)                                                                                                                                                                                                                       408 (011201082-011202189)"
+  "Room": "401 (011172056-011202089)                                                                                                                                                                                                                       402 (011202095-011221598)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "CSE 315\/CSE 3715",
   "CourseTitle": "Data Communication",
   "Section": "A",
-  "Teacher": "AKMMI",
-  "ExamDate": "June 04, 2022",
+  "Teacher": "MMAS",
+  "ExamDate": "August 13, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "308 (011162114-011181241)                                                                                                                                                                                                                       325 (011181243-011201285)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "CSE 4181\/CSE 481",
-  "CourseTitle": "Mobile Application Development",
-  "Section": "A",
-  "Teacher": "SuAH",
-  "ExamDate": "June 04, 2022",
-  "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "409 (011161127-011191255)"
+  "Room": "308 (011153072-011181181)                                                                                                                                                                                                                       309 (011181194-011202140)"
  },
  {
   "Dept": "BSEEE",
   "CourseCode": "EEE 105\/EEE 2101",
   "CourseTitle": "Electronics I",
   "Section": "A",
-  "Teacher": "MdZA",
-  "ExamDate": "June 04, 2022",
+  "Teacher": "SdM",
+  "ExamDate": "August 13, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "328 (021172026-021201076)                                                                                                                                                                                                                       329 (021201077-021211024)"
+  "Room": "403 (021183021-021203006)                                                                                                                                                                                                                       404 (021203012-021213037)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "EEE 2113",
+  "CourseTitle": "Electrical Circuits",
+  "Section": "C",
+  "Teacher": "FaHa",
+  "ExamDate": "August 13, 2022",
+  "ExamTime": "2:00 PM - 4:00 PM",
+  "Room": "308 (011193030-011212049)                                                                                                                                                                                                                       330 (011212075-011213112)"
  },
  {
   "Dept": "BSEEE",
@@ -2015,99 +2165,29 @@
   "CourseTitle": "Probability and Random Signal Analysis",
   "Section": "A",
   "Teacher": "KIUA",
-  "ExamDate": "June 04, 2022",
+  "ExamDate": "August 13, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "330 (021132162-021192047)"
+  "Room": "401 (021151038-021192032)                                                                                                                                                                                                                       402 (021192034-021221101)"
  },
  {
-  "Dept": "BSEEE",
-  "CourseCode": "EEE 4121\/EEE 441",
-  "CourseTitle": "VLSI Design",
+  "Dept": "BSCSE",
+  "CourseCode": "CSE 4891",
+  "CourseTitle": "Data Mining",
   "Section": "A",
-  "Teacher": "SAmd",
-  "ExamDate": "June 04, 2022",
+  "Teacher": "SHM",
+  "ExamDate": "August 14, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "308 (011183003-011192107)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "CSE 4495\/CSE 495",
+  "CourseTitle": "Software Testing and Quality Assurance",
+  "Section": "A",
+  "Teacher": "MoI",
+  "ExamDate": "August 14, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "401 (021131142-021182031)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "CSE 1112\/CSI 122",
-  "CourseTitle": "Structured Programming Language Laboratory",
-  "Section": "A",
-  "Teacher": "RRK",
-  "ExamDate": "June 05, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "Computer Lab 8 (011201182-011213053)                                                                                                                                                                                                                       Computer Lab 10 (011213054-011213210)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "CSE 1112\/CSI 122",
-  "CourseTitle": "Structured Programming Language Laboratory",
-  "Section": "B",
-  "Teacher": "FmSh",
-  "ExamDate": "June 05, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "Computer Lab 5 (011191257-011213029)                                                                                                                                                                                                                       Computer Lab 6 (011213030-011213207)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "CSE 1112\/CSI 122",
-  "CourseTitle": "Structured Programming Language Laboratory",
-  "Section": "C",
-  "Teacher": "HHS",
-  "ExamDate": "June 05, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "Computer Lab 14 (011201266-011213047)                                                                                                                                                                                                                       Computer Lab 14 (011213066-011213198)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "CSE 1112\/CSI 122",
-  "CourseTitle": "Structured Programming Language Laboratory",
-  "Section": "D",
-  "Teacher": "SAhSh",
-  "ExamDate": "June 05, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "Computer Lab 9 (011182055-011213038)                                                                                                                                                                                                                       Computer Lab 9 (011213076-011213205)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "CSE 1112\/CSI 122",
-  "CourseTitle": "Structured Programming Language Laboratory",
-  "Section": "E",
-  "Teacher": "RRK",
-  "ExamDate": "June 05, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "Computer Lab 11 (011182012-011213096)                                                                                                                                                                                                                       Computer Lab 12 (011213097-011213208)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "CSE 1112\/CSI 122",
-  "CourseTitle": "Structured Programming Language Laboratory",
-  "Section": "F",
-  "Teacher": "MHUM",
-  "ExamDate": "June 05, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "Computer Lab 13 (011193049-011213206)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "CSE 1112\/CSI 122",
-  "CourseTitle": "Structured Programming Language Laboratory",
-  "Section": "G",
-  "Teacher": "SaIs",
-  "ExamDate": "June 05, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "Computer Lab 7 (011182045-011213197)"
- },
- {
-  "Dept": "BSCSE",
-  "CourseCode": "PSY 101\/PSY 2101",
-  "CourseTitle": "Psychology",
-  "Section": "A",
-  "Teacher": "ShaIs",
-  "ExamDate": "June 05, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "308 (011171172-011192100)                                                                                                                                                                                                                       309 (011192121-011213067)"
+  "Room": "308 (011161239-011193024)"
  },
  {
   "Dept": "BSCSE",
@@ -2115,9 +2195,9 @@
   "CourseTitle": "Digital Image Processing",
   "Section": "A",
   "Teacher": "SS",
-  "ExamDate": "June 05, 2022",
+  "ExamDate": "August 14, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "308 (011163089-011193149)"
+  "Room": "308 (011183092-011201057)"
  },
  {
   "Dept": "BSCSE",
@@ -2125,19 +2205,29 @@
   "CourseTitle": "Physics",
   "Section": "A",
   "Teacher": "MASn",
-  "ExamDate": "June 05, 2022",
+  "ExamDate": "August 14, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "322 (011162109-011213128)"
+  "Room": "603 (011191049-011222195)"
+ },
+ {
+  "Dept": "BSCSE",
+  "CourseCode": "PHY 105\/PHY 2105",
+  "CourseTitle": "Physics",
+  "Section": "B",
+  "Teacher": "MASn",
+  "ExamDate": "August 14, 2022",
+  "ExamTime": "2:00 PM - 4:00 PM",
+  "Room": "604 (011182115-011222085)"
  },
  {
   "Dept": "BSCSE",
   "CourseCode": "PHY 105\/PHY 2105",
   "CourseTitle": "Physics",
   "Section": "C",
-  "Teacher": "TMI",
-  "ExamDate": "June 05, 2022",
+  "Teacher": "NRy",
+  "ExamDate": "August 14, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "323 (011182036-011212168)"
+  "Room": "402 (011172113-011221489)"
  },
  {
   "Dept": "BSCSE",
@@ -2145,9 +2235,9 @@
   "CourseTitle": "Physics",
   "Section": "D",
   "Teacher": "MASn",
-  "ExamDate": "June 05, 2022",
+  "ExamDate": "August 14, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "324 (011163013-011211132)"
+  "Room": "605 (011181012-011212026)                                                                                                                                                                                                                       611 (011212027-011213118)"
  },
  {
   "Dept": "BSCSE",
@@ -2155,8 +2245,8 @@
   "CourseTitle": "Physics",
   "Section": "E",
   "Teacher": "MASn",
-  "ExamDate": "June 05, 2022",
+  "ExamDate": "August 14, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "325 (011172106-011221356)"
+  "Room": "701 (011173083-011212061)                                                                                                                                                                                                                       702 (011212062-011221604)"
  }
 ]
