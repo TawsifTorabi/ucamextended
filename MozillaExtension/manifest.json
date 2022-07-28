@@ -1,0 +1,35 @@
+{
+	"manifest_version":  2,
+	"name": "UCAM Extended",
+	"description": "A Web Plugin for UIU UCAM Portal to add more functionalities.",
+	"version": "0.1.1",
+	"browser_specific_settings": {
+	  "gecko": {
+		"update_url": "https://raw.githubusercontent.com/TawsifTorabi/UCAMextended/main/json/mozillaUpdate.json"
+	  }
+	},
+	"icons": {
+		"16": "/images/set1/icon16-1.png",
+		"48": "/images/set1/icon48-1.png",
+		"128": "/images/set1/icon128-1.png"
+	},
+	"page_action": {
+		"default_icon": {
+			"16": "/images/set1/icon16-1.png",
+			"48": "/images/set1/icon48-1.png",
+			"128": "/images/set1/icon128-1.png"
+		}
+	},
+	"content_scripts": [
+		{
+			"matches": ["*://ucam.uiu.ac.bd/*"],
+			"js": [
+				"injector.js"
+			],
+			"run_at": "document_idle"
+		}
+	],
+	"permissions": [
+      "storage"
+    ]
+}
