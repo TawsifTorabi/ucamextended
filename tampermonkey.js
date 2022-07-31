@@ -839,7 +839,7 @@
 
         var GlobalSettings_3 = JSON.parse(localStorage.getItem('GlobalSettings'));
         var TrimesterInfoLocal = localStorage.getItem('TrimesterInfo');
-        if(GlobalSettings_3.general[0].routineAvailble == 'yes' && GlobalSettings_3.general[0].examTrimester == TrimesterInfoLocal ){
+        if(GlobalSettings_3.general[0].routineAvailble == 'yes'){
             floatboxHTML.appendChild(examRoutineBtn);
         }
 
