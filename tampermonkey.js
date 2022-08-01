@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         UCAM Extended
 // @namespace    http://tampermonkey.net/
-// @version      0.1.1
+// @version      0.1.2
 // @description  A Web Plugin for UIU UCAM Portal to add more functionalities.
 // @author       Tawsif Torabi
 // @match        *://ucam.uiu.ac.bd/*
