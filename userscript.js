@@ -6,9 +6,6 @@
 // @author       Tawsif Torabi
 // @match        *://ucam.uiu.ac.bd/*
 // @icon         https://www.google.com/s2/favicons?domain=ac.bd
-// @grant        none
-// @require      https://code.jquery.com/jquery-3.5.1.min.js
-// @require      https://cdn.jsdelivr.net/npm/table-to-json@1.0.0/lib/jquery.tabletojson.min.js
 // @grant        unsafeWindow
 // ==/UserScript==
 
