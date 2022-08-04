@@ -2,10 +2,13 @@
 // @name         UCAM Extended
 // @namespace    http://tampermonkey.net/
 // @version      0.1.3
-// @description  Having Pera lying to your dad? Here it is!
+// @description  A Web Plugin for UIU UCAM Portal to add more functionalities.
 // @author       Tawsif Torabi
 // @match        *://ucam.uiu.ac.bd/*
 // @icon         https://www.google.com/s2/favicons?domain=ac.bd
+// @grant        none
+// @require      https://code.jquery.com/jquery-3.5.1.min.js
+// @require      https://cdn.jsdelivr.net/npm/table-to-json@1.0.0/lib/jquery.tabletojson.min.js
 // @grant        unsafeWindow
 // ==/UserScript==
 
@@ -713,6 +716,7 @@
 
 
 
+
     ///////////////////////////////////////////////
     //Appened Floatbox function Starts/////////////
     ///////////////////////////////////////////////
@@ -866,23 +870,6 @@
     ///////////////////////////////////////////////
     //Set Floatbox Style function Ends/////////////
     ///////////////////////////////////////////////
-
-
-
-    ///////////////////////////////////////////////
-    //Fresher Welcome Message Starts//////////
-    ///////////////////////////////////////////////
-
-    U1customFunctions.fresherWelcome = function(){
-        if(U1customFunctions.GetTrimesterInfo('CurrentBatch') == localStorage.getItem('studentBatchNumber')){
-            alert('Hello Freshers!');
-        }
-    };
-    ///////////////////////////////////////////////
-    //Fresher Welcome Message Ends//////////
-    ///////////////////////////////////////////////
-
-
 
 
 
