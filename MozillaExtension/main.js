@@ -1,14 +1,11 @@
 // ==UserScript==
 // @name         UCAM Extended
 // @namespace    http://tampermonkey.net/
-// @version      0.1.1
-// @description  Having Pera lying to your dad? Here it is!
+// @version      0.1.3
+// @description  A Web Plugin for UIU UCAM Portal to add more functionalities.
 // @author       Tawsif Torabi
 // @match        *://ucam.uiu.ac.bd/*
 // @icon         https://www.google.com/s2/favicons?domain=ac.bd
-// @grant        none
-// @require      https://code.jquery.com/jquery-3.5.1.min.js
-// @require      https://cdn.jsdelivr.net/npm/table-to-json@1.0.0/lib/jquery.tabletojson.min.js
 // @grant        unsafeWindow
 // ==/UserScript==
 
@@ -25,7 +22,7 @@
         'https://facebook.com/tawsiftorabi',
         'https://github.com/TawsifTorabi/UCAMextended',
         'UCAM Extended Plugin',
-        'v0.1.1 Beta',
+        'v0.1.3 Beta',
         'Tawsif Torabi',
         'http://tawsiftorabi.github.io'
     ];
@@ -627,10 +624,10 @@
 
 		console.log('Courses  Count - > ' + CourseArr.length);
 
-		out += 	"<style>td, th {padding: 3px;}</style>"+
+		out += 	"<style>td, th {padding: 4px;}</style>"+
                 "<h3>"+ examTermName+ " Exam Routine </h3>"+
                 "<h4>"+ deptCode +", "+ examTrimester +"</h4>"+
-                "<table width='95%' border style='font-size: 10px;font-family: unset;'>" +
+                "<table width='95%' border style='font-size: 11px;font-family: unset;'>" +
 				"<tr>"+
 				"<th class='rtTh'>Dept.</th>"+
 				"<th class='rtTh'>Course Name</th>"+
@@ -839,7 +836,7 @@
 
         var GlobalSettings_3 = JSON.parse(localStorage.getItem('GlobalSettings'));
         var TrimesterInfoLocal = localStorage.getItem('TrimesterInfo');
-        if(GlobalSettings_3.general[0].routineAvailble == 'yes' && GlobalSettings_3.general[0].examTrimester == TrimesterInfoLocal ){
+        if(GlobalSettings_3.general[0].routineAvailble == 'yes'){
             floatboxHTML.appendChild(examRoutineBtn);
         }
 
