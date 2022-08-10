@@ -703,7 +703,9 @@
 
                     var examDateHTML;
                     if(arr[i].ExamDate.isMatch(U1customFunctions.GetDateMonth('monthString')) && arr[i].ExamDate.isMatch(U1customFunctions.GetDateMonth('date'))){
-                        examDateHTML = "<span title='Exam is Today!' style='color:red;font-weight:bold;'>"+arr[i].ExamDate+" (Today)</span>";
+                        examDateHTML = "<span title='Exam is Today!' style='color:red;font-weight:bold;' class='blink'>"+arr[i].ExamDate+" (Today)</span>";
+                        document.getElementById('examRoutineBtn').textContent = "Exam Today! See Routine";
+                        document.getElementById('examRoutineBtn').classList.add('blink');
                     }else{
                         examDateHTML = "<span>"+arr[i].ExamDate+"</span>";
                     }
@@ -1012,6 +1014,14 @@
     css1.type = "text/css";
     css1.rel = "stylesheet";
     document.body.appendChild(css1);
+
+
+    //Appened Custom StyleSheets
+    var cssCus = document.createElement("style");
+    var styleBLink = '.blink{animation:blinker 1s infinite;}@keyframes blinker{from{opacity: 1.0;}50% {opacity:0.2;}to{opacity:1.0;}}';
+    cssCus.innerHTML = styleBLink;
+    document.body.appendChild(cssCus);
+
 
 
 
