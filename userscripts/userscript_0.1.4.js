@@ -703,9 +703,9 @@
 
                     var examDateHTML;
                     if(arr[i].ExamDate.isMatch(U1customFunctions.GetDateMonth('monthString')) && arr[i].ExamDate.isMatch(U1customFunctions.GetDateMonth('date'))){
-                        examDateHTML = "<span title='Exam is Today!' style='color:red;font-weight:bold;' class='blink'>"+arr[i].ExamDate+" (Today)</span>";
-                        document.getElementById('examRoutineBtn').textContent = "Exam Today! See Routine";
-                        document.getElementById('examRoutineBtn').classList.add('blink');
+                        examDateHTML = "<span title='Exam is Today!' style='color:red;font-weight:bold;' class='blink'>"+arr[i].ExamDate+"</span>";
+                        document.getElementById('examRoutineBtn').innerHTML = "<span class='alarmExam'>Exam Today! See Routine</span>";
+                        document.getElementById('examRoutineBtn').childNodes[0].classList.add('blink');
                     }else{
                         examDateHTML = "<span>"+arr[i].ExamDate+"</span>";
                     }
