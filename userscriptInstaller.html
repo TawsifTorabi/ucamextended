@@ -1,0 +1,147 @@
+<!--By TawsifTorabi-->
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<head>
+	<link href="commons/main.css" rel="stylesheet" />
+	<style>
+	body {
+	  color: #000000ab;
+	  text-shadow: unset;
+	  font-family: arial;
+	  background: white;
+	}
+	.bigbtn{	 
+	  font-family: verdana;
+	  padding: 9px;
+	}
+	</style>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-63MVL3E6DH"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-63MVL3E6DH');
+	</script>
+</head>
+<body>
+	<script>
+	function StoreLink(){
+		if(navigator.userAgent.includes("Chrome")){
+			document.getElementById('installerText').textContent = 'Add Tampermonkey to Chrome';
+			document.getElementById('storeLink').href = 'https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en';
+		}
+		if(navigator.userAgent.includes("Firefox")){
+			document.getElementById('installerText').textContent = 'Add Tampermonkey to Firefox';
+			document.getElementById('storeLink').href = 'https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/';
+		}
+	}
+	function userScriptInstall(){
+		document.getElementById('whatissection').style.display = 'none';
+		document.getElementById('confirmUserscript').style.display = 'inline';
+		
+		if(navigator.userAgent.includes("Chrome")){
+			var xmlhttpUserscript = new XMLHttpRequest();
+			xmlhttpUserscript.onreadystatechange = function(){
+				if (this.readyState == 4 && this.status == 200){
+					document.getElementById("userscriptContainer").innerHTML = this.responseText;
+				}
+			};
+			xmlhttpUserscript.open("GET", "src/script.user.js", true);
+			xmlhttpUserscript.send();
+			document.getElementById('CopyScript').style.display = 'inherit';
+		}
+		if(navigator.userAgent.includes("Firefox")){
+			document.getElementById('UserScriptFirefox').style.display = 'inherit';
+		}
+	}
+	function showDetailsNewUsers(){
+		document.getElementById('whatistampermonkey').style.display = 'inline';
+		document.getElementById('confirmUserscript').style.display = 'none';
+		StoreLink();
+	}
+	function CopytoClip(){
+		var copyText = document.getElementById("userscriptContainer");
+		copyText.select();
+		copyText.setSelectionRange(0, 99999);
+		navigator.clipboard.writeText(copyText.value);
+		document.getElementById('CopySuccess').innerHTML = '✅ Copy Success!';
+		setTimeout(function(){document.getElementById('CopySuccess').innerHTML = "";}, 2000);
+	}
+
+	</script>
+	<center>
+		<div class="clearfix"></div>
+		</br>
+		</br>
+
+		<button style="font-size: 23px;" class="btn chrm bigbtn" onclick="userScriptInstall()">
+			<svg class="miniIcons" style="color: white"  width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Tampermonkey</title><path d="M5.955.002C3-.071.275 2.386.043 5.335c-.069 3.32-.011 6.646-.03 9.969.06 1.87-.276 3.873.715 5.573 1.083 2.076 3.456 3.288 5.77 3.105 4.003-.011 8.008.022 12.011-.017 2.953-.156 5.478-2.815 5.482-5.772-.007-4.235.023-8.473-.015-12.708C23.82 2.533 21.16.007 18.205.003c-4.083-.005-8.167 0-12.25-.002zm.447 12.683c2.333-.046 4.506 1.805 4.83 4.116.412 2.287-1.056 4.716-3.274 5.411-2.187.783-4.825-.268-5.874-2.341-1.137-2.039-.52-4.827 1.37-6.197a4.896 4.896 0 012.948-.99zm11.245 0c2.333-.046 4.505 1.805 4.829 4.116.413 2.287-1.056 4.716-3.273 5.411-2.188.783-4.825-.268-5.875-2.341-1.136-2.039-.52-4.827 1.37-6.197a4.896 4.896 0 012.949-.99z" fill="white"></path></svg>
+			I have installed Tampermonkey
+		</button>
+		</br>
+		</br>
+		
+		<div id="confirmUserscript" style="display: none">
+			You have confirmed that you've installed a Userscript Manager to Run The Script on UCAM. </br>
+			Now you can continue to user script Installation.</br>
+			To know more about Userscript, you can read 
+			<i><b><a href="https://faltucoder.blogspot.com/2022/07/userscripts.html" target="_blank">my blog in bangla.</a></b></i>
+			</br>
+			</br>
+			<div id='CopyScript' style="display: none;">
+				<textarea disabled id="userscriptContainer" style="height: 150px;width: 81%;resize: none;font-size: 9px;"></textarea></br>
+				<a class="btn usersc" href="src/script.user.js" target="_blank">
+					<svg class="miniIcons" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M13 20h-7c-2.174-3.004-4-6.284-4-12h15c0 5.667-1.88 9.089-4 12zm5.119-10c-.057.701-.141 1.367-.252 2h1.55c-.449 1.29-1.5 2.478-2.299 2.914-.358 1.038-.787 1.981-1.26 2.852 3.274-1.143 5.846-4.509 6.142-7.766h-3.881zm-7.745-3.001c4.737-4.27-.98-4.044.117-6.999-3.783 3.817 1.409 3.902-.117 6.999zm-2.78.001c3.154-2.825-.664-3.102.087-5.099-2.642 2.787.95 2.859-.087 5.099zm9.406 15h-15v2h15v-2z"/></svg>		
+					Click to Install Userscript
+				</a>
+				<button class="btn usersc" onclick="CopytoClip()">
+					<svg class="miniIcons" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M21 2h-19v19h-2v-21h21v2zm3 2v20h-20v-20h20zm-2 2h-1.93c-.669 0-1.293.334-1.664.891l-1.406 2.109h-6l-1.406-2.109c-.371-.557-.995-.891-1.664-.891h-1.93v16h16v-16zm-3 6h-10v1h10v-1zm0 3h-10v1h10v-1zm0 3h-10v1h10v-1z"/></svg>
+					Copy to Clipboard
+				</button>
+				</br>
+				<small id="CopySuccess"></small>
+				</br>
+				You've to copy &amp; paste it in Tampermonkey <i><b>Create a New Script</b></i> option to activate the userscript.</br>
+				<small><a style="text-decoration: underline;"href="https://www.youtube.com/watch?v=RpjvLpyiras" target="_blank"> Watch Youtube Tutorial <i><b>How to install a Userscript</b></i></a></small>
+				
+			</div>
+			<a class="btn usersc" href="src/script.user.js" target="_blank" id="UserScriptFirefox" style="display: none;">
+				<svg class="miniIcons" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M13 20h-7c-2.174-3.004-4-6.284-4-12h15c0 5.667-1.88 9.089-4 12zm5.119-10c-.057.701-.141 1.367-.252 2h1.55c-.449 1.29-1.5 2.478-2.299 2.914-.358 1.038-.787 1.981-1.26 2.852 3.274-1.143 5.846-4.509 6.142-7.766h-3.881zm-7.745-3.001c4.737-4.27-.98-4.044.117-6.999-3.783 3.817 1.409 3.902-.117 6.999zm-2.78.001c3.154-2.825-.664-3.102.087-5.099-2.642 2.787.95 2.859-.087 5.099zm9.406 15h-15v2h15v-2z"/></svg>		
+				Click to Install Userscript
+			</a>
+		</div>
+		
+		
+		
+		
+		<div id="whatissection" style="display: inline">
+			<button style="font-size: 17px;" class="btn chrm bigbtn" onclick="showDetailsNewUsers()">
+				What is Tampermonkey?
+			</button>
+			</br>
+			</br>
+			<div id="whatistampermonkey" style="display: none">
+				Tampermonkey is a userscripts manager popular worldwide with over 10 million+ user. </br>
+				Tampermonkey is used to run custom Javascript codes to run on preferred websites with ease.</br>
+				To know more about Userscript javascripts and Tampermonkey plugin, you can read 
+				<i><b><a href="https://faltucoder.blogspot.com/2022/07/userscripts.html" target="_blank">my blog in bangla.</a></b></i>
+			</br>
+			</br>
+				<a class="btn frfx" href="#" id="storeLink" target="_blank">
+					<svg class="miniIcons" style="color: white"  width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Tampermonkey</title><path d="M5.955.002C3-.071.275 2.386.043 5.335c-.069 3.32-.011 6.646-.03 9.969.06 1.87-.276 3.873.715 5.573 1.083 2.076 3.456 3.288 5.77 3.105 4.003-.011 8.008.022 12.011-.017 2.953-.156 5.478-2.815 5.482-5.772-.007-4.235.023-8.473-.015-12.708C23.82 2.533 21.16.007 18.205.003c-4.083-.005-8.167 0-12.25-.002zm.447 12.683c2.333-.046 4.506 1.805 4.83 4.116.412 2.287-1.056 4.716-3.274 5.411-2.187.783-4.825-.268-5.874-2.341-1.137-2.039-.52-4.827 1.37-6.197a4.896 4.896 0 012.948-.99zm11.245 0c2.333-.046 4.505 1.805 4.829 4.116.413 2.287-1.056 4.716-3.273 5.411-2.188.783-4.825-.268-5.875-2.341-1.136-2.039-.52-4.827 1.37-6.197a4.896 4.896 0 012.949-.99z" fill="white"></path></svg>
+					<span id="installerText">Add Tampermonkey to Browser</span>
+				</a>
+				</br>
+				</br>
+				After installing Tampermonkey, you can install the userscript and enjoy the plugin. Peace! 💕</br>
+				If you need help, feel free to mail me or contact me on facebook.
+			</div>
+		</div>
+		
+		
+	</center>
+</body>
+</html>

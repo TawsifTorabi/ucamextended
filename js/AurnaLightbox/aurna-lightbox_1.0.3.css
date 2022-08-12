@@ -1,0 +1,118 @@
+				/*
+				Code Written by @TawsifTorabi
+				Aurna Light Box Beta v1.0.3
+				Licensded under GNU GCC Public License
+				/*Both Commercial and Personal Use is Granted*/
+				
+			
+			.intrinsic-container {
+			  position: relative;
+			  height: 0;
+			  /*overflow: hidden;*/
+			}
+			 
+			.intrinsic-container iframe {
+			  position: absolute;
+			  top: 29px;
+			  left: 0;
+			  width: 100%;
+			  height: 100%;
+			}
+
+			.aurna-cont{
+				margin-left: 8px;
+				margin-bottom: 8px;
+				position: absolute;
+				color: #bfbfbf;
+				font-family: arial;
+				font-size: 9px;
+			}
+			.aurna-textlightbox-background{
+			background-color: rgba(30, 23, 23, 0.82);
+			font-family: roboto; 
+			position: fixed; 
+			top:0px; 
+			bottom:0px; 
+			right:0px; 
+			width: 100%; 
+			border: none; 
+			margin:0; 
+			padding:0; 
+			overflow: hidden; 
+			z-index:999999; 
+			height: 100%;
+			}
+					
+			.aurna-textlightbox-area {
+			background-color: #fff;
+			position: absolute;
+			max-width: 1200px;
+			left: 10%;
+			right: 10%;
+			top: 8%;
+			bottom: 4%;
+			padding: 20px 10px;
+			border-radius: 6px;
+			box-shadow: 0 0 10px 0 white;
+			height: 80%;
+			overflow: hidden;
+			}
+
+			@media (min-width: 1000px){
+				.aurna-textlightbox-area {
+						background-color: #fff;
+						position: absolute;
+						width: 70%;
+						max-width: 1200px;
+						left: 15%;
+						top: 8%;
+						bottom: 4%;
+						padding: 20px 10px;
+						border-radius: 6px;
+						box-shadow: 0 0 10px 0 white;
+						height: 80%;
+						overflow: hidden;
+				}
+				.aurna-cont{
+					margin-left: 8px;
+					color: #bfbfbf;
+					font-family: arial;
+					position: absolute;
+					font-size: 9px;
+				}
+			}
+			
+			.aurna-textlightbox-area-close {
+			  font-weight: bold;
+			  background-color: transparent;
+			  font-size: 28px;
+			  color: black;
+			  padding: 13px;
+			  float: right;
+			  border: none;
+			  box-shadow: 0 0 0 0 rgba(33, 157, 216, 0.82);
+			  margin-top: -30px;
+			  margin-right: -11px;
+			  cursor: pointer;
+			  -webkit-user-select: none;
+			}
+
+
+			@keyframes fadeIn {
+			to {
+				opacity: 3;
+				}
+			}			
+
+			.fade-in {
+			animation: fadeIn 0.4s ease-in 1 forwards;
+			opacity: 0;
+			}		
+
+			.end{
+			transition: all 1s ease-in-out;
+			background-color: rgba(255, 0, 0, 0.0);
+			box-shadow: none;
+			border: 0px dashed #03A9F4;
+			border-radius: 0px;
+			}
