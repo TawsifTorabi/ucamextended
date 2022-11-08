@@ -4,10 +4,10 @@
   "CourseCode": "BMT 2113\/QNT 2105",
   "CourseTitle": "Business Mathematics II\/Mathematics for Business Decision",
   "Section": "A",
-  "Teacher": "MA",
-  "ExamDate": "September 25, 2022",
+  "Teacher": "NJT",
+  "ExamDate": "November 19, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "201 (111173049-111212080)                                                                                                                                                                                                                       202 (111213009-111213109)"
+  "Room": "201 (111173089-111221018)                                                                                                                                                                                                                       202 (111221024-114191012)"
  },
  {
   "Dept": "BBA",
@@ -15,9 +15,9 @@
   "CourseTitle": "Business Mathematics II\/Mathematics for Business Decision",
   "Section": "B",
   "Teacher": "MA",
-  "ExamDate": "September 25, 2022",
+  "ExamDate": "November 19, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "203 (111181148-111212055)                                                                                                                                                                                                                       204 (111212057-114212003)"
+  "Room": "203 (111153159-111222173)"
  },
  {
   "Dept": "BBA",
@@ -25,9 +25,9 @@
   "CourseTitle": "Business Mathematics II\/Mathematics for Business Decision",
   "Section": "C",
   "Teacher": "MA",
-  "ExamDate": "September 25, 2022",
+  "ExamDate": "November 19, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "205 (111151461-111213099)"
+  "Room": "204 (111181086-111221012)                                                                                                                                                                                                                       205 (111221023-114221022)"
  },
  {
   "Dept": "BBA",
@@ -35,109 +35,109 @@
   "CourseTitle": "Basic English\/English I",
   "Section": "O",
   "Teacher": "SaAr",
-  "ExamDate": "September 25, 2022",
+  "ExamDate": "November 19, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "202 (111221031-111222142)                                                                                                                                                                                                                       203 (111222144-121222016)"
+  "Room": "202 (111213094-1112230239)                                                                                                                                                                                                                       203 (1112230246-1212230017)"
  },
  {
   "Dept": "BBA",
   "CourseCode": "ENG 1011\/ENG 1101",
   "CourseTitle": "Basic English\/English I",
   "Section": "P",
-  "Teacher": "MdNA",
-  "ExamDate": "September 25, 2022",
+  "Teacher": "DN",
+  "ExamDate": "November 19, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "204 (111212040-111222062)                                                                                                                                                                                                                       205 (111222071-114222015)"
+  "Room": "204 (111213106-1112230109)                                                                                                                                                                                                                       205 (1112230114-1142230020)"
  },
  {
   "Dept": "BBA",
   "CourseCode": "ENG 1011\/ENG 1101",
   "CourseTitle": "Basic English\/English I",
   "Section": "Q",
-  "Teacher": "MdNA",
-  "ExamDate": "September 25, 2022",
+  "Teacher": "DN",
+  "ExamDate": "November 19, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "206 (111213064-111222048)                                                                                                                                                                                                                       207 (111222058-114222005)"
+  "Room": "206 (111222106-1112230119)                                                                                                                                                                                                                       207 (1112230122-1142230010)"
  },
  {
   "Dept": "BBA",
   "CourseCode": "ENG 1011\/ENG 1101",
   "CourseTitle": "Basic English\/English I",
   "Section": "R",
-  "Teacher": "SaAr",
-  "ExamDate": "September 25, 2022",
+  "Teacher": "DN",
+  "ExamDate": "November 19, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "208 (111212029-111222063)                                                                                                                                                                                                                       209 (111222065-114222012)"
+  "Room": "208 (111221138-1112230123)                                                                                                                                                                                                                       209 (1112230125-1142230018)"
  },
  {
   "Dept": "BBA",
   "CourseCode": "ENG 1011\/ENG 1101",
   "CourseTitle": "Basic English\/English I",
   "Section": "S",
-  "Teacher": "MKH",
-  "ExamDate": "September 25, 2022",
+  "Teacher": "DN",
+  "ExamDate": "November 19, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "210 (111221108-111222154)                                                                                                                                                                                                                       211 (111222155-114222017)"
+  "Room": "210 (111222072-1112230156)                                                                                                                                                                                                                       211 (1112230160-1142230022)"
  },
  {
   "Dept": "BBA",
-  "CourseCode": "FIN 4323",
-  "CourseTitle": "Working Capital Management",
-  "Section": "A",
-  "Teacher": "NFa",
-  "ExamDate": "September 25, 2022",
+  "CourseCode": "ENG 1011\/ENG 1101",
+  "CourseTitle": "Basic English\/English I",
+  "Section": "T",
+  "Teacher": "DN",
+  "ExamDate": "November 19, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "206 (111153047-111201170)"
+  "Room": "222 (111211082-1112230134)                                                                                                                                                                                                                       223 (1112230137-1142230021)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "ENG 1011\/ENG 1101",
+  "CourseTitle": "Basic English\/English I",
+  "Section": "U",
+  "Teacher": "SaAr",
+  "ExamDate": "November 19, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "224 (111221088-1112230142)                                                                                                                                                                                                                       225 (1112230168-1142230005)"
  },
  {
   "Dept": "BBA",
   "CourseCode": "MGT 3224\/MGT 4132",
   "CourseTitle": "Operations Management\/Production and Operations Management",
   "Section": "A",
-  "Teacher": "MSna",
-  "ExamDate": "September 25, 2022",
+  "Teacher": "ARO",
+  "ExamDate": "November 19, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "207 (111162107-111201088)                                                                                                                                                                                                                       208 (111201103-121192003)"
+  "Room": "206 (111161109-111193026)                                                                                                                                                                                                                       207 (111193034-121152014)"
  },
  {
   "Dept": "BBA",
   "CourseCode": "MGT 3224\/MGT 4132",
   "CourseTitle": "Operations Management\/Production and Operations Management",
   "Section": "B",
-  "Teacher": "MSna",
-  "ExamDate": "September 25, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "209 (111172069-111201028)                                                                                                                                                                                                                       210 (111201059-121183006)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "MGT 3224\/MGT 4132",
-  "CourseTitle": "Operations Management\/Production and Operations Management",
-  "Section": "C",
   "Teacher": "ARO",
-  "ExamDate": "September 25, 2022",
+  "ExamDate": "November 19, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "211 (111181008-121193004)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "MGT 3224\/MGT 4132",
-  "CourseTitle": "Operations Management\/Production and Operations Management",
-  "Section": "D",
-  "Teacher": "ARO",
-  "ExamDate": "September 25, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "222 (111182003-114191010)"
+  "Room": "208 (111171276-111201096)                                                                                                                                                                                                                       209 (111201131-114203001)"
  },
  {
   "Dept": "BBA in AIS",
-  "CourseCode": "AIS 3311",
-  "CourseTitle": "Accounting Information Systems and Practice",
+  "CourseCode": "AIS 3209",
+  "CourseTitle": "Tax Accounting and Tax Planning",
   "Section": "A",
-  "Teacher": "MTH",
-  "ExamDate": "September 25, 2022",
+  "Teacher": "MHM",
+  "ExamDate": "November 19, 2022",
   "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "Computer Lab 1 (0226) (114183004-114201013)"
+  "Room": "204 (114171027-114213004)"
+ },
+ {
+  "Dept": "BSECO",
+  "CourseCode": "ECO 4390",
+  "CourseTitle": "Research Methodology",
+  "Section": "A",
+  "Teacher": "AAsh",
+  "ExamDate": "November 19, 2022",
+  "ExamTime": "11:30 AM - 1:30 PM",
+  "Room": "201 (121181012-121211001)"
  },
  {
   "Dept": "BBA",
@@ -145,9 +145,9 @@
   "CourseTitle": "Composition and Communication Skills\/English II",
   "Section": "O",
   "Teacher": "MKH",
-  "ExamDate": "September 25, 2022",
+  "ExamDate": "November 19, 2022",
   "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "202 (111212052-111221099)                                                                                                                                                                                                                       203 (111221101-121221018)"
+  "Room": "202 (111211049-111222120)                                                                                                                                                                                                                       203 (111222121-121222016)"
  },
  {
   "Dept": "BBA",
@@ -155,9 +155,9 @@
   "CourseTitle": "Composition and Communication Skills\/English II",
   "Section": "P",
   "Teacher": "MKH",
-  "ExamDate": "September 25, 2022",
+  "ExamDate": "November 19, 2022",
   "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "204 (111213058-111221112)                                                                                                                                                                                                                       205 (111221113-121221014)"
+  "Room": "204 (111153201-121211002)"
  },
  {
   "Dept": "BBA",
@@ -165,9 +165,9 @@
   "CourseTitle": "Composition and Communication Skills\/English II",
   "Section": "Q",
   "Teacher": "MKH",
-  "ExamDate": "September 25, 2022",
+  "ExamDate": "November 19, 2022",
   "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "206 (111212008-111221137)                                                                                                                                                                                                                       207 (111221139-121222011)"
+  "Room": "205 (111213036-111222094)                                                                                                                                                                                                                       206 (111222104-121212005)"
  },
  {
   "Dept": "BBA",
@@ -175,589 +175,649 @@
   "CourseTitle": "Composition and Communication Skills\/English II",
   "Section": "R",
   "Teacher": "MKH",
-  "ExamDate": "September 25, 2022",
+  "ExamDate": "November 19, 2022",
   "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "208 (111213082-111221114)                                                                                                                                                                                                                       209 (111221118-121221020)"
+  "Room": "207 (111213116-111222096)                                                                                                                                                                                                                       208 (111222099-121222014)"
  },
  {
   "Dept": "BBA",
   "CourseCode": "ENG 1013\/ENG 1204",
   "CourseTitle": "Composition and Communication Skills\/English II",
   "Section": "S",
-  "Teacher": "MdNA",
-  "ExamDate": "September 25, 2022",
+  "Teacher": "NaHa",
+  "ExamDate": "November 19, 2022",
   "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "210 (111182111-114221021)"
+  "Room": "209 (111213083-121221013)"
  },
  {
   "Dept": "BBA",
-  "CourseCode": "MKT 4102",
-  "CourseTitle": "Services Marketing",
+  "CourseCode": "MKT 4204",
+  "CourseTitle": "Strategic Marketing",
   "Section": "A",
   "Teacher": "KA",
-  "ExamDate": "September 25, 2022",
+  "ExamDate": "November 19, 2022",
   "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "202 (111153159-111201044)"
+  "Room": "202 (111142132-111183043)                                                                                                                                                                                                                       203 (111183066-111201253)"
  },
  {
   "Dept": "BBA",
-  "CourseCode": "MKT 4102",
-  "CourseTitle": "Services Marketing",
-  "Section": "B",
-  "Teacher": "KA",
-  "ExamDate": "September 25, 2022",
-  "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "203 (111151352-111183011)                                                                                                                                                                                                                       204 (111183029-111201181)"
- },
- {
-  "Dept": "BSECO",
-  "CourseCode": "ECO 3371",
-  "CourseTitle": "Econometrics II",
+  "CourseCode": "BIE 4213",
+  "CourseTitle": "Franchising",
   "Section": "A",
-  "Teacher": "WYn",
-  "ExamDate": "September 25, 2022",
+  "Teacher": "YI",
+  "ExamDate": "November 19, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "201 (111183055-121211001)"
+  "Room": "210 (111171089-111202098)"
  },
  {
   "Dept": "BBA",
-  "CourseCode": "MIS 4284",
-  "CourseTitle": "Computer Networks",
+  "CourseCode": "MIS 4181",
+  "CourseTitle": "System Analysis & Design",
   "Section": "A",
   "Teacher": "AIK",
-  "ExamDate": "September 25, 2022",
+  "ExamDate": "November 19, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "222 (111171012-111202167)"
+  "Room": "Computer Lab 1 (0226) (111182009-111202167)"
  },
  {
-  "Dept": "BBA",
-  "CourseCode": "MGT 2318",
-  "CourseTitle": "Organizational Behavior",
+  "Dept": "BBA in AIS",
+  "CourseCode": "MGT 2208",
+  "CourseTitle": "Human Resource Management & Organizational Behavior",
   "Section": "A",
-  "Teacher": "SK",
-  "ExamDate": "September 26, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "202 (111173038-111222147)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "MGT 2318",
-  "CourseTitle": "Organizational Behavior",
-  "Section": "B",
-  "Teacher": "SK",
-  "ExamDate": "September 26, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "203 (111191062-111203004)                                                                                                                                                                                                                       204 (111211004-111212026)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "MGT 2318",
-  "CourseTitle": "Organizational Behavior",
-  "Section": "C",
   "Teacher": "IS",
-  "ExamDate": "September 26, 2022",
+  "ExamDate": "November 20, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "205 (111181010-111212095)"
+  "Room": "201 (114172005-114213004)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "MGT 2318",
+  "CourseTitle": "Organizational Behavior",
+  "Section": "A",
+  "Teacher": "SK",
+  "ExamDate": "November 20, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "202 (111153201-111212010)                                                                                                                                                                                                                       203 (111212013-111222107)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "MGT 2318",
+  "CourseTitle": "Organizational Behavior",
+  "Section": "B",
+  "Teacher": "SK",
+  "ExamDate": "November 20, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "204 (111183081-111212074)"
  },
  {
   "Dept": "BBA",
   "CourseCode": "MGT 3122",
   "CourseTitle": "Human Resources Management",
   "Section": "A",
-  "Teacher": "YI",
-  "ExamDate": "September 26, 2022",
+  "Teacher": "IS",
+  "ExamDate": "November 20, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "202 (111191162-111222113)"
+  "Room": "202 (111173035-111201129)                                                                                                                                                                                                                       203 (111201160-1112230184)"
  },
  {
   "Dept": "BBA",
   "CourseCode": "MGT 3122",
   "CourseTitle": "Human Resources Management",
   "Section": "B",
-  "Teacher": "YI",
-  "ExamDate": "September 26, 2022",
+  "Teacher": "HRJ",
+  "ExamDate": "November 20, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "203 (111173035-111201033)                                                                                                                                                                                                                       204 (111201052-111212038)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "MGT 3122",
-  "CourseTitle": "Human Resources Management",
-  "Section": "C",
-  "Teacher": "NAr",
-  "ExamDate": "September 26, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "205 (111153201-111201017)                                                                                                                                                                                                                       206 (111201020-111203003)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "MGT 3122",
-  "CourseTitle": "Human Resources Management",
-  "Section": "D",
-  "Teacher": "NAr",
-  "ExamDate": "September 26, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "207 (111171276-111203009)"
+  "Room": "204 (111171251-111192095)                                                                                                                                                                                                                       205 (111192105-111212081)"
  },
  {
   "Dept": "BBA",
   "CourseCode": "MGT 4356",
   "CourseTitle": "Strategic Management",
   "Section": "A",
-  "Teacher": "ASSZ",
-  "ExamDate": "September 26, 2022",
+  "Teacher": "NAr",
+  "ExamDate": "November 20, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "206 (111153023-111182121)                                                                                                                                                                                                                       207 (111183009-114213003)"
+  "Room": "205 (111143295-114171027)"
  },
  {
   "Dept": "BBA",
   "CourseCode": "MGT 4356",
   "CourseTitle": "Strategic Management",
   "Section": "B",
-  "Teacher": "ASSZ",
-  "ExamDate": "September 26, 2022",
+  "Teacher": "NAr",
+  "ExamDate": "November 20, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "208 (111143047-111182033)                                                                                                                                                                                                                       209 (111182035-114193003)"
+  "Room": "206 (111153070-114201002)"
  },
  {
   "Dept": "BBA",
-  "CourseCode": "SCM 4102",
-  "CourseTitle": "Logistics Management",
+  "CourseCode": "SCM 4313",
+  "CourseTitle": "Service Operation Management",
   "Section": "A",
   "Teacher": "SdHn",
-  "ExamDate": "September 26, 2022",
+  "ExamDate": "November 20, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "210 (111172107-111191013)                                                                                                                                                                                                                       211 (111191029-111211029)"
+  "Room": "206 (111163104-111201258)"
  },
  {
   "Dept": "BSECO",
-  "CourseCode": "ECO 3302\/ECO 3304",
-  "CourseTitle": "Intermediate Macroeconomic Theory II\/Intermediate Macroeconomics II",
+  "CourseCode": "ECO 3301\/ECO 3303",
+  "CourseTitle": "Intermediate Microeconomic Theory II\/Intermediate Microeconomics II",
   "Section": "A",
   "Teacher": "MSS",
-  "ExamDate": "September 26, 2022",
+  "ExamDate": "November 20, 2022",
   "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "206 (121193001-121202009)"
+  "Room": "201 (111183055-121212006)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "HRM 4368",
+  "CourseTitle": "Human Resources Analytics",
+  "Section": "A",
+  "Teacher": "BJ",
+  "ExamDate": "November 20, 2022",
+  "ExamTime": "11:30 AM - 1:30 PM",
+  "Room": "Computer Lab 1 (0226) (111172066-111202098)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "MGT 1307",
+  "CourseTitle": "Principles of Management",
+  "Section": "A",
+  "Teacher": "BJ",
+  "ExamDate": "November 20, 2022",
+  "ExamTime": "11:30 AM - 1:30 PM",
+  "Room": "202 (111173084-111221130)                                                                                                                                                                                                                       203 (111221139-114222010)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "MGT 1307",
+  "CourseTitle": "Principles of Management",
+  "Section": "B",
+  "Teacher": "NJT",
+  "ExamDate": "November 20, 2022",
+  "ExamTime": "11:30 AM - 1:30 PM",
+  "Room": "204 (111183050-111221019)                                                                                                                                                                                                                       205 (111221021-121163009)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "MGT 1307",
+  "CourseTitle": "Principles of Management",
+  "Section": "C",
+  "Teacher": "BJ",
+  "ExamDate": "November 20, 2022",
+  "ExamTime": "11:30 AM - 1:30 PM",
+  "Room": "206 (111182059-111221040)                                                                                                                                                                                                                       207 (111221062-114221015)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "MGT 1307",
+  "CourseTitle": "Principles of Management",
+  "Section": "D",
+  "Teacher": "IS",
+  "ExamDate": "November 20, 2022",
+  "ExamTime": "11:30 AM - 1:30 PM",
+  "Room": "208 (111181123-111221103)                                                                                                                                                                                                                       209 (111221111-114221017)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "ACN 4340\/AIS 2306",
+  "CourseTitle": "Auditing\/Principles of Auditing",
+  "Section": "A",
+  "Teacher": "MTH",
+  "ExamDate": "November 20, 2022",
+  "ExamTime": "2:00 PM - 4:00 PM",
+  "Room": "202 (111153023-114202004)"
+ },
+ {
+  "Dept": "BSECO",
+  "CourseCode": "ECO 2301\/ECO 2304\/ECO 2314",
+  "CourseTitle": "Intermediate Microeconomic Theory I\/Intermediate Microeconomics\/Intermediate Microeconomics I",
+  "Section": "A",
+  "Teacher": "MSS",
+  "ExamDate": "November 20, 2022",
+  "ExamTime": "2:00 PM - 4:00 PM",
+  "Room": "201 (121182002-121221020)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "MIS 4388",
+  "CourseTitle": "Advanced Database Management",
+  "Section": "A",
+  "Teacher": "AIK",
+  "ExamDate": "November 20, 2022",
+  "ExamTime": "2:00 PM - 4:00 PM",
+  "Room": "Computer Lab 1 (0226) (111182020-111202167)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "BUS 1102",
+  "CourseTitle": "Introduction to Business",
+  "Section": "O",
+  "Teacher": "KA",
+  "ExamDate": "November 21, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "202 (111172025-1112230197)                                                                                                                                                                                                                       203 (1112230199-121222016)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "BUS 1102",
+  "CourseTitle": "Introduction to Business",
+  "Section": "P",
+  "Teacher": "KA",
+  "ExamDate": "November 21, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "204 (111182112-1112230108)                                                                                                                                                                                                                       205 (1112230109-1142230020)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "BUS 1102",
+  "CourseTitle": "Introduction to Business",
+  "Section": "Q",
+  "Teacher": "SeyS",
+  "ExamDate": "November 21, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "206 (111221164-1112230122)                                                                                                                                                                                                                       207 (1112230124-1142230011)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "BUS 1102",
+  "CourseTitle": "Introduction to Business",
+  "Section": "R",
+  "Teacher": "KA",
+  "ExamDate": "November 21, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "208 (111221050-1112230116)                                                                                                                                                                                                                       209 (1112230123-1142230019)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "BUS 1102",
+  "CourseTitle": "Introduction to Business",
+  "Section": "S",
+  "Teacher": "SeyS",
+  "ExamDate": "November 21, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "210 (111221033-1112230148)                                                                                                                                                                                                                       211 (1112230150-1142230022)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "BUS 1102",
+  "CourseTitle": "Introduction to Business",
+  "Section": "T",
+  "Teacher": "Jkn",
+  "ExamDate": "November 21, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "222 (111173053-1112230137)                                                                                                                                                                                                                       223 (1112230139-1142230021)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "BUS 1102",
+  "CourseTitle": "Introduction to Business",
+  "Section": "U",
+  "Teacher": "AAFd",
+  "ExamDate": "November 21, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "224 (111221025-1112230187)                                                                                                                                                                                                                       225 (1112230188-1142230005)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "MKT 3336",
+  "CourseTitle": "Marketing Management",
+  "Section": "A",
+  "Teacher": "MdSA",
+  "ExamDate": "November 21, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "202 (111173065-111201067)                                                                                                                                                                                                                       203 (111201085-111211095)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "MKT 3336",
+  "CourseTitle": "Marketing Management",
+  "Section": "B",
+  "Teacher": "SRA",
+  "ExamDate": "November 21, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "204 (111172099-111201163)                                                                                                                                                                                                                       205 (111201173-111211072)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "MKT 3336",
+  "CourseTitle": "Marketing Management",
+  "Section": "C",
+  "Teacher": "MdSA",
+  "ExamDate": "November 21, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "206 (111181111-1112230184)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "MKT 4101",
+  "CourseTitle": "Consumer Behavior",
+  "Section": "A",
+  "Teacher": "MKHn",
+  "ExamDate": "November 21, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "207 (111143295-111183039)                                                                                                                                                                                                                       208 (111183078-111201253)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "MKT 4101",
+  "CourseTitle": "Consumer Behavior",
+  "Section": "B",
+  "Teacher": "MKHn",
+  "ExamDate": "November 21, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "209 (111143096-111201245)"
+ },
+ {
+  "Dept": "BSECO",
+  "CourseCode": "ECO 4386",
+  "CourseTitle": "Energy Economics and Policy",
+  "Section": "A",
+  "Teacher": "WYn",
+  "ExamDate": "November 21, 2022",
+  "ExamTime": "11:30 AM - 1:30 PM",
+  "Room": "201 (121152014-121202009)"
  },
  {
   "Dept": "BBA",
   "CourseCode": "HRM 4366",
   "CourseTitle": "Strategic Human Resource Management",
   "Section": "A",
-  "Teacher": "SK",
-  "ExamDate": "September 26, 2022",
+  "Teacher": "PMM",
+  "ExamDate": "November 21, 2022",
   "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "202 (111163066-111202098)"
+  "Room": "202 (111151461-111222079)"
  },
  {
   "Dept": "BBA",
-  "CourseCode": "MGT 1307",
-  "CourseTitle": "Principles of Management",
+  "CourseCode": "MKT 2320",
+  "CourseTitle": "Introduction to Marketing",
   "Section": "A",
-  "Teacher": "BJ",
-  "ExamDate": "September 26, 2022",
+  "Teacher": "SRA",
+  "ExamDate": "November 21, 2022",
   "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "202 (111181148-111213043)                                                                                                                                                                                                                       203 (111213052-121181013)"
+  "Room": "202 (111161241-111211015)                                                                                                                                                                                                                       203 (111211017-121221020)"
  },
  {
   "Dept": "BBA",
-  "CourseCode": "MGT 1307",
-  "CourseTitle": "Principles of Management",
+  "CourseCode": "MKT 2320",
+  "CourseTitle": "Introduction to Marketing",
   "Section": "B",
-  "Teacher": "BJ",
-  "ExamDate": "September 26, 2022",
+  "Teacher": "SRA",
+  "ExamDate": "November 21, 2022",
   "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "204 (111181118-114213007)"
+  "Room": "204 (111171251-121213009)"
  },
  {
   "Dept": "BBA",
-  "CourseCode": "MGT 1307",
-  "CourseTitle": "Principles of Management",
-  "Section": "C",
-  "Teacher": "BJ",
-  "ExamDate": "September 26, 2022",
+  "CourseCode": "SOC 1105",
+  "CourseTitle": "Sociology and Psychology",
+  "Section": "A",
+  "Teacher": "ShaIs",
+  "ExamDate": "November 21, 2022",
   "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "205 (111202002-111213033)                                                                                                                                                                                                                       206 (111213041-114212003)"
+  "Room": "203 (111201236-111213053)                                                                                                                                                                                                                       204 (111213056-121221014)"
  },
  {
   "Dept": "BBA",
-  "CourseCode": "ACN 4344\/AIS 4301",
-  "CourseTitle": "Advanced Management Accounting\/Management Accounting-II",
-  "Section": "A",
-  "Teacher": "JBS",
-  "ExamDate": "September 26, 2022",
-  "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "202 (111172046-114183009)"
- },
- {
-  "Dept": "BSECO",
-  "CourseCode": "ECO 2302\/ECO 2305\/ECO 2315",
-  "CourseTitle": "Intermediate Macroeconomic Theory I\/Intermediate Macroeconomics\/Intermediate Macroeconomics I",
-  "Section": "A",
-  "Teacher": "MSS",
-  "ExamDate": "September 26, 2022",
-  "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "201 (111183055-121212006)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "MKT 4309",
-  "CourseTitle": "Global Marketing",
-  "Section": "A",
-  "Teacher": "SeyS",
-  "ExamDate": "September 26, 2022",
-  "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "203 (111152169-111191170)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "BUS 1102",
-  "CourseTitle": "Introduction to Business",
-  "Section": "O",
-  "Teacher": "KA",
-  "ExamDate": "September 27, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "202 (111173084-111222060)                                                                                                                                                                                                                       203 (111222061-121212001)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "BUS 1102",
-  "CourseTitle": "Introduction to Business",
-  "Section": "P",
-  "Teacher": "NAr",
-  "ExamDate": "September 27, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "204 (111213116-111222071)                                                                                                                                                                                                                       205 (111222074-114222015)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "BUS 1102",
-  "CourseTitle": "Introduction to Business",
-  "Section": "Q",
-  "Teacher": "NAr",
-  "ExamDate": "September 27, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "206 (111212090-111222066)                                                                                                                                                                                                                       207 (111222069-114222010)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "BUS 1102",
-  "CourseTitle": "Introduction to Business",
-  "Section": "R",
-  "Teacher": "KA",
-  "ExamDate": "September 27, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "208 (111172003-111222047)                                                                                                                                                                                                                       209 (111222063-114222011)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "BUS 1102",
-  "CourseTitle": "Introduction to Business",
-  "Section": "S",
-  "Teacher": "MKHq",
-  "ExamDate": "September 27, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "210 (111221108-111222156)                                                                                                                                                                                                                       211 (111222158-114222017)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "MKT 3336",
-  "CourseTitle": "Marketing Management",
-  "Section": "A",
-  "Teacher": "MdSA",
-  "ExamDate": "September 27, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "202 (111173015-111201064)                                                                                                                                                                                                                       203 (111201078-111213037)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "MKT 3336",
-  "CourseTitle": "Marketing Management",
+  "CourseCode": "SOC 1105",
+  "CourseTitle": "Sociology and Psychology",
   "Section": "B",
-  "Teacher": "MKHn",
-  "ExamDate": "September 27, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "204 (111181010-111193065)                                                                                                                                                                                                                       205 (111193114-111211013)"
+  "Teacher": "ShaIs",
+  "ExamDate": "November 21, 2022",
+  "ExamTime": "11:30 AM - 1:30 PM",
+  "Room": "205 (111191006-111202136)                                                                                                                                                                                                                       206 (111211009-1142230011)"
  },
  {
   "Dept": "BBA",
-  "CourseCode": "MKT 3336",
-  "CourseTitle": "Marketing Management",
+  "CourseCode": "LAW 2106\/LAW 4151",
+  "CourseTitle": "Business Law\/Commercial & Industrial Laws",
+  "Section": "A",
+  "Teacher": "Jkn",
+  "ExamDate": "November 21, 2022",
+  "ExamTime": "2:00 PM - 4:00 PM",
+  "Room": "210 (111171089-111193024)                                                                                                                                                                                                                       211 (111193058-114191005)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "LAW 2106\/LAW 4151",
+  "CourseTitle": "Business Law\/Commercial & Industrial Laws",
+  "Section": "B",
+  "Teacher": "Jkn",
+  "ExamDate": "November 21, 2022",
+  "ExamTime": "2:00 PM - 4:00 PM",
+  "Room": "222 (111151352-111193066)                                                                                                                                                                                                                       223 (111193101-111203012)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "LAW 2106\/LAW 4151",
+  "CourseTitle": "Business Law\/Commercial & Industrial Laws",
   "Section": "C",
-  "Teacher": "MdSA",
-  "ExamDate": "September 27, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "206 (111182024-111201062)                                                                                                                                                                                                                       207 (111201069-111222079)"
+  "Teacher": "ShaIs",
+  "ExamDate": "November 21, 2022",
+  "ExamTime": "2:00 PM - 4:00 PM",
+  "Room": "224 (111171208-111201051)                                                                                                                                                                                                                       225 (111201052-114213007)"
  },
  {
   "Dept": "BBA",
-  "CourseCode": "MKT 3336",
-  "CourseTitle": "Marketing Management",
+  "CourseCode": "LAW 2106\/LAW 4151",
+  "CourseTitle": "Business Law\/Commercial & Industrial Laws",
   "Section": "D",
-  "Teacher": "MKHn",
-  "ExamDate": "September 27, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "208 (111172058-111212081)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "MKT 4203",
-  "CourseTitle": "Integrated Communication",
-  "Section": "A",
-  "Teacher": "SRA",
-  "ExamDate": "September 27, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "209 (111151098-111201044)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "MKT 4203",
-  "CourseTitle": "Integrated Communication",
-  "Section": "B",
-  "Teacher": "MKHn",
-  "ExamDate": "September 27, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "210 (111162129-111181148)                                                                                                                                                                                                                       211 (111182019-111201181)"
- },
- {
-  "Dept": "BSECO",
-  "CourseCode": "ECO 3226",
-  "CourseTitle": "Bangladesh Studies",
-  "Section": "A",
-  "Teacher": "TaA",
-  "ExamDate": "September 27, 2022",
-  "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "201 (121181010-121203005)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "HRM 4358",
-  "CourseTitle": "Performance Appraisal and Management",
-  "Section": "A",
-  "Teacher": "NAr",
-  "ExamDate": "September 27, 2022",
-  "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "202 (111151352-111181090)                                                                                                                                                                                                                       203 (111181121-111201124)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "MKT 2320",
-  "CourseTitle": "Introduction to Marketing",
-  "Section": "A",
-  "Teacher": "SRA",
-  "ExamDate": "September 27, 2022",
-  "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "202 (111173089-111201269)                                                                                                                                                                                                                       203 (111202028-114213003)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "MKT 2320",
-  "CourseTitle": "Introduction to Marketing",
-  "Section": "B",
-  "Teacher": "SRA",
-  "ExamDate": "September 27, 2022",
-  "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "204 (111162121-111201085)                                                                                                                                                                                                                       205 (111201110-114211008)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "SOC 1105",
-  "CourseTitle": "Sociology and Psychology",
-  "Section": "A",
-  "Teacher": "MRM",
-  "ExamDate": "September 27, 2022",
-  "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "204 (111191070-121212003)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "SOC 1105",
-  "CourseTitle": "Sociology and Psychology",
-  "Section": "B",
   "Teacher": "ShaIs",
-  "ExamDate": "September 27, 2022",
-  "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "205 (111191106-111212016)                                                                                                                                                                                                                       206 (111212031-111212082)"
+  "ExamDate": "November 21, 2022",
+  "ExamTime": "2:00 PM - 4:00 PM",
+  "Room": "228 (111172029-111201156)                                                                                                                                                                                                                       229 (111201207-114201014)"
  },
  {
-  "Dept": "BBA",
-  "CourseCode": "SOC 1105",
-  "CourseTitle": "Sociology and Psychology",
-  "Section": "C",
-  "Teacher": "ShaIs",
-  "ExamDate": "September 27, 2022",
-  "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "207 (111191025-121213002)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "LAW 2106\/LAW 4151",
-  "CourseTitle": "Business Law\/Commercial & Industrial Laws",
+  "Dept": "BBA in AIS",
+  "CourseCode": "LAW 3328",
+  "CourseTitle": "Corporate Law & Secretarial Practice",
   "Section": "A",
   "Teacher": "TJn",
-  "ExamDate": "September 27, 2022",
+  "ExamDate": "November 21, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "222 (111143295-114202009)"
+  "Room": "201 (114151026-114211008)"
  },
  {
   "Dept": "BBA",
-  "CourseCode": "LAW 2106\/LAW 4151",
-  "CourseTitle": "Business Law\/Commercial & Industrial Laws",
-  "Section": "B",
-  "Teacher": "TJn",
-  "ExamDate": "September 27, 2022",
-  "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "223 (111153161-111192053)                                                                                                                                                                                                                       224 (111192077-114212004)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "MIS 4385",
-  "CourseTitle": "E-Commerce and Web Management",
+  "CourseCode": "MIS 4283",
+  "CourseTitle": "Data Communication System",
   "Section": "A",
   "Teacher": "AIK",
-  "ExamDate": "September 27, 2022",
+  "ExamDate": "November 21, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "Computer Lab 1 (0226) (111171043-111202167)"
+  "Room": "Computer Lab 1 (0226) (111171227-111193105)"
  },
  {
   "Dept": "BBA",
   "CourseCode": "CST 1206\/CST 1303",
   "CourseTitle": "Computer Application in Business\/Computer Applications",
   "Section": "A",
-  "Teacher": "JHC",
-  "ExamDate": "September 28, 2022",
+  "Teacher": "PMM",
+  "ExamDate": "November 22, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "Computer Lab 1 (0226) (111191085-111213077)                                                                                                                                                                                                                       Computer Lab 2 (0227) (111213090-121221019)"
+  "Room": "Computer Lab 1 (0226) (111211054-111221151)                                                                                                                                                                                                                       Computer Lab 2 (0227) (111221167-121221018)"
  },
  {
   "Dept": "BBA",
   "CourseCode": "CST 1206\/CST 1303",
   "CourseTitle": "Computer Application in Business\/Computer Applications",
   "Section": "B",
-  "Teacher": "JHC",
-  "ExamDate": "September 28, 2022",
+  "Teacher": "PMM",
+  "ExamDate": "November 22, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "Computer Lab 3 (0327) (111202166-111213057)                                                                                                                                                                                                                       Computer Lab 4 (0427) (111213059-121213008)"
+  "Room": "Computer Lab 3 (0327) (111153201-111221077)                                                                                                                                                                                                                       Computer Lab 4 (0427) (111221078-121221005)"
  },
  {
   "Dept": "BBA",
   "CourseCode": "CST 1206\/CST 1303",
   "CourseTitle": "Computer Application in Business\/Computer Applications",
   "Section": "C",
-  "Teacher": "JHC",
-  "ExamDate": "September 28, 2022",
+  "Teacher": "ZN",
+  "ExamDate": "November 22, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "Computer Lab 13 (0326) (111202111-111213080)                                                                                                                                                                                                                       Computer Lab 14 (0426) (111213083-121213001)"
+  "Room": "Computer Lab 5 (0523) (111211046-111221099)                                                                                                                                                                                                                       Computer Lab 6 (0524) (111221106-114221022)"
  },
  {
   "Dept": "BBA",
   "CourseCode": "CST 1206\/CST 1303",
   "CourseTitle": "Computer Application in Business\/Computer Applications",
   "Section": "D",
-  "Teacher": "PMM",
-  "ExamDate": "September 28, 2022",
+  "Teacher": "JHC",
+  "ExamDate": "November 22, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "Computer Lab 7 (0522) (111173060-121221008)"
+  "Room": "Computer Lab 7 (0522) (111212008-111221104)                                                                                                                                                                                                                       Computer Lab 8 (0528) (111221124-121221014)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "CST 1206\/CST 1303",
+  "CourseTitle": "Computer Application in Business\/Computer Applications",
+  "Section": "E",
+  "Teacher": "JHC",
+  "ExamDate": "November 22, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "Computer Lab 9 (0529) (111211021-111221146)                                                                                                                                                                                                                       Computer Lab 10 (0530) (111221165-121221012)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "CST 1206\/CST 1303",
+  "CourseTitle": "Computer Application in Business\/Computer Applications",
+  "Section": "F",
+  "Teacher": "JHC",
+  "ExamDate": "November 22, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "Computer Lab 11 (0531) (111191042-1212230001)"
  },
  {
   "Dept": "BBA",
   "CourseCode": "FIN 2319",
   "CourseTitle": "Principles of Finance",
+  "Section": "A",
+  "Teacher": "MA",
+  "ExamDate": "November 22, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "202 (111181064-111201185)                                                                                                                                                                                                                       203 (111201193-114201016)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "FIN 2319",
+  "CourseTitle": "Principles of Finance",
+  "Section": "B",
+  "Teacher": "MMs",
+  "ExamDate": "November 22, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "204 (111173038-111201134)                                                                                                                                                                                                                       205 (111201136-111211071)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "FIN 2319",
+  "CourseTitle": "Principles of Finance",
+  "Section": "C",
+  "Teacher": "MdQ",
+  "ExamDate": "November 22, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "206 (111171117-114192003)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "FIN 3123",
+  "CourseTitle": "Managerial Finance",
+  "Section": "A",
+  "Teacher": "MEH",
+  "ExamDate": "November 22, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "207 (111172069-111201035)                                                                                                                                                                                                                       208 (111201052-114213004)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "FIN 3123",
+  "CourseTitle": "Managerial Finance",
+  "Section": "B",
+  "Teacher": "MEH",
+  "ExamDate": "November 22, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "209 (111161100-111201083)                                                                                                                                                                                                                       210 (111201091-114201011)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "FIN 3123",
+  "CourseTitle": "Managerial Finance",
+  "Section": "C",
+  "Teacher": "MEH",
+  "ExamDate": "November 22, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "211 (111153159-114192004)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "FIN 4219",
+  "CourseTitle": "Securities Analysis and Portfolio Management",
   "Section": "A",
   "Teacher": "MMs",
-  "ExamDate": "September 28, 2022",
+  "ExamDate": "November 22, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "202 (111171185-111201078)                                                                                                                                                                                                                       203 (111201083-114203001)"
+  "Room": "223 (111163070-111192014)                                                                                                                                                                                                                       224 (111192020-114201013)"
  },
  {
   "Dept": "BBA",
-  "CourseCode": "FIN 2319",
-  "CourseTitle": "Principles of Finance",
-  "Section": "B",
-  "Teacher": "MdQ",
-  "ExamDate": "September 28, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "204 (111171047-111201102)                                                                                                                                                                                                                       205 (111201126-114213004)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "FIN 2319",
-  "CourseTitle": "Principles of Finance",
-  "Section": "C",
-  "Teacher": "MEH",
-  "ExamDate": "September 28, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "206 (111161109-114193003)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "FIN 3123",
-  "CourseTitle": "Managerial Finance",
+  "CourseCode": "ACN 4342\/AIS 3310",
+  "CourseTitle": "Accounting Information Systems",
   "Section": "A",
-  "Teacher": "MEH",
-  "ExamDate": "September 28, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "207 (111161100-111193121)                                                                                                                                                                                                                       208 (111201006-114201012)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "FIN 3123",
-  "CourseTitle": "Managerial Finance",
-  "Section": "B",
-  "Teacher": "MEH",
-  "ExamDate": "September 28, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "209 (111143047-111201112)                                                                                                                                                                                                                       210 (111201114-114202004)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "FIN 3123",
-  "CourseTitle": "Managerial Finance",
-  "Section": "C",
-  "Teacher": "MEH",
-  "ExamDate": "September 28, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "211 (111163013-114201014)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "FIN 4218",
-  "CourseTitle": "Financial Statements Analysis",
-  "Section": "A",
-  "Teacher": "MUd",
-  "ExamDate": "September 28, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "201 (111121471-114173008)"
+  "Teacher": "MTH",
+  "ExamDate": "November 22, 2022",
+  "ExamTime": "11:30 AM - 1:30 PM",
+  "Room": "206 (111153023-114182001)"
  },
  {
   "Dept": "BSECO",
-  "CourseCode": "ECO 3350",
-  "CourseTitle": "Development Economics",
+  "CourseCode": "ECO 4380",
+  "CourseTitle": "Urban Economics",
   "Section": "A",
-  "Teacher": "AAsh",
-  "ExamDate": "September 28, 2022",
+  "Teacher": "MSS",
+  "ExamDate": "November 22, 2022",
   "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "201 (121163009-121202009)"
+  "Room": "201 (121173009-121221020)"
  },
  {
   "Dept": "BBA",
-  "CourseCode": "SCM 4103",
-  "CourseTitle": "Global Sourcing and Procurement",
+  "CourseCode": "SCM 4202",
+  "CourseTitle": "Enterprise Resource Planning (ERP)",
   "Section": "A",
   "Teacher": "SdHn",
-  "ExamDate": "September 28, 2022",
+  "ExamDate": "November 22, 2022",
   "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "203 (111142214-111183101)                                                                                                                                                                                                                       204 (111183109-111211029)"
+  "Room": "207 (111173088-111191029)                                                                                                                                                                                                                       208 (111191033-111211029)"
  },
  {
   "Dept": "BBA",
-  "CourseCode": "BUS 3339",
-  "CourseTitle": "Business Research Methodology",
+  "CourseCode": "MGT 3229",
+  "CourseTitle": "Entrepreneurship and Business Plan Development",
   "Section": "A",
-  "Teacher": "MHAMn",
-  "ExamDate": "September 28, 2022",
+  "Teacher": "YI",
+  "ExamDate": "November 22, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "202 (111142214-111201258)"
+  "Room": "202 (111171227-111221159)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "MGT 3229",
+  "CourseTitle": "Entrepreneurship and Business Plan Development",
+  "Section": "B",
+  "Teacher": "YI",
+  "ExamDate": "November 22, 2022",
+  "ExamTime": "2:00 PM - 4:00 PM",
+  "Room": "203 (111162107-111193018)                                                                                                                                                                                                                       204 (111193068-111202182)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "MGT 3229",
+  "CourseTitle": "Entrepreneurship and Business Plan Development",
+  "Section": "C",
+  "Teacher": "YI",
+  "ExamDate": "November 22, 2022",
+  "ExamTime": "2:00 PM - 4:00 PM",
+  "Room": "205 (111142132-111203014)"
  },
  {
   "Dept": "BBA",
@@ -765,9 +825,9 @@
   "CourseTitle": "Advanced Computer Applications in Business",
   "Section": "A",
   "Teacher": "ZN",
-  "ExamDate": "September 28, 2022",
+  "ExamDate": "November 22, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "Computer Lab 1 (0226) (111183054-111201152)                                                                                                                                                                                                                       Computer Lab 2 (0227) (111201179-114211004)"
+  "Room": "Computer Lab 1 (0226) (111183004-111201184)                                                                                                                                                                                                                       Computer Lab 2 (0227) (111201241-114221002)"
  },
  {
   "Dept": "BBA",
@@ -775,9 +835,9 @@
   "CourseTitle": "Advanced Computer Applications in Business",
   "Section": "B",
   "Teacher": "ZN",
-  "ExamDate": "September 28, 2022",
+  "ExamDate": "November 22, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "Computer Lab 3 (0327) (111183078-111201201)                                                                                                                                                                                                                       Computer Lab 4 (0427) (111201238-114213002)"
+  "Room": "Computer Lab 3 (0327) (111183074-111202051)                                                                                                                                                                                                                       Computer Lab 4 (0427) (111202064-114202004)"
  },
  {
   "Dept": "BBA",
@@ -785,29 +845,19 @@
   "CourseTitle": "Advanced Computer Applications in Business",
   "Section": "C",
   "Teacher": "ZN",
-  "ExamDate": "September 28, 2022",
+  "ExamDate": "November 22, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "Computer Lab 5 (0523) (111191063-114213001)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "MIS 2218",
-  "CourseTitle": "Advanced Computer Applications in Business",
-  "Section": "D",
-  "Teacher": "ZN",
-  "ExamDate": "September 28, 2022",
-  "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "Computer Lab 6 (0524) (111191027-111201034)                                                                                                                                                                                                                       Computer Lab 7 (0522) (111201050-114192003)"
+  "Room": "Computer Lab 6 (0524) (111183011-114212004)"
  },
  {
   "Dept": "BBA",
   "CourseCode": "ACN 1205\/AIS 1201",
   "CourseTitle": "Financial Accounting I\/Principles of Accounting",
   "Section": "A",
-  "Teacher": "MHM",
-  "ExamDate": "September 29, 2022",
+  "Teacher": "SKa",
+  "ExamDate": "November 23, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "202 (111192002-111213118)                                                                                                                                                                                                                       203 (111221032-121212004)"
+  "Room": "202 (111212074-111222007)                                                                                                                                                                                                                       203 (111222017-114222014)"
  },
  {
   "Dept": "BBA",
@@ -815,19 +865,19 @@
   "CourseTitle": "Financial Accounting I\/Principles of Accounting",
   "Section": "B",
   "Teacher": "IJ",
-  "ExamDate": "September 29, 2022",
+  "ExamDate": "November 23, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "204 (111173089-111221079)                                                                                                                                                                                                                       205 (111221101-121211009)"
+  "Room": "204 (111192048-111221121)                                                                                                                                                                                                                       205 (111221128-121203002)"
  },
  {
   "Dept": "BBA",
   "CourseCode": "ACN 1205\/AIS 1201",
   "CourseTitle": "Financial Accounting I\/Principles of Accounting",
   "Section": "C",
-  "Teacher": "MHM",
-  "ExamDate": "September 29, 2022",
+  "Teacher": "SKa",
+  "ExamDate": "November 23, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "206 (111182006-111221015)                                                                                                                                                                                                                       207 (111221016-114221022)"
+  "Room": "206 (111172082-111221175)                                                                                                                                                                                                                       207 (111221183-121221010)"
  },
  {
   "Dept": "BBA",
@@ -835,9 +885,9 @@
   "CourseTitle": "Financial Accounting I\/Principles of Accounting",
   "Section": "D",
   "Teacher": "HAh",
-  "ExamDate": "September 29, 2022",
+  "ExamDate": "November 23, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "208 (111181100-111221054)                                                                                                                                                                                                                       209 (111221063-121221020)"
+  "Room": "208 (111181127-111221193)                                                                                                                                                                                                                       209 (111222015-121212006)"
  },
  {
   "Dept": "BBA",
@@ -845,9 +895,9 @@
   "CourseTitle": "Financial Accounting I\/Principles of Accounting",
   "Section": "E",
   "Teacher": "HAh",
-  "ExamDate": "September 29, 2022",
+  "ExamDate": "November 23, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "210 (111181005-111213034)                                                                                                                                                                                                                       211 (111213100-121213009)"
+  "Room": "210 (111173089-111213083)                                                                                                                                                                                                                       211 (111213087-121181012)"
  },
  {
   "Dept": "BBA",
@@ -855,9 +905,9 @@
   "CourseTitle": "Advanced Accounting-I\/Advanced Financial Accounting - I",
   "Section": "A",
   "Teacher": "MHM",
-  "ExamDate": "September 29, 2022",
+  "ExamDate": "November 23, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "202 (111181092-114212004)"
+  "Room": "203 (111163070-114212006)"
  },
  {
   "Dept": "BBA",
@@ -865,39 +915,19 @@
   "CourseTitle": "Advanced Accounting-II\/Advanced Financial Accounting - II",
   "Section": "A",
   "Teacher": "MTH",
-  "ExamDate": "September 29, 2022",
+  "ExamDate": "November 23, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "203 (111161367-114211005)"
- },
- {
-  "Dept": "BBA in AIS",
-  "CourseCode": "AIS 4208",
-  "CourseTitle": "Advanced Accounting-III",
-  "Section": "A",
-  "Teacher": "MdAHn",
-  "ExamDate": "September 29, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "201 (114172008-114213004)"
+  "Room": "204 (111181037-114212004)"
  },
  {
   "Dept": "BBA",
-  "CourseCode": "HRM 4269",
-  "CourseTitle": "Learning and Development Management",
+  "CourseCode": "HRM 4153",
+  "CourseTitle": "Human Resource Planning",
   "Section": "A",
   "Teacher": "HRJ",
-  "ExamDate": "September 29, 2022",
+  "ExamDate": "November 23, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "204 (111163066-111193061)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "HRM 4269",
-  "CourseTitle": "Learning and Development Management",
-  "Section": "B",
-  "Teacher": "HRJ",
-  "ExamDate": "September 29, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "205 (111163059-111181157)                                                                                                                                                                                                                       206 (111182025-111202098)"
+  "Room": "201 (111151461-111183110)                                                                                                                                                                                                                       202 (111191017-111202091)"
  },
  {
   "Dept": "BBA",
@@ -905,19 +935,19 @@
   "CourseTitle": "Financial Accounting II\/Intermediate Accounting",
   "Section": "A",
   "Teacher": "IJ",
-  "ExamDate": "September 29, 2022",
+  "ExamDate": "November 23, 2022",
   "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "202 (111193087-114193004)"
+  "Room": "202 (111191070-111221070)                                                                                                                                                                                                                       203 (111221079-114221017)"
  },
  {
   "Dept": "BBA",
   "CourseCode": "ACN 1309\/AIS 1302",
   "CourseTitle": "Financial Accounting II\/Intermediate Accounting",
   "Section": "B",
-  "Teacher": "ZKm",
-  "ExamDate": "September 29, 2022",
+  "Teacher": "IJ",
+  "ExamDate": "November 23, 2022",
   "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "203 (111181108-114213002)"
+  "Room": "204 (111181100-114221013)"
  },
  {
   "Dept": "BBA",
@@ -925,9 +955,19 @@
   "CourseTitle": "Financial Accounting II\/Intermediate Accounting",
   "Section": "C",
   "Teacher": "IJ",
-  "ExamDate": "September 29, 2022",
+  "ExamDate": "November 23, 2022",
   "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "204 (111171117-114212007)"
+  "Room": "205 (111171251-111213100)                                                                                                                                                                                                                       206 (111213109-114222010)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "ACN 1309\/AIS 1302",
+  "CourseTitle": "Financial Accounting II\/Intermediate Accounting",
+  "Section": "D",
+  "Teacher": "MdAHn",
+  "ExamDate": "November 23, 2022",
+  "ExamTime": "11:30 AM - 1:30 PM",
+  "Room": "207 (111191072-111213013)                                                                                                                                                                                                                       208 (111213033-114221020)"
  },
  {
   "Dept": "BSECO",
@@ -935,89 +975,79 @@
   "CourseTitle": "Mathematics for Business and Economics I",
   "Section": "A",
   "Teacher": "SCT",
-  "ExamDate": "September 29, 2022",
+  "ExamDate": "November 23, 2022",
   "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "203 (121213005-121221018)                                                                                                                                                                                                                       204 (121222001-121222016)"
+  "Room": "203 (121193004-1212230017)"
  },
  {
   "Dept": "BSECO",
-  "CourseCode": "ECO 2303",
-  "CourseTitle": "Mathematics for Business and Economics II",
+  "CourseCode": "ECO 2360\/ECO 2365\/ECO 3354",
+  "CourseTitle": "Environmental and Natural Resource Economics II\/Environmental Economics\/Introduction to Environmental and Natural Resource Economics",
   "Section": "A",
-  "Teacher": "SCT",
-  "ExamDate": "September 29, 2022",
+  "Teacher": "AAsh",
+  "ExamDate": "November 23, 2022",
   "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "201 (121191001-121221019)"
+  "Room": "201 (121151022-121211008)"
  },
  {
   "Dept": "BBA",
-  "CourseCode": "IBS 3338",
-  "CourseTitle": "Export Import Management",
+  "CourseCode": "MGT 3341",
+  "CourseTitle": "Project Management",
   "Section": "A",
-  "Teacher": "SeyS",
-  "ExamDate": "September 29, 2022",
+  "Teacher": "ARO",
+  "ExamDate": "November 23, 2022",
   "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "205 (111151238-111201162)"
+  "Room": "202 (111173096-111211029)"
  },
  {
   "Dept": "BBA",
   "CourseCode": "ACN 2215\/AIS 4103",
   "CourseTitle": "Management Accounting\/Management Accounting-I",
   "Section": "A",
-  "Teacher": "MTH",
-  "ExamDate": "September 29, 2022",
+  "Teacher": "HAh",
+  "ExamDate": "November 23, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "202 (111161100-111201037)                                                                                                                                                                                                                       203 (111201044-114191001)"
+  "Room": "202 (111161188-111201137)                                                                                                                                                                                                                       203 (111201147-114193001)"
  },
  {
   "Dept": "BBA",
   "CourseCode": "ACN 2215\/AIS 4103",
   "CourseTitle": "Management Accounting\/Management Accounting-I",
   "Section": "B",
-  "Teacher": "MTH",
-  "ExamDate": "September 29, 2022",
-  "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "204 (111162107-111193049)                                                                                                                                                                                                                       205 (111193053-114193005)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "ACN 2215\/AIS 4103",
-  "CourseTitle": "Management Accounting\/Management Accounting-I",
-  "Section": "C",
   "Teacher": "JBS",
-  "ExamDate": "September 29, 2022",
+  "ExamDate": "November 23, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "206 (111163118-111201015)                                                                                                                                                                                                                       207 (111201033-114201012)"
+  "Room": "204 (111161100-111201144)                                                                                                                                                                                                                       205 (111201150-114191006)"
  },
  {
   "Dept": "BBA",
-  "CourseCode": "BIE 4201",
-  "CourseTitle": "Business Plan Development",
+  "CourseCode": "BIE 4103",
+  "CourseTitle": "International Entrepreneurship",
   "Section": "A",
-  "Teacher": "Jkn",
-  "ExamDate": "September 29, 2022",
+  "Teacher": "SK",
+  "ExamDate": "November 23, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "202 (111171094-111183101)"
+  "Room": "203 (111153001-111202098)"
  },
  {
   "Dept": "BBA",
-  "CourseCode": "MIS 4395",
-  "CourseTitle": "Structured Programming Language",
+  "CourseCode": "MIS 4394",
+  "CourseTitle": "Network Resource Management",
   "Section": "A",
-  "Teacher": "AIK",
-  "ExamDate": "September 29, 2022",
+  "Teacher": "AAFd",
+  "ExamDate": "November 23, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "Computer Lab 1 (0226) (111161097-111202167)"
+  "Room": "Computer Lab 1 (0226) (111182046-111202167)"
  },
  {
   "Dept": "BBA",
   "CourseCode": "BDS 1201",
   "CourseTitle": "History of the Emergence of Bangladesh",
   "Section": "O",
-  "Teacher": "TJn",
-  "ExamDate": "September 30, 2022",
-  "ExamTime": "08:30 AM - 10:30 AM",
-  "Room": "202 (111212093-111221094)                                                                                                                                                                                                                       203 (111221096-114221019)"
+  "Teacher": "MRM",
+  "ExamDate": "November 24, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "202 (111213045-111222074)                                                                                                                                                                                                                       203 (111222099-114222009)"
  },
  {
   "Dept": "BBA",
@@ -1025,9 +1055,9 @@
   "CourseTitle": "History of the Emergence of Bangladesh",
   "Section": "P",
   "Teacher": "MRM",
-  "ExamDate": "September 30, 2022",
-  "ExamTime": "08:30 AM - 10:30 AM",
-  "Room": "204 (111213120-111221135)                                                                                                                                                                                                                       205 (111221140-121221011)"
+  "ExamDate": "November 24, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "204 (111213083-111222070)                                                                                                                                                                                                                       205 (111222075-121222015)"
  },
  {
   "Dept": "BBA",
@@ -1035,29 +1065,29 @@
   "CourseTitle": "History of the Emergence of Bangladesh",
   "Section": "Q",
   "Teacher": "MRM",
-  "ExamDate": "September 30, 2022",
-  "ExamTime": "08:30 AM - 10:30 AM",
-  "Room": "206 (111211049-111221125)                                                                                                                                                                                                                       207 (111221127-121221018)"
+  "ExamDate": "November 24, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "206 (111212052-114222018)"
  },
  {
   "Dept": "BBA",
   "CourseCode": "BDS 1201",
   "CourseTitle": "History of the Emergence of Bangladesh",
   "Section": "R",
-  "Teacher": "TJn",
-  "ExamDate": "September 30, 2022",
-  "ExamTime": "08:30 AM - 10:30 AM",
-  "Room": "208 (111211054-111221128)                                                                                                                                                                                                                       209 (111221146-121221020)"
+  "Teacher": "MRM",
+  "ExamDate": "November 24, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "207 (111213028-111222078)                                                                                                                                                                                                                       208 (111222081-121221013)"
  },
  {
   "Dept": "BBA",
-  "CourseCode": "FIN 4117",
-  "CourseTitle": "Corporate Finance",
+  "CourseCode": "FIN 4116",
+  "CourseTitle": "Management of Financial Institutions",
   "Section": "A",
-  "Teacher": "MMs",
-  "ExamDate": "September 30, 2022",
-  "ExamTime": "08:30 AM - 10:30 AM",
-  "Room": "201 (111121471-114213003)"
+  "Teacher": "MUd",
+  "ExamDate": "November 24, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "201 (111182052-111201257)"
  },
  {
   "Dept": "BBA",
@@ -1065,19 +1095,29 @@
   "CourseTitle": "Basic Statistics\/Business Statistics I\/Statistics for Business and Economics I",
   "Section": "A",
   "Teacher": "MSna",
-  "ExamDate": "September 30, 2022",
-  "ExamTime": "11:00 AM - 01:00 PM",
-  "Room": "202 (111181005-111212003)                                                                                                                                                                                                                       203 (111212006-121213008)"
+  "ExamDate": "November 24, 2022",
+  "ExamTime": "11:30 AM - 1:30 PM",
+  "Room": "205 (111183042-111213042)                                                                                                                                                                                                                       206 (111213048-121221018)"
  },
  {
   "Dept": "BBA",
   "CourseCode": "BST 1308\/ECO 1334\/QNT 1202",
   "CourseTitle": "Basic Statistics\/Business Statistics I\/Statistics for Business and Economics I",
   "Section": "B",
-  "Teacher": "MHAMn",
-  "ExamDate": "September 30, 2022",
-  "ExamTime": "11:00 AM - 01:00 PM",
-  "Room": "204 (111181118-111201203)                                                                                                                                                                                                                       205 (111201229-121212008)"
+  "Teacher": "MKHq",
+  "ExamDate": "November 24, 2022",
+  "ExamTime": "11:30 AM - 1:30 PM",
+  "Room": "207 (111161188-111201187)                                                                                                                                                                                                                       208 (111201211-121222011)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "BST 1308\/ECO 1334\/QNT 1202",
+  "CourseTitle": "Basic Statistics\/Business Statistics I\/Statistics for Business and Economics I",
+  "Section": "C",
+  "Teacher": "MSna",
+  "ExamDate": "November 24, 2022",
+  "ExamTime": "11:30 AM - 1:30 PM",
+  "Room": "209 (111173070-111212042)                                                                                                                                                                                                                       210 (111212047-121221014)"
  },
  {
   "Dept": "BBA",
@@ -1085,139 +1125,119 @@
   "CourseTitle": "Brand Management",
   "Section": "A",
   "Teacher": "KMR",
-  "ExamDate": "September 30, 2022",
+  "ExamDate": "November 24, 2022",
+  "ExamTime": "11:30 AM - 1:30 PM",
+  "Room": "201 (111151461-111191011)                                                                                                                                                                                                                       202 (111191031-111201134)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "BST 2216\/ECO 1374\/QNT 3307",
+  "CourseTitle": "Applied Business Statistics\/Business Statistics II\/Statistics for Business and Economics II",
+  "Section": "A",
+  "Teacher": "MKHq",
+  "ExamDate": "November 24, 2022",
+  "ExamTime": "2:00 PM - 4:00 PM",
+  "Room": "202 (111182059-111211042)                                                                                                                                                                                                                       203 (111211047-121221020)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "BST 2216\/ECO 1374\/QNT 3307",
+  "CourseTitle": "Applied Business Statistics\/Business Statistics II\/Statistics for Business and Economics II",
+  "Section": "B",
+  "Teacher": "MKHq",
+  "ExamDate": "November 24, 2022",
+  "ExamTime": "2:00 PM - 4:00 PM",
+  "Room": "204 (111171117-111201152)                                                                                                                                                                                                                       205 (111201183-121213004)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "BST 2216\/ECO 1374\/QNT 3307",
+  "CourseTitle": "Applied Business Statistics\/Business Statistics II\/Statistics for Business and Economics II",
+  "Section": "C",
+  "Teacher": "MKHq",
+  "ExamDate": "November 24, 2022",
+  "ExamTime": "2:00 PM - 4:00 PM",
+  "Room": "206 (111163136-111201147)                                                                                                                                                                                                                       207 (111201165-121202003)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "FIN 3337",
+  "CourseTitle": "Principles of Banking and Insurance",
+  "Section": "A",
+  "Teacher": "NFa",
+  "ExamDate": "November 24, 2022",
+  "ExamTime": "2:00 PM - 4:00 PM",
+  "Room": "202 (111143295-111193119)                                                                                                                                                                                                                       203 (111201070-114203001)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "FIN 3337",
+  "CourseTitle": "Principles of Banking and Insurance",
+  "Section": "B",
+  "Teacher": "NFa",
+  "ExamDate": "November 24, 2022",
+  "ExamTime": "2:00 PM - 4:00 PM",
+  "Room": "208 (111153088-121201014)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "HRM 4270",
+  "CourseTitle": "Industrial Law and Employee Relations",
+  "Section": "A",
+  "Teacher": "MKHq",
+  "ExamDate": "November 25, 2022",
+  "ExamTime": "08:30 AM - 10:30 AM",
+  "Room": "202 (111162107-111193118)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "MGT 3225",
+  "CourseTitle": "E-Business",
+  "Section": "A",
+  "Teacher": "TIM",
+  "ExamDate": "November 25, 2022",
+  "ExamTime": "08:30 AM - 10:30 AM",
+  "Room": "Computer Lab 1 (0226) (111182016-111193096)                                                                                                                                                                                                                       Computer Lab 2 (0227) (111193101-114191012)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "MGT 3225",
+  "CourseTitle": "E-Business",
+  "Section": "B",
+  "Teacher": "TIM",
+  "ExamDate": "November 25, 2022",
+  "ExamTime": "08:30 AM - 10:30 AM",
+  "Room": "Computer Lab 3 (0327) (111181100-111201058)                                                                                                                                                                                                                       Computer Lab 4 (0427) (111201069-114172005)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "MGT 3225",
+  "CourseTitle": "E-Business",
+  "Section": "C",
+  "Teacher": "TIM",
+  "ExamDate": "November 25, 2022",
+  "ExamTime": "08:30 AM - 10:30 AM",
+  "Room": "Computer Lab 5 (0523) (111172099-111193054)                                                                                                                                                                                                                       Computer Lab 6 (0524) (111193056-114213003)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "MGT 3225",
+  "CourseTitle": "E-Business",
+  "Section": "D",
+  "Teacher": "TIM",
+  "ExamDate": "November 25, 2022",
+  "ExamTime": "08:30 AM - 10:30 AM",
+  "Room": "Computer Lab 7 (0522) (111181057-114191013)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "ACN 4237\/AIS 3208",
+  "CourseTitle": "Cost Accounting",
+  "Section": "A",
+  "Teacher": "MTH",
+  "ExamDate": "November 25, 2022",
   "ExamTime": "11:00 AM - 01:00 PM",
-  "Room": "201 (111163059-111182113)                                                                                                                                                                                                                       202 (111183010-111201181)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "BIE 4101",
-  "CourseTitle": "Small and Medium Business Entrepreneurship",
-  "Section": "A",
-  "Teacher": "IS",
-  "ExamDate": "September 30, 2022",
-  "ExamTime": "02:30 PM - 04:30 PM",
-  "Room": "202 (111171089-111183078)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "BST 2216\/ECO 1374\/QNT 3307",
-  "CourseTitle": "Applied Business Statistics\/Business Statistics II\/Statistics for Business and Economics II",
-  "Section": "A",
-  "Teacher": "MKHq",
-  "ExamDate": "September 30, 2022",
-  "ExamTime": "02:30 PM - 04:30 PM",
-  "Room": "203 (111163136-111201136)                                                                                                                                                                                                                       204 (111201169-121193002)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "BST 2216\/ECO 1374\/QNT 3307",
-  "CourseTitle": "Applied Business Statistics\/Business Statistics II\/Statistics for Business and Economics II",
-  "Section": "B",
-  "Teacher": "MKHq",
-  "ExamDate": "September 30, 2022",
-  "ExamTime": "02:30 PM - 04:30 PM",
-  "Room": "205 (111172082-111201226)                                                                                                                                                                                                                       206 (111201238-121202003)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "BST 2216\/ECO 1374\/QNT 3307",
-  "CourseTitle": "Applied Business Statistics\/Business Statistics II\/Statistics for Business and Economics II",
-  "Section": "C",
-  "Teacher": "MKHq",
-  "ExamDate": "September 30, 2022",
-  "ExamTime": "02:30 PM - 04:30 PM",
-  "Room": "207 (111181048-111203012)                                                                                                                                                                                                                       208 (111211004-121212006)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "FIN 3337",
-  "CourseTitle": "Principles of Banking and Insurance",
-  "Section": "A",
-  "Teacher": "NFa",
-  "ExamDate": "September 30, 2022",
-  "ExamTime": "02:30 PM - 04:30 PM",
-  "Room": "203 (111151098-111193043)                                                                                                                                                                                                                       204 (111193106-121172004)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "FIN 3337",
-  "CourseTitle": "Principles of Banking and Insurance",
-  "Section": "B",
-  "Teacher": "NFa",
-  "ExamDate": "September 30, 2022",
-  "ExamTime": "02:30 PM - 04:30 PM",
-  "Room": "205 (111152169-111193066)                                                                                                                                                                                                                       206 (111193078-121191012)"
- },
- {
-  "Dept": "BSECO",
-  "CourseCode": "ECO 3311\/ECO 3314\/ECO 3315",
-  "CourseTitle": "Public Finance\/Public Finance: Expenditure\/Public Finance: Revenue",
-  "Section": "A",
-  "Teacher": "MSS",
-  "ExamDate": "October 01, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "201 (111192017-121193001)                                                                                                                                                                                                                       202 (121193003-121212006)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "HRM 4152",
-  "CourseTitle": "Compensation Management",
-  "Section": "A",
-  "Teacher": "Jkn",
-  "ExamDate": "October 01, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "207 (111131026-111181007)                                                                                                                                                                                                                       208 (111181008-111202098)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "MGT 3225",
-  "CourseTitle": "E-Business",
-  "Section": "A",
-  "Teacher": "TIM",
-  "ExamDate": "October 01, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "Computer Lab 1 (0226) (111172068-114201002)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "MGT 3225",
-  "CourseTitle": "E-Business",
-  "Section": "B",
-  "Teacher": "TIM",
-  "ExamDate": "October 01, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "Computer Lab 2 (0227) (111153047-111191096)                                                                                                                                                                                                                       Computer Lab 3 (0327) (111191128-114201011)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "MGT 3225",
-  "CourseTitle": "E-Business",
-  "Section": "C",
-  "Teacher": "TIM",
-  "ExamDate": "October 01, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "Computer Lab 4 (0427) (111181005-114192001)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "ACN 4135",
-  "CourseTitle": "Taxation",
-  "Section": "A",
-  "Teacher": "MHM",
-  "ExamDate": "October 01, 2022",
-  "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "202 (111121471-111201178)"
- },
- {
-  "Dept": "BBA in AIS",
-  "CourseCode": "AIS 2305",
-  "CourseTitle": "Theory & Practice of Taxation",
-  "Section": "A",
-  "Teacher": "MHM",
-  "ExamDate": "October 01, 2022",
-  "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "201 (114161037-114213004)"
+  "Room": "208 (111172029-114213004)"
  },
  {
   "Dept": "BBA",
@@ -1225,19 +1245,39 @@
   "CourseTitle": "Business Communications",
   "Section": "A",
   "Teacher": "PMM",
-  "ExamDate": "October 01, 2022",
-  "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "202 (111172029-111211051)                                                                                                                                                                                                                       203 (111212004-121212004)"
+  "ExamDate": "November 25, 2022",
+  "ExamTime": "11:00 AM - 01:00 PM",
+  "Room": "209 (111181086-111213066)                                                                                                                                                                                                                       210 (111213074-121221009)"
  },
  {
   "Dept": "BBA",
   "CourseCode": "BUS 2112",
   "CourseTitle": "Business Communications",
   "Section": "B",
-  "Teacher": "PMM",
-  "ExamDate": "October 01, 2022",
-  "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "204 (111162121-111202032)                                                                                                                                                                                                                       205 (111202148-121213009)"
+  "Teacher": "MKHn",
+  "ExamDate": "November 25, 2022",
+  "ExamTime": "11:00 AM - 01:00 PM",
+  "Room": "211 (111183108-121213004)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "BUS 2112",
+  "CourseTitle": "Business Communications",
+  "Section": "C",
+  "Teacher": "MKHn",
+  "ExamDate": "November 25, 2022",
+  "ExamTime": "11:00 AM - 01:00 PM",
+  "Room": "222 (111162014-121201013)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "MKT 4314",
+  "CourseTitle": "Marketing Analytics",
+  "Section": "A",
+  "Teacher": "MHAMn",
+  "ExamDate": "November 25, 2022",
+  "ExamTime": "11:00 AM - 01:00 PM",
+  "Room": "Computer Lab 1 (0226) (111151352-111201154)"
  },
  {
   "Dept": "BBA",
@@ -1245,9 +1285,9 @@
   "CourseTitle": "Business Analytics",
   "Section": "A",
   "Teacher": "MdQ",
-  "ExamDate": "October 01, 2022",
-  "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "Computer Lab 1 (0226) (111173064-114201016)"
+  "ExamDate": "November 25, 2022",
+  "ExamTime": "02:30 PM - 04:30 PM",
+  "Room": "Computer Lab 2 (0227) (111161241-114212006)"
  },
  {
   "Dept": "BBA",
@@ -1255,19 +1295,29 @@
   "CourseTitle": "Business Analytics",
   "Section": "B",
   "Teacher": "AIK",
-  "ExamDate": "October 01, 2022",
-  "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "Computer Lab 2 (0227) (111163108-114183005)"
+  "ExamDate": "November 25, 2022",
+  "ExamTime": "02:30 PM - 04:30 PM",
+  "Room": "Computer Lab 3 (0327) (111162107-111193061)                                                                                                                                                                                                                       Computer Lab 4 (0427) (111193128-114201011)"
  },
  {
   "Dept": "BBA",
-  "CourseCode": "HRM 4365",
-  "CourseTitle": "Change Management",
+  "CourseCode": "CST 2321",
+  "CourseTitle": "Business Analytics",
+  "Section": "C",
+  "Teacher": "AIK",
+  "ExamDate": "November 25, 2022",
+  "ExamTime": "02:30 PM - 04:30 PM",
+  "Room": "Computer Lab 1 (0226) (111182079-114191013)"
+ },
+ {
+  "Dept": "BSECO",
+  "CourseCode": "ECO 3310",
+  "CourseTitle": "Money and Banking",
   "Section": "A",
-  "Teacher": "IS",
-  "ExamDate": "October 01, 2022",
-  "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "201 (111131026-111191159)"
+  "Teacher": "SCT",
+  "ExamDate": "November 25, 2022",
+  "ExamTime": "02:30 PM - 04:30 PM",
+  "Room": "201 (121173009-121211008)"
  },
  {
   "Dept": "BBA",
@@ -1275,79 +1325,89 @@
   "CourseTitle": "Basic Mathematics\/Business Mathematics I",
   "Section": "A",
   "Teacher": "ZKm",
-  "ExamDate": "October 02, 2022",
+  "ExamDate": "November 26, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "202 (111212021-111221095)                                                                                                                                                                                                                       203 (111221098-111221191)"
+  "Room": "202 (111193010-111222111)                                                                                                                                                                                                                       203 (111222118-114221021)"
  },
  {
   "Dept": "BBA",
   "CourseCode": "BMT 1103\/QNT 1104",
   "CourseTitle": "Basic Mathematics\/Business Mathematics I",
   "Section": "B",
-  "Teacher": "ZKm",
-  "ExamDate": "October 02, 2022",
+  "Teacher": "GCD",
+  "ExamDate": "November 26, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "204 (111211049-111221090)                                                                                                                                                                                                                       205 (111221097-114213007)"
+  "Room": "204 (111193070-111222067)                                                                                                                                                                                                                       205 (111222070-114213005)"
  },
  {
   "Dept": "BBA",
   "CourseCode": "BMT 1103\/QNT 1104",
   "CourseTitle": "Basic Mathematics\/Business Mathematics I",
   "Section": "C",
-  "Teacher": "AIK",
-  "ExamDate": "October 02, 2022",
+  "Teacher": "ZKm",
+  "ExamDate": "November 26, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "206 (111191117-111221076)                                                                                                                                                                                                                       207 (111221078-114221022)"
+  "Room": "206 (111193027-111222095)                                                                                                                                                                                                                       207 (111222103-114221014)"
  },
  {
   "Dept": "BBA",
   "CourseCode": "BMT 1103\/QNT 1104",
   "CourseTitle": "Basic Mathematics\/Business Mathematics I",
   "Section": "D",
-  "Teacher": "MKHq",
-  "ExamDate": "October 02, 2022",
+  "Teacher": "GCD",
+  "ExamDate": "November 26, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "208 (111203024-111221043)                                                                                                                                                                                                                       209 (111221050-114212004)"
+  "Room": "208 (111171276-111222094)                                                                                                                                                                                                                       209 (111222108-114222010)"
  },
  {
   "Dept": "BBA",
-  "CourseCode": "ECN 2214",
-  "CourseTitle": "Macroeconomics",
-  "Section": "B",
-  "Teacher": "TaA",
-  "ExamDate": "October 02, 2022",
+  "CourseCode": "BMT 1103\/QNT 1104",
+  "CourseTitle": "Basic Mathematics\/Business Mathematics I",
+  "Section": "E",
+  "Teacher": "ShAz",
+  "ExamDate": "November 26, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "204 (111162014-114201009)"
+  "Room": "210 (111192002-1142230011)"
  },
  {
   "Dept": "BBA",
   "CourseCode": "ECN 2214\/ECO 1302",
   "CourseTitle": "Introduction to Macroeconomics\/Macroeconomics",
   "Section": "A",
+  "Teacher": "SCT",
+  "ExamDate": "November 26, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "202 (111192108-111211025)                                                                                                                                                                                                                       203 (111211030-121222011)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "ECN 2214\/ECO 1302",
+  "CourseTitle": "Introduction to Macroeconomics\/Macroeconomics",
+  "Section": "B",
   "Teacher": "MSS",
-  "ExamDate": "October 02, 2022",
+  "ExamDate": "November 26, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "202 (111173089-111193028)                                                                                                                                                                                                                       203 (111193127-121212008)"
+  "Room": "204 (111183092-111211090)                                                                                                                                                                                                                       205 (111211091-121213008)"
  },
  {
   "Dept": "BBA",
-  "CourseCode": "FIN 4331",
-  "CourseTitle": "Financial Modeling",
+  "CourseCode": "FIN 4332",
+  "CourseTitle": "Financial Technology (FinTech)",
   "Section": "A",
-  "Teacher": "MUd",
-  "ExamDate": "October 02, 2022",
+  "Teacher": "NFa",
+  "ExamDate": "November 26, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "Computer Lab 1 (0226) (111153161-111201170)"
+  "Room": "206 (111153047-111202167)"
  },
  {
   "Dept": "BBA",
   "CourseCode": "IBS 3121",
   "CourseTitle": "International Business",
   "Section": "A",
-  "Teacher": "NJT",
-  "ExamDate": "October 02, 2022",
+  "Teacher": "NAr",
+  "ExamDate": "November 26, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "206 (111161109-111193121)                                                                                                                                                                                                                       207 (111193122-114191003)"
+  "Room": "207 (111162121-111201136)                                                                                                                                                                                                                       208 (111201167-121193004)"
  },
  {
   "Dept": "BBA",
@@ -1355,98 +1415,68 @@
   "CourseTitle": "International Business",
   "Section": "B",
   "Teacher": "NJT",
-  "ExamDate": "October 02, 2022",
+  "ExamDate": "November 26, 2022",
   "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "208 (111173038-111201083)                                                                                                                                                                                                                       209 (111201096-121211001)"
+  "Room": "209 (111171185-111201163)                                                                                                                                                                                                                       210 (111201199-121202009)"
  },
  {
   "Dept": "BBA",
-  "CourseCode": "IBS 3121",
-  "CourseTitle": "International Business",
-  "Section": "C",
-  "Teacher": "NJT",
-  "ExamDate": "October 02, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "210 (111181100-121203001)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "IBS 3121",
-  "CourseTitle": "International Business",
-  "Section": "D",
-  "Teacher": "PMM",
-  "ExamDate": "October 02, 2022",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "211 (111181108-111201153)                                                                                                                                                                                                                       222 (111201160-121201014)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "BIE 4202",
-  "CourseTitle": "Business Innovation",
+  "CourseCode": "SCM 4203",
+  "CourseTitle": "Inventory Management",
   "Section": "A",
-  "Teacher": "YI",
-  "ExamDate": "October 02, 2022",
-  "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "202 (111171212-111183080)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "ECN 2111",
-  "CourseTitle": "Microeconomics",
-  "Section": "B",
-  "Teacher": "SCT",
-  "ExamDate": "October 02, 2022",
-  "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "201 (111162121-111211031)                                                                                                                                                                                                                       204 (111211050-114211005)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "ECN 2111",
-  "CourseTitle": "Microeconomics",
-  "Section": "C",
-  "Teacher": "SCT",
-  "ExamDate": "October 02, 2022",
-  "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "205 (111192108-114192003)"
+  "Teacher": "SdHn",
+  "ExamDate": "November 26, 2022",
+  "ExamTime": "9:00 AM - 11:00 AM",
+  "Room": "201 (111172107-111183087)                                                                                                                                                                                                                       211 (111183089-111211029)"
  },
  {
   "Dept": "BBA",
   "CourseCode": "ECN 2111\/ECO 1301",
   "CourseTitle": "Introduction to Microeconomics\/Microeconomics",
   "Section": "A",
-  "Teacher": "SCT",
-  "ExamDate": "October 02, 2022",
+  "Teacher": "TaA",
+  "ExamDate": "November 26, 2022",
   "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "202 (111163142-111213009)                                                                                                                                                                                                                       203 (111213016-121222011)"
- },
- {
-  "Dept": "BSECO",
-  "CourseCode": "ECO 3335",
-  "CourseTitle": "Natural Resource Economics",
-  "Section": "A",
-  "Teacher": "AAsh",
-  "ExamDate": "October 02, 2022",
-  "ExamTime": "11:30 AM - 1:30 PM",
-  "Room": "201 (121183001-121211007)"
- },
- {
-  "Dept": "BSECO",
-  "CourseCode": "ECO 3360",
-  "CourseTitle": "Socioeconomic Profiles of Bangladesh",
-  "Section": "A",
-  "Teacher": "AAsh",
-  "ExamDate": "October 02, 2022",
-  "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "201 (121163009-121211001)"
+  "Room": "202 (111182111-121221003)                                                                                                                                                                                                                       203 (121221006-121222016)"
  },
  {
   "Dept": "BBA",
-  "CourseCode": "MKT 4308\/SCM 4101",
-  "CourseTitle": "Introduction to Supply Chain Management\/Supply Chain Management",
+  "CourseCode": "ECN 2111\/ECO 1301",
+  "CourseTitle": "Introduction to Microeconomics\/Microeconomics",
+  "Section": "B",
+  "Teacher": "SCT",
+  "ExamDate": "November 26, 2022",
+  "ExamTime": "11:30 AM - 1:30 PM",
+  "Room": "204 (111183001-111213020)                                                                                                                                                                                                                       205 (111213034-114213007)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "ECN 2111\/ECO 1301",
+  "CourseTitle": "Introduction to Microeconomics\/Microeconomics",
+  "Section": "C",
+  "Teacher": "SCT",
+  "ExamDate": "November 26, 2022",
+  "ExamTime": "11:30 AM - 1:30 PM",
+  "Room": "206 (111182032-111212047)                                                                                                                                                                                                                       207 (111212053-121221018)"
+ },
+ {
+  "Dept": "BBA in AIS",
+  "CourseCode": "AIS 4303",
+  "CourseTitle": "Corporate Financial Reporting",
   "Section": "A",
-  "Teacher": "ARO",
-  "ExamDate": "October 02, 2022",
+  "Teacher": "JBS",
+  "ExamDate": "November 26, 2022",
   "ExamTime": "2:00 PM - 4:00 PM",
-  "Room": "210 (111143295-111182110)                                                                                                                                                                                                                       211 (111183020-111201258)"
+  "Room": "201 (114171027-114201013)"
+ },
+ {
+  "Dept": "BBA",
+  "CourseCode": "MKT 4306",
+  "CourseTitle": "Marketing Research",
+  "Section": "A",
+  "Teacher": "MHAMn",
+  "ExamDate": "November 26, 2022",
+  "ExamTime": "2:00 PM - 4:00 PM",
+  "Room": "202 (111153159-111183088)                                                                                                                                                                                                                       203 (111191015-111202098)"
  }
 ]
