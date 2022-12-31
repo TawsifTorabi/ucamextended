@@ -1,7 +1,7 @@
 {
 	"general":[{
 		"routineAvailble": "yes",
-		"currentExam": "midterm",
+		"currentExam": "final",
 		"examStatus": "pending",
 		"examTrimester": "223:Fall:2022"
 	}]
