@@ -1,7 +1,7 @@
 [
  {
   "Dept": "BBA",
-  "Course Code": "BMT 2113\/QNT 2105",
+  "CourseCode": "BMT 2113\/QNT 2105",
   "CourseTitle": "Business Mathematics II\/Mathematics for Business Decision",
   "Section": "A",
   "Teacher": "NJT",
@@ -11,7 +11,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "BMT 2113\/QNT 2105",
+  "CourseCode": "BMT 2113\/QNT 2105",
   "CourseTitle": "Business Mathematics II\/Mathematics for Business Decision",
   "Section": "B",
   "Teacher": "MA",
@@ -21,7 +21,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "BMT 2113\/QNT 2105",
+  "CourseCode": "BMT 2113\/QNT 2105",
   "CourseTitle": "Business Mathematics II\/Mathematics for Business Decision",
   "Section": "C",
   "Teacher": "MA",
@@ -31,7 +31,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ENG 1011\/ENG 1101",
+  "CourseCode": "ENG 1011\/ENG 1101",
   "CourseTitle": "Basic English\/English I",
   "Section": "O",
   "Teacher": "SaAr",
@@ -41,7 +41,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ENG 1011\/ENG 1101",
+  "CourseCode": "ENG 1011\/ENG 1101",
   "CourseTitle": "Basic English\/English I",
   "Section": "P",
   "Teacher": "DN",
@@ -51,7 +51,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ENG 1011\/ENG 1101",
+  "CourseCode": "ENG 1011\/ENG 1101",
   "CourseTitle": "Basic English\/English I",
   "Section": "Q",
   "Teacher": "DN",
@@ -61,7 +61,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ENG 1011\/ENG 1101",
+  "CourseCode": "ENG 1011\/ENG 1101",
   "CourseTitle": "Basic English\/English I",
   "Section": "R",
   "Teacher": "DN",
@@ -71,7 +71,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ENG 1011\/ENG 1101",
+  "CourseCode": "ENG 1011\/ENG 1101",
   "CourseTitle": "Basic English\/English I",
   "Section": "S",
   "Teacher": "DN",
@@ -81,7 +81,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ENG 1011\/ENG 1101",
+  "CourseCode": "ENG 1011\/ENG 1101",
   "CourseTitle": "Basic English\/English I",
   "Section": "T",
   "Teacher": "DN",
@@ -91,7 +91,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ENG 1011\/ENG 1101",
+  "CourseCode": "ENG 1011\/ENG 1101",
   "CourseTitle": "Basic English\/English I",
   "Section": "U",
   "Teacher": "SaAr",
@@ -101,7 +101,7 @@
  },
  {
   "Dept": "BBA in AIS",
-  "Course Code": "AIS 3209",
+  "CourseCode": "AIS 3209",
   "CourseTitle": "Tax Accounting and Tax Planning",
   "Section": "A",
   "Teacher": "MHM",
@@ -111,7 +111,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ENG 1013\/ENG 1204",
+  "CourseCode": "ENG 1013\/ENG 1204",
   "CourseTitle": "Composition and Communication Skills\/English II",
   "Section": "O",
   "Teacher": "MKH",
@@ -121,7 +121,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ENG 1013\/ENG 1204",
+  "CourseCode": "ENG 1013\/ENG 1204",
   "CourseTitle": "Composition and Communication Skills\/English II",
   "Section": "P",
   "Teacher": "MKH",
@@ -131,7 +131,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ENG 1013\/ENG 1204",
+  "CourseCode": "ENG 1013\/ENG 1204",
   "CourseTitle": "Composition and Communication Skills\/English II",
   "Section": "Q",
   "Teacher": "MKH",
@@ -141,7 +141,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ENG 1013\/ENG 1204",
+  "CourseCode": "ENG 1013\/ENG 1204",
   "CourseTitle": "Composition and Communication Skills\/English II",
   "Section": "R",
   "Teacher": "MKH",
@@ -151,7 +151,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ENG 1013\/ENG 1204",
+  "CourseCode": "ENG 1013\/ENG 1204",
   "CourseTitle": "Composition and Communication Skills\/English II",
   "Section": "S",
   "Teacher": "NaHa",
@@ -161,7 +161,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MKT 4204",
+  "CourseCode": "MKT 4204",
   "CourseTitle": "Strategic Marketing",
   "Section": "A",
   "Teacher": "KA",
@@ -171,7 +171,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "BIE 4213",
+  "CourseCode": "BIE 4213",
   "CourseTitle": "Franchising",
   "Section": "A",
   "Teacher": "YI",
@@ -181,7 +181,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MIS 4181",
+  "CourseCode": "MIS 4181",
   "CourseTitle": "System Analysis & Design",
   "Section": "A",
   "Teacher": "AIK",
@@ -191,7 +191,7 @@
  },
  {
   "Dept": "BBA in AIS",
-  "Course Code": "MGT 2208",
+  "CourseCode": "MGT 2208",
   "CourseTitle": "Human Resource Management & Organizational Behavior",
   "Section": "A",
   "Teacher": "IS",
@@ -201,7 +201,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MGT 2318",
+  "CourseCode": "MGT 2318",
   "CourseTitle": "Organizational Behavior",
   "Section": "A",
   "Teacher": "SK",
@@ -211,7 +211,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MGT 2318",
+  "CourseCode": "MGT 2318",
   "CourseTitle": "Organizational Behavior",
   "Section": "B",
   "Teacher": "SK",
@@ -221,7 +221,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MGT 3122",
+  "CourseCode": "MGT 3122",
   "CourseTitle": "Human Resources Management",
   "Section": "A",
   "Teacher": "IS",
@@ -231,7 +231,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MGT 3122",
+  "CourseCode": "MGT 3122",
   "CourseTitle": "Human Resources Management",
   "Section": "B",
   "Teacher": "HRJ",
@@ -241,7 +241,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MGT 4356",
+  "CourseCode": "MGT 4356",
   "CourseTitle": "Strategic Management",
   "Section": "A",
   "Teacher": "NAr",
@@ -251,7 +251,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MGT 4356",
+  "CourseCode": "MGT 4356",
   "CourseTitle": "Strategic Management",
   "Section": "B",
   "Teacher": "NAr",
@@ -261,7 +261,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "SCM 4313",
+  "CourseCode": "SCM 4313",
   "CourseTitle": "Service Operation Management",
   "Section": "A",
   "Teacher": "SdHn",
@@ -271,7 +271,7 @@
  },
  {
   "Dept": "BSECO",
-  "Course Code": "ECO 3301\/ECO 3303",
+  "CourseCode": "ECO 3301\/ECO 3303",
   "CourseTitle": "Intermediate Microeconomic Theory II\/Intermediate Microeconomics II",
   "Section": "A",
   "Teacher": "MSS",
@@ -281,7 +281,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "HRM 4368",
+  "CourseCode": "HRM 4368",
   "CourseTitle": "Human Resources Analytics",
   "Section": "A",
   "Teacher": "BJ",
@@ -291,7 +291,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MGT 1307",
+  "CourseCode": "MGT 1307",
   "CourseTitle": "Principles of Management",
   "Section": "A",
   "Teacher": "BJ",
@@ -301,7 +301,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MGT 1307",
+  "CourseCode": "MGT 1307",
   "CourseTitle": "Principles of Management",
   "Section": "B",
   "Teacher": "NJT",
@@ -311,7 +311,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MGT 1307",
+  "CourseCode": "MGT 1307",
   "CourseTitle": "Principles of Management",
   "Section": "C",
   "Teacher": "BJ",
@@ -321,7 +321,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MGT 1307",
+  "CourseCode": "MGT 1307",
   "CourseTitle": "Principles of Management",
   "Section": "D",
   "Teacher": "IS",
@@ -331,7 +331,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ACN 4340\/AIS 2306",
+  "CourseCode": "ACN 4340\/AIS 2306",
   "CourseTitle": "Auditing\/Principles of Auditing",
   "Section": "A",
   "Teacher": "MTH",
@@ -341,7 +341,7 @@
  },
  {
   "Dept": "BSECO",
-  "Course Code": "ECO 2301\/ECO 2304\/ECO 2314",
+  "CourseCode": "ECO 2301\/ECO 2304\/ECO 2314",
   "CourseTitle": "Intermediate Microeconomic Theory I\/Intermediate Microeconomics\/Intermediate Microeconomics I",
   "Section": "A",
   "Teacher": "MSS",
@@ -351,7 +351,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MIS 4388",
+  "CourseCode": "MIS 4388",
   "CourseTitle": "Advanced Database Management",
   "Section": "A",
   "Teacher": "AIK",
@@ -361,7 +361,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "BUS 1102",
+  "CourseCode": "BUS 1102",
   "CourseTitle": "Introduction to Business",
   "Section": "O",
   "Teacher": "KA",
@@ -371,7 +371,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "BUS 1102",
+  "CourseCode": "BUS 1102",
   "CourseTitle": "Introduction to Business",
   "Section": "P",
   "Teacher": "KA",
@@ -381,7 +381,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "BUS 1102",
+  "CourseCode": "BUS 1102",
   "CourseTitle": "Introduction to Business",
   "Section": "Q",
   "Teacher": "SeyS",
@@ -391,7 +391,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "BUS 1102",
+  "CourseCode": "BUS 1102",
   "CourseTitle": "Introduction to Business",
   "Section": "R",
   "Teacher": "KA",
@@ -401,7 +401,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "BUS 1102",
+  "CourseCode": "BUS 1102",
   "CourseTitle": "Introduction to Business",
   "Section": "S",
   "Teacher": "SeyS",
@@ -411,7 +411,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "BUS 1102",
+  "CourseCode": "BUS 1102",
   "CourseTitle": "Introduction to Business",
   "Section": "T",
   "Teacher": "Jkn",
@@ -421,7 +421,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "BUS 1102",
+  "CourseCode": "BUS 1102",
   "CourseTitle": "Introduction to Business",
   "Section": "U",
   "Teacher": "AAFd",
@@ -431,7 +431,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MKT 3336",
+  "CourseCode": "MKT 3336",
   "CourseTitle": "Marketing Management",
   "Section": "A",
   "Teacher": "MdSA",
@@ -441,7 +441,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MKT 3336",
+  "CourseCode": "MKT 3336",
   "CourseTitle": "Marketing Management",
   "Section": "B",
   "Teacher": "SRA",
@@ -451,7 +451,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MKT 3336",
+  "CourseCode": "MKT 3336",
   "CourseTitle": "Marketing Management",
   "Section": "C",
   "Teacher": "MdSA",
@@ -461,7 +461,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MKT 4101",
+  "CourseCode": "MKT 4101",
   "CourseTitle": "Consumer Behavior",
   "Section": "A",
   "Teacher": "MKHn",
@@ -471,7 +471,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MKT 4101",
+  "CourseCode": "MKT 4101",
   "CourseTitle": "Consumer Behavior",
   "Section": "B",
   "Teacher": "MKHn",
@@ -481,7 +481,7 @@
  },
  {
   "Dept": "BSECO",
-  "Course Code": "ECO 4386",
+  "CourseCode": "ECO 4386",
   "CourseTitle": "Energy Economics and Policy",
   "Section": "A",
   "Teacher": "WYn",
@@ -491,7 +491,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "HRM 4366",
+  "CourseCode": "HRM 4366",
   "CourseTitle": "Strategic Human Resource Management",
   "Section": "A",
   "Teacher": "PMM",
@@ -501,7 +501,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MKT 2320",
+  "CourseCode": "MKT 2320",
   "CourseTitle": "Introduction to Marketing",
   "Section": "A",
   "Teacher": "SRA",
@@ -511,7 +511,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MKT 2320",
+  "CourseCode": "MKT 2320",
   "CourseTitle": "Introduction to Marketing",
   "Section": "B",
   "Teacher": "SRA",
@@ -521,7 +521,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "SOC 1105",
+  "CourseCode": "SOC 1105",
   "CourseTitle": "Sociology and Psychology",
   "Section": "A",
   "Teacher": "ShaIs",
@@ -531,7 +531,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "SOC 1105",
+  "CourseCode": "SOC 1105",
   "CourseTitle": "Sociology and Psychology",
   "Section": "B",
   "Teacher": "ShaIs",
@@ -541,7 +541,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "LAW 2106\/LAW 4151",
+  "CourseCode": "LAW 2106\/LAW 4151",
   "CourseTitle": "Business Law\/Commercial & Industrial Laws",
   "Section": "A",
   "Teacher": "Jkn",
@@ -551,7 +551,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "LAW 2106\/LAW 4151",
+  "CourseCode": "LAW 2106\/LAW 4151",
   "CourseTitle": "Business Law\/Commercial & Industrial Laws",
   "Section": "B",
   "Teacher": "Jkn",
@@ -561,7 +561,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "LAW 2106\/LAW 4151",
+  "CourseCode": "LAW 2106\/LAW 4151",
   "CourseTitle": "Business Law\/Commercial & Industrial Laws",
   "Section": "C",
   "Teacher": "ShaIs",
@@ -571,7 +571,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "LAW 2106\/LAW 4151",
+  "CourseCode": "LAW 2106\/LAW 4151",
   "CourseTitle": "Business Law\/Commercial & Industrial Laws",
   "Section": "D",
   "Teacher": "ShaIs",
@@ -581,7 +581,7 @@
  },
  {
   "Dept": "BBA in AIS",
-  "Course Code": "LAW 3328",
+  "CourseCode": "LAW 3328",
   "CourseTitle": "Corporate Law & Secretarial Practice",
   "Section": "A",
   "Teacher": "TJn",
@@ -591,7 +591,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MIS 4283",
+  "CourseCode": "MIS 4283",
   "CourseTitle": "Data Communication System",
   "Section": "A",
   "Teacher": "AIK",
@@ -601,7 +601,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "CST 1206\/CST 1303",
+  "CourseCode": "CST 1206\/CST 1303",
   "CourseTitle": "Computer Application in Business\/Computer Applications",
   "Section": "A",
   "Teacher": "PMM",
@@ -611,7 +611,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "CST 1206\/CST 1303",
+  "CourseCode": "CST 1206\/CST 1303",
   "CourseTitle": "Computer Application in Business\/Computer Applications",
   "Section": "B",
   "Teacher": "PMM",
@@ -621,7 +621,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "CST 1206\/CST 1303",
+  "CourseCode": "CST 1206\/CST 1303",
   "CourseTitle": "Computer Application in Business\/Computer Applications",
   "Section": "C",
   "Teacher": "ZN",
@@ -631,7 +631,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "CST 1206\/CST 1303",
+  "CourseCode": "CST 1206\/CST 1303",
   "CourseTitle": "Computer Application in Business\/Computer Applications",
   "Section": "D",
   "Teacher": "JHC",
@@ -641,7 +641,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "CST 1206\/CST 1303",
+  "CourseCode": "CST 1206\/CST 1303",
   "CourseTitle": "Computer Application in Business\/Computer Applications",
   "Section": "E",
   "Teacher": "JHC",
@@ -651,7 +651,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "CST 1206\/CST 1303",
+  "CourseCode": "CST 1206\/CST 1303",
   "CourseTitle": "Computer Application in Business\/Computer Applications",
   "Section": "F",
   "Teacher": "JHC",
@@ -661,7 +661,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "FIN 2319",
+  "CourseCode": "FIN 2319",
   "CourseTitle": "Principles of Finance",
   "Section": "A",
   "Teacher": "MA",
@@ -671,7 +671,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "FIN 2319",
+  "CourseCode": "FIN 2319",
   "CourseTitle": "Principles of Finance",
   "Section": "B",
   "Teacher": "MMs",
@@ -681,7 +681,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "FIN 2319",
+  "CourseCode": "FIN 2319",
   "CourseTitle": "Principles of Finance",
   "Section": "C",
   "Teacher": "MdQ",
@@ -691,7 +691,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "FIN 3123",
+  "CourseCode": "FIN 3123",
   "CourseTitle": "Managerial Finance",
   "Section": "A",
   "Teacher": "MEH",
@@ -701,7 +701,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "FIN 3123",
+  "CourseCode": "FIN 3123",
   "CourseTitle": "Managerial Finance",
   "Section": "B",
   "Teacher": "MEH",
@@ -711,7 +711,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "FIN 3123",
+  "CourseCode": "FIN 3123",
   "CourseTitle": "Managerial Finance",
   "Section": "C",
   "Teacher": "MEH",
@@ -721,7 +721,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "FIN 4219",
+  "CourseCode": "FIN 4219",
   "CourseTitle": "Securities Analysis and Portfolio Management",
   "Section": "A",
   "Teacher": "MMs",
@@ -731,7 +731,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ACN 4342\/AIS 3310",
+  "CourseCode": "ACN 4342\/AIS 3310",
   "CourseTitle": "Accounting Information Systems",
   "Section": "A",
   "Teacher": "MTH",
@@ -741,7 +741,7 @@
  },
  {
   "Dept": "BSECO",
-  "Course Code": "ECO 4380",
+  "CourseCode": "ECO 4380",
   "CourseTitle": "Urban Economics",
   "Section": "A",
   "Teacher": "MSS",
@@ -751,7 +751,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "SCM 4202",
+  "CourseCode": "SCM 4202",
   "CourseTitle": "Enterprise Resource Planning (ERP)",
   "Section": "A",
   "Teacher": "SdHn",
@@ -761,7 +761,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MGT 3229",
+  "CourseCode": "MGT 3229",
   "CourseTitle": "Entrepreneurship and Business Plan Development",
   "Section": "A",
   "Teacher": "YI",
@@ -771,7 +771,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MGT 3229",
+  "CourseCode": "MGT 3229",
   "CourseTitle": "Entrepreneurship and Business Plan Development",
   "Section": "B",
   "Teacher": "YI",
@@ -781,7 +781,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MGT 3229",
+  "CourseCode": "MGT 3229",
   "CourseTitle": "Entrepreneurship and Business Plan Development",
   "Section": "C",
   "Teacher": "YI",
@@ -791,7 +791,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MIS 2218",
+  "CourseCode": "MIS 2218",
   "CourseTitle": "Advanced Computer Applications in Business",
   "Section": "A",
   "Teacher": "ZN",
@@ -801,7 +801,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MIS 2218",
+  "CourseCode": "MIS 2218",
   "CourseTitle": "Advanced Computer Applications in Business",
   "Section": "B",
   "Teacher": "ZN",
@@ -811,7 +811,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MIS 2218",
+  "CourseCode": "MIS 2218",
   "CourseTitle": "Advanced Computer Applications in Business",
   "Section": "C",
   "Teacher": "ZN",
@@ -821,7 +821,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ACN 1205\/AIS 1201",
+  "CourseCode": "ACN 1205\/AIS 1201",
   "CourseTitle": "Financial Accounting I\/Principles of Accounting",
   "Section": "A",
   "Teacher": "SKa",
@@ -831,7 +831,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ACN 1205\/AIS 1201",
+  "CourseCode": "ACN 1205\/AIS 1201",
   "CourseTitle": "Financial Accounting I\/Principles of Accounting",
   "Section": "B",
   "Teacher": "IJ",
@@ -841,7 +841,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ACN 1205\/AIS 1201",
+  "CourseCode": "ACN 1205\/AIS 1201",
   "CourseTitle": "Financial Accounting I\/Principles of Accounting",
   "Section": "C",
   "Teacher": "SKa",
@@ -851,7 +851,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ACN 1205\/AIS 1201",
+  "CourseCode": "ACN 1205\/AIS 1201",
   "CourseTitle": "Financial Accounting I\/Principles of Accounting",
   "Section": "D",
   "Teacher": "HAh",
@@ -861,7 +861,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ACN 1205\/AIS 1201",
+  "CourseCode": "ACN 1205\/AIS 1201",
   "CourseTitle": "Financial Accounting I\/Principles of Accounting",
   "Section": "E",
   "Teacher": "HAh",
@@ -871,7 +871,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ACN 4136\/AIS 2204",
+  "CourseCode": "ACN 4136\/AIS 2204",
   "CourseTitle": "Advanced Accounting-I\/Advanced Financial Accounting - I",
   "Section": "A",
   "Teacher": "MHM",
@@ -881,7 +881,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ACN 4238\/AIS 3107",
+  "CourseCode": "ACN 4238\/AIS 3107",
   "CourseTitle": "Advanced Accounting-II\/Advanced Financial Accounting - II",
   "Section": "A",
   "Teacher": "MTH",
@@ -891,7 +891,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "HRM 4153",
+  "CourseCode": "HRM 4153",
   "CourseTitle": "Human Resource Planning",
   "Section": "A",
   "Teacher": "HRJ",
@@ -901,7 +901,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ACN 1309\/AIS 1302",
+  "CourseCode": "ACN 1309\/AIS 1302",
   "CourseTitle": "Financial Accounting II\/Intermediate Accounting",
   "Section": "A",
   "Teacher": "IJ",
@@ -911,7 +911,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ACN 1309\/AIS 1302",
+  "CourseCode": "ACN 1309\/AIS 1302",
   "CourseTitle": "Financial Accounting II\/Intermediate Accounting",
   "Section": "B",
   "Teacher": "IJ",
@@ -921,7 +921,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ACN 1309\/AIS 1302",
+  "CourseCode": "ACN 1309\/AIS 1302",
   "CourseTitle": "Financial Accounting II\/Intermediate Accounting",
   "Section": "C",
   "Teacher": "IJ",
@@ -931,7 +931,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ACN 1309\/AIS 1302",
+  "CourseCode": "ACN 1309\/AIS 1302",
   "CourseTitle": "Financial Accounting II\/Intermediate Accounting",
   "Section": "D",
   "Teacher": "MdAHn",
@@ -941,7 +941,7 @@
  },
  {
   "Dept": "BSECO",
-  "Course Code": "ECO 1303",
+  "CourseCode": "ECO 1303",
   "CourseTitle": "Mathematics for Business and Economics I",
   "Section": "A",
   "Teacher": "SCT",
@@ -951,7 +951,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ACN 2215\/AIS 4103",
+  "CourseCode": "ACN 2215\/AIS 4103",
   "CourseTitle": "Management Accounting\/Management Accounting-I",
   "Section": "A",
   "Teacher": "HAh",
@@ -961,7 +961,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ACN 2215\/AIS 4103",
+  "CourseCode": "ACN 2215\/AIS 4103",
   "CourseTitle": "Management Accounting\/Management Accounting-I",
   "Section": "B",
   "Teacher": "JBS",
@@ -971,7 +971,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "BIE 4103",
+  "CourseCode": "BIE 4103",
   "CourseTitle": "International Entrepreneurship",
   "Section": "A",
   "Teacher": "SK",
@@ -981,7 +981,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MIS 4394",
+  "CourseCode": "MIS 4394",
   "CourseTitle": "Network Resource Management",
   "Section": "A",
   "Teacher": "AAFd",
@@ -991,7 +991,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "BDS 1201",
+  "CourseCode": "BDS 1201",
   "CourseTitle": "History of the Emergence of Bangladesh",
   "Section": "O",
   "Teacher": "MRM",
@@ -1001,7 +1001,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "BDS 1201",
+  "CourseCode": "BDS 1201",
   "CourseTitle": "History of the Emergence of Bangladesh",
   "Section": "P",
   "Teacher": "MRM",
@@ -1011,7 +1011,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "BDS 1201",
+  "CourseCode": "BDS 1201",
   "CourseTitle": "History of the Emergence of Bangladesh",
   "Section": "Q",
   "Teacher": "MRM",
@@ -1021,7 +1021,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "BDS 1201",
+  "CourseCode": "BDS 1201",
   "CourseTitle": "History of the Emergence of Bangladesh",
   "Section": "R",
   "Teacher": "MRM",
@@ -1031,7 +1031,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "FIN 4116",
+  "CourseCode": "FIN 4116",
   "CourseTitle": "Management of Financial Institutions",
   "Section": "A",
   "Teacher": "MUd",
@@ -1041,7 +1041,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "BST 1308\/ECO 1334\/QNT 1202",
+  "CourseCode": "BST 1308\/ECO 1334\/QNT 1202",
   "CourseTitle": "Basic Statistics\/Business Statistics I\/Statistics for Business and Economics I",
   "Section": "A",
   "Teacher": "MSna",
@@ -1051,7 +1051,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "BST 1308\/ECO 1334\/QNT 1202",
+  "CourseCode": "BST 1308\/ECO 1334\/QNT 1202",
   "CourseTitle": "Basic Statistics\/Business Statistics I\/Statistics for Business and Economics I",
   "Section": "B",
   "Teacher": "MKHq",
@@ -1061,7 +1061,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "BST 1308\/ECO 1334\/QNT 1202",
+  "CourseCode": "BST 1308\/ECO 1334\/QNT 1202",
   "CourseTitle": "Basic Statistics\/Business Statistics I\/Statistics for Business and Economics I",
   "Section": "C",
   "Teacher": "MSna",
@@ -1071,7 +1071,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MKT 4311",
+  "CourseCode": "MKT 4311",
   "CourseTitle": "Brand Management",
   "Section": "A",
   "Teacher": "KMR",
@@ -1081,7 +1081,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "BST 2216\/ECO 1374\/QNT 3307",
+  "CourseCode": "BST 2216\/ECO 1374\/QNT 3307",
   "CourseTitle": "Applied Business Statistics\/Business Statistics II\/Statistics for Business and Economics II",
   "Section": "A",
   "Teacher": "MKHq",
@@ -1091,7 +1091,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "BST 2216\/ECO 1374\/QNT 3307",
+  "CourseCode": "BST 2216\/ECO 1374\/QNT 3307",
   "CourseTitle": "Applied Business Statistics\/Business Statistics II\/Statistics for Business and Economics II",
   "Section": "B",
   "Teacher": "MKHq",
@@ -1101,7 +1101,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "BST 2216\/ECO 1374\/QNT 3307",
+  "CourseCode": "BST 2216\/ECO 1374\/QNT 3307",
   "CourseTitle": "Applied Business Statistics\/Business Statistics II\/Statistics for Business and Economics II",
   "Section": "C",
   "Teacher": "MKHq",
@@ -1111,7 +1111,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "FIN 3337",
+  "CourseCode": "FIN 3337",
   "CourseTitle": "Principles of Banking and Insurance",
   "Section": "A",
   "Teacher": "NFa",
@@ -1121,7 +1121,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "FIN 3337",
+  "CourseCode": "FIN 3337",
   "CourseTitle": "Principles of Banking and Insurance",
   "Section": "B",
   "Teacher": "NFa",
@@ -1131,7 +1131,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "HRM 4270",
+  "CourseCode": "HRM 4270",
   "CourseTitle": "Industrial Law and Employee Relations",
   "Section": "A",
   "Teacher": "MKHq",
@@ -1141,7 +1141,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MGT 3225",
+  "CourseCode": "MGT 3225",
   "CourseTitle": "E-Business",
   "Section": "A",
   "Teacher": "TIM",
@@ -1151,7 +1151,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MGT 3225",
+  "CourseCode": "MGT 3225",
   "CourseTitle": "E-Business",
   "Section": "B",
   "Teacher": "TIM",
@@ -1161,7 +1161,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MGT 3225",
+  "CourseCode": "MGT 3225",
   "CourseTitle": "E-Business",
   "Section": "C",
   "Teacher": "TIM",
@@ -1171,7 +1171,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MGT 3225",
+  "CourseCode": "MGT 3225",
   "CourseTitle": "E-Business",
   "Section": "D",
   "Teacher": "TIM",
@@ -1181,7 +1181,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ACN 4237\/AIS 3208",
+  "CourseCode": "ACN 4237\/AIS 3208",
   "CourseTitle": "Cost Accounting",
   "Section": "A",
   "Teacher": "MTH",
@@ -1191,7 +1191,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "BUS 2112",
+  "CourseCode": "BUS 2112",
   "CourseTitle": "Business Communications",
   "Section": "A",
   "Teacher": "PMM",
@@ -1201,7 +1201,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "BUS 2112",
+  "CourseCode": "BUS 2112",
   "CourseTitle": "Business Communications",
   "Section": "B",
   "Teacher": "MKHn",
@@ -1211,7 +1211,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "BUS 2112",
+  "CourseCode": "BUS 2112",
   "CourseTitle": "Business Communications",
   "Section": "C",
   "Teacher": "MKHn",
@@ -1221,7 +1221,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MKT 4314",
+  "CourseCode": "MKT 4314",
   "CourseTitle": "Marketing Analytics",
   "Section": "A",
   "Teacher": "MHAMn",
@@ -1231,7 +1231,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "CST 2321",
+  "CourseCode": "CST 2321",
   "CourseTitle": "Business Analytics",
   "Section": "A",
   "Teacher": "MdQ",
@@ -1241,7 +1241,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "CST 2321",
+  "CourseCode": "CST 2321",
   "CourseTitle": "Business Analytics",
   "Section": "B",
   "Teacher": "AIK",
@@ -1251,7 +1251,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "CST 2321",
+  "CourseCode": "CST 2321",
   "CourseTitle": "Business Analytics",
   "Section": "C",
   "Teacher": "AIK",
@@ -1261,7 +1261,7 @@
  },
  {
   "Dept": "BSECO",
-  "Course Code": "ECO 3310",
+  "CourseCode": "ECO 3310",
   "CourseTitle": "Money and Banking",
   "Section": "A",
   "Teacher": "SCT",
@@ -1271,7 +1271,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "BMT 1103\/QNT 1104",
+  "CourseCode": "BMT 1103\/QNT 1104",
   "CourseTitle": "Basic Mathematics\/Business Mathematics I",
   "Section": "A",
   "Teacher": "ZKm",
@@ -1281,7 +1281,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "BMT 1103\/QNT 1104",
+  "CourseCode": "BMT 1103\/QNT 1104",
   "CourseTitle": "Basic Mathematics\/Business Mathematics I",
   "Section": "B",
   "Teacher": "GCD",
@@ -1291,7 +1291,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "BMT 1103\/QNT 1104",
+  "CourseCode": "BMT 1103\/QNT 1104",
   "CourseTitle": "Basic Mathematics\/Business Mathematics I",
   "Section": "C",
   "Teacher": "ZKm",
@@ -1301,7 +1301,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "BMT 1103\/QNT 1104",
+  "CourseCode": "BMT 1103\/QNT 1104",
   "CourseTitle": "Basic Mathematics\/Business Mathematics I",
   "Section": "D",
   "Teacher": "GCD",
@@ -1311,7 +1311,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "BMT 1103\/QNT 1104",
+  "CourseCode": "BMT 1103\/QNT 1104",
   "CourseTitle": "Basic Mathematics\/Business Mathematics I",
   "Section": "E",
   "Teacher": "ShAz",
@@ -1321,7 +1321,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ECN 2214\/ECO 1302",
+  "CourseCode": "ECN 2214\/ECO 1302",
   "CourseTitle": "Introduction to Macroeconomics\/Macroeconomics",
   "Section": "A",
   "Teacher": "SCT",
@@ -1331,7 +1331,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ECN 2214\/ECO 1302",
+  "CourseCode": "ECN 2214\/ECO 1302",
   "CourseTitle": "Introduction to Macroeconomics\/Macroeconomics",
   "Section": "B",
   "Teacher": "MSS",
@@ -1341,7 +1341,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "FIN 4332",
+  "CourseCode": "FIN 4332",
   "CourseTitle": "Financial Technology (FinTech)",
   "Section": "A",
   "Teacher": "NFa",
@@ -1351,7 +1351,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "IBS 3121",
+  "CourseCode": "IBS 3121",
   "CourseTitle": "International Business",
   "Section": "A",
   "Teacher": "NAr",
@@ -1361,7 +1361,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "IBS 3121",
+  "CourseCode": "IBS 3121",
   "CourseTitle": "International Business",
   "Section": "B",
   "Teacher": "NJT",
@@ -1371,7 +1371,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "SCM 4203",
+  "CourseCode": "SCM 4203",
   "CourseTitle": "Inventory Management",
   "Section": "A",
   "Teacher": "SdHn",
@@ -1381,7 +1381,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ECN 2111\/ECO 1301",
+  "CourseCode": "ECN 2111\/ECO 1301",
   "CourseTitle": "Introduction to Microeconomics\/Microeconomics",
   "Section": "A",
   "Teacher": "TaA",
@@ -1391,7 +1391,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ECN 2111\/ECO 1301",
+  "CourseCode": "ECN 2111\/ECO 1301",
   "CourseTitle": "Introduction to Microeconomics\/Microeconomics",
   "Section": "B",
   "Teacher": "SCT",
@@ -1401,7 +1401,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "ECN 2111\/ECO 1301",
+  "CourseCode": "ECN 2111\/ECO 1301",
   "CourseTitle": "Introduction to Microeconomics\/Microeconomics",
   "Section": "C",
   "Teacher": "SCT",
@@ -1411,7 +1411,7 @@
  },
  {
   "Dept": "BBA in AIS",
-  "Course Code": "AIS 4303",
+  "CourseCode": "AIS 4303",
   "CourseTitle": "Corporate Financial Reporting",
   "Section": "A",
   "Teacher": "JBS",
@@ -1421,7 +1421,7 @@
  },
  {
   "Dept": "BBA",
-  "Course Code": "MKT 4306",
+  "CourseCode": "MKT 4306",
   "CourseTitle": "Marketing Research",
   "Section": "A",
   "Teacher": "MHAMn",
