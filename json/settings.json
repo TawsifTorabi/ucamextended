@@ -1,6 +1,6 @@
 {
 	"general":[{
-		"routineAvailble": "yes",
+		"routineAvailble": "no",
 		"currentExam": "midterm",
 		"examStatus": "pending",
 		"examTrimester": "231:Spring:2023"
