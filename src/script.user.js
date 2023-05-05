@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         UCAM Extended
 // @namespace    http://tampermonkey.net/
-// @version      0.1.3
+// @version      0.1.5
 // @description  A Web Plugin for UIU UCAM Portal to add more functionalities.
 // @author       Tawsif Torabi
 // @match        *://ucam.uiu.ac.bd/*
@@ -22,7 +22,7 @@
         'https://facebook.com/tawsiftorabi',
         'https://github.com/TawsifTorabi/UCAMextended',
         'UCAM Extended Plugin',
-        'v0.1.3 Beta',
+        'v0.1.5 Beta',
         'Tawsif Torabi',
         'http://tawsiftorabi.github.io'
     ];
@@ -597,6 +597,40 @@
 
 
 
+     //Date Month Function
+    U1customFunctions.GetDateMonth = function(param){
+        var today = new Date();
+        switch(param) {
+            case 'date':
+                var date = today.getDate();
+                console.log("Today Date is " + date);
+                return date;
+                break;
+            case 'month':
+                var month = today.getMonth();
+                console.log("Today Month is " + month);
+                return month;
+                break;
+            case 'monthString':
+                var monthNum = parseInt(today.getMonth());
+                var MonthNames = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+                var monthStr = MonthNames[monthNum];
+                console.log("Today Month is " + monthStr);
+                return monthStr;
+                break;
+            case 'Year':
+                var year = today.getYear();
+                console.log("Today Year is " + year);
+                return year;
+                break;
+            default:
+                console.log('Wrong Parameter');
+        }
+    };
+
+
+
+
     ///////////////////////////////////////////////
     //Show Exam Routine function Starts//////////
     ///////////////////////////////////////////////
@@ -634,7 +668,8 @@
 				"<th class='rtTh'>Teacher/Section</th>"+
 				"<th class='rtTh'>Date</th>"+
 				"<th class='rtTh'>Time</th>"+
-				"<th class='rtTh'>Room No.</th>";
+				"<th class='rtTh'>Rooms</th>"+
+                "<th class='rtTh'>Your Estimate Room</th>";
 
 		for(j = 0; j < CourseArr.length; j++){ 				//Iterate for Course Array Length , 4 Times for this
 
@@ -668,6 +703,68 @@
                         newRoomString2 = '</br>' + roomString.split(' ')[2] + ' ' + roomString.split(' ')[3];
                     }
 
+                    console.log(newRoomString1);
+                    console.log(newRoomString2);
+
+
+                    const MatchingPattern = /(\d+)\s+\((\d+)-(\d+)\)/g;
+                    const str1 = newRoomString1;
+                    const str2 = newRoomString2;
+                    const currentUserId = StudentID;
+
+                    let match;
+                    let isStudentInRoom = false;
+                    let userRoomnumber;
+
+                    // Check the first string for a room that the student belongs to
+                    while ((match = MatchingPattern.exec(str1)) !== null) {
+                        const roomNumber = match[1];
+                        const startId = match[2];
+                        const endId = match[3];
+
+                        if (currentUserId >= startId && currentUserId <= endId) {
+                            console.log(`Current user ID belongs to room number ${roomNumber}`);
+                            newRoomString1 = "<b>"+newRoomString1+"</b>";
+                            userRoomnumber = roomNumber;
+                            isStudentInRoom = true;
+                            break;
+                        }
+                    }
+
+                    // If the student is not in the first room, check the second string (if it exists)
+                    if (!isStudentInRoom && str2 !== "") {
+                        while ((match = MatchingPattern.exec(str2)) !== null) {
+                            const roomNumber = match[1];
+                            const startId = match[2];
+                            const endId = match[3];
+
+                            if (currentUserId >= startId && currentUserId <= endId) {
+                                console.log(`Current user ID belongs to room number ${roomNumber}`);
+                                newRoomString2 = "<b>"+newRoomString2+"</b>";
+                                userRoomnumber = roomNumber;
+                                isStudentInRoom = true;
+                                break;
+                            }
+                        }
+                    }
+
+                    // If the student is not in any of the assigned rooms, log an error message
+                    if (!isStudentInRoom) {
+                        console.log("Error: Current user ID is not assigned to any room");
+                        userRoomnumber = "No Room Found!";
+                    }
+
+
+                    var examDateHTML;
+                    if(arr[i].ExamDate.isMatch(U1customFunctions.GetDateMonth('monthString')) && arr[i].ExamDate.isMatch(U1customFunctions.GetDateMonth('date'))){
+                        examDateHTML = "<span title='Exam is Today!' style='color:red;font-weight:bold;' class='blink'>"+arr[i].ExamDate+"</span>";
+                        document.getElementById('examRoutineBtn').innerHTML = "<span class='alarmExam'>Exam Today! See Routine</span>";
+                        document.getElementById('examRoutineBtn').childNodes[0].classList.add('blink');
+                    }else{
+                        examDateHTML = "<span>"+arr[i].ExamDate+"</span>";
+                    }
+
+
 					out += 	"<tr>"+
 							"<td align='center'>" + arr[i].Dept + " </td>"+
 							"<td align='center'>" + " (" + arr[i].CourseCode + ") " + arr[i].CourseTitle + " </td>"+
@@ -675,6 +772,7 @@
 							"<td align='center'> "+ arr[i].ExamDate +" </td>"+
 							"<td align='center'> "+ arr[i].ExamTime +"</td>"+
                             "<td align='center'> "+ newRoomString1 + newRoomString2 +"</td>"+
+                            "<td align='center'> "+ userRoomnumber +"</td>"+
 							"</tr>";
 				}
 			}
@@ -1249,5 +1347,48 @@
         console.log('This is login Page, Daddy told me to do nothing.')
     }
 
+
+
+    //Starts snippets For DBMS Project
+    //GRAB USER DATA AND SEND TO LOCALHOST HANDLER
+    //TAWSIF TORABI - May 2023
+
+    // Get values from local storage
+    const currentCourses = localStorage.getItem("CurrentCoursesArray");
+    const studentID = localStorage.getItem("studentIDVar");
+    const trimesterInfo = localStorage.getItem("TrimesterInfo");
+    const userName = document.getElementById('ctl00_MainContainer_SI_Name').innerHTML;
+    const phone = document.getElementById('ctl00_MainContainer_SI_Phone').innerHTML;
+    const dob = document.getElementById('ctl00_MainContainer_SI_DOB').innerHTML;
+
+    const originalDateStr = dob;
+    const originalDate = new Date(originalDateStr);
+    const isoDateStr = originalDate.toISOString().slice(0, 10);
+
+    console.log(isoDateStr); // "2001-10-29"
+
+    // Null check local storage values
+    if (!currentCourses || !studentID || !trimesterInfo) {
+        console.log("One or more local storage values are null.");
+        // Handle null values here
+    } else {
+        console.log("All local storage values are present.");
+
+        // Send xmlhttp GET request to "https//localhost/DBMS/project/plugin/catch.php"
+        const xmlhttp = new XMLHttpRequest();
+        const url = "https://192.168.0.109/DBMS/project/dashboard/plugin/catch.php";
+        const params = `trimester=${trimesterInfo}&studentID=${studentID}&courses=${currentCourses}&name=${userName}&phone=${phone}&dob=${isoDateStr}`;
+
+        xmlhttp.onreadystatechange = function() {
+            if (this.readyState === 4 && this.status === 200) {
+                console.log(this.responseText);
+                // Handle response from server here
+            }
+        };
+
+        xmlhttp.open("GET", `${url}?${params}`, true);
+        xmlhttp.send();
+    }
+    //End Snippet for DBMS Project
 
 })();
