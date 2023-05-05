@@ -1,3 +1,6 @@
+//Version 0.1.5 - 5 May, 2023
+- Exam Hall Room Number Highliter. Shows user room number.
+
 //Version 0.1.4 - 12 Aug, 2022
 - Added A Blink Text Alarm on The Exam Routine to tell user which exam is Today.
 - Passed Exam row will be faded.
