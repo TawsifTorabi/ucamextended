@@ -1,24 +1,5 @@
 [
  {
-  "Dept": "BBA",
-  "CourseCode": "BMT 2113\/QNT 2105",
-  "CourseTitle": "Business Mathematics II\/Mathematics for Business Decision",
-  "Section": "A",
-  "Teacher": "ShAz",
-  "ExamDate": "July 15, 2023",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "201 (111191139-1112230089)                                                                                                                                                                                                                       202 (1112230094-114222009)"
- },
- {
-  "Dept": "BBA",
-  "CourseCode": "BMT 2113\/QNT 2105",
-  "CourseTitle": "Business Mathematics II\/Mathematics for Business Decision",
-  "Section": "B",
-  "Teacher": "MA",
-  "ExamDate": "July 15, 2023",
-  "ExamTime": "9:00 AM - 11:00 AM",
-  "Room": "203 (111183108-1112230017)                                                                                                                                                                                                                       204 (1112230018-114221008)"
- {
   "Dept": "BSEEE",
   "CourseCode": "CHE 2101\/CHEM 101",
   "CourseTitle": "Chemistry",
