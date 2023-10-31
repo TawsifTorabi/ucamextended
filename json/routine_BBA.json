@@ -4,10 +4,11 @@
         "CourseCode": "BMT 2113/QNT 2105",
         "CourseTitle": "Business Mathematics II/Mathematics for Business Decision",
         "Section": "A",
-        "Teacher": "ShAz",
-        "ExamDate": "September 03, 2023",
+        "Teacher": "MKB",
+        "ExamDate": "November 04, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "201 (111191139-114222009)"
+        "Room": "201 (111162128-1112230123)                                                                                                                                                                                                                       202 (1112230188-1142310001)",
+        "slot": 2
     },
     {
         "Dept": "BBA",
@@ -15,239 +16,197 @@
         "CourseTitle": "Business Mathematics II/Mathematics for Business Decision",
         "Section": "B",
         "Teacher": "MA",
-        "ExamDate": "September 03, 2023",
+        "ExamDate": "November 04, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "202 (111183108-1112230017)                                                                                                                                                                                                                       203 (1112230018-114221008)"
+        "Room": "203 (111193050-111222149)                                                                                                                                                                                                                       204 (111222151-1142230014)",
+        "slot": 2
     },
     {
         "Dept": "BBA",
         "CourseCode": "BMT 2113/QNT 2105",
         "CourseTitle": "Business Mathematics II/Mathematics for Business Decision",
         "Section": "C",
-        "Teacher": "KMR",
-        "ExamDate": "September 03, 2023",
-        "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "204 (111151352-111222131)                                                                                                                                                                                                                       205 (111222145-114222006)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BMT 2113/QNT 2105",
-        "CourseTitle": "Business Mathematics II/Mathematics for Business Decision",
-        "Section": "D",
         "Teacher": "MA",
-        "ExamDate": "September 03, 2023",
+        "ExamDate": "November 04, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "206 (111182109-1112230021)                                                                                                                                                                                                                       207 (1112230028-1112310161)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ENG 1011/ENG 1101",
-        "CourseTitle": "Basic English/English I",
-        "Section": "A",
-        "Teacher": "MKH",
-        "ExamDate": "September 03, 2023",
-        "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "202 (1112310092-1112320056)                                                                                                                                                                                                                       203 (1112320062-1212320011)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ENG 1011/ENG 1101",
-        "CourseTitle": "Basic English/English I",
-        "Section": "B",
-        "Teacher": "MKH",
-        "ExamDate": "September 03, 2023",
-        "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "204 (111211082-1112320041)                                                                                                                                                                                                                       205 (1112320042-1142320013)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ENG 1011/ENG 1101",
-        "CourseTitle": "Basic English/English I",
-        "Section": "C",
-        "Teacher": "MKH",
-        "ExamDate": "September 03, 2023",
-        "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "206 (111222178-1112320085)                                                                                                                                                                                                                       207 (1112320089-1212320010)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MGT 3224/MGT 4132",
-        "CourseTitle": "Operations Management/Production and Operations Management",
-        "Section": "A",
-        "Teacher": "MSna",
-        "ExamDate": "September 03, 2023",
-        "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "208 (111171185-111201228)                                                                                                                                                                                                                       209 (111201268-121152014)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MGT 3224/MGT 4132",
-        "CourseTitle": "Operations Management/Production and Operations Management",
-        "Section": "B",
-        "Teacher": "MSna",
-        "ExamDate": "September 03, 2023",
-        "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "210 (111153159-111201185)                                                                                                                                                                                                                       211 (111201240-121202009)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MGT 3224/MGT 4132",
-        "CourseTitle": "Operations Management/Production and Operations Management",
-        "Section": "C",
-        "Teacher": "MSna",
-        "ExamDate": "September 03, 2023",
-        "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "222 (111173014-111201040)                                                                                                                                                                                                                       223 (111201078-114192004)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ENG 1013/ENG 1204",
-        "CourseTitle": "Composition and Communication Skills/English II",
-        "Section": "A",
-        "Teacher": "SaAr",
-        "ExamDate": "September 03, 2023",
-        "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "210 (111212075-1112310054)                                                                                                                                                                                                                       211 (1112310056-1212310015)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ENG 1013/ENG 1204",
-        "CourseTitle": "Composition and Communication Skills/English II",
-        "Section": "B",
-        "Teacher": "SaAr",
-        "ExamDate": "September 03, 2023",
-        "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "222 (111213102-1112310101)                                                                                                                                                                                                                       223 (1112310103-1212310014)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ENG 1013/ENG 1204",
-        "CourseTitle": "Composition and Communication Skills/English II",
-        "Section": "C",
-        "Teacher": "SaAr",
-        "ExamDate": "September 03, 2023",
-        "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "224 (111222078-1112310069)                                                                                                                                                                                                                       225 (1112310071-1142310004)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ENG 1013/ENG 1204",
-        "CourseTitle": "Composition and Communication Skills/English II",
-        "Section": "D",
-        "Teacher": "SaAr",
-        "ExamDate": "September 03, 2023",
-        "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "228 (111221138-1112310077)                                                                                                                                                                                                                       305 (1112310080-1212310018)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MKT 4204",
-        "CourseTitle": "Strategic Marketing",
-        "Section": "A",
-        "Teacher": "KA",
-        "ExamDate": "September 03, 2023",
-        "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "201 (111143295-111192040)                                                                                                                                                                                                                       202 (111192077-111202053)"
-    },
-    {
-        "Dept": "BBA in AIS",
-        "CourseCode": "AIS 3209",
-        "CourseTitle": "Tax Accounting and Tax Planning",
-        "Section": "A",
-        "Teacher": "MHM",
-        "ExamDate": "September 03, 2023",
-        "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "208 (114161037-114212006)"
+        "Room": "205 (111161188-1112230139)                                                                                                                                                                                                                       206 (1112230157-1142230021)",
+        "slot": 2
     },
     {
         "Dept": "BSECO",
-        "CourseCode": "ECO 3371",
-        "CourseTitle": "Econometrics II",
+        "CourseCode": "ECO 4390",
+        "CourseTitle": "Research Methodology",
         "Section": "A",
-        "Teacher": "TJT",
-        "ExamDate": "September 03, 2023",
-        "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "209 (121201001-121221020)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MIS 4181",
-        "CourseTitle": "System Analysis & Design",
-        "Section": "A",
-        "Teacher": "AIK",
-        "ExamDate": "September 03, 2023",
-        "ExamTime": "2:00 PM - 4:00 PM",
-        "Room": "Computer Lab 1 (0226) (111161367-1112230184)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MGT 2318",
-        "CourseTitle": "Organizational Behavior",
-        "Section": "A",
-        "Teacher": "SK",
-        "ExamDate": "September 04, 2023",
+        "Teacher": "MSS",
+        "ExamDate": "November 04, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "202 (111163070-111221044)                                                                                                                                                                                                                       203 (111221058-114213010)"
+        "Room": "202 (121193001-121203005)",
+        "slot": 2
     },
     {
         "Dept": "BBA",
-        "CourseCode": "MGT 2318",
-        "CourseTitle": "Organizational Behavior",
+        "CourseCode": "ENG 1011/ENG 1101",
+        "CourseTitle": "Basic English/English I",
+        "Section": "A",
+        "Teacher": "SaAn",
+        "ExamDate": "November 04, 2023",
+        "ExamTime": "9:00 AM - 11:00 AM",
+        "Room": "203 (1112310049-1212330007)                                                                                                                                                                                                                       204 (1212330008-1212330037)",
+        "slot": 2
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "ENG 1011/ENG 1101",
+        "CourseTitle": "Basic English/English I",
         "Section": "B",
-        "Teacher": "IS",
-        "ExamDate": "September 04, 2023",
+        "Teacher": "SaAr",
+        "ExamDate": "November 04, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "204 (111173097-111213046)                                                                                                                                                                                                                       205 (111213053-111222136)"
+        "Room": "205 (1112330003-1112330116)                                                                                                                                                                                                                       206 (1112330125-1142330033)",
+        "slot": 2
     },
     {
         "Dept": "BBA",
-        "CourseCode": "MGT 2318",
-        "CourseTitle": "Organizational Behavior",
+        "CourseCode": "ENG 1011/ENG 1101",
+        "CourseTitle": "Basic English/English I",
         "Section": "C",
-        "Teacher": "SK",
-        "ExamDate": "September 04, 2023",
+        "Teacher": "SaAn",
+        "ExamDate": "November 04, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "206 (111181086-1112230254)"
+        "Room": "207 (111172074-1112330100)                                                                                                                                                                                                                       208 (1112330124-1212320010)",
+        "slot": 2
     },
     {
         "Dept": "BBA",
-        "CourseCode": "MGT 3122",
-        "CourseTitle": "Human Resources Management",
+        "CourseCode": "ENG 1011/ENG 1101",
+        "CourseTitle": "Basic English/English I",
+        "Section": "D",
+        "Teacher": "SaAn",
+        "ExamDate": "November 04, 2023",
+        "ExamTime": "9:00 AM - 11:00 AM",
+        "Room": "209 (111182028-1112330127)                                                                                                                                                                                                                       210 (1112330139-1212330020)",
+        "slot": 2
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "ENG 1011/ENG 1101",
+        "CourseTitle": "Basic English/English I",
+        "Section": "E",
+        "Teacher": "SaAr",
+        "ExamDate": "November 04, 2023",
+        "ExamTime": "9:00 AM - 11:00 AM",
+        "Room": "211 (111221088-1112330123)                                                                                                                                                                                                                       222 (1112330126-1212320009)",
+        "slot": 2
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "ENG 1011/ENG 1101",
+        "CourseTitle": "Basic English/English I",
+        "Section": "F",
+        "Teacher": "TaAr",
+        "ExamDate": "November 04, 2023",
+        "ExamTime": "9:00 AM - 11:00 AM",
+        "Room": "223 (1112230246-1112330193)                                                                                                                                                                                                                       224 (1112330198-1212330039)",
+        "slot": 2
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "FIN 4323",
+        "CourseTitle": "Working Capital Management",
         "Section": "A",
-        "Teacher": "HRJ",
-        "ExamDate": "September 04, 2023",
+        "Teacher": "NFa",
+        "ExamDate": "November 04, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "203 (111173084-111213042)"
+        "Room": "207 (111191071-111203021)",
+        "slot": 2
     },
     {
         "Dept": "BBA",
-        "CourseCode": "MGT 3122",
-        "CourseTitle": "Human Resources Management",
-        "Section": "B",
-        "Teacher": "HRJ",
-        "ExamDate": "September 04, 2023",
-        "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "204 (111172099-111202089)                                                                                                                                                                                                                       205 (111202094-111213074)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MGT 4356",
-        "CourseTitle": "Strategic Management",
+        "CourseCode": "MGT 3224/MGT 4132",
+        "CourseTitle": "Operations Management/Production and Operations Management",
         "Section": "A",
-        "Teacher": "NAr",
-        "ExamDate": "September 04, 2023",
+        "Teacher": "MSna",
+        "ExamDate": "November 04, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "206 (111162121-111192019)                                                                                                                                                                                                                       207 (111192077-114213004)"
+        "Room": "208 (111151352-111201180)                                                                                                                                                                                                                       209 (111201187-114202004)",
+        "slot": 2
     },
     {
         "Dept": "BBA",
-        "CourseCode": "MGT 4356",
-        "CourseTitle": "Strategic Management",
+        "CourseCode": "MGT 3224/MGT 4132",
+        "CourseTitle": "Operations Management/Production and Operations Management",
         "Section": "B",
-        "Teacher": "NAr",
-        "ExamDate": "September 04, 2023",
+        "Teacher": "MSna",
+        "ExamDate": "November 04, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "208 (111081063-111192084)                                                                                                                                                                                                                       209 (111193014-114201016)"
+        "Room": "210 (111173092-111201091)                                                                                                                                                                                                                       211 (111201094-114201006)",
+        "slot": 2
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "ENG 1013/ENG 1204",
+        "CourseTitle": "Composition and Communication Skills/English II",
+        "Section": "A",
+        "Teacher": "MKH",
+        "ExamDate": "November 04, 2023",
+        "ExamTime": "11:30 AM - 1:30 PM",
+        "Room": "222 (111222064-1112320053)                                                                                                                                                                                                                       223 (1112320061-1212310002)",
+        "slot": 4
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "ENG 1013/ENG 1204",
+        "CourseTitle": "Composition and Communication Skills/English II",
+        "Section": "B",
+        "Teacher": "MKH",
+        "ExamDate": "November 04, 2023",
+        "ExamTime": "11:30 AM - 1:30 PM",
+        "Room": "224 (111212043-1112320044)                                                                                                                                                                                                                       225 (1112320046-1212320011)",
+        "slot": 4
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "ENG 1013/ENG 1204",
+        "CourseTitle": "Composition and Communication Skills/English II",
+        "Section": "C",
+        "Teacher": "MKH",
+        "ExamDate": "November 04, 2023",
+        "ExamTime": "11:30 AM - 1:30 PM",
+        "Room": "228 (111212008-1212320007)",
+        "slot": 4
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "MKT 4102",
+        "CourseTitle": "Services Marketing",
+        "Section": "A",
+        "Teacher": "KA",
+        "ExamDate": "November 04, 2023",
+        "ExamTime": "11:30 AM - 1:30 PM",
+        "Room": "225 (111171185-111202094)",
+        "slot": 4
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "MKT 4102",
+        "CourseTitle": "Services Marketing",
+        "Section": "B",
+        "Teacher": "KA",
+        "ExamDate": "November 04, 2023",
+        "ExamTime": "11:30 AM - 1:30 PM",
+        "Room": "228 (111151098-111201015)                                                                                                                                                                                                                       305 (111201017-111211019)",
+        "slot": 4
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "MIS 4284",
+        "CourseTitle": "Computer Networks",
+        "Section": "A",
+        "Teacher": "AAFd",
+        "ExamDate": "November 04, 2023",
+        "ExamTime": "2:00 PM - 4:00 PM",
+        "Room": "201 (111182016-1112230184)",
+        "slot": 5
     },
     {
         "Dept": "BBA in AIS",
@@ -255,19 +214,109 @@
         "CourseTitle": "Human Resource Management & Organizational Behavior",
         "Section": "A",
         "Teacher": "SK",
-        "ExamDate": "September 04, 2023",
+        "ExamDate": "November 05, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "202 (114191006-114222016)"
+        "Room": "202 (114172005-114222008)",
+        "slot": 2
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "MGT 2318",
+        "CourseTitle": "Organizational Behavior",
+        "Section": "A",
+        "Teacher": "SK",
+        "ExamDate": "November 05, 2023",
+        "ExamTime": "9:00 AM - 11:00 AM",
+        "Room": "202 (111201037-111221096)                                                                                                                                                                                                                       203 (111221119-1112230273)",
+        "slot": 2
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "MGT 2318",
+        "CourseTitle": "Organizational Behavior",
+        "Section": "B",
+        "Teacher": "SK",
+        "ExamDate": "November 05, 2023",
+        "ExamTime": "9:00 AM - 11:00 AM",
+        "Room": "204 (111192007-111221130)                                                                                                                                                                                                                       205 (111221137-1112310145)",
+        "slot": 2
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "MGT 3122",
+        "CourseTitle": "Human Resources Management",
+        "Section": "A",
+        "Teacher": "HRJ",
+        "ExamDate": "November 05, 2023",
+        "ExamTime": "9:00 AM - 11:00 AM",
+        "Room": "203 (111181086-111213011)                                                                                                                                                                                                                       204 (111213016-111222098)",
+        "slot": 2
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "MGT 3122",
+        "CourseTitle": "Human Resources Management",
+        "Section": "B",
+        "Teacher": "HRJ",
+        "ExamDate": "November 05, 2023",
+        "ExamTime": "9:00 AM - 11:00 AM",
+        "Room": "205 (111173097-111221086)",
+        "slot": 2
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "MGT 4356",
+        "CourseTitle": "Strategic Management",
+        "Section": "A",
+        "Teacher": "NAr",
+        "ExamDate": "November 05, 2023",
+        "ExamTime": "9:00 AM - 11:00 AM",
+        "Room": "206 (111162027-114191005)",
+        "slot": 2
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "MGT 4356",
+        "CourseTitle": "Strategic Management",
+        "Section": "B",
+        "Teacher": "NAr",
+        "ExamDate": "November 05, 2023",
+        "ExamTime": "9:00 AM - 11:00 AM",
+        "Room": "207 (111182021-111203014)",
+        "slot": 2
+    },
+    {
+        "Dept": "BSECO",
+        "CourseCode": "ECO 3302/ECO 3304",
+        "CourseTitle": "Intermediate Macroeconomic Theory II/Intermediate Macroeconomics II",
+        "Section": "A",
+        "Teacher": "TJT",
+        "ExamDate": "November 05, 2023",
+        "ExamTime": "11:30 AM - 1:30 PM",
+        "Room": "206 (121173009-121222011)",
+        "slot": 4
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "HRM 4366",
+        "CourseTitle": "Strategic Human Resource Management",
+        "Section": "A",
+        "Teacher": "FAhS",
+        "ExamDate": "November 05, 2023",
+        "ExamTime": "11:30 AM - 1:30 PM",
+        "Room": "207 (111172074-111222076)",
+        "slot": 4
     },
     {
         "Dept": "BBA",
         "CourseCode": "MGT 1307",
         "CourseTitle": "Principles of Management",
         "Section": "A",
-        "Teacher": "Jkn",
-        "ExamDate": "September 04, 2023",
+        "Teacher": "IS",
+        "ExamDate": "November 05, 2023",
         "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "208 (111182024-1112230077)                                                                                                                                                                                                                       209 (1112230078-114211004)"
+        "Room": "208 (111211077-1112310056)                                                                                                                                                                                                                       209 (1112310069-1142310001)",
+        "slot": 4
     },
     {
         "Dept": "BBA",
@@ -275,19 +324,21 @@
         "CourseTitle": "Principles of Management",
         "Section": "B",
         "Teacher": "BJ",
-        "ExamDate": "September 04, 2023",
+        "ExamDate": "November 05, 2023",
         "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "210 (111183092-1112230075)                                                                                                                                                                                                                       211 (1112230094-1142230021)"
+        "Room": "210 (111212036-1112310017)                                                                                                                                                                                                                       211 (1112310048-1142310004)",
+        "slot": 4
     },
     {
         "Dept": "BBA",
         "CourseCode": "MGT 1307",
         "CourseTitle": "Principles of Management",
         "Section": "C",
-        "Teacher": "IS",
-        "ExamDate": "September 04, 2023",
+        "Teacher": "HaUn",
+        "ExamDate": "November 05, 2023",
         "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "222 (111191104-1112230073)                                                                                                                                                                                                                       223 (1112230079-1142230011)"
+        "Room": "222 (111192005-1112230190)                                                                                                                                                                                                                       223 (1112230216-1142230004)",
+        "slot": 4
     },
     {
         "Dept": "BBA",
@@ -295,89 +346,87 @@
         "CourseTitle": "Principles of Management",
         "Section": "D",
         "Teacher": "BJ",
-        "ExamDate": "September 04, 2023",
+        "ExamDate": "November 05, 2023",
         "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "224 (111191009-1112230026)                                                                                                                                                                                                                       225 (1112230084-1142230019)"
+        "Room": "224 (111202111-1112230035)                                                                                                                                                                                                                       225 (1112230052-121221002)",
+        "slot": 4
     },
     {
         "Dept": "BBA",
         "CourseCode": "MGT 1307",
         "CourseTitle": "Principles of Management",
         "Section": "E",
-        "Teacher": "YI",
-        "ExamDate": "September 04, 2023",
+        "Teacher": "NAr",
+        "ExamDate": "November 05, 2023",
         "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "228 (111152181-1112230108)                                                                                                                                                                                                                       305 (1112230109-1142230017)"
+        "Room": "228 (111192087-1112230167)                                                                                                                                                                                                                       305 (1112230180-121192006)",
+        "slot": 4
     },
     {
         "Dept": "BBA",
-        "CourseCode": "SCM 4313",
-        "CourseTitle": "Service Operation Management",
+        "CourseCode": "SCM 4102",
+        "CourseTitle": "Logistics Management",
         "Section": "A",
         "Teacher": "SdHn",
-        "ExamDate": "September 04, 2023",
+        "ExamDate": "November 05, 2023",
         "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "201 (111172068-111193094)                                                                                                                                                                                                                       202 (111193095-111213037)"
-    },
-    {
-        "Dept": "BSECO",
-        "CourseCode": "ECO 3301/ECO 3303",
-        "CourseTitle": "Intermediate Microeconomic Theory II/Intermediate Microeconomics II",
-        "Section": "A",
-        "Teacher": "MSS",
-        "ExamDate": "September 04, 2023",
-        "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "207 (111183091-121221020)"
+        "Room": "201 (111191008-111201153)                                                                                                                                                                                                                       202 (111201162-111213037)",
+        "slot": 4
     },
     {
         "Dept": "BBA",
-        "CourseCode": "ACN 4340/AIS 2306",
-        "CourseTitle": "Auditing/Principles of Auditing",
+        "CourseCode": "ACN 4344/AIS 4301",
+        "CourseTitle": "Advanced Management Accounting/Management Accounting-II",
         "Section": "A",
-        "Teacher": "MdAHn",
-        "ExamDate": "September 04, 2023",
+        "Teacher": "IJ",
+        "ExamDate": "November 05, 2023",
         "ExamTime": "2:00 PM - 4:00 PM",
-        "Room": "202 (111161176-114212006)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MIS 4388",
-        "CourseTitle": "Advanced Database Management",
-        "Section": "A",
-        "Teacher": "AAFd",
-        "ExamDate": "September 04, 2023",
-        "ExamTime": "2:00 PM - 4:00 PM",
-        "Room": "Computer Lab 1 (0226) (111182016-1112230184)"
+        "Room": "202 (111202182-114213004)",
+        "slot": 5
     },
     {
         "Dept": "BSECO",
-        "CourseCode": "ECO 2301/ECO 2304/ECO 2314",
-        "CourseTitle": "Intermediate Microeconomic Theory I/Intermediate Microeconomics/Intermediate Microeconomics I",
+        "CourseCode": "ECO 2302/ECO 2305/ECO 2315",
+        "CourseTitle": "Intermediate Macroeconomic Theory I/Intermediate Macroeconomics/Intermediate Macroeconomics I",
         "Section": "A",
-        "Teacher": "MSS",
-        "ExamDate": "September 04, 2023",
+        "Teacher": "TJT",
+        "ExamDate": "November 05, 2023",
         "ExamTime": "2:00 PM - 4:00 PM",
-        "Room": "203 (111173105-121222016)"
+        "Room": "203 (121182003-1212310017)",
+        "slot": 5
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "MKT 4309",
+        "CourseTitle": "Global Marketing",
+        "Section": "A",
+        "Teacher": "SRA",
+        "ExamDate": "November 05, 2023",
+        "ExamTime": "2:00 PM - 4:00 PM",
+        "Room": "201 (111151352-111201028)                                                                                                                                                                                                                       202 (111201033-121203001)",
+        "slot": 5
     },
     {
         "Dept": "BBA",
         "CourseCode": "BUS 1102",
         "CourseTitle": "Introduction to Business",
         "Section": "A",
-        "Teacher": "KA",
-        "ExamDate": "September 05, 2023",
+        "Teacher": "SBAr",
+        "ExamDate": "November 06, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "202 (111221060-1112320062)                                                                                                                                                                                                                       203 (1112320065-1142320012)"
+        "Room": "202 (1112230212-1112330181)                                                                                                                                                                                                                       201 (1112330188-1212230016)",
+        "slot": 2
     },
     {
         "Dept": "BBA",
         "CourseCode": "BUS 1102",
         "CourseTitle": "Introduction to Business",
         "Section": "B",
-        "Teacher": "KA",
-        "ExamDate": "September 05, 2023",
+        "Teacher": "MArR",
+        "ExamDate": "November 06, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "204 (111182019-1112320091)                                                                                                                                                                                                                       205 (1112320102-1212310018)"
+        "Room": "204 (111222007-1112330084)                                                                                                                                                                                                                       205 (1112330085-1142330025)",
+        "slot": 2
     },
     {
         "Dept": "BBA",
@@ -385,9 +434,43 @@
         "CourseTitle": "Introduction to Business",
         "Section": "C",
         "Teacher": "SeyS",
-        "ExamDate": "September 05, 2023",
+        "ExamDate": "November 06, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "206 (111221157-1112320054)                                                                                                                                                                                                                       207 (1112320064-1142320010)"
+        "Room": "206 (1112330001-1112330135)                                                                                                                                                                                                                       207 (1112330141-1212330010)",
+        "slot": 2
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "BUS 1102",
+        "CourseTitle": "Introduction to Business",
+        "Section": "D",
+        "Teacher": "MArR",
+        "ExamDate": "November 06, 2023",
+        "ExamTime": "9:00 AM - 11:00 AM",
+        "Room": "208 (1112230050-1112330127)                                                                                                                                                                                                                       209 (1112330130-121211009)",
+        "slot": 2
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "BUS 1102",
+        "CourseTitle": "Introduction to Business",
+        "Section": "E",
+        "Teacher": "SBAr",
+        "ExamDate": "November 06, 2023",
+        "ExamTime": "9:00 AM - 11:00 AM",
+        "Room": "210 (111212077-1112330122)                                                                                                                                                                                                                       211 (1112330137-1142330029)",
+        "slot": 2
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "BUS 1102",
+        "CourseTitle": "Introduction to Business",
+        "Section": "F",
+        "Teacher": "MdAHn",
+        "ExamDate": "November 06, 2023",
+        "ExamTime": "9:00 AM - 11:00 AM",
+        "Room": "222 (111221025-1112330174)                                                                                                                                                                                                                       223 (1112330193-121182003)",
+        "slot": 2
     },
     {
         "Dept": "BBA",
@@ -395,109 +478,164 @@
         "CourseTitle": "Marketing Management",
         "Section": "A",
         "Teacher": "MdSA",
-        "ExamDate": "September 05, 2023",
+        "ExamDate": "November 06, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "202 (111182079-111211030)                                                                                                                                                                                                                       203 (111211040-111222107)"
+        "Room": "203 (111182131-111212079)",
+        "slot": 2
     },
     {
         "Dept": "BBA",
         "CourseCode": "MKT 3336",
         "CourseTitle": "Marketing Management",
         "Section": "B",
-        "Teacher": "MKHn",
-        "ExamDate": "September 05, 2023",
+        "Teacher": "SRA",
+        "ExamDate": "November 06, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "204 (111173038-111213042)"
+        "Room": "204 (111171251-111211073)                                                                                                                                                                                                                       205 (111211092-1112310145)",
+        "slot": 2
     },
     {
         "Dept": "BBA",
-        "CourseCode": "MKT 4101",
-        "CourseTitle": "Consumer Behavior",
+        "CourseCode": "MKT 4203",
+        "CourseTitle": "Integrated Communication",
         "Section": "A",
         "Teacher": "SRA",
-        "ExamDate": "September 05, 2023",
+        "ExamDate": "November 06, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "205 (111182098-111201040)                                                                                                                                                                                                                       206 (111201042-111202182)"
+        "Room": "206 (111182098-111201020)                                                                                                                                                                                                                       207 (111201040-111202183)",
+        "slot": 2
     },
     {
         "Dept": "BBA",
-        "CourseCode": "MKT 4101",
-        "CourseTitle": "Consumer Behavior",
+        "CourseCode": "MKT 4203",
+        "CourseTitle": "Integrated Communication",
         "Section": "B",
         "Teacher": "SRA",
-        "ExamDate": "September 05, 2023",
+        "ExamDate": "November 06, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "207 (111152169-111193090)                                                                                                                                                                                                                       208 (111193114-111203014)"
+        "Room": "208 (111151461-111201182)                                                                                                                                                                                                                       209 (111201197-111203014)",
+        "slot": 2
     },
     {
         "Dept": "BBA",
-        "CourseCode": "HRM 4366",
-        "CourseTitle": "Strategic Human Resource Management",
+        "CourseCode": "BUS 4201",
+        "CourseTitle": "Employability and Entrepreneurial Success",
         "Section": "A",
         "Teacher": "IS",
-        "ExamDate": "September 05, 2023",
+        "ExamDate": "November 06, 2023",
         "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "209 (111172094-111192033)                                                                                                                                                                                                                       210 (111193024-111203012)"
+        "Room": "210 (111173092-114213004)",
+        "slot": 4
+    },
+    {
+        "Dept": "BSECO",
+        "CourseCode": "ECO 4392",
+        "CourseTitle": "Law and Economics",
+        "Section": "A",
+        "Teacher": "WYn",
+        "ExamDate": "November 06, 2023",
+        "ExamTime": "11:30 AM - 1:30 PM",
+        "Room": "211 (121182002-121212006)",
+        "slot": 4
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "HRM 4358",
+        "CourseTitle": "Performance Appraisal and Management",
+        "Section": "A",
+        "Teacher": "MKHq",
+        "ExamDate": "November 06, 2023",
+        "ExamTime": "11:30 AM - 1:30 PM",
+        "Room": "222 (111171208-111193003)                                                                                                                                                                                                                       223 (111193024-111211004)",
+        "slot": 4
     },
     {
         "Dept": "BBA",
         "CourseCode": "MKT 2320",
         "CourseTitle": "Introduction to Marketing",
         "Section": "A",
-        "Teacher": "SRA",
-        "ExamDate": "September 05, 2023",
+        "Teacher": "KA",
+        "ExamDate": "November 06, 2023",
         "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "209 (111181086-111213020)                                                                                                                                                                                                                       210 (111213034-1142310007)"
+        "Room": "224 (111191106-111213013)                                                                                                                                                                                                                       225 (111213045-121201008)",
+        "slot": 4
     },
     {
         "Dept": "BBA",
         "CourseCode": "MKT 2320",
         "CourseTitle": "Introduction to Marketing",
         "Section": "B",
-        "Teacher": "MdSA",
-        "ExamDate": "September 05, 2023",
+        "Teacher": "SeyS",
+        "ExamDate": "November 06, 2023",
         "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "211 (111182101-111212015)                                                                                                                                                                                                                       222 (111212025-111221038)"
+        "Room": "228 (111193031-121221002)",
+        "slot": 4
     },
     {
         "Dept": "BBA",
         "CourseCode": "SOC 1105",
         "CourseTitle": "Sociology and Psychology",
         "Section": "A",
-        "Teacher": "ShaIs",
-        "ExamDate": "September 05, 2023",
+        "Teacher": "MRM",
+        "ExamDate": "November 06, 2023",
         "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "211 (111193044-111222056)                                                                                                                                                                                                                       222 (111222059-114222016)"
+        "Room": "224 (111192060-111222115)                                                                                                                                                                                                                       225 (111222121-1142320014)",
+        "slot": 4
     },
     {
         "Dept": "BBA",
         "CourseCode": "SOC 1105",
         "CourseTitle": "Sociology and Psychology",
         "Section": "B",
-        "Teacher": "ShaIs",
-        "ExamDate": "September 05, 2023",
+        "Teacher": "MRM",
+        "ExamDate": "November 06, 2023",
         "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "223 (111193036-111221162)                                                                                                                                                                                                                       224 (111221195-114221022)"
+        "Room": "228 (111212030-1112310050)                                                                                                                                                                                                                       305 (1112310051-1142310001)",
+        "slot": 4
     },
     {
         "Dept": "BBA",
         "CourseCode": "SOC 1105",
         "CourseTitle": "Sociology and Psychology",
         "Section": "C",
+        "Teacher": "MRM",
+        "ExamDate": "November 06, 2023",
+        "ExamTime": "11:30 AM - 1:30 PM",
+        "Room": "306 (111211061-1112230136)                                                                                                                                                                                                                       307 (1112230148-114221024)",
+        "slot": 4
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "SOC 1105",
+        "CourseTitle": "Sociology and Psychology",
+        "Section": "D",
         "Teacher": "ShaIs",
-        "ExamDate": "September 05, 2023",
+        "ExamDate": "November 06, 2023",
         "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "225 (111201061-1112310141)"
+        "Room": "202 (111201076-1112310003)                                                                                                                                                                                                                       203 (1112310010-114221021)",
+        "slot": 4
     },
     {
-        "Dept": "BSECO",
-        "CourseCode": "ECO 4391",
-        "CourseTitle": "Welfare Economics",
-        "Section": "A",
-        "Teacher": "WYn",
-        "ExamDate": "September 05, 2023",
+        "Dept": "BBA",
+        "CourseCode": "SOC 1105",
+        "CourseTitle": "Sociology and Psychology",
+        "Section": "E",
+        "Teacher": "ShaIs",
+        "ExamDate": "November 06, 2023",
         "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "208 (121173009-121211008)"
+        "Room": "204 (111201007-1142310004)",
+        "slot": 4
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "SOC 1105",
+        "CourseTitle": "Sociology and Psychology",
+        "Section": "F",
+        "Teacher": "ShaIs",
+        "ExamDate": "November 06, 2023",
+        "ExamTime": "11:30 AM - 1:30 PM",
+        "Room": "205 (111191025-111222154)                                                                                                                                                                                                                       206 (1112230074-114221020)",
+        "slot": 4
     },
     {
         "Dept": "BBA",
@@ -505,9 +643,10 @@
         "CourseTitle": "Business Law/Commercial & Industrial Laws",
         "Section": "A",
         "Teacher": "Jkn",
-        "ExamDate": "September 05, 2023",
+        "ExamDate": "November 06, 2023",
         "ExamTime": "2:00 PM - 4:00 PM",
-        "Room": "223 (111143295-111201057)                                                                                                                                                                                                                       224 (111201059-1112230007)"
+        "Room": "207 (111162121-111201198)                                                                                                                                                                                                                       208 (111201232-114221015)",
+        "slot": 5
     },
     {
         "Dept": "BBA",
@@ -515,209 +654,186 @@
         "CourseTitle": "Business Law/Commercial & Industrial Laws",
         "Section": "B",
         "Teacher": "Jkn",
-        "ExamDate": "September 05, 2023",
+        "ExamDate": "November 06, 2023",
         "ExamTime": "2:00 PM - 4:00 PM",
-        "Room": "225 (111173065-111201085)                                                                                                                                                                                                                       228 (111201087-114213001)"
+        "Room": "209 (111171185-111202032)                                                                                                                                                                                                                       210 (111202049-1142310007)",
+        "slot": 5
     },
     {
-        "Dept": "BBA in AIS",
-        "CourseCode": "LAW 3328",
-        "CourseTitle": "Corporate Law & Secretarial Practice",
+        "Dept": "BBA",
+        "CourseCode": "MIS 4385",
+        "CourseTitle": "E-Commerce and Web Management",
         "Section": "A",
-        "Teacher": "Jkn",
-        "ExamDate": "September 05, 2023",
+        "Teacher": "AIK",
+        "ExamDate": "November 06, 2023",
         "ExamTime": "2:00 PM - 4:00 PM",
-        "Room": "201 (114191001-114221004)"
+        "Room": "Computer Lab 1 (0226) (111182123-1112230184)",
+        "slot": 5
     },
     {
         "Dept": "BBA",
         "CourseCode": "CST 1206/CST 1303",
         "CourseTitle": "Computer Application in Business/Computer Applications",
         "Section": "A",
-        "Teacher": "NJT",
-        "ExamDate": "September 07, 2023",
+        "Teacher": "TIM",
+        "ExamDate": "November 07, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "Computer Lab 1 (0226) (111212030-1112230156)                                                                                                                                                                                                                       Computer Lab 2 (0227) (1112230157-1212230012)"
+        "Room": "Computer Lab 1 (0226) (111193121-1212320011)",
+        "slot": 2
     },
     {
         "Dept": "BBA",
         "CourseCode": "CST 1206/CST 1303",
         "CourseTitle": "Computer Application in Business/Computer Applications",
         "Section": "B",
-        "Teacher": "AAFd",
-        "ExamDate": "September 07, 2023",
+        "Teacher": "AIK",
+        "ExamDate": "November 07, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "Computer Lab 3 (0327) (111221117-1112310040)                                                                                                                                                                                                                       Computer Lab 4 (0427) (1112310042-1142230014)"
+        "Room": "Computer Lab 2 (0227) (111221157-1112320034)                                                                                                                                                                                                                       Computer Lab 3 (0327) (1112320039-1212320010)",
+        "slot": 2
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "CST 1206/CST 1303",
+        "CourseTitle": "Computer Application in Business/Computer Applications",
+        "Section": "C",
+        "Teacher": "MdSA",
+        "ExamDate": "November 07, 2023",
+        "ExamTime": "9:00 AM - 11:00 AM",
+        "Room": "Computer Lab 4 (0427) (111201008-1112320061)                                                                                                                                                                                                                       Computer Lab 5 (0523) (1112320062-1212320006)",
+        "slot": 2
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "FIN 2319",
+        "CourseTitle": "Principles of Finance",
+        "Section": "A",
+        "Teacher": "NFa",
+        "ExamDate": "November 07, 2023",
+        "ExamTime": "9:00 AM - 11:00 AM",
+        "Room": "202 (111181064-111221003)                                                                                                                                                                                                                       203 (111221037-121192006)",
+        "slot": 2
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "FIN 2319",
+        "CourseTitle": "Principles of Finance",
+        "Section": "B",
+        "Teacher": "NFa",
+        "ExamDate": "November 07, 2023",
+        "ExamTime": "9:00 AM - 11:00 AM",
+        "Room": "204 (111182059-111211070)                                                                                                                                                                                                                       205 (111212019-121222010)",
+        "slot": 2
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "FIN 2319",
+        "CourseTitle": "Principles of Finance",
+        "Section": "C",
+        "Teacher": "MEH",
+        "ExamDate": "November 07, 2023",
+        "ExamTime": "9:00 AM - 11:00 AM",
+        "Room": "206 (111161188-111213096)                                                                                                                                                                                                                       207 (111221002-121201012)",
+        "slot": 2
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "FIN 3123",
+        "CourseTitle": "Managerial Finance",
+        "Section": "A",
+        "Teacher": "MUd",
+        "ExamDate": "November 07, 2023",
+        "ExamTime": "9:00 AM - 11:00 AM",
+        "Room": "207 (111173014-111201163)                                                                                                                                                                                                                       208 (111201192-114221014)",
+        "slot": 2
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "FIN 3123",
+        "CourseTitle": "Managerial Finance",
+        "Section": "B",
+        "Teacher": "MEH",
+        "ExamDate": "November 07, 2023",
+        "ExamTime": "9:00 AM - 11:00 AM",
+        "Room": "209 (111143295-111201229)                                                                                                                                                                                                                       210 (111201270-114212004)",
+        "slot": 2
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "FIN 4218",
+        "CourseTitle": "Financial Statements Analysis",
+        "Section": "A",
+        "Teacher": "MEH",
+        "ExamDate": "November 07, 2023",
+        "ExamTime": "9:00 AM - 11:00 AM",
+        "Room": "201 (111191071-111201156)                                                                                                                                                                                                                       202 (111201162-114162018)",
+        "slot": 2
     },
     {
         "Dept": "BBA",
         "CourseCode": "CST 1206/CST 1303",
         "CourseTitle": "Computer Application in Business/Computer Applications",
         "Section": "D",
-        "Teacher": "Jkn",
-        "ExamDate": "September 07, 2023",
-        "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "Computer Lab 5 (0523) (111191118-1112230249)                                                                                                                                                                                                                       Computer Lab 7 (0522) (1112230271-1212230016)"
+        "Teacher": "MArR",
+        "ExamDate": "November 07, 2023",
+        "ExamTime": "11:30 AM - 1:30 PM",
+        "Room": "Computer Lab 1 (0226) (111212043-1212320004)",
+        "slot": 4
     },
     {
         "Dept": "BBA",
         "CourseCode": "CST 1206/CST 1303",
         "CourseTitle": "Computer Application in Business/Computer Applications",
         "Section": "E",
-        "Teacher": "Jkn",
-        "ExamDate": "September 07, 2023",
-        "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "Computer Lab 8 (0528) (111191163-1112230232)                                                                                                                                                                                                                       Computer Lab 6 (0524) (1112310037-121222007)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "FIN 2319",
-        "CourseTitle": "Principles of Finance",
-        "Section": "A",
-        "Teacher": "MUd",
-        "ExamDate": "September 07, 2023",
-        "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "202 (111183011-111201184)                                                                                                                                                                                                                       203 (111201191-114221014)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "FIN 2319",
-        "CourseTitle": "Principles of Finance",
-        "Section": "B",
-        "Teacher": "MEH",
-        "ExamDate": "September 07, 2023",
-        "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "204 (111182024-111201203)                                                                                                                                                                                                                       205 (111201246-121211007)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "FIN 3123",
-        "CourseTitle": "Managerial Finance",
-        "Section": "A",
-        "Teacher": "MEH",
-        "ExamDate": "September 07, 2023",
-        "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "206 (111181054-111201117)                                                                                                                                                                                                                       207 (111201147-121202009)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "FIN 3123",
-        "CourseTitle": "Managerial Finance",
-        "Section": "B",
-        "Teacher": "MEH",
-        "ExamDate": "September 07, 2023",
-        "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "208 (111143295-111193022)                                                                                                                                                                                                                       209 (111193045-111222107)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "FIN 4219",
-        "CourseTitle": "Securities Analysis and Portfolio Management",
-        "Section": "A",
-        "Teacher": "MMs",
-        "ExamDate": "September 07, 2023",
-        "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "201 (111163070-111201018)                                                                                                                                                                                                                       202 (111201043-114192001)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ACN 4342/AIS 3310",
-        "CourseTitle": "Accounting Information Systems",
-        "Section": "A",
-        "Teacher": "MTH",
-        "ExamDate": "September 07, 2023",
+        "Teacher": "MdQ",
+        "ExamDate": "November 07, 2023",
         "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "Computer Lab 6 (0524) (111161367-111201135)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "CST 1206/CST 1303",
-        "CourseTitle": "Computer Application in Business/Computer Applications",
-        "Section": "C",
-        "Teacher": "PMM",
-        "ExamDate": "September 07, 2023",
-        "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "Computer Lab 1 (0226) (111222100-1112310019)                                                                                                                                                                                                                       Computer Lab 2 (0227) (1112310024-1142310004)"
+        "Room": "Computer Lab 2 (0227) (111172074-1112310087)                                                                                                                                                                                                                       Computer Lab 3 (0327) (1112320020-1212320008)",
+        "slot": 4
     },
     {
         "Dept": "BBA",
         "CourseCode": "CST 1206/CST 1303",
         "CourseTitle": "Computer Application in Business/Computer Applications",
         "Section": "F",
-        "Teacher": "PMM",
-        "ExamDate": "September 07, 2023",
+        "Teacher": "MKB",
+        "ExamDate": "November 07, 2023",
         "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "Computer Lab 3 (0327) (111221025-1112230123)                                                                                                                                                                                                                       Computer Lab 4 (0427) (1112230125-1142310009)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "CST 1206/CST 1303",
-        "CourseTitle": "Computer Application in Business/Computer Applications",
-        "Section": "G",
-        "Teacher": "PMM",
-        "ExamDate": "September 07, 2023",
-        "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "Computer Lab 5 (0523) (111171196-121193007)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "CST 1206/CST 1303",
-        "CourseTitle": "Computer Application in Business/Computer Applications",
-        "Section": "H",
-        "Teacher": "MdQ",
-        "ExamDate": "September 07, 2023",
-        "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "Computer Lab 11 (0531) (111193089-1112230247)                                                                                                                                                                                                                       Computer Lab 13 (0326) (1112310008-1142230005)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "CST 1206/CST 1303",
-        "CourseTitle": "Computer Application in Business/Computer Applications",
-        "Section": "I",
-        "Teacher": "PMM",
-        "ExamDate": "September 07, 2023",
-        "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "Computer Lab 7 (0522) (111201094-1112230223)                                                                                                                                                                                                                       Computer Lab 8 (0528) (1112230234-114222017)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "CST 1206/CST 1303",
-        "CourseTitle": "Computer Application in Business/Computer Applications",
-        "Section": "J",
-        "Teacher": "NFa",
-        "ExamDate": "September 07, 2023",
-        "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "Computer Lab 9 (0529) (111221048-1112230140)                                                                                                                                                                                                                       Computer Lab 10 (0530) (1112230151-1212310018)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "SCM 4202",
-        "CourseTitle": "Enterprise Resource Planning (ERP)",
-        "Section": "A",
-        "Teacher": "SdHn",
-        "ExamDate": "September 07, 2023",
-        "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "201 (111172068-111201022)                                                                                                                                                                                                                       202 (111201048-111213037)"
+        "Room": "Computer Lab 4 (0427) (111201046-1112320038)                                                                                                                                                                                                                       Computer Lab 5 (0523) (1112320074-1212330016)",
+        "slot": 4
     },
     {
         "Dept": "BSECO",
-        "CourseCode": "ECO 3350",
-        "CourseTitle": "Development Economics",
+        "CourseCode": "ECO 3311/ECO 3314",
+        "CourseTitle": "Public Finance/Public Finance: Revenue",
         "Section": "A",
-        "Teacher": "TrAd",
-        "ExamDate": "September 07, 2023",
+        "Teacher": "MSS",
+        "ExamDate": "November 07, 2023",
         "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "203 (121152014-121222011)"
+        "Room": "203 (121191001-121212005)",
+        "slot": 4
     },
     {
         "Dept": "BBA",
-        "CourseCode": "MGT 3229",
-        "CourseTitle": "Entrepreneurship and Business Plan Development",
+        "CourseCode": "SCM 4103",
+        "CourseTitle": "Global Sourcing and Procurement",
         "Section": "A",
-        "Teacher": "YI",
-        "ExamDate": "September 07, 2023",
+        "Teacher": "SdHn",
+        "ExamDate": "November 07, 2023",
+        "ExamTime": "11:30 AM - 1:30 PM",
+        "Room": "201 (111182016-111201091)                                                                                                                                                                                                                       202 (111201102-111212082)",
+        "slot": 4
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "BUS 3339",
+        "CourseTitle": "Business Research Methodology",
+        "Section": "A",
+        "Teacher": "MHAMn",
+        "ExamDate": "November 07, 2023",
         "ExamTime": "2:00 PM - 4:00 PM",
-        "Room": "202 (111081063-111212013)"
+        "Room": "202 (111173065-114213004)",
+        "slot": 5
     },
     {
         "Dept": "BBA",
@@ -725,9 +841,10 @@
         "CourseTitle": "Advanced Computer Applications in Business",
         "Section": "A",
         "Teacher": "ZN",
-        "ExamDate": "September 07, 2023",
+        "ExamDate": "November 07, 2023",
         "ExamTime": "2:00 PM - 4:00 PM",
-        "Room": "Computer Lab 1 (0226) (111183044-111211034)                                                                                                                                                                                                                       Computer Lab 2 (0227) (111212080-114221005)"
+        "Room": "Computer Lab 1 (0226) (111192002-111221067)                                                                                                                                                                                                                       Computer Lab 2 (0227) (111221076-114221008)",
+        "slot": 5
     },
     {
         "Dept": "BBA",
@@ -735,9 +852,10 @@
         "CourseTitle": "Advanced Computer Applications in Business",
         "Section": "B",
         "Teacher": "ZN",
-        "ExamDate": "September 07, 2023",
+        "ExamDate": "November 07, 2023",
         "ExamTime": "2:00 PM - 4:00 PM",
-        "Room": "Computer Lab 3 (0327) (111183014-111222075)"
+        "Room": "Computer Lab 3 (0327) (111191025-111221030)                                                                                                                                                                                                                       Computer Lab 4 (0427) (111221045-114222008)",
+        "slot": 5
     },
     {
         "Dept": "BBA",
@@ -745,59 +863,54 @@
         "CourseTitle": "Advanced Computer Applications in Business",
         "Section": "C",
         "Teacher": "ZN",
-        "ExamDate": "September 07, 2023",
+        "ExamDate": "November 07, 2023",
         "ExamTime": "2:00 PM - 4:00 PM",
-        "Room": "Computer Lab 4 (0427) (111183011-1142230008)"
+        "Room": "Computer Lab 5 (0523) (111183101-1142310007)",
+        "slot": 5
     },
     {
         "Dept": "BBA",
         "CourseCode": "ACN 1205/AIS 1201",
         "CourseTitle": "Financial Accounting I/Principles of Accounting",
         "Section": "A",
-        "Teacher": "IJ",
-        "ExamDate": "September 09, 2023",
-        "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "203 (111212041-1112230225)                                                                                                                                                                                                                       204 (1112230242-1142230014)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ACN 1205/AIS 1201",
-        "CourseTitle": "Financial Accounting I/Principles of Accounting",
-        "Section": "B",
-        "Teacher": "IJ",
-        "ExamDate": "September 09, 2023",
-        "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "205 (111182063-1112230154)                                                                                                                                                                                                                       206 (1112230156-121222010)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ACN 1205/AIS 1201",
-        "CourseTitle": "Financial Accounting I/Principles of Accounting",
-        "Section": "C",
         "Teacher": "SKa",
-        "ExamDate": "September 09, 2023",
+        "ExamDate": "November 08, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "207 (111182077-1112310017)                                                                                                                                                                                                                       208 (1112310020-1142310004)"
+        "Room": "203 (111212029-1112310031)                                                                                                                                                                                                                       204 (1112310046-1142320009)",
+        "slot": 2
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "ACN 1205/AIS 1201",
+        "CourseTitle": "Financial Accounting I/Principles of Accounting",
+        "Section": "B",
+        "Teacher": "SKa",
+        "ExamDate": "November 08, 2023",
+        "ExamTime": "9:00 AM - 11:00 AM",
+        "Room": "205 (111182063-1112230254)                                                                                                                                                                                                                       206 (1112230256-121221002)",
+        "slot": 2
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "ACN 1205/AIS 1201",
+        "CourseTitle": "Financial Accounting I/Principles of Accounting",
+        "Section": "C",
+        "Teacher": "HAh",
+        "ExamDate": "November 08, 2023",
+        "ExamTime": "9:00 AM - 11:00 AM",
+        "Room": "207 (111193054-1112230172)                                                                                                                                                                                                                       208 (1112230199-1212230013)",
+        "slot": 2
     },
     {
         "Dept": "BBA",
         "CourseCode": "ACN 1205/AIS 1201",
         "CourseTitle": "Financial Accounting I/Principles of Accounting",
         "Section": "D",
-        "Teacher": "HAh",
-        "ExamDate": "September 09, 2023",
+        "Teacher": "IJ",
+        "ExamDate": "November 08, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "209 (111212065-1112230193)                                                                                                                                                                                                                       210 (1112230223-1142230005)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ACN 1205/AIS 1201",
-        "CourseTitle": "Financial Accounting I/Principles of Accounting",
-        "Section": "E",
-        "Teacher": "SKa",
-        "ExamDate": "September 09, 2023",
-        "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "211 (111192018-1112230086)                                                                                                                                                                                                                       222 (1112230105-1142230013)"
+        "Room": "209 (111182077-1112310052)                                                                                                                                                                                                                       210 (1112310063-1212230012)",
+        "slot": 2
     },
     {
         "Dept": "BBA",
@@ -805,29 +918,54 @@
         "CourseTitle": "Advanced Accounting-I/Advanced Financial Accounting - I",
         "Section": "A",
         "Teacher": "JBS",
-        "ExamDate": "September 09, 2023",
+        "ExamDate": "November 08, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "207 (111162121-114221003)                                                                                                                                                                                                                       208 (114221004-114222014)"
+        "Room": "208 (111201088-1142310007)",
+        "slot": 2
     },
     {
         "Dept": "BBA",
-        "CourseCode": "HRM 4153",
-        "CourseTitle": "Human Resource Planning",
+        "CourseCode": "ACN 4238/AIS 3107",
+        "CourseTitle": "Advanced Accounting-II/Advanced Financial Accounting - II",
+        "Section": "A",
+        "Teacher": "MTH",
+        "ExamDate": "November 08, 2023",
+        "ExamTime": "9:00 AM - 11:00 AM",
+        "Room": "209 (111162121-114221013)",
+        "slot": 2
+    },
+    {
+        "Dept": "BBA in AIS",
+        "CourseCode": "AIS 4208",
+        "CourseTitle": "Advanced Accounting-III",
+        "Section": "A",
+        "Teacher": "JBS",
+        "ExamDate": "November 08, 2023",
+        "ExamTime": "9:00 AM - 11:00 AM",
+        "Room": "210 (114182001-114212006)",
+        "slot": 2
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "HRM 4269",
+        "CourseTitle": "Learning and Development Management",
         "Section": "A",
         "Teacher": "HRJ",
-        "ExamDate": "September 09, 2023",
+        "ExamDate": "November 08, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "201 (111153159-111193101)                                                                                                                                                                                                                       202 (111193122-111222076)"
+        "Room": "201 (111173014-111193022)                                                                                                                                                                                                                       202 (111193031-111222076)",
+        "slot": 2
     },
     {
         "Dept": "BBA",
         "CourseCode": "ACN 1309/AIS 1302",
         "CourseTitle": "Financial Accounting II/Intermediate Accounting",
         "Section": "A",
-        "Teacher": "MHM",
-        "ExamDate": "September 09, 2023",
+        "Teacher": "MdAHn",
+        "ExamDate": "November 08, 2023",
         "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "202 (111193094-1142230021)"
+        "Room": "202 (111192042-1112230132)                                                                                                                                                                                                                       203 (1112230134-1142230013)",
+        "slot": 4
     },
     {
         "Dept": "BBA",
@@ -835,9 +973,10 @@
         "CourseTitle": "Financial Accounting II/Intermediate Accounting",
         "Section": "B",
         "Teacher": "MHM",
-        "ExamDate": "September 09, 2023",
+        "ExamDate": "November 08, 2023",
         "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "203 (111181100-111222093)                                                                                                                                                                                                                       204 (111222099-1142230019)"
+        "Room": "204 (111191040-1112230153)                                                                                                                                                                                                                       205 (1112230156-1112310159)",
+        "slot": 4
     },
     {
         "Dept": "BBA",
@@ -845,29 +984,21 @@
         "CourseTitle": "Financial Accounting II/Intermediate Accounting",
         "Section": "C",
         "Teacher": "MHM",
-        "ExamDate": "September 09, 2023",
+        "ExamDate": "November 08, 2023",
         "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "205 (111191072-111222034)                                                                                                                                                                                                                       206 (111222043-1142230001)"
+        "Room": "206 (111191132-1112230078)                                                                                                                                                                                                                       207 (1112230095-1142230022)",
+        "slot": 4
     },
     {
         "Dept": "BBA",
         "CourseCode": "ACN 1309/AIS 1302",
         "CourseTitle": "Financial Accounting II/Intermediate Accounting",
         "Section": "D",
-        "Teacher": "JBS",
-        "ExamDate": "September 09, 2023",
+        "Teacher": "MdAHn",
+        "ExamDate": "November 08, 2023",
         "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "207 (111192067-111221181)                                                                                                                                                                                                                       208 (111221195-1142230003)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MGT 3341",
-        "CourseTitle": "Project Management",
-        "Section": "A",
-        "Teacher": "FAhS",
-        "ExamDate": "September 09, 2023",
-        "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "201 (111182123-111193095)                                                                                                                                                                                                                       202 (111201052-1112230184)"
+        "Room": "208 (111182021-1112310007)                                                                                                                                                                                                                       209 (1112310008-1142310004)",
+        "slot": 4
     },
     {
         "Dept": "BSECO",
@@ -875,109 +1006,175 @@
         "CourseTitle": "Mathematics for Business and Economics I",
         "Section": "A",
         "Teacher": "TrAd",
-        "ExamDate": "September 09, 2023",
+        "ExamDate": "November 08, 2023",
         "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "203 (121221001-1212320011)"
+        "Room": "203 (1212320012-1212330020)                                                                                                                                                                                                                       204 (1212330021-1212330039)",
+        "slot": 4
     },
     {
         "Dept": "BSECO",
-        "CourseCode": "ECO 3335",
-        "CourseTitle": "Natural Resource Economics",
+        "CourseCode": "ECO 2360/ECO 2365",
+        "CourseTitle": "Environmental Economics/Introduction to Environmental and Natural Resource Economics",
         "Section": "A",
         "Teacher": "WYn",
-        "ExamDate": "September 09, 2023",
+        "ExamDate": "November 08, 2023",
         "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "204 (121183002-121211008)"
+        "Room": "205 (121182002-121222011)",
+        "slot": 4
+    },
+    {
+        "Dept": "BSECO",
+        "CourseCode": "ECO 3329",
+        "CourseTitle": "International Economic Cooperation and Trade Negotiation",
+        "Section": "A",
+        "Teacher": "SCT",
+        "ExamDate": "November 08, 2023",
+        "ExamTime": "11:30 AM - 1:30 PM",
+        "Room": "206 (121191006-121203002)",
+        "slot": 4
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "MGT 3342",
+        "CourseTitle": "Business Ethics",
+        "Section": "A",
+        "Teacher": "PMM",
+        "ExamDate": "November 08, 2023",
+        "ExamTime": "11:30 AM - 1:30 PM",
+        "Room": "201 (111162027-111201243)                                                                                                                                                                                                                       202 (111202011-111221124)",
+        "slot": 4
     },
     {
         "Dept": "BBA",
         "CourseCode": "ACN 2215/AIS 4103",
         "CourseTitle": "Management Accounting/Management Accounting-I",
         "Section": "A",
-        "Teacher": "HAh",
-        "ExamDate": "September 09, 2023",
+        "Teacher": "IJ",
+        "ExamDate": "November 08, 2023",
         "ExamTime": "2:00 PM - 4:00 PM",
-        "Room": "202 (111151461-111201169)                                                                                                                                                                                                                       203 (111201225-114193002)"
+        "Room": "202 (111182055-111222008)                                                                                                                                                                                                                       203 (111222012-114201014)",
+        "slot": 5
     },
     {
         "Dept": "BBA",
         "CourseCode": "ACN 2215/AIS 4103",
         "CourseTitle": "Management Accounting/Management Accounting-I",
         "Section": "B",
-        "Teacher": "SKa",
-        "ExamDate": "September 09, 2023",
+        "Teacher": "HAh",
+        "ExamDate": "November 08, 2023",
         "ExamTime": "2:00 PM - 4:00 PM",
-        "Room": "204 (111161188-111211012)                                                                                                                                                                                                                       205 (111211016-114213012)"
+        "Room": "204 (111182059-111211077)                                                                                                                                                                                                                       205 (111212010-114201011)",
+        "slot": 5
     },
     {
         "Dept": "BBA",
-        "CourseCode": "MIS 4394",
-        "CourseTitle": "Network Resource Management",
+        "CourseCode": "ACN 2215/AIS 4103",
+        "CourseTitle": "Management Accounting/Management Accounting-I",
+        "Section": "C",
+        "Teacher": "SKa",
+        "ExamDate": "November 08, 2023",
+        "ExamTime": "2:00 PM - 4:00 PM",
+        "Room": "206 (111192053-111212033)                                                                                                                                                                                                                       207 (111212051-1112230043)",
+        "slot": 5
+    },
+    {
+        "Dept": "BSECO",
+        "CourseCode": "ECO 2303",
+        "CourseTitle": "Mathematics for Business and Economics II",
+        "Section": "A",
+        "Teacher": "TrAd",
+        "ExamDate": "November 08, 2023",
+        "ExamTime": "2:00 PM - 4:00 PM",
+        "Room": "201 (121202015-1212310018)",
+        "slot": 5
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "MIS 4395",
+        "CourseTitle": "Structured Programming Language",
         "Section": "A",
         "Teacher": "AAFd",
-        "ExamDate": "September 09, 2023",
+        "ExamDate": "November 08, 2023",
         "ExamTime": "2:00 PM - 4:00 PM",
-        "Room": "201 (111161367-1112230184)"
+        "Room": "Computer Lab 1 (0226) (111182016-1112230184)",
+        "slot": 5
     },
     {
         "Dept": "BBA",
         "CourseCode": "BDS 1201",
         "CourseTitle": "History of the Emergence of Bangladesh",
         "Section": "A",
-        "Teacher": "MRM",
-        "ExamDate": "September 10, 2023",
+        "Teacher": "YI",
+        "ExamDate": "November 09, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "202 (111212037-1112310169)                                                                                                                                                                                                                       203 (1112320004-1212320011)"
+        "Room": "202 (111212036-1212330008)                                                                                                                                                                                                                       203 (1212330009-1212330037)",
+        "slot": 2
     },
     {
         "Dept": "BBA",
         "CourseCode": "BDS 1201",
         "CourseTitle": "History of the Emergence of Bangladesh",
         "Section": "B",
-        "Teacher": "MRM",
-        "ExamDate": "September 10, 2023",
+        "Teacher": "YI",
+        "ExamDate": "November 09, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "204 (111213064-1112320053)                                                                                                                                                                                                                       205 (1112320054-1212320010)"
+        "Room": "204 (111221138-1112330084)                                                                                                                                                                                                                       205 (1112330093-1212330020)",
+        "slot": 2
     },
     {
         "Dept": "BBA",
         "CourseCode": "BDS 1201",
         "CourseTitle": "History of the Emergence of Bangladesh",
         "Section": "C",
-        "Teacher": "NJT",
-        "ExamDate": "September 10, 2023",
+        "Teacher": "YI",
+        "ExamDate": "November 09, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "206 (111212081-1112320094)                                                                                                                                                                                                                       207 (1112320095-1212320004)"
+        "Room": "206 (1112230194-1112330100)                                                                                                                                                                                                                       207 (1112330113-1142330027)",
+        "slot": 2
     },
     {
         "Dept": "BBA",
         "CourseCode": "BDS 1201",
         "CourseTitle": "History of the Emergence of Bangladesh",
         "Section": "D",
+        "Teacher": "YI",
+        "ExamDate": "November 09, 2023",
+        "ExamTime": "9:00 AM - 11:00 AM",
+        "Room": "208 (1112320110-1112330134)                                                                                                                                                                                                                       209 (1112330136-1142330033)",
+        "slot": 2
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "BDS 1201",
+        "CourseTitle": "History of the Emergence of Bangladesh",
+        "Section": "E",
         "Teacher": "MRM",
-        "ExamDate": "September 10, 2023",
+        "ExamDate": "November 09, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "208 (111221149-1112320051)                                                                                                                                                                                                                       209 (1112320055-1212320008)"
+        "Room": "210 (111213122-1112330127)                                                                                                                                                                                                                       211 (1112330130-1142330025)",
+        "slot": 2
     },
     {
         "Dept": "BBA",
-        "CourseCode": "FIN 4116",
-        "CourseTitle": "Management of Financial Institutions",
-        "Section": "A",
-        "Teacher": "MUd",
-        "ExamDate": "September 10, 2023",
+        "CourseCode": "BDS 1201",
+        "CourseTitle": "History of the Emergence of Bangladesh",
+        "Section": "F",
+        "Teacher": "YI",
+        "ExamDate": "November 09, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "201 (111191071-111202181)"
+        "Room": "222 (1112310127-1112330199)                                                                                                                                                                                                                       223 (1112330202-1212330039)",
+        "slot": 2
     },
     {
         "Dept": "BBA",
-        "CourseCode": "BST 1308/ECO 1334/QNT 1202",
-        "CourseTitle": "Basic Statistics/Business Statistics I/Statistics for Business and Economics I",
+        "CourseCode": "FIN 4117",
+        "CourseTitle": "Corporate Finance",
         "Section": "A",
-        "Teacher": "MdAHn",
-        "ExamDate": "September 10, 2023",
-        "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "202 (111183031-111222019)                                                                                                                                                                                                                       203 (111222020-121213001)"
+        "Teacher": "MMs",
+        "ExamDate": "November 09, 2023",
+        "ExamTime": "9:00 AM - 11:00 AM",
+        "Room": "201 (111171208-114213004)",
+        "slot": 2
     },
     {
         "Dept": "BBA",
@@ -985,29 +1182,43 @@
         "CourseTitle": "Basic Statistics/Business Statistics I/Statistics for Business and Economics I",
         "Section": "B",
         "Teacher": "MHAMn",
-        "ExamDate": "September 10, 2023",
+        "ExamDate": "November 09, 2023",
         "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "204 (111182132-1112230018)                                                                                                                                                                                                                       205 (1112230158-1212310017)"
+        "Room": "202 (111192007-1112230143)                                                                                                                                                                                                                       203 (1112230145-1212310018)",
+        "slot": 4
     },
     {
         "Dept": "BBA",
         "CourseCode": "BST 1308/ECO 1334/QNT 1202",
         "CourseTitle": "Basic Statistics/Business Statistics I/Statistics for Business and Economics I",
         "Section": "C",
-        "Teacher": "MHAMn",
-        "ExamDate": "September 10, 2023",
+        "Teacher": "MKB",
+        "ExamDate": "November 09, 2023",
         "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "206 (111183076-111213072)                                                                                                                                                                                                                       207 (111213081-1212230003)"
+        "Room": "204 (111161188-1112230025)                                                                                                                                                                                                                       205 (1112230045-1212330016)",
+        "slot": 4
     },
     {
         "Dept": "BBA",
-        "CourseCode": "BST 1308/ECO 1334/QNT 1202",
-        "CourseTitle": "Basic Statistics/Business Statistics I/Statistics for Business and Economics I",
-        "Section": "D",
-        "Teacher": "MdAHn",
-        "ExamDate": "September 10, 2023",
+        "CourseCode": "BST 1308/QNT 1202",
+        "CourseTitle": "Basic Statistics/Business Statistics I",
+        "Section": "A",
+        "Teacher": "MHAMn",
+        "ExamDate": "November 09, 2023",
         "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "208 (111161188-111222004)                                                                                                                                                                                                                       209 (111222018-114222004)"
+        "Room": "202 (111201075-1112230015)                                                                                                                                                                                                                       203 (1112230032-1112310115)",
+        "slot": 4
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "BST 1308/QNT 1202",
+        "CourseTitle": "Basic Statistics/Business Statistics I",
+        "Section": "D",
+        "Teacher": "MSna",
+        "ExamDate": "November 09, 2023",
+        "ExamTime": "11:30 AM - 1:30 PM",
+        "Room": "204 (111192002-111222046)                                                                                                                                                                                                                       205 (111222073-114213005)",
+        "slot": 4
     },
     {
         "Dept": "BBA",
@@ -1015,9 +1226,21 @@
         "CourseTitle": "Brand Management",
         "Section": "A",
         "Teacher": "KMR",
-        "ExamDate": "September 10, 2023",
+        "ExamDate": "November 09, 2023",
         "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "201 (111173065-111193026)                                                                                                                                                                                                                       202 (111193034-111202145)"
+        "Room": "206 (111181149-111201005)                                                                                                                                                                                                                       207 (111201006-111203009)",
+        "slot": 4
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "MKT 4311",
+        "CourseTitle": "Brand Management",
+        "Section": "B",
+        "Teacher": "KMR",
+        "ExamDate": "November 09, 2023",
+        "ExamTime": "11:30 AM - 1:30 PM",
+        "Room": "208 (111143295-111201185)                                                                                                                                                                                                                       209 (111201197-111203014)",
+        "slot": 4
     },
     {
         "Dept": "BBA",
@@ -1025,9 +1248,10 @@
         "CourseTitle": "Applied Business Statistics/Business Statistics II/Statistics for Business and Economics II",
         "Section": "A",
         "Teacher": "MKHq",
-        "ExamDate": "September 10, 2023",
+        "ExamDate": "November 09, 2023",
         "ExamTime": "2:00 PM - 4:00 PM",
-        "Room": "202 (111182009-111221070)                                                                                                                                                                                                                       203 (111221091-1212230012)"
+        "Room": "206 (111182016-111221137)                                                                                                                                                                                                                       207 (111221158-121221007)",
+        "slot": 5
     },
     {
         "Dept": "BBA",
@@ -1035,149 +1259,131 @@
         "CourseTitle": "Applied Business Statistics/Business Statistics II/Statistics for Business and Economics II",
         "Section": "B",
         "Teacher": "MKHq",
-        "ExamDate": "September 10, 2023",
+        "ExamDate": "November 09, 2023",
         "ExamTime": "2:00 PM - 4:00 PM",
-        "Room": "204 (111173089-111221041)                                                                                                                                                                                                                       205 (111221042-1212230016)"
+        "Room": "208 (111191107-111221198)                                                                                                                                                                                                                       209 (111222006-121213001)",
+        "slot": 5
     },
     {
         "Dept": "BBA",
-        "CourseCode": "BST 2216/ECO 1374/QNT 3307",
-        "CourseTitle": "Applied Business Statistics/Business Statistics II/Statistics for Business and Economics II",
+        "CourseCode": "BST 2216/QNT 3307",
+        "CourseTitle": "Applied Business Statistics/Business Statistics II",
         "Section": "C",
         "Teacher": "MKHq",
-        "ExamDate": "September 10, 2023",
+        "ExamDate": "November 09, 2023",
         "ExamTime": "2:00 PM - 4:00 PM",
-        "Room": "206 (111192018-1212230005)"
+        "Room": "210 (111153159-111213077)                                                                                                                                                                                                                       211 (111221002-114222009)",
+        "slot": 5
     },
     {
         "Dept": "BBA",
-        "CourseCode": "BST 2216/ECO 1374/QNT 3307",
-        "CourseTitle": "Applied Business Statistics/Business Statistics II/Statistics for Business and Economics II",
+        "CourseCode": "BST 2216/QNT 3307",
+        "CourseTitle": "Applied Business Statistics/Business Statistics II",
         "Section": "D",
         "Teacher": "MKHq",
-        "ExamDate": "September 10, 2023",
+        "ExamDate": "November 09, 2023",
         "ExamTime": "2:00 PM - 4:00 PM",
-        "Room": "207 (111151461-111213093)                                                                                                                                                                                                                       208 (111213095-1212230017)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "FIN 3337",
-        "CourseTitle": "Principles of Banking and Insurance",
-        "Section": "A",
-        "Teacher": "NFa",
-        "ExamDate": "September 10, 2023",
-        "ExamTime": "2:00 PM - 4:00 PM",
-        "Room": "203 (111162121-111201247)                                                                                                                                                                                                                       204 (111201263-121221003)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "FIN 3337",
-        "CourseTitle": "Principles of Banking and Insurance",
-        "Section": "B",
-        "Teacher": "NFa",
-        "ExamDate": "September 10, 2023",
-        "ExamTime": "2:00 PM - 4:00 PM",
-        "Room": "205 (111171276-121212005)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MIS 4399",
-        "CourseTitle": "Introduction to Big Data",
-        "Section": "A",
-        "Teacher": "AIK",
-        "ExamDate": "September 10, 2023",
-        "ExamTime": "2:00 PM - 4:00 PM",
-        "Room": "Computer Lab 1 (0226) (111183007-1112230184)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "HRM 4270",
-        "CourseTitle": "Industrial Law and Employee  Relations",
-        "Section": "A",
-        "Teacher": "NAr",
-        "ExamDate": "September 11, 2023",
-        "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "202 (111151461-111201015)                                                                                                                                                                                                                       203 (111201021-111222079)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MGT 3225",
-        "CourseTitle": "E-Business",
-        "Section": "A",
-        "Teacher": "TIM",
-        "ExamDate": "September 11, 2023",
-        "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "Computer Lab 1 (0226) (111173092-111201066)                                                                                                                                                                                                                       Computer Lab 2 (0227) (111201119-114193005)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MGT 3225",
-        "CourseTitle": "E-Business",
-        "Section": "B",
-        "Teacher": "TIM",
-        "ExamDate": "September 11, 2023",
-        "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "Computer Lab 3 (0327) (111173089-111201194)                                                                                                                                                                                                                       Computer Lab 4 (0427) (111201212-114201016)"
+        "Room": "222 (111173089-111221038)                                                                                                                                                                                                                       223 (111221044-114222019)",
+        "slot": 5
     },
     {
         "Dept": "BSECO",
-        "CourseCode": "ECO 3327",
-        "CourseTitle": "International Finance",
+        "CourseCode": "ECO 4380",
+        "CourseTitle": "Urban Economics",
         "Section": "A",
-        "Teacher": "TJT",
-        "ExamDate": "September 11, 2023",
-        "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "202 (121191004-121221020)"
+        "Teacher": "SCT",
+        "ExamDate": "November 10, 2023",
+        "ExamTime": "08:30 AM - 10:30 AM",
+        "Room": "210 (121152014-121222011)",
+        "slot": 1
     },
     {
         "Dept": "BBA",
-        "CourseCode": "ACN 4237/AIS 3208",
-        "CourseTitle": "Cost Accounting",
+        "CourseCode": "HRM 4152",
+        "CourseTitle": "Compensation Management",
+        "Section": "A",
+        "Teacher": "NAr",
+        "ExamDate": "November 10, 2023",
+        "ExamTime": "08:30 AM - 10:30 AM",
+        "Room": "211 (111163108-111193122)                                                                                                                                                                                                                       222 (111201009-111222079)",
+        "slot": 1
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "MGT 3225",
+        "CourseTitle": "E-Business",
+        "Section": "B",
+        "Teacher": "TIM",
+        "ExamDate": "November 10, 2023",
+        "ExamTime": "08:30 AM - 10:30 AM",
+        "Room": "Computer Lab 1 (0226) (111182109-111201093)                                                                                                                                                                                                                       Computer Lab 2 (0227) (111201117-114201009)",
+        "slot": 1
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "MGT 3225",
+        "CourseTitle": "E-Business",
+        "Section": "C",
+        "Teacher": "TIM",
+        "ExamDate": "November 10, 2023",
+        "ExamTime": "08:30 AM - 10:30 AM",
+        "Room": "Computer Lab 3 (0327) (111181086-111201096)                                                                                                                                                                                                                       Computer Lab 4 (0427) (111201104-114211008)",
+        "slot": 1
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "ACN 4135",
+        "CourseTitle": "Taxation",
+        "Section": "A",
+        "Teacher": "MHM",
+        "ExamDate": "November 10, 2023",
+        "ExamTime": "11:00 AM - 01:00 PM",
+        "Room": "224 (111162121-111211090)",
+        "slot": 3
+    },
+    {
+        "Dept": "BBA in AIS",
+        "CourseCode": "AIS 2305",
+        "CourseTitle": "Theory & Practice of Taxation",
         "Section": "A",
         "Teacher": "MTH",
-        "ExamDate": "September 11, 2023",
-        "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "204 (111143187-114212006)"
+        "ExamDate": "November 10, 2023",
+        "ExamTime": "11:00 AM - 01:00 PM",
+        "Room": "225 (114191009-114222012)",
+        "slot": 3
     },
     {
         "Dept": "BBA",
         "CourseCode": "BUS 2112",
         "CourseTitle": "Business Communications",
         "Section": "A",
-        "Teacher": "SeyS",
-        "ExamDate": "September 11, 2023",
-        "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "205 (111193096-114222016)"
+        "Teacher": "Jkn",
+        "ExamDate": "November 10, 2023",
+        "ExamTime": "11:00 AM - 01:00 PM",
+        "Room": "228 (111182003-1112230101)                                                                                                                                                                                                                       305 (1112230102-1212230006)",
+        "slot": 3
     },
     {
         "Dept": "BBA",
         "CourseCode": "BUS 2112",
         "CourseTitle": "Business Communications",
         "Section": "B",
-        "Teacher": "MKHn",
-        "ExamDate": "September 11, 2023",
-        "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "206 (111192062-121222016)"
+        "Teacher": "Jkn",
+        "ExamDate": "November 10, 2023",
+        "ExamTime": "11:00 AM - 01:00 PM",
+        "Room": "306 (111193081-1112230078)                                                                                                                                                                                                                       307 (1112230093-1212230003)",
+        "slot": 3
     },
     {
         "Dept": "BBA",
         "CourseCode": "BUS 2112",
         "CourseTitle": "Business Communications",
         "Section": "C",
-        "Teacher": "MKHn",
-        "ExamDate": "September 11, 2023",
-        "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "207 (111151057-111221067)                                                                                                                                                                                                                       208 (111221092-121201016)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MKT 4313",
-        "CourseTitle": "Digital Marketing",
-        "Section": "A",
-        "Teacher": "TIM",
-        "ExamDate": "September 11, 2023",
-        "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "Computer Lab 1 (0226) (111171185-111193066)                                                                                                                                                                                                                       Computer Lab 2 (0227) (111193091-111202053)"
+        "Teacher": "PMM",
+        "ExamDate": "November 10, 2023",
+        "ExamTime": "11:00 AM - 01:00 PM",
+        "Room": "201 (111173084-1112230014)                                                                                                                                                                                                                       202 (1112230069-121193002)",
+        "slot": 3
     },
     {
         "Dept": "BBA",
@@ -1185,9 +1391,10 @@
         "CourseTitle": "Business Analytics",
         "Section": "A",
         "Teacher": "AIK",
-        "ExamDate": "September 11, 2023",
-        "ExamTime": "2:00 PM - 4:00 PM",
-        "Room": "Computer Lab 1 (0226) (111181100-114192005)"
+        "ExamDate": "November 10, 2023",
+        "ExamTime": "02:30 PM - 04:30 PM",
+        "Room": "Computer Lab 1 (0226) (111181099-111201131)                                                                                                                                                                                                                       Computer Lab 2 (0227) (111201137-114212004)",
+        "slot": 6
     },
     {
         "Dept": "BBA",
@@ -1195,79 +1402,131 @@
         "CourseTitle": "Business Analytics",
         "Section": "B",
         "Teacher": "AIK",
-        "ExamDate": "September 11, 2023",
-        "ExamTime": "2:00 PM - 4:00 PM",
-        "Room": "Computer Lab 2 (0227) (111151352-111193087)                                                                                                                                                                                                                       Computer Lab 3 (0327) (111201029-114202004)"
+        "ExamDate": "November 10, 2023",
+        "ExamTime": "02:30 PM - 04:30 PM",
+        "Room": "Computer Lab 3 (0327) (111183039-111202064)                                                                                                                                                                                                                       Computer Lab 4 (0427) (111202181-114182001)",
+        "slot": 6
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "CST 2321",
+        "CourseTitle": "Business Analytics",
+        "Section": "C",
+        "Teacher": "AIK",
+        "ExamDate": "November 10, 2023",
+        "ExamTime": "02:30 PM - 04:30 PM",
+        "Room": "Computer Lab 5 (0523) (111191020-114193005)",
+        "slot": 6
+    },
+    {
+        "Dept": "BSECO",
+        "CourseCode": "ECO 4328/ECO 4338",
+        "CourseTitle": "Globalization and Economic Policy/Globalization and History",
+        "Section": "A",
+        "Teacher": "MOF",
+        "ExamDate": "November 10, 2023",
+        "ExamTime": "02:30 PM - 04:30 PM",
+        "Room": "201 (121152014-121211008)",
+        "slot": 6
     },
     {
         "Dept": "BBA",
         "CourseCode": "BMT 1103/QNT 1104",
         "CourseTitle": "Basic Mathematics/Business Mathematics I",
-        "Section": "E",
-        "Teacher": "NJT",
-        "ExamDate": "September 12, 2023",
-        "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "203 (111202002-1142230001)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ECN 2214/ECO 1302",
-        "CourseTitle": "Introduction to Macroeconomics/Macroeconomics",
         "Section": "A",
-        "Teacher": "SCT",
-        "ExamDate": "September 12, 2023",
+        "Teacher": "GCD",
+        "ExamDate": "November 11, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "204 (111192038-111221160)                                                                                                                                                                                                                       205 (111222088-1212230017)"
+        "Room": "202 (111213102-1112320037)                                                                                                                                                                                                                       203 (1112320038-1142320013)",
+        "slot": 2
     },
     {
         "Dept": "BBA",
-        "CourseCode": "ECN 2214/ECO 1302",
-        "CourseTitle": "Introduction to Macroeconomics/Macroeconomics",
+        "CourseCode": "BMT 1103/QNT 1104",
+        "CourseTitle": "Basic Mathematics/Business Mathematics I",
         "Section": "B",
-        "Teacher": "TaA",
-        "ExamDate": "September 12, 2023",
+        "Teacher": "GCD",
+        "ExamDate": "November 11, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "206 (111191038-111221119)                                                                                                                                                                                                                       207 (111221139-121212002)"
+        "Room": "204 (111191104-1112310020)                                                                                                                                                                                                                       205 (1112310023-1142230022)",
+        "slot": 2
     },
     {
         "Dept": "BBA",
-        "CourseCode": "ECN 2214/ECO 1302",
-        "CourseTitle": "Introduction to Macroeconomics/Macroeconomics",
+        "CourseCode": "BMT 1103/QNT 1104",
+        "CourseTitle": "Basic Mathematics/Business Mathematics I",
         "Section": "C",
-        "Teacher": "TaA",
-        "ExamDate": "September 12, 2023",
+        "Teacher": "GCD",
+        "ExamDate": "November 11, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "208 (111182123-114221006)"
+        "Room": "206 (111211049-111222150)                                                                                                                                                                                                                       207 (1112230181-1142320011)",
+        "slot": 2
     },
     {
         "Dept": "BBA",
-        "CourseCode": "FIN 4332",
-        "CourseTitle": "Financial Technology (FinTech)",
-        "Section": "A",
-        "Teacher": "NFa",
-        "ExamDate": "September 12, 2023",
+        "CourseCode": "BMT 1103/QNT 1104",
+        "CourseTitle": "Basic Mathematics/Business Mathematics I",
+        "Section": "D",
+        "Teacher": "GCD",
+        "ExamDate": "November 11, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "205 (111191030-111201088)                                                                                                                                                                                                                       206 (111201118-111202064)"
+        "Room": "208 (111221164-1112320062)                                                                                                                                                                                                                       209 (1112320066-1142320005)",
+        "slot": 2
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "ECN 2214/ECO 1302",
+        "CourseTitle": "Introduction to Macroeconomics/Macroeconomics",
+        "Section": "A",
+        "Teacher": "TJT",
+        "ExamDate": "November 11, 2023",
+        "ExamTime": "9:00 AM - 11:00 AM",
+        "Room": "202 (111193041-111222130)                                                                                                                                                                                                                       203 (1112230037-1212310016)",
+        "slot": 2
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "ECN 2214/ECO 1302",
+        "CourseTitle": "Introduction to Macroeconomics/Macroeconomics",
+        "Section": "B",
+        "Teacher": "TJT",
+        "ExamDate": "November 11, 2023",
+        "ExamTime": "9:00 AM - 11:00 AM",
+        "Room": "204 (111182123-111221175)                                                                                                                                                                                                                       205 (111221183-121221004)",
+        "slot": 2
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "FIN 4331",
+        "CourseTitle": "Financial Modeling",
+        "Section": "A",
+        "Teacher": "MUd",
+        "ExamDate": "November 11, 2023",
+        "ExamTime": "9:00 AM - 11:00 AM",
+        "Room": "Computer Lab 1 (0226) (111192014-111201244)",
+        "slot": 2
     },
     {
         "Dept": "BBA",
         "CourseCode": "IBS 3121",
         "CourseTitle": "International Business",
         "Section": "A",
-        "Teacher": "YI",
-        "ExamDate": "September 12, 2023",
+        "Teacher": "PMM",
+        "ExamDate": "November 11, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "207 (111151057-111211032)                                                                                                                                                                                                                       208 (111211039-121193007)"
+        "Room": "207 (111182131-114213008)",
+        "slot": 2
     },
     {
         "Dept": "BBA",
         "CourseCode": "IBS 3121",
         "CourseTitle": "International Business",
         "Section": "B",
-        "Teacher": "YI",
-        "ExamDate": "September 12, 2023",
+        "Teacher": "PMM",
+        "ExamDate": "November 11, 2023",
         "ExamTime": "9:00 AM - 11:00 AM",
-        "Room": "209 (111183049-111201243)                                                                                                                                                                                                                       210 (111202077-114201012)"
+        "Room": "208 (111181086-111212051)                                                                                                                                                                                                                       209 (111212054-114221011)",
+        "slot": 2
     },
     {
         "Dept": "BBA",
@@ -1275,9 +1534,43 @@
         "CourseTitle": "Microeconomics",
         "Section": "B",
         "Teacher": "MSS",
-        "ExamDate": "September 12, 2023",
+        "ExamDate": "November 11, 2023",
         "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "209 (111182129-111222073)                                                                                                                                                                                                                       210 (111222075-114222014)"
+        "Room": "210 (111202120-1112230074)                                                                                                                                                                                                                       211 (1112230090-114221020)",
+        "slot": 4
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "ECN 2111",
+        "CourseTitle": "Microeconomics",
+        "Section": "C",
+        "Teacher": "TaA",
+        "ExamDate": "November 11, 2023",
+        "ExamTime": "11:30 AM - 1:30 PM",
+        "Room": "222 (111192002-1112230077)                                                                                                                                                                                                                       223 (1112230078-114222016)",
+        "slot": 4
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "ECN 2111",
+        "CourseTitle": "Microeconomics",
+        "Section": "D",
+        "Teacher": "TaA",
+        "ExamDate": "November 11, 2023",
+        "ExamTime": "11:30 AM - 1:30 PM",
+        "Room": "224 (111183024-111221198)                                                                                                                                                                                                                       225 (111222006-1142230020)",
+        "slot": 4
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "ECN 2111",
+        "CourseTitle": "Microeconomics",
+        "Section": "E",
+        "Teacher": "TaA",
+        "ExamDate": "November 11, 2023",
+        "ExamTime": "11:30 AM - 1:30 PM",
+        "Room": "228 (111191072-114213001)",
+        "slot": 4
     },
     {
         "Dept": "BBA",
@@ -1285,48 +1578,64 @@
         "CourseTitle": "Introduction to Microeconomics/Microeconomics",
         "Section": "A",
         "Teacher": "TrAd",
-        "ExamDate": "September 12, 2023",
+        "ExamDate": "November 11, 2023",
         "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "211 (111182095-111222099)                                                                                                                                                                                                                       222 (111222108-1212310016)"
+        "Room": "210 (111193050-1112230186)                                                                                                                                                                                                                       211 (1112310105-1212330024)",
+        "slot": 4
     },
     {
         "Dept": "BBA",
-        "CourseCode": "ECN 2111/ECO 1301",
-        "CourseTitle": "Introduction to Microeconomics/Microeconomics",
-        "Section": "C",
-        "Teacher": "TaA",
-        "ExamDate": "September 12, 2023",
-        "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "223 (111183014-114222019)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "SCM 4203",
-        "CourseTitle": "Inventory Management",
+        "CourseCode": "HRM 4365",
+        "CourseTitle": "Change Management",
         "Section": "A",
-        "Teacher": "SdHn",
-        "ExamDate": "September 12, 2023",
+        "Teacher": "IS",
+        "ExamDate": "November 11, 2023",
         "ExamTime": "11:30 AM - 1:30 PM",
-        "Room": "201 (111163104-111193095)                                                                                                                                                                                                                       202 (111193114-111213037)"
+        "Room": "201 (111151461-111201015)                                                                                                                                                                                                                       202 (111201020-111222076)",
+        "slot": 4
     },
     {
         "Dept": "BBA",
-        "CourseCode": "MKT 4306",
-        "CourseTitle": "Marketing Research",
+        "CourseCode": "ACN 4350/AIS 4350",
+        "CourseTitle": "Sustainability Accounting: Theory and Practice",
         "Section": "A",
-        "Teacher": "MHAMn",
-        "ExamDate": "September 12, 2023",
+        "Teacher": "MHM",
+        "ExamDate": "November 11, 2023",
         "ExamTime": "2:00 PM - 4:00 PM",
-        "Room": "201 (111152169-111201028)                                                                                                                                                                                                                       202 (111201031-111203014)"
+        "Room": "202 (111201088-114213004)",
+        "slot": 5
     },
     {
         "Dept": "BSECO",
-        "CourseCode": "ECO 4350",
-        "CourseTitle": "Labor Economics",
+        "CourseCode": "ECO 3310",
+        "CourseTitle": "Money and Banking",
         "Section": "A",
-        "Teacher": "SCT",
-        "ExamDate": "September 12, 2023",
+        "Teacher": "MOF",
+        "ExamDate": "November 11, 2023",
         "ExamTime": "2:00 PM - 4:00 PM",
-        "Room": "202 (121152014-121222011)"
+        "Room": "203 (121191010-121222011)",
+        "slot": 5
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "MKT 4308/SCM 4101",
+        "CourseTitle": "Introduction to Supply Chain Management/Supply Chain Management",
+        "Section": "A",
+        "Teacher": "NHMS",
+        "ExamDate": "November 11, 2023",
+        "ExamTime": "2:00 PM - 4:00 PM",
+        "Room": "203 (111143295-111193087)                                                                                                                                                                                                                       204 (111193122-111211013)",
+        "slot": 5
+    },
+    {
+        "Dept": "BBA",
+        "CourseCode": "MKT 4308/SCM 4101",
+        "CourseTitle": "Introduction to Supply Chain Management/Supply Chain Management",
+        "Section": "B",
+        "Teacher": "SdHn",
+        "ExamDate": "November 11, 2023",
+        "ExamTime": "2:00 PM - 4:00 PM",
+        "Room": "205 (111162121-111201118)                                                                                                                                                                                                                       206 (111201123-111212082)",
+        "slot": 5
     }
 ]
