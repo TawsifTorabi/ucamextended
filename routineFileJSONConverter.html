@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XLSX To JSON for UCAM Extended</title>
+    <script src="https://cdn.jsdelivr.net/npm/xlsx/dist/xlsx.full.min.js"></script>
+</head>
+<body>
+    <h1>XLSX To JSON for UCAM Extended</h1>
+    <input type="file" id="fileInput" accept=".xlsx" />
+    <button id="downloadButton" disabled>Download Modified File</button>
+    <button id="copyJsonButton" disabled>Copy JSON</button>
+    <script>
+        document.getElementById('fileInput').addEventListener('change', handleFile);
+        const downloadButton = document.getElementById('downloadButton');
+        const copyJsonButton = document.getElementById('copyJsonButton');
+        let modifiedWorkbook;
+        let jsonContent;
+
+        function handleFile(event) {
+            const file = event.target.files[0];
+            if (!file) return;
+
+            const reader = new FileReader();
+            reader.onload = function (e) {
+                const data = new Uint8Array(e.target.result);
+                const workbook = XLSX.read(data, { type: 'array' });
+
+                // Assuming the first sheet contains the data
+                const sheetName = workbook.SheetNames[0];
+                const worksheet = workbook.Sheets[sheetName];
+
+                // Convert sheet to JSON
+                const json = XLSX.utils.sheet_to_json(worksheet, { header: 1 });
+
+                if (json.length > 0) {
+                    // Process the header row
+                    const headers = json[0].map(header => {
+                        switch (header.trim()) {
+                            case "Program":
+                            case "Dept.":
+                            case "Department":
+                                return "Dept";
+                            case "Course Code":
+                                return "CourseCode";
+                            case "Course Title":
+                                return "CourseTitle";
+                            case "Section":
+                                return "Section";
+                            case "Teacher":
+                                return "Teacher";
+                            case "Exam Date":
+                                return "ExamDate";
+                            case "Exam Time":
+                                return "ExamTime";
+                            case "Room":
+                                return "Room";
+                            default:
+                                return header; // Leave other headers unchanged
+                        }
+                    });
+
+                    // Transform rows into objects
+                    jsonContent = json.slice(1).map(row => {
+                        const obj = {};
+                        headers.forEach((header, index) => {
+                            if (header) obj[header] = row[index] || "";
+                        });
+                        return obj;
+                    });
+
+                    // Add headers back to the worksheet
+                    const updatedSheet = [headers, ...json.slice(1)];
+
+                    // Convert JSON back to worksheet
+                    const newWorksheet = XLSX.utils.aoa_to_sheet(updatedSheet);
+                    workbook.Sheets[sheetName] = newWorksheet;
+                    modifiedWorkbook = workbook;
+
+                    // Enable buttons
+                    downloadButton.disabled = false;
+                    copyJsonButton.disabled = false;
+                }
+            };
+            reader.readAsArrayBuffer(file);
+        }
+
+        downloadButton.addEventListener('click', function () {
+            if (!modifiedWorkbook) return;
+
+            const newFileName = "modified_file.xlsx";
+            const wbout = XLSX.write(modifiedWorkbook, { bookType: 'xlsx', type: 'array' });
+            const blob = new Blob([wbout], { type: 'application/octet-stream' });
+
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = newFileName;
+            a.click();
+            URL.revokeObjectURL(url);
+        });
+
+        copyJsonButton.addEventListener('click', function () {
+            if (!jsonContent) return;
+
+            const jsonString = JSON.stringify(jsonContent, null, 2);
+            navigator.clipboard.writeText(jsonString).then(() => {
+                alert('JSON copied to clipboard!');
+            }).catch(err => {
+                console.error('Could not copy JSON: ', err);
+            });
+        });
+    </script>
+</body>
+</html>
