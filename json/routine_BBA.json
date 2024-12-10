@@ -1,1542 +1,1632 @@
 [
-    {
-        "Dept": "BBA",
-        "CourseCode": "BMT 2113/QNT 2105",
-        "CourseTitle": "Business Mathematics II/Mathematics for Business Decision",
-        "Section": "A",
-        "Teacher": "ShAz",
-        "ExamDate": "October 17, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "201 (111183101-1112320082)                                                                                                                                                                                                                       202 (1112320083-1142330012)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BMT 2113/QNT 2105",
-        "CourseTitle": "Business Mathematics II/Mathematics for Business Decision",
-        "Section": "B",
-        "Teacher": "MA",
-        "ExamDate": "October 17, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "203 (111213014-1112330079)                                                                                                                                                                                                                       204 (1112330086-1142330033)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BMT 2113/QNT 2105",
-        "CourseTitle": "Business Mathematics II/Mathematics for Business Decision",
-        "Section": "C",
-        "Teacher": "MA",
-        "ExamDate": "October 17, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "206 (111181048-1112330009)                                                                                                                                                                                                                       205 (1112330015-1142320012)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BMT 2113/QNT 2105",
-        "CourseTitle": "Business Mathematics II/Mathematics for Business Decision",
-        "Section": "D",
-        "Teacher": "MSna",
-        "ExamDate": "October 17, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "207 (111161188-111222151)                                                                                                                                                                                                                       208 (111222154-1112330167)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BMT 2113/QNT 2105",
-        "CourseTitle": "Business Mathematics II/Mathematics for Business Decision",
-        "Section": "E",
-        "Teacher": "MA",
-        "ExamDate": "October 17, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "209 (111212081-1142410008)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BMT 2113/QNT 2105",
-        "CourseTitle": "Business Mathematics II/Mathematics for Business Decision",
-        "Section": "F",
-        "Teacher": "ShAz",
-        "ExamDate": "October 17, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "210 (111182021-1142330020)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ENG 1011",
-        "CourseTitle": "English I",
-        "Section": "A",
-        "Teacher": "KnGn",
-        "ExamDate": "October 17, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "202 (111213064-1112420142)                                                                                                                                                                                                                       203 (1112420153-1212420015)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ENG 1011",
-        "CourseTitle": "English I",
-        "Section": "B",
-        "Teacher": "ChMR",
-        "ExamDate": "October 17, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "204 (111221051-1112420163)                                                                                                                                                                                                                       205 (1112420164-1212420010)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ENG 1011",
-        "CourseTitle": "English I",
-        "Section": "C",
-        "Teacher": "AArSh",
-        "ExamDate": "October 17, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "206 (111221060-1112420082)                                                                                                                                                                                                                       207 (1112420085-1142420009)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ENG 1011",
-        "CourseTitle": "English I",
-        "Section": "D",
-        "Teacher": "TaHsn",
-        "ExamDate": "October 17, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "208 (1112230240-1112420123)                                                                                                                                                                                                                       209 (1112420125-1142420018)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ENG 1011",
-        "CourseTitle": "English I",
-        "Section": "E",
-        "Teacher": "ShMSh",
-        "ExamDate": "October 17, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "210 (1112330174-1112420113)                                                                                                                                                                                                                       211 (1112420115-1142420021)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ENG 1011",
-        "CourseTitle": "English I",
-        "Section": "F",
-        "Teacher": "ChMR",
-        "ExamDate": "October 17, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "222 (1112410019-1142420024)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "FIN 4323",
-        "CourseTitle": "Working Capital Management",
-        "Section": "A",
-        "Teacher": "ShAz",
-        "ExamDate": "October 17, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "211 (111182131-111211071)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MGT 3224/MGT 4132",
-        "CourseTitle": "Operations Management/Production and Operations Management",
-        "Section": "A",
-        "Teacher": "MSna",
-        "ExamDate": "October 17, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "222 (111162027-111221038)                                                                                                                                                                                                                       223 (111221043-1112230274)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MGT 3224/MGT 4132",
-        "CourseTitle": "Operations Management/Production and Operations Management",
-        "Section": "B",
-        "Teacher": "MSna",
-        "ExamDate": "October 17, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "224 (111183051-111213095)                                                                                                                                                                                                                       225 (111213096-1112230004)"
-    },
-    {
-        "Dept": "BSECO",
-        "CourseCode": "ECO 4345",
-        "CourseTitle": "Poverty Alleviation and Microfinance",
-        "Section": "A",
-        "Teacher": "AAsh",
-        "ExamDate": "October 17, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "223 (121191001-121222011)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ENG 1013",
-        "CourseTitle": "English II",
-        "Section": "A",
-        "Teacher": "ChMR",
-        "ExamDate": "October 17, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "224 (1112230180-1112410061)                                                                                                                                                                                                                       225 (1112410062-1142410009)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ENG 1013",
-        "CourseTitle": "English II",
-        "Section": "B",
-        "Teacher": "ChMR",
-        "ExamDate": "October 17, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "228 (1112230186-1112410091)                                                                                                                                                                                                                       201 (1112410092-1212410018)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ENG 1013",
-        "CourseTitle": "English II",
-        "Section": "C",
-        "Teacher": "KnGn",
-        "ExamDate": "October 17, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "202 (1112230041-1112410069)                                                                                                                                                                                                                       203 (1112410071-1212410019)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ENG 1013",
-        "CourseTitle": "English II",
-        "Section": "D",
-        "Teacher": "TaHsn",
-        "ExamDate": "October 17, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "204 (111212081-1112410097)                                                                                                                                                                                                                       205 (1112410110-1212410007)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MKT 4102",
-        "CourseTitle": "Services Marketing",
-        "Section": "A",
-        "Teacher": "KA",
-        "ExamDate": "October 17, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "201 (111162027-111201200)                                                                                                                                                                                                                       202 (111201203-111211073)"
-    },
-    {
-        "Dept": "BSECO",
-        "CourseCode": "ECO 3301/ECO 3303",
-        "CourseTitle": "Intermediate Microeconomic Theory II/Intermediate Microeconomics II",
-        "Section": "A",
-        "Teacher": "MFKK",
-        "ExamDate": "October 17, 2024",
-        "ExamTime": "02:00 PM - 04:00 PM",
-        "Room": "202 (121221003-1212310018)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MIS 4387",
-        "CourseTitle": "Applied Artificial Intelligence",
-        "Section": "A",
-        "Teacher": "AIK",
-        "ExamDate": "October 17, 2024",
-        "ExamTime": "02:00 PM - 04:00 PM",
-        "Room": "Computer Lab 1 (0226) (111191005-111212095)"
-    },
-    {
-        "Dept": "BBA in AIS",
-        "CourseCode": "MGT 2208",
-        "CourseTitle": "Human Resource Management & Organizational Behavior",
-        "Section": "A",
-        "Teacher": "Jkn",
-        "ExamDate": "October 18, 2024",
-        "ExamTime": "08:30 AM - 10:30 AM",
-        "Room": "202 (114182001-1142230024)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MGT 2318",
-        "CourseTitle": "Organizational Behavior",
-        "Section": "A",
-        "Teacher": "SK",
-        "ExamDate": "October 18, 2024",
-        "ExamTime": "08:30 AM - 10:30 AM",
-        "Room": "202 (111202126-1112230162)                                                                                                                                                                                                                       203 (1112230199-1112330019)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MGT 2318",
-        "CourseTitle": "Organizational Behavior",
-        "Section": "B",
-        "Teacher": "SK",
-        "ExamDate": "October 18, 2024",
-        "ExamTime": "08:30 AM - 10:30 AM",
-        "Room": "204 (111193074-1112230065)                                                                                                                                                                                                                       205 (1112230104-1112330074)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MGT 2318",
-        "CourseTitle": "Organizational Behavior",
-        "Section": "C",
-        "Teacher": "IS",
-        "ExamDate": "October 18, 2024",
-        "ExamTime": "08:30 AM - 10:30 AM",
-        "Room": "206 (111191106-111222179)                                                                                                                                                                                                                       207 (1112230043-1112320063)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MGT 2318",
-        "CourseTitle": "Organizational Behavior",
-        "Section": "D",
-        "Teacher": "IS",
-        "ExamDate": "October 18, 2024",
-        "ExamTime": "08:30 AM - 10:30 AM",
-        "Room": "210 (111193099-1112310167)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MGT 3122",
-        "CourseTitle": "Human Resources Management",
-        "Section": "A",
-        "Teacher": "HRJ",
-        "ExamDate": "October 18, 2024",
-        "ExamTime": "08:30 AM - 10:30 AM",
-        "Room": "203 (111183044-111221004)                                                                                                                                                                                                                       204 (111221018-1112310141)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MGT 3122",
-        "CourseTitle": "Human Resources Management",
-        "Section": "B",
-        "Teacher": "HRJ",
-        "ExamDate": "October 18, 2024",
-        "ExamTime": "08:30 AM - 10:30 AM",
-        "Room": "205 (111181100-1112230254)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MGT 4356",
-        "CourseTitle": "Strategic Management",
-        "Section": "A",
-        "Teacher": "NAr",
-        "ExamDate": "October 18, 2024",
-        "ExamTime": "08:30 AM - 10:30 AM",
-        "Room": "206 (111182131-111201040)                                                                                                                                                                                                                       207 (111201076-114221015)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MGT 4356",
-        "CourseTitle": "Strategic Management",
-        "Section": "B",
-        "Teacher": "NAr",
-        "ExamDate": "October 18, 2024",
-        "ExamTime": "08:30 AM - 10:30 AM",
-        "Room": "208 (111143295-111201117)                                                                                                                                                                                                                       209 (111201140-111212070)"
-    },
-    {
-        "Dept": "BSECO",
-        "CourseCode": "ECO 2302/ECO 2305/ECO 2315",
-        "CourseTitle": "Intermediate Macroeconomic Theory I/Intermediate Macroeconomics/Intermediate Macroeconomics I",
-        "Section": "A",
-        "Teacher": "MSS",
-        "ExamDate": "October 18, 2024",
-        "ExamTime": "11:00 AM - 01:00 PM",
-        "Room": "209 (121212002-1212320010)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "HRM 4366",
-        "CourseTitle": "Strategic Human Resource Management",
-        "Section": "A",
-        "Teacher": "MKHq",
-        "ExamDate": "October 18, 2024",
-        "ExamTime": "11:00 AM - 01:00 PM",
-        "Room": "210 (111173014-111211004)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MGT 1307",
-        "CourseTitle": "Principles of Management",
-        "Section": "A",
-        "Teacher": "BJ",
-        "ExamDate": "October 18, 2024",
-        "ExamTime": "11:00 AM - 01:00 PM",
-        "Room": "210 (111202111-1112330096)                                                                                                                                                                                                                       211 (1112330100-1142410015)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MGT 1307",
-        "CourseTitle": "Principles of Management",
-        "Section": "B",
-        "Teacher": "SK",
-        "ExamDate": "October 18, 2024",
-        "ExamTime": "11:00 AM - 01:00 PM",
-        "Room": "222 (111211079-1112330068)                                                                                                                                                                                                                       223 (1112330070-1142330030)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MGT 1307",
-        "CourseTitle": "Principles of Management",
-        "Section": "C",
-        "Teacher": "HaUn",
-        "ExamDate": "October 18, 2024",
-        "ExamTime": "11:00 AM - 01:00 PM",
-        "Room": "224 (111212016-1112330030)                                                                                                                                                                                                                       225 (1112330055-1142330008)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MGT 1307",
-        "CourseTitle": "Principles of Management",
-        "Section": "D",
-        "Teacher": "BJ",
-        "ExamDate": "October 18, 2024",
-        "ExamTime": "11:00 AM - 01:00 PM",
-        "Room": "228 (111211053-1112330133)                                                                                                                                                                                                                       201 (1112330134-1142330033)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MGT 1307",
-        "CourseTitle": "Principles of Management",
-        "Section": "E",
-        "Teacher": "BJ",
-        "ExamDate": "October 18, 2024",
-        "ExamTime": "11:00 AM - 01:00 PM",
-        "Room": "202 (111221025-1112330116)                                                                                                                                                                                                                       203 (1112330140-1142410008)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "SCM 4102",
-        "CourseTitle": "Logistics Management",
-        "Section": "A",
-        "Teacher": "SdHn",
-        "ExamDate": "October 18, 2024",
-        "ExamTime": "11:00 AM - 01:00 PM",
-        "Room": "201 (111191132-111201214)                                                                                                                                                                                                                       202 (111201229-111213060)"
-    },
-    {
-        "Dept": "BSECO",
-        "CourseCode": "ECO 3302/ECO 3304",
-        "CourseTitle": "Intermediate Macroeconomic Theory II/Intermediate Macroeconomics II",
-        "Section": "A",
-        "Teacher": "TJT",
-        "ExamDate": "October 18, 2024",
-        "ExamTime": "02:30 PM - 04:30 PM",
-        "Room": "201 (121212001-1212310017)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BUS 1102",
-        "CourseTitle": "Introduction to Business",
-        "Section": "A",
-        "Teacher": "MdAHn",
-        "ExamDate": "October 19, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "201 (111162121-1112420164)                                                                                                                                                                                                                       203 (1112420165-1212330036)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BUS 1102",
-        "CourseTitle": "Introduction to Business",
-        "Section": "B",
-        "Teacher": "SeyS",
-        "ExamDate": "October 19, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "204 (111221060-1112420060)                                                                                                                                                                                                                       205 (1112420081-1212410020)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BUS 1102",
-        "CourseTitle": "Introduction to Business",
-        "Section": "C",
-        "Teacher": "SeyS",
-        "ExamDate": "October 19, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "206 (1112230174-1112420120)                                                                                                                                                                                                                       207 (1112420121-1212410012)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BUS 1102",
-        "CourseTitle": "Introduction to Business",
-        "Section": "D",
-        "Teacher": "KMR",
-        "ExamDate": "October 19, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "208 (111161100-1112420095)                                                                                                                                                                                                                       209 (1112420096-1142420024)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BUS 1102",
-        "CourseTitle": "Introduction to Business",
-        "Section": "E",
-        "Teacher": "Jkn",
-        "ExamDate": "October 19, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "210 (1112310155-1112420100)                                                                                                                                                                                                                       211 (1112420115-1142420021)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BUS 1102",
-        "CourseTitle": "Introduction to Business",
-        "Section": "F",
-        "Teacher": "Jkn",
-        "ExamDate": "October 19, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "222 (1112230183-1112420182)                                                                                                                                                                                                                       223 (1112420190-1212410017)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BUS 1102",
-        "CourseTitle": "Introduction to Business",
-        "Section": "G",
-        "Teacher": "AIK",
-        "ExamDate": "October 19, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "224 (1112330035-1112420215)                                                                                                                                                                                                                       225 (1112420216-1212420005)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MKT 3336",
-        "CourseTitle": "Marketing Management",
-        "Section": "A",
-        "Teacher": "MdSA",
-        "ExamDate": "October 19, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "202 (111193081-111221076)                                                                                                                                                                                                                       203 (111221092-1112230074)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MKT 3336",
-        "CourseTitle": "Marketing Management",
-        "Section": "B",
-        "Teacher": "SeyS",
-        "ExamDate": "October 19, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "204 (111183051-1112230062)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MKT 4203",
-        "CourseTitle": "Integrated Communication",
-        "Section": "A",
-        "Teacher": "MKHn",
-        "ExamDate": "October 19, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "201 (111151098-111201158)                                                                                                                                                                                                                       202 (111201191-111213121)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BUS 4201",
-        "CourseTitle": "Employability and Entrepreneurial Success",
-        "Section": "A",
-        "Teacher": "IS",
-        "ExamDate": "October 19, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "202 (111171117-111211066)                                                                                                                                                                                                                       203 (111211067-114213012)"
-    },
-    {
-        "Dept": "BSECO",
-        "CourseCode": "ECO 4386",
-        "CourseTitle": "Energy Economics and Policy",
-        "Section": "A",
-        "Teacher": "MOF",
-        "ExamDate": "October 19, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "203 (121192006-121222010)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "HRM 4358",
-        "CourseTitle": "Performance Appraisal and Management",
-        "Section": "A",
-        "Teacher": "ASSZ",
-        "ExamDate": "October 19, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "204 (111183011-111222079)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MKT 2320",
-        "CourseTitle": "Introduction to Marketing",
-        "Section": "A",
-        "Teacher": "SRA",
-        "ExamDate": "October 19, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "204 (111182003-111222095)                                                                                                                                                                                                                       205 (111222121-114211004)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MKT 2320",
-        "CourseTitle": "Introduction to Marketing",
-        "Section": "B",
-        "Teacher": "SRA",
-        "ExamDate": "October 19, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "206 (111183076-111222181)                                                                                                                                                                                                                       207 (1112230064-1212310018)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MKT 2320",
-        "CourseTitle": "Introduction to Marketing",
-        "Section": "C",
-        "Teacher": "SRA",
-        "ExamDate": "October 19, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "210 (111192018-1142230011)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "SOC 1105",
-        "CourseTitle": "Sociology and Psychology",
-        "Section": "A",
-        "Teacher": "ShaIs",
-        "ExamDate": "October 19, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "205 (111202122-1112330022)                                                                                                                                                                                                                       206 (1112330068-1142330004)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "SOC 1105",
-        "CourseTitle": "Sociology and Psychology",
-        "Section": "B",
-        "Teacher": "MRM",
-        "ExamDate": "October 19, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "207 (111211047-1142330024)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "SOC 1105",
-        "CourseTitle": "Sociology and Psychology",
-        "Section": "C",
-        "Teacher": "ShaIs",
-        "ExamDate": "October 19, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "208 (111183101-1112330017)                                                                                                                                                                                                                       209 (1112330020-121201008)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "LAW 2106/LAW 4151",
-        "CourseTitle": "Business Law/Commercial & Industrial Laws",
-        "Section": "A",
-        "Teacher": "Jkn",
-        "ExamDate": "October 19, 2024",
-        "ExamTime": "02:00 PM - 04:00 PM",
-        "Room": "209 (111181100-111212076)                                                                                                                                                                                                                       210 (111212079-1142310001)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "LAW 2106/LAW 4151",
-        "CourseTitle": "Business Law/Commercial & Industrial Laws",
-        "Section": "B",
-        "Teacher": "Jkn",
-        "ExamDate": "October 19, 2024",
-        "ExamTime": "02:00 PM - 04:00 PM",
-        "Room": "211 (111143295-111221025)                                                                                                                                                                                                                       222 (111221049-1142230010)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MIS 4385",
-        "CourseTitle": "E-Commerce and Web Management",
-        "Section": "A",
-        "Teacher": "AIK",
-        "ExamDate": "October 19, 2024",
-        "ExamTime": "02:00 PM - 04:00 PM",
-        "Room": "Computer Lab 2 (0227) (111182016-111212095)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "CST 1206/CST 1303",
-        "CourseTitle": "Computer Application in Business/Computer Applications",
-        "Section": "A",
-        "Teacher": "JHC",
-        "ExamDate": "October 20, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "Computer Lab 1 (0226) (111212036-1112410128)                                                                                                                                                                                                                       Computer Lab 2 (0227) (1112410139-1212410004)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "CST 1206/CST 1303",
-        "CourseTitle": "Computer Application in Business/Computer Applications",
-        "Section": "D",
-        "Teacher": "MdSA",
-        "ExamDate": "October 20, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "Computer Lab 20 (0424) (111222071-1112410058)                                                                                                                                                                                                                       Computer Lab 21 (0422) (1112410059-1212320002)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "CST 1206/CST 1303",
-        "CourseTitle": "Computer Application in Business/Computer Applications",
-        "Section": "F",
-        "Teacher": "MdSA",
-        "ExamDate": "October 20, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "Computer Lab 3 (0327) (111201192-121193007)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "FIN 2319",
-        "CourseTitle": "Principles of Finance",
-        "Section": "A",
-        "Teacher": "MdQ",
-        "ExamDate": "October 20, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "202 (111181086-111221098)                                                                                                                                                                                                                       203 (111221126-114221015)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "FIN 2319",
-        "CourseTitle": "Principles of Finance",
-        "Section": "B",
-        "Teacher": "MA",
-        "ExamDate": "October 20, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "204 (111161188-121203002)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "FIN 2319",
-        "CourseTitle": "Principles of Finance",
-        "Section": "C",
-        "Teacher": "MdQ",
-        "ExamDate": "October 20, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "205 (111162121-111221109)                                                                                                                                                                                                                       206 (111221166-114213001)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "FIN 3123",
-        "CourseTitle": "Managerial Finance",
-        "Section": "A",
-        "Teacher": "MEH",
-        "ExamDate": "October 20, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "207 (111182098-111211072)                                                                                                                                                                                                                       208 (111213009-114222006)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "FIN 3123",
-        "CourseTitle": "Managerial Finance",
-        "Section": "B",
-        "Teacher": "MEH",
-        "ExamDate": "October 20, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "209 (111173014-111221070)                                                                                                                                                                                                                       210 (111221079-121211007)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "FIN 3123",
-        "CourseTitle": "Managerial Finance",
-        "Section": "C",
-        "Teacher": "MEH",
-        "ExamDate": "October 20, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "211 (111173105-1112230004)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "FIN 4218",
-        "CourseTitle": "Financial Statements Analysis",
-        "Section": "A",
-        "Teacher": "MEH",
-        "ExamDate": "October 20, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "201 (111192053-1142230011)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "CST 1206/CST 1303",
-        "CourseTitle": "Computer Application in Business/Computer Applications",
-        "Section": "B",
-        "Teacher": "MArR",
-        "ExamDate": "October 20, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "Computer Lab 1 (0226) (111221114-1112410076)                                                                                                                                                                                                                       Computer Lab 2 (0227) (1112410077-1212410018)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "CST 1206/CST 1303",
-        "CourseTitle": "Computer Application in Business/Computer Applications",
-        "Section": "C",
-        "Teacher": "MArR",
-        "ExamDate": "October 20, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "Computer Lab 20 (0424) (111193064-1112410078)                                                                                                                                                                                                                       Computer Lab 21 (0422) (1112410081-1212420005)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "CST 1206/CST 1303",
-        "CourseTitle": "Computer Application in Business/Computer Applications",
-        "Section": "E",
-        "Teacher": "MArR",
-        "ExamDate": "October 20, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "Computer Lab 3 (0327) (111193088-1112410117)                                                                                                                                                                                                                       Computer Lab 4 (0427) (1112410119-1212420013)"
-    },
-    {
-        "Dept": "BSECO",
-        "CourseCode": "ECO 4350",
-        "CourseTitle": "Labor Economics",
-        "Section": "A",
-        "Teacher": "SCT",
-        "ExamDate": "October 20, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "201 (121191001-1212230001)                                                                                                                                                                                                                       203 (1212230002-1212310017)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "SCM 4103",
-        "CourseTitle": "Global Sourcing and Procurement",
-        "Section": "A",
-        "Teacher": "SdHn",
-        "ExamDate": "October 20, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "201 (111181149-111201136)                                                                                                                                                                                                                       202 (111201212-111213043)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BUS 3339",
-        "CourseTitle": "Business Research Methodology",
-        "Section": "A",
-        "Teacher": "MHAMn",
-        "ExamDate": "October 20, 2024",
-        "ExamTime": "02:00 PM - 04:00 PM",
-        "Room": "202 (111193045-111212095)                                                                                                                                                                                                                       203 (111213002-114222014)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BUS 3339",
-        "CourseTitle": "Business Research Methodology",
-        "Section": "B",
-        "Teacher": "MHAMn",
-        "ExamDate": "October 20, 2024",
-        "ExamTime": "02:00 PM - 04:00 PM",
-        "Room": "204 (111191016-114221020)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MIS 2218",
-        "CourseTitle": "Advanced Computer Applications in Business",
-        "Section": "A",
-        "Teacher": "ZN",
-        "ExamDate": "October 20, 2024",
-        "ExamTime": "02:00 PM - 04:00 PM",
-        "Room": "Computer Lab 1 (0226) (111183111-1112230183)                                                                                                                                                                                                                       Computer Lab 1 (0226) (1112230217-1142230014)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MIS 2218",
-        "CourseTitle": "Advanced Computer Applications in Business",
-        "Section": "B",
-        "Teacher": "ZN",
-        "ExamDate": "October 20, 2024",
-        "ExamTime": "02:00 PM - 04:00 PM",
-        "Room": "Computer Lab 2 (0227) (111192002-1142230024)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MIS 2218",
-        "CourseTitle": "Advanced Computer Applications in Business",
-        "Section": "C",
-        "Teacher": "AAFd",
-        "ExamDate": "October 20, 2024",
-        "ExamTime": "02:00 PM - 04:00 PM",
-        "Room": "Computer Lab 3 (0327) (111191070-1112330232)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MIS 2218",
-        "CourseTitle": "Advanced Computer Applications in Business",
-        "Section": "D",
-        "Teacher": "ZN",
-        "ExamDate": "October 20, 2024",
-        "ExamTime": "02:00 PM - 04:00 PM",
-        "Room": "Computer Lab 20 (0424) (111183024-111222117)                                                                                                                                                                                                                       Computer Lab 21 (0422) (111222128-114222007)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MIS 2218",
-        "CourseTitle": "Advanced Computer Applications in Business",
-        "Section": "E",
-        "Teacher": "MKB",
-        "ExamDate": "October 20, 2024",
-        "ExamTime": "02:00 PM - 04:00 PM",
-        "Room": "Computer Lab 5 (0523) (111192076-1142320004)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ACN 1205/AIS 1201",
-        "CourseTitle": "Financial Accounting I/Principles of Accounting",
-        "Section": "A",
-        "Teacher": "MHM",
-        "ExamDate": "October 21, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "205 (111213039-1112330086)                                                                                                                                                                                                                       206 (1112330108-114222003)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ACN 1205/AIS 1201",
-        "CourseTitle": "Financial Accounting I/Principles of Accounting",
-        "Section": "B",
-        "Teacher": "HAh",
-        "ExamDate": "October 21, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "207 (111201094-1112330088)                                                                                                                                                                                                                       208 (1112330103-1142410009)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ACN 1205/AIS 1201",
-        "CourseTitle": "Financial Accounting I/Principles of Accounting",
-        "Section": "C",
-        "Teacher": "FAhS",
-        "ExamDate": "October 21, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "209 (111192048-1112330079)                                                                                                                                                                                                                       210 (1112330091-1142330028)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ACN 1205/AIS 1201",
-        "CourseTitle": "Financial Accounting I/Principles of Accounting",
-        "Section": "D",
-        "Teacher": "IJ",
-        "ExamDate": "October 21, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "211 (111201007-1112330035)                                                                                                                                                                                                                       222 (1112330039-1212310018)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ACN 1205/AIS 1201",
-        "CourseTitle": "Financial Accounting I/Principles of Accounting",
-        "Section": "E",
-        "Teacher": "HAh",
-        "ExamDate": "October 21, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "223 (111182077-1112330119)                                                                                                                                                                                                                       224 (1112330127-1142410015)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ACN 4136/AIS 2204",
-        "CourseTitle": "Advanced Accounting-I/Advanced Financial Accounting - I",
-        "Section": "A",
-        "Teacher": "MTH",
-        "ExamDate": "October 21, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "210 (111182131-1142230022)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ACN 4238/AIS 3107",
-        "CourseTitle": "Advanced Accounting-II/Advanced Financial Accounting - II",
-        "Section": "A",
-        "Teacher": "MHM",
-        "ExamDate": "October 21, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "211 (111201228-1142310007)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "HRM 4269",
-        "CourseTitle": "Learning and Development Management",
-        "Section": "A",
-        "Teacher": "HRJ",
-        "ExamDate": "October 21, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "201 (111163108-111211047)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ACN 1309/AIS 1302",
-        "CourseTitle": "Financial Accounting II/Intermediate Accounting",
-        "Section": "A",
-        "Teacher": "JBS",
-        "ExamDate": "October 21, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "202 (111182063-1112310066)                                                                                                                                                                                                                       203 (1112310084-1142330033)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ACN 1309/AIS 1302",
-        "CourseTitle": "Financial Accounting II/Intermediate Accounting",
-        "Section": "B",
-        "Teacher": "MTH",
-        "ExamDate": "October 21, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "204 (111222125-1142330019)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ACN 1309/AIS 1302",
-        "CourseTitle": "Financial Accounting II/Intermediate Accounting",
-        "Section": "C",
-        "Teacher": "IJ",
-        "ExamDate": "October 21, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "205 (111193074-1112310126)                                                                                                                                                                                                                       206 (1112320064-1142330015)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ACN 1309/AIS 1302",
-        "CourseTitle": "Financial Accounting II/Intermediate Accounting",
-        "Section": "D",
-        "Teacher": "IJ",
-        "ExamDate": "October 21, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "207 (111212029-1112320037)                                                                                                                                                                                                                       208 (1112320042-1142320006)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ACN 1309/AIS 1302",
-        "CourseTitle": "Financial Accounting II/Intermediate Accounting",
-        "Section": "E",
-        "Teacher": "FAhS",
-        "ExamDate": "October 21, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "209 (111192018-1142330026)"
-    },
-    {
-        "Dept": "BSECO",
-        "CourseCode": "ECO 4353",
-        "CourseTitle": "Game Theory and Applications",
-        "Section": "A",
-        "Teacher": "SCT",
-        "ExamDate": "October 21, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "201 (121192006-121222011)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MGT 3342",
-        "CourseTitle": "Business Ethics",
-        "Section": "A",
-        "Teacher": "AAHm",
-        "ExamDate": "October 21, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "201 (111181108-111211026)                                                                                                                                                                                                                       202 (111211040-1112230273)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ACN 2215/AIS 4103",
-        "CourseTitle": "Management Accounting/Management Accounting-I",
-        "Section": "A",
-        "Teacher": "MHM",
-        "ExamDate": "October 21, 2024",
-        "ExamTime": "02:00 PM - 04:00 PM",
-        "Room": "202 (111183042-1112330220)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ACN 2215/AIS 4103",
-        "CourseTitle": "Management Accounting/Management Accounting-I",
-        "Section": "B",
-        "Teacher": "SKa",
-        "ExamDate": "October 21, 2024",
-        "ExamTime": "02:00 PM - 04:00 PM",
-        "Room": "203 (111182021-1112310004)                                                                                                                                                                                                                       204 (1112310006-114213007)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ACN 2215/AIS 4103",
-        "CourseTitle": "Management Accounting/Management Accounting-I",
-        "Section": "C",
-        "Teacher": "SKa",
-        "ExamDate": "October 21, 2024",
-        "ExamTime": "02:00 PM - 04:00 PM",
-        "Room": "205 (111182098-111221139)                                                                                                                                                                                                                       206 (111221141-114222006)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MIS 4395",
-        "CourseTitle": "Structured Programming Language",
-        "Section": "A",
-        "Teacher": "AAFd",
-        "ExamDate": "October 21, 2024",
-        "ExamTime": "02:00 PM - 04:00 PM",
-        "Room": "Computer Lab 1 (0226) (111191005-111212095)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BDS 1201",
-        "CourseTitle": "History of the Emergence of Bangladesh",
-        "Section": "A",
-        "Teacher": "MRM",
-        "ExamDate": "October 22, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "202 (111221170-1112420102)                                                                                                                                                                                                                       203 (1112420107-1212420015)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BDS 1201",
-        "CourseTitle": "History of the Emergence of Bangladesh",
-        "Section": "B",
-        "Teacher": "ShaIs",
-        "ExamDate": "October 22, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "204 (111213030-1112420103)                                                                                                                                                                                                                       205 (1112420105-1212420013)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BDS 1201",
-        "CourseTitle": "History of the Emergence of Bangladesh",
-        "Section": "C",
-        "Teacher": "JHC",
-        "ExamDate": "October 22, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "206 (1112330035-1112420093)                                                                                                                                                                                                                       207 (1112420106-1142420024)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BDS 1201",
-        "CourseTitle": "History of the Emergence of Bangladesh",
-        "Section": "D",
-        "Teacher": "MRM",
-        "ExamDate": "October 22, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "208 (111221185-1112420153)                                                                                                                                                                                                                       209 (1112420155-1212230017)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BDS 1201",
-        "CourseTitle": "History of the Emergence of Bangladesh",
-        "Section": "E",
-        "Teacher": "ShaIs",
-        "ExamDate": "October 22, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "210 (1112330174-1112420117)                                                                                                                                                                                                                       211 (1112420118-1142420021)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BDS 1201",
-        "CourseTitle": "History of the Emergence of Bangladesh",
-        "Section": "F",
-        "Teacher": "JHC",
-        "ExamDate": "October 22, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "222 (1112330195-1112420133)                                                                                                                                                                                                                       223 (1112420136-1142420018)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "FIN 4117",
-        "CourseTitle": "Corporate Finance",
-        "Section": "A",
-        "Teacher": "MMs",
-        "ExamDate": "October 22, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "201 (111191148-111211042)                                                                                                                                                                                                                       202 (111211050-114221028)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BST 1308/ECO 1334/QNT 1202",
-        "CourseTitle": "Basic Statistics/Business Statistics I/Statistics for Business and Economics I",
-        "Section": "A",
-        "Teacher": "MUd",
-        "ExamDate": "October 22, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "202 (111203020-1112320034)                                                                                                                                                                                                                       203 (1112320039-1212410019)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BST 1308/ECO 1334/QNT 1202",
-        "CourseTitle": "Basic Statistics/Business Statistics I/Statistics for Business and Economics I",
-        "Section": "B",
-        "Teacher": "MUd",
-        "ExamDate": "October 22, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "204 (111192048-1112310088)                                                                                                                                                                                                                       205 (1112310130-1212410020)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BST 1308/ECO 1334/QNT 1202",
-        "CourseTitle": "Basic Statistics/Business Statistics I/Statistics for Business and Economics I",
-        "Section": "D",
-        "Teacher": "MKB",
-        "ExamDate": "October 22, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "206 (111192076-1112310099)                                                                                                                                                                                                                       207 (1112310103-1212410018)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BST 1308/QNT 1202",
-        "CourseTitle": "Basic Statistics/Business Statistics I",
-        "Section": "C",
-        "Teacher": "MKB",
-        "ExamDate": "October 22, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "208 (111181100-1112310030)                                                                                                                                                                                                                       209 (1112310038-1142230019)"
-    },
-    {
-        "Dept": "BSECO",
-        "CourseCode": "ECO 3371",
-        "CourseTitle": "Econometrics II",
-        "Section": "A",
-        "Teacher": "TJT",
-        "ExamDate": "October 22, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "205 (121191001-121222011)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MKT 4311",
-        "CourseTitle": "Brand Management",
-        "Section": "A",
-        "Teacher": "KMR",
-        "ExamDate": "October 22, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "201 (111151098-111213121)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BST 2216/ECO 1374/QNT 3307",
-        "CourseTitle": "Applied Business Statistics/Business Statistics II/Statistics for Business and Economics II",
-        "Section": "A",
-        "Teacher": "MKHq",
-        "ExamDate": "October 22, 2024",
-        "ExamTime": "02:00 PM - 04:00 PM",
-        "Room": "207 (111181078-1112230155)                                                                                                                                                                                                                       208 (1112230190-1212330036)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BST 2216/ECO 1374/QNT 3307",
-        "CourseTitle": "Applied Business Statistics/Business Statistics II/Statistics for Business and Economics II",
-        "Section": "B",
-        "Teacher": "MKHq",
-        "ExamDate": "October 22, 2024",
-        "ExamTime": "02:00 PM - 04:00 PM",
-        "Room": "206 (111183042-1112320054)                                                                                                                                                                                                                       205 (1112320058-1212330028)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BST 2216/QNT 3307",
-        "CourseTitle": "Applied Business Statistics/Business Statistics II",
-        "Section": "C",
-        "Teacher": "MKHq",
-        "ExamDate": "October 22, 2024",
-        "ExamTime": "02:00 PM - 04:00 PM",
-        "Room": "202 (111181048-1142230010)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BST 2216/QNT 3307",
-        "CourseTitle": "Applied Business Statistics/Business Statistics II",
-        "Section": "D",
-        "Teacher": "MKHq",
-        "ExamDate": "October 22, 2024",
-        "ExamTime": "02:00 PM - 04:00 PM",
-        "Room": "203 (111161188-1112230078)                                                                                                                                                                                                                       204 (1112230104-1112320082)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "HRM 4152",
-        "CourseTitle": "Compensation Management",
-        "Section": "A",
-        "Teacher": "NAr",
-        "ExamDate": "October 23, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "205 (111173038-111213014)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MGT 3225",
-        "CourseTitle": "E-Business",
-        "Section": "A",
-        "Teacher": "AIK",
-        "ExamDate": "October 23, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "Computer Lab 1 (0226) (111191052-111211047)                                                                                                                                                                                                                       Computer Lab 2 (0227) (111211052-114212006)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ACN 4135",
-        "CourseTitle": "Taxation",
-        "Section": "A",
-        "Teacher": "MHM",
-        "ExamDate": "October 23, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "202 (111172099-111222107)"
-    },
-    {
-        "Dept": "BBA in AIS",
-        "CourseCode": "AIS 2305",
-        "CourseTitle": "Theory & Practice of Taxation",
-        "Section": "A",
-        "Teacher": "MTH",
-        "ExamDate": "October 23, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "203 (114191009-1142310007)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BUS 2112",
-        "CourseTitle": "Business Communications",
-        "Section": "A",
-        "Teacher": "MKHn",
-        "ExamDate": "October 23, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "203 (111221080-121222009)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BUS 2112",
-        "CourseTitle": "Business Communications",
-        "Section": "B",
-        "Teacher": "MKHn",
-        "ExamDate": "October 23, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "204 (111183011-1212330016)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BUS 2112",
-        "CourseTitle": "Business Communications",
-        "Section": "C",
-        "Teacher": "MKHn",
-        "ExamDate": "October 23, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "205 (111202015-1112310071)                                                                                                                                                                                                                       206 (1112310139-1212330024)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BUS 2112",
-        "CourseTitle": "Business Communications",
-        "Section": "D",
-        "Teacher": "KMR",
-        "ExamDate": "October 23, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "207 (111161100-1112230160)                                                                                                                                                                                                                       208 (1112230163-1142230024)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MKT 4314",
-        "CourseTitle": "Marketing Analytics",
-        "Section": "A",
-        "Teacher": "MHAMn",
-        "ExamDate": "October 23, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "Computer Lab 1 (0226) (111151098-111211062)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "CST 2321",
-        "CourseTitle": "Business Analytics",
-        "Section": "A",
-        "Teacher": "MdQ",
-        "ExamDate": "October 23, 2024",
-        "ExamTime": "02:00 PM - 04:00 PM",
-        "Room": "Computer Lab 1 (0226) (111183010-111211057)                                                                                                                                                                                                                       Computer Lab 1 (0226) (111213100-114221027)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "CST 2321",
-        "CourseTitle": "Business Analytics",
-        "Section": "B",
-        "Teacher": "MdQ",
-        "ExamDate": "October 23, 2024",
-        "ExamTime": "02:00 PM - 04:00 PM",
-        "Room": "Computer Lab 2 (0227) (111191020-114221024)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "CST 2321",
-        "CourseTitle": "Business Analytics",
-        "Section": "C",
-        "Teacher": "AIK",
-        "ExamDate": "October 23, 2024",
-        "ExamTime": "02:00 PM - 04:00 PM",
-        "Room": "Computer Lab 20 (0424) (111181149-111212013)                                                                                                                                                                                                                       Computer Lab 21 (0422) (111212061-114221028)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "CST 2321",
-        "CourseTitle": "Business Analytics",
-        "Section": "D",
-        "Teacher": "MdQ",
-        "ExamDate": "October 23, 2024",
-        "ExamTime": "02:00 PM - 04:00 PM",
-        "Room": "Computer Lab 3 (0327) (111183075-111201160)                                                                                                                                                                                                                       Computer Lab 4 (0427) (111201163-111222118)"
-    },
-    {
-        "Dept": "BSECO",
-        "CourseCode": "ECO 3327",
-        "CourseTitle": "International Finance",
-        "Section": "A",
-        "Teacher": "MOF",
-        "ExamDate": "October 23, 2024",
-        "ExamTime": "02:00 PM - 04:00 PM",
-        "Room": "201 (121152014-121222016)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BMT 1103/QNT 1104",
-        "CourseTitle": "Basic Mathematics/Business Mathematics I",
-        "Section": "A",
-        "Teacher": "GCD",
-        "ExamDate": "October 24, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "202 (111212043-1112410053)                                                                                                                                                                                                                       203 (1112410061-1142410009)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BMT 1103/QNT 1104",
-        "CourseTitle": "Basic Mathematics/Business Mathematics I",
-        "Section": "B",
-        "Teacher": "GCD",
-        "ExamDate": "October 24, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "204 (111212045-1112410054)                                                                                                                                                                                                                       205 (1112410056-1142410014)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BMT 1103/QNT 1104",
-        "CourseTitle": "Basic Mathematics/Business Mathematics I",
-        "Section": "C",
-        "Teacher": "GCD",
-        "ExamDate": "October 24, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "206 (111192057-1112410047)                                                                                                                                                                                                                       207 (1112410049-1142410019)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BMT 1103/QNT 1104",
-        "CourseTitle": "Basic Mathematics/Business Mathematics I",
-        "Section": "D",
-        "Teacher": "GCD",
-        "ExamDate": "October 24, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "208 (111221051-1112410055)                                                                                                                                                                                                                       209 (1112410058-1142330028)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "BMT 1103/QNT 1104",
-        "CourseTitle": "Basic Mathematics/Business Mathematics I",
-        "Section": "E",
-        "Teacher": "ShAz",
-        "ExamDate": "October 24, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "210 (111221025-1112410057)                                                                                                                                                                                                                       211 (1112410060-1142420022)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ECN 2214",
-        "CourseTitle": "Macroeconomics",
-        "Section": "C",
-        "Teacher": "MSS",
-        "ExamDate": "October 24, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "202 (111183044-1142230001)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ECN 2214",
-        "CourseTitle": "Macroeconomics",
-        "Section": "D",
-        "Teacher": "AAsh",
-        "ExamDate": "October 24, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "201 (111221052-114222003)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ECN 2214/ECO 1302",
-        "CourseTitle": "Introduction to Macroeconomics/Macroeconomics",
-        "Section": "A",
-        "Teacher": "MSS",
-        "ExamDate": "October 24, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "204 (111213059-1112310099)                                                                                                                                                                                                                       205 (1112310103-1212410004)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ECN 2214/ECO 1302",
-        "CourseTitle": "Introduction to Macroeconomics/Macroeconomics",
-        "Section": "B",
-        "Teacher": "TaA",
-        "ExamDate": "October 24, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "206 (111222004-1112310173)                                                                                                                                                                                                                       207 (1112320124-1212330036)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "FIN 4331",
-        "CourseTitle": "Financial Modeling",
-        "Section": "A",
-        "Teacher": "MUd",
-        "ExamDate": "October 24, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "Computer Lab 1 (0226) (111192053-111213098)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "IBS 3121",
-        "CourseTitle": "International Business",
-        "Section": "A",
-        "Teacher": "PMM",
-        "ExamDate": "October 24, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "223 (111183011-114222016)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "IBS 3121",
-        "CourseTitle": "International Business",
-        "Section": "B",
-        "Teacher": "PMM",
-        "ExamDate": "October 24, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "224 (111211053-1142310007)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "IBS 3121",
-        "CourseTitle": "International Business",
-        "Section": "C",
-        "Teacher": "PMM",
-        "ExamDate": "October 24, 2024",
-        "ExamTime": "09:00 AM - 11:00 AM",
-        "Room": "211 (111191106-111221130)                                                                                                                                                                                                                       222 (111221141-121203002)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ECN 2111",
-        "CourseTitle": "Microeconomics",
-        "Section": "D",
-        "Teacher": "TrAd",
-        "ExamDate": "October 24, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "222 (111192088-1142320004)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ECN 2111/ECO 1301",
-        "CourseTitle": "Introduction to Microeconomics/Microeconomics",
-        "Section": "A",
-        "Teacher": "TrAd",
-        "ExamDate": "October 24, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "223 (111222112-1142310004)                                                                                                                                                                                                                       224 (1142320006-1212420013)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ECN 2111/ECO 1301",
-        "CourseTitle": "Introduction to Microeconomics/Microeconomics",
-        "Section": "B",
-        "Teacher": "AAsh",
-        "ExamDate": "October 24, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "225 (111212066-1112310115)                                                                                                                                                                                                                       228 (1112320049-1212420015)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "ECN 2111/ECO 1301",
-        "CourseTitle": "Introduction to Microeconomics/Microeconomics",
-        "Section": "C",
-        "Teacher": "TJT",
-        "ExamDate": "October 24, 2024",
-        "ExamTime": "11:30 AM - 01:30 PM",
-        "Room": "201 (111192002-1212420006)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MKT 4308/SCM 4101",
-        "CourseTitle": "Introduction to Supply Chain Management/Supply Chain Management",
-        "Section": "A",
-        "Teacher": "SdHn",
-        "ExamDate": "October 24, 2024",
-        "ExamTime": "02:00 PM - 04:00 PM",
-        "Room": "202 (111183010-111201194)                                                                                                                                                                                                                       203 (111201197-111213043)"
-    },
-    {
-        "Dept": "BBA",
-        "CourseCode": "MKT 4308/SCM 4101",
-        "CourseTitle": "Introduction to Supply Chain Management/Supply Chain Management",
-        "Section": "B",
-        "Teacher": "NHMS",
-        "ExamDate": "October 24, 2024",
-        "ExamTime": "02:00 PM - 04:00 PM",
-        "Room": "204 (111131026-111201210)                                                                                                                                                                                                                       205 (111201229-111221079)"
-    }
+  {
+    "Dept": "BBA",
+    "CourseCode": "BMT 2113/QNT 2105",
+    "CourseTitle": "Business Mathematics II/Mathematics for Business Decision",
+    "Section": "A",
+    "Teacher": "IZC",
+    "ExamDate": "December 14, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "201 (111213034-1112410020)                                                                                                                                                                                                                       202 (1112410026-1142410009)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BMT 2113/QNT 2105",
+    "CourseTitle": "Business Mathematics II/Mathematics for Business Decision",
+    "Section": "B",
+    "Teacher": "ShAz",
+    "ExamDate": "December 14, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "203 (111201093-1112330091)                                                                                                                                                                                                                       204 (1112330132-1142330023)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BMT 2113/QNT 2105",
+    "CourseTitle": "Business Mathematics II/Mathematics for Business Decision",
+    "Section": "C",
+    "Teacher": "ShAz",
+    "ExamDate": "December 14, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "205 (111191074-1112320011)                                                                                                                                                                                                                       206 (1112320018-1142330024)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BMT 2113/QNT 2105",
+    "CourseTitle": "Business Mathematics II/Mathematics for Business Decision",
+    "Section": "D",
+    "Teacher": "SCT",
+    "ExamDate": "December 14, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "207 (111181048-1112330149)                                                                                                                                                                                                                       208 (1112330151-1142410015)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BMT 2113/QNT 2105",
+    "CourseTitle": "Business Mathematics II/Mathematics for Business Decision",
+    "Section": "E",
+    "Teacher": "ShAz",
+    "ExamDate": "December 14, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "209 (111191154-1112330020)                                                                                                                                                                                                                       210 (1112330032-1142410001)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ENG 1011",
+    "CourseTitle": "English I",
+    "Section": "A",
+    "Teacher": "AArSh",
+    "ExamDate": "December 14, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "202 (1112330053-1112430129)                                                                                                                                                                                                                       203 (1112430130-1212430013)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ENG 1011",
+    "CourseTitle": "English I",
+    "Section": "B",
+    "Teacher": "EHaq",
+    "ExamDate": "December 14, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "204 (1112330105-1112430106)                                                                                                                                                                                                                       205 (1112430117-1212410008)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ENG 1011",
+    "CourseTitle": "English I",
+    "Section": "C",
+    "Teacher": "AShK",
+    "ExamDate": "December 14, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "206 (1112410130-1112430089)                                                                                                                                                                                                                       207 (1112430090-1212430004)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ENG 1011",
+    "CourseTitle": "English I",
+    "Section": "D",
+    "Teacher": "AArSh",
+    "ExamDate": "December 14, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "208 (1112230245-1112430096)                                                                                                                                                                                                                       209 (1112430098-1142430010)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ENG 1011",
+    "CourseTitle": "English I",
+    "Section": "E",
+    "Teacher": "AArSh",
+    "ExamDate": "December 14, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "210 (1112320035-1112430083)                                                                                                                                                                                                                       211 (1112430085-1142430020)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "FIN 4333",
+    "CourseTitle": "Financial Analytics",
+    "Section": "A",
+    "Teacher": "MUd",
+    "ExamDate": "December 14, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "227 (Computer Lab) (111191071-114221028)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 3224/MGT 4132",
+    "CourseTitle": "Operations Management/Production and Operations Management",
+    "Section": "A",
+    "Teacher": "MSna",
+    "ExamDate": "December 14, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "222 (111172068-111222005)                                                                                                                                                                                                                       223 (111222006-121213006)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 3224/MGT 4132",
+    "CourseTitle": "Operations Management/Production and Operations Management",
+    "Section": "B",
+    "Teacher": "MSna",
+    "ExamDate": "December 14, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "224 (111182016-111221198)                                                                                                                                                                                                                       225 (111221200-114182001)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 3224/MGT 4132",
+    "CourseTitle": "Operations Management/Production and Operations Management",
+    "Section": "C",
+    "Teacher": "NHMS",
+    "ExamDate": "December 14, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "228 (111181086-111221095)                                                                                                                                                                                                                       211 (111221102-1112330226)"
+  },
+  {
+    "Dept": "BBA in AIS",
+    "CourseCode": "AIS 3209",
+    "CourseTitle": "Tax Accounting and Tax Planning",
+    "Section": "A",
+    "Teacher": "MHM",
+    "ExamDate": "December 14, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "201 (114191009-1142310007)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ENG 1013",
+    "CourseTitle": "English II",
+    "Section": "A",
+    "Teacher": "TAT",
+    "ExamDate": "December 14, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "202 (111221089-1112420066)                                                                                                                                                                                                                       203 (1112420067-1212420010)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ENG 1013",
+    "CourseTitle": "English II",
+    "Section": "B",
+    "Teacher": "RnIm",
+    "ExamDate": "December 14, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "205 (1112310013-1112420153)                                                                                                                                                                                                                       201 (1112420155-1212420011)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ENG 1013",
+    "CourseTitle": "English II",
+    "Section": "C",
+    "Teacher": "TAT",
+    "ExamDate": "December 14, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "206 (111212029-1112420109)                                                                                                                                                                                                                       207 (1112420113-1212410020)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ENG 1013",
+    "CourseTitle": "English II",
+    "Section": "D",
+    "Teacher": "ChMR",
+    "ExamDate": "December 14, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "208 (111213064-1112420119)                                                                                                                                                                                                                       209 (1112420129-1142420026)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ENG 1013",
+    "CourseTitle": "English II",
+    "Section": "E",
+    "Teacher": "KhJS",
+    "ExamDate": "December 14, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "210 (111222010-1212330009)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ENG 1013",
+    "CourseTitle": "English II",
+    "Section": "F",
+    "Teacher": "ShAHu",
+    "ExamDate": "December 14, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "211 (111212081-1112420104)                                                                                                                                                                                                                       222 (1112420110-1142420022)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MKT 4204",
+    "CourseTitle": "Strategic Marketing",
+    "Section": "A",
+    "Teacher": "KA",
+    "ExamDate": "December 14, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "203 (111162027-111213095)"
+  },
+  {
+    "Dept": "BSECO",
+    "CourseCode": "ECO 3302/ECO 3304",
+    "CourseTitle": "Intermediate Macroeconomic Theory II/Intermediate Macroeconomics II",
+    "Section": "A",
+    "Teacher": "MAkHn",
+    "ExamDate": "December 14, 2024",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "201 (121182003-1212310014)"
+  },
+  {
+    "Dept": "BSECO",
+    "CourseCode": "ECO 3360",
+    "CourseTitle": "Socioeconomic Profiles of Bangladesh",
+    "Section": "A",
+    "Teacher": "AAsh",
+    "ExamDate": "December 15, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "202 (121211006-121222002)                                                                                                                                                                                                                       203 (121222009-1212310018)"
+  },
+  {
+    "Dept": "BBA in AIS",
+    "CourseCode": "MGT 2208",
+    "CourseTitle": "Human Resource Management & Organizational Behavior",
+    "Section": "A",
+    "Teacher": "IS",
+    "ExamDate": "December 15, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "202 (114172005-1142430019)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 2318",
+    "CourseTitle": "Organizational Behavior",
+    "Section": "A",
+    "Teacher": "IS",
+    "ExamDate": "December 15, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "203 (111201139-1112230216)                                                                                                                                                                                                                       204 (1112230221-1112330090)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 2318",
+    "CourseTitle": "Organizational Behavior",
+    "Section": "B",
+    "Teacher": "IS",
+    "ExamDate": "December 15, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "205 (111221085-1112310066)                                                                                                                                                                                                                       206 (1112310097-1112410146)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 2318",
+    "CourseTitle": "Organizational Behavior",
+    "Section": "C",
+    "Teacher": "SK",
+    "ExamDate": "December 15, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "207 (111181087-1112230057)                                                                                                                                                                                                                       208 (1112230145-1112320122)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 3122",
+    "CourseTitle": "Human Resources Management",
+    "Section": "A",
+    "Teacher": "HRJ",
+    "ExamDate": "December 15, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "204 (111192018-111222004)                                                                                                                                                                                                                       205 (111222012-1112320063)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 3122",
+    "CourseTitle": "Human Resources Management",
+    "Section": "B",
+    "Teacher": "HRJ",
+    "ExamDate": "December 15, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "206 (111173097-111222169)                                                                                                                                                                                                                       207 (1112230004-1112330074)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 3122",
+    "CourseTitle": "Human Resources Management",
+    "Section": "C",
+    "Teacher": "ASSZ",
+    "ExamDate": "December 15, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "208 (111183011-111222026)                                                                                                                                                                                                                       209 (111222030-1112320087)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 4356",
+    "CourseTitle": "Strategic Management",
+    "Section": "A",
+    "Teacher": "ASSZ",
+    "ExamDate": "December 15, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "209 (111191020-111202030)                                                                                                                                                                                                                       210 (111202094-114221001)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 4356",
+    "CourseTitle": "Strategic Management",
+    "Section": "B",
+    "Teacher": "NAr",
+    "ExamDate": "December 15, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "211 (111151098-111201239)                                                                                                                                                                                                                       222 (111201268-114221011)"
+  },
+  {
+    "Dept": "BSECO",
+    "CourseCode": "ECO 2301/ECO 2304/ECO 2314",
+    "CourseTitle": "Intermediate Microeconomic Theory I/Intermediate Microeconomics/Intermediate Microeconomics I",
+    "Section": "A",
+    "Teacher": "MSS",
+    "ExamDate": "December 15, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "210 (121182003-1212330009)                                                                                                                                                                                                                       211 (1212330010-1212410004)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 1307",
+    "CourseTitle": "Principles of Management",
+    "Section": "A",
+    "Teacher": "BJ",
+    "ExamDate": "December 15, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "222 (111202111-1112410067)                                                                                                                                                                                                                       210 (1112410077-1142410019)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 1307",
+    "CourseTitle": "Principles of Management",
+    "Section": "B",
+    "Teacher": "BJ",
+    "ExamDate": "December 15, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "224 (111221025-1112330138)                                                                                                                                                                                                                       203 (1112330163-1142330012)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 1307",
+    "CourseTitle": "Principles of Management",
+    "Section": "C",
+    "Teacher": "SK",
+    "ExamDate": "December 15, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "228 (111191020-1112330205)                                                                                                                                                                                                                       211 (1112330215-1142330025)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 1307",
+    "CourseTitle": "Principles of Management",
+    "Section": "D",
+    "Teacher": "SK",
+    "ExamDate": "December 15, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "201 (111221051-1112410010)                                                                                                                                                                                                                       202 (1112410027-1142410014)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "SCM 4313",
+    "CourseTitle": "Service Operation Management",
+    "Section": "A",
+    "Teacher": "SdHn",
+    "ExamDate": "December 15, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "203 (111171185-111221113)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ACN 4340/AIS 2306",
+    "CourseTitle": "Auditing/Principles of Auditing",
+    "Section": "A",
+    "Teacher": "MTH",
+    "ExamDate": "December 15, 2024",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "201 (111182131-1142310004)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BUS 1102",
+    "CourseTitle": "Introduction to Business",
+    "Section": "A",
+    "Teacher": "SeyS",
+    "ExamDate": "December 17, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "201 (111213105-1112430080)                                                                                                                                                                                                                       203 (1112430087-1212310003)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BUS 1102",
+    "CourseTitle": "Introduction to Business",
+    "Section": "B",
+    "Teacher": "SeyS",
+    "ExamDate": "December 17, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "204 (1112330183-1112430108)                                                                                                                                                                                                                       205 (1112430110-1212320010)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BUS 1102",
+    "CourseTitle": "Introduction to Business",
+    "Section": "C",
+    "Teacher": "BJ",
+    "ExamDate": "December 17, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "206 (1112230275-1112430089)                                                                                                                                                                                                                       207 (1112430090-1212420013)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BUS 1102",
+    "CourseTitle": "Introduction to Business",
+    "Section": "D",
+    "Teacher": "BJ",
+    "ExamDate": "December 17, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "208 (1112230226-1112430096)                                                                                                                                                                                                                       209 (1112430098-1212310016)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BUS 1102",
+    "CourseTitle": "Introduction to Business",
+    "Section": "E",
+    "Teacher": "AAFd",
+    "ExamDate": "December 17, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "210 (111222164-1112430083)                                                                                                                                                                                                                       211 (1112430085-1212410013)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MKT 3336",
+    "CourseTitle": "Marketing Management",
+    "Section": "A",
+    "Teacher": "MdSA",
+    "ExamDate": "December 17, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "202 (111171117-111221024)                                                                                                                                                                                                                       203 (111221045-1112230155)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MKT 3336",
+    "CourseTitle": "Marketing Management",
+    "Section": "B",
+    "Teacher": "SeyS",
+    "ExamDate": "December 17, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "207 (111192005-111221082)                                                                                                                                                                                                                       205 (111221090-1112310159)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MKT 4101",
+    "CourseTitle": "Consumer Behavior",
+    "Section": "A",
+    "Teacher": "MKHn",
+    "ExamDate": "December 17, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "201 (111162027-111201133)                                                                                                                                                                                                                       202 (111201163-111221196)"
+  },
+  {
+    "Dept": "BSECO",
+    "CourseCode": "ECO 2365",
+    "CourseTitle": "Environmental Economics",
+    "Section": "A",
+    "Teacher": "SCT",
+    "ExamDate": "December 17, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "202 (121203002-1212320011)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "HRM 4363",
+    "CourseTitle": "International Human Resource Management",
+    "Section": "A",
+    "Teacher": "PMM",
+    "ExamDate": "December 17, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "203 (111181048-111222079)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MKT 2320",
+    "CourseTitle": "Introduction to Marketing",
+    "Section": "A",
+    "Teacher": "SRA",
+    "ExamDate": "December 17, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "203 (111183076-1112310029)                                                                                                                                                                                                                       204 (1112310054-1212330012)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MKT 2320",
+    "CourseTitle": "Introduction to Marketing",
+    "Section": "B",
+    "Teacher": "SeyS",
+    "ExamDate": "December 17, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "205 (111213012-1112230122)                                                                                                                                                                                                                       206 (1112230132-1212310001)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MKT 2320",
+    "CourseTitle": "Introduction to Marketing",
+    "Section": "C",
+    "Teacher": "MKHn",
+    "ExamDate": "December 17, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "207 (111173097-111222046)                                                                                                                                                                                                                       208 (111222050-121202003)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "SOC 1105",
+    "CourseTitle": "Sociology and Psychology",
+    "Section": "A",
+    "Teacher": "MRM",
+    "ExamDate": "December 17, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "204 (111211017-1112330100)                                                                                                                                                                                                                       205 (1112330109-121222009)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "SOC 1105",
+    "CourseTitle": "Sociology and Psychology",
+    "Section": "B",
+    "Teacher": "MRM",
+    "ExamDate": "December 17, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "206 (111211025-1112410043)                                                                                                                                                                                                                       207 (1112410045-121221011)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "SOC 1105",
+    "CourseTitle": "Sociology and Psychology",
+    "Section": "C",
+    "Teacher": "MRM",
+    "ExamDate": "December 17, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "208 (111212066-1112410026)                                                                                                                                                                                                                       209 (1112410050-121211008)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "SOC 1105",
+    "CourseTitle": "Sociology and Psychology",
+    "Section": "D",
+    "Teacher": "MRM",
+    "ExamDate": "December 17, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "210 (111221153-1112330204)                                                                                                                                                                                                                       211 (1112330206-1142410019)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "SOC 1105",
+    "CourseTitle": "Sociology and Psychology",
+    "Section": "E",
+    "Teacher": "ShaIs",
+    "ExamDate": "December 17, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "222 (111193049-1112410048)                                                                                                                                                                                                                       223 (1112410052-1142410013)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "SOC 1105",
+    "CourseTitle": "Sociology and Psychology",
+    "Section": "F",
+    "Teacher": "ShaIs",
+    "ExamDate": "December 17, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "224 (111211033-1112330182)                                                                                                                                                                                                                       225 (1112330239-1142420003)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "SOC 1105",
+    "CourseTitle": "Sociology and Psychology",
+    "Section": "G",
+    "Teacher": "ShaIs",
+    "ExamDate": "December 17, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "228 (111212029-114213005)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "SOC 1105",
+    "CourseTitle": "Sociology and Psychology",
+    "Section": "H",
+    "Teacher": "ShaIs",
+    "ExamDate": "December 17, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "201 (111193041-1212230012)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BSA 4201",
+    "CourseTitle": "Applied Decision Modeling",
+    "Section": "A",
+    "Teacher": "MdQ",
+    "ExamDate": "December 17, 2024",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "227 (Computer Lab) (111201078-111221199)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "LAW 2106/LAW 4151",
+    "CourseTitle": "Business Law/Commercial & Industrial Laws",
+    "Section": "A",
+    "Teacher": "Jkn",
+    "ExamDate": "December 17, 2024",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "203 (111151098-111212067)                                                                                                                                                                                                                       204 (111213034-1142330006)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "LAW 2106/LAW 4151",
+    "CourseTitle": "Business Law/Commercial & Industrial Laws",
+    "Section": "B",
+    "Teacher": "Jkn",
+    "ExamDate": "December 17, 2024",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "205 (111172068-111221093)                                                                                                                                                                                                                       206 (111221094-114221008)"
+  },
+  {
+    "Dept": "BBA in AIS",
+    "CourseCode": "LAW 3328",
+    "CourseTitle": "Corporate Law & Secretarial Practice",
+    "Section": "A",
+    "Teacher": "Jkn",
+    "ExamDate": "December 17, 2024",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "201 (114212004-1142310007)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "CST 1206/CST 1303",
+    "CourseTitle": "Computer Application in Business/Computer Applications",
+    "Section": "B",
+    "Teacher": "JHC",
+    "ExamDate": "December 18, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "227 (Computer Lab) (1112310159-1112420113)                                                                                                                                                                                                                       326 (Computer Lab) (1112420119-1142420019)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "CST 1206/CST 1303",
+    "CourseTitle": "Computer Application in Business/Computer Applications",
+    "Section": "C",
+    "Teacher": "JHC",
+    "ExamDate": "December 18, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "327 (Computer Lab) (111222043-1112420178)                                                                                                                                                                                                                       422 (Computer Lab) (1112420200-1212410020)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "CST 1206/CST 1303",
+    "CourseTitle": "Computer Application in Business/Computer Applications",
+    "Section": "E",
+    "Teacher": "JHC",
+    "ExamDate": "December 18, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "523 (Computer Lab) (111202074-1112420095)                                                                                                                                                                                                                       524 (Computer Lab) (1112420097-1212330017)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "CST 1206/CST 1303",
+    "CourseTitle": "Computer Application in Business/Computer Applications",
+    "Section": "F",
+    "Teacher": "Jkn",
+    "ExamDate": "December 18, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "427 (Computer Lab) (111191020-1112420046)                                                                                                                                                                                                                       522 (Computer Lab) (1112420096-1142420008)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "CST 1206/CST 1303",
+    "CourseTitle": "Computer Application in Business/Computer Applications",
+    "Section": "G",
+    "Teacher": "Jkn",
+    "ExamDate": "December 18, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "424 (Computer Lab) (111193044-1112420133)                                                                                                                                                                                                                       426 (Computer Lab) (1112420137-1212420006)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "FIN 2319",
+    "CourseTitle": "Principles of Finance",
+    "Section": "A",
+    "Teacher": "MEH",
+    "ExamDate": "December 18, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "202 (111182132-1112230158)                                                                                                                                                                                                                       203 (1112230177-1212410004)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "FIN 2319",
+    "CourseTitle": "Principles of Finance",
+    "Section": "B",
+    "Teacher": "ZN",
+    "ExamDate": "December 18, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "204 (111161188-1112230026)                                                                                                                                                                                                                       205 (1112230039-1212330016)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "FIN 2319",
+    "CourseTitle": "Principles of Finance",
+    "Section": "C",
+    "Teacher": "ZN",
+    "ExamDate": "December 18, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "206 (111183025-111222095)                                                                                                                                                                                                                       207 (111222123-114222014)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "FIN 2319",
+    "CourseTitle": "Principles of Finance",
+    "Section": "D",
+    "Teacher": "ZN",
+    "ExamDate": "December 18, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "208 (111171276-1112230045)                                                                                                                                                                                                                       209 (1112230058-1112320122)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "FIN 3123",
+    "CourseTitle": "Managerial Finance",
+    "Section": "A",
+    "Teacher": "MEH",
+    "ExamDate": "December 18, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "210 (111182016-111221098)                                                                                                                                                                                                                       211 (111221126-1142230021)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "FIN 3123",
+    "CourseTitle": "Managerial Finance",
+    "Section": "B",
+    "Teacher": "MEH",
+    "ExamDate": "December 18, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "222 (111173038-1112230234)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "FIN 3123",
+    "CourseTitle": "Managerial Finance",
+    "Section": "C",
+    "Teacher": "MEH",
+    "ExamDate": "December 18, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "223 (111172068-111221016)                                                                                                                                                                                                                       224 (111221036-114222022)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "FIN 4219",
+    "CourseTitle": "Securities Analysis and Portfolio Management",
+    "Section": "A",
+    "Teacher": "MMs",
+    "ExamDate": "December 18, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "201 (111192053-121211007)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ACN 4342/AIS 3310",
+    "CourseTitle": "Accounting Information Systems",
+    "Section": "A",
+    "Teacher": "MTH",
+    "ExamDate": "December 18, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "227 (Computer Lab) (111172099-1142310007)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "CST 1206/CST 1303",
+    "CourseTitle": "Computer Application in Business/Computer Applications",
+    "Section": "A",
+    "Teacher": "MdSA",
+    "ExamDate": "December 18, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "326 (Computer Lab) (1112230180-1112420130)                                                                                                                                                                                                                       327 (Computer Lab) (1112420131-1212420015)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "CST 1206/CST 1303",
+    "CourseTitle": "Computer Application in Business/Computer Applications",
+    "Section": "D",
+    "Teacher": "MdSA",
+    "ExamDate": "December 18, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "424 (Computer Lab) (111201007-1112420060)                                                                                                                                                                                                                       426 (Computer Lab) (1112420064-1212420002)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "CST 1206/CST 1303",
+    "CourseTitle": "Computer Application in Business/Computer Applications",
+    "Section": "H",
+    "Teacher": "MdSA",
+    "ExamDate": "December 18, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "427 (Computer Lab) (111193106-1112420154)                                                                                                                                                                                                                       522 (Computer Lab) (1112420156-1212410019)"
+  },
+  {
+    "Dept": "BSECO",
+    "CourseCode": "ECO 3310",
+    "CourseTitle": "Money and Banking",
+    "Section": "A",
+    "Teacher": "MAkHn",
+    "ExamDate": "December 18, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "203 (121221005-1212310018)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "SCM 4202",
+    "CourseTitle": "Enterprise Resource Planning (ERP)",
+    "Section": "A",
+    "Teacher": "NHMS",
+    "ExamDate": "December 18, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "201 (111171185-111221079)"
+  },
+  {
+    "Dept": "BSECO",
+    "CourseCode": "ECO 4390",
+    "CourseTitle": "Research Methodology",
+    "Section": "A",
+    "Teacher": "AAsh",
+    "ExamDate": "December 18, 2024",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "202 (121191001-121222011)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 3229",
+    "CourseTitle": "Entrepreneurship and Business Plan Development",
+    "Section": "A",
+    "Teacher": "NAr",
+    "ExamDate": "December 18, 2024",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "202 (111192006-1112230074)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 3229",
+    "CourseTitle": "Entrepreneurship and Business Plan Development",
+    "Section": "B",
+    "Teacher": "NAr",
+    "ExamDate": "December 18, 2024",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "203 (111182131-111212049)                                                                                                                                                                                                                       204 (111212068-1112230274)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MIS 2218",
+    "CourseTitle": "Advanced Computer Applications in Business",
+    "Section": "A",
+    "Teacher": "ItJn",
+    "ExamDate": "December 18, 2024",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "227 (Computer Lab) (111183044-1112230140)                                                                                                                                                                                                                       326 (Computer Lab) (1112310057-1142430019)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MIS 2218",
+    "CourseTitle": "Advanced Computer Applications in Business",
+    "Section": "B",
+    "Teacher": "AIK",
+    "ExamDate": "December 18, 2024",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "327 (Computer Lab) (111192073-1112230065)                                                                                                                                                                                                                       422 (Computer Lab) (1112230130-1142230010)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MIS 2218",
+    "CourseTitle": "Advanced Computer Applications in Business",
+    "Section": "C",
+    "Teacher": "AIK",
+    "ExamDate": "December 18, 2024",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "424 (Computer Lab) (111201221-1112330001)                                                                                                                                                                                                                       426 (Computer Lab) (1112330018-1142330007)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MIS 2218",
+    "CourseTitle": "Advanced Computer Applications in Business",
+    "Section": "D",
+    "Teacher": "ZN",
+    "ExamDate": "December 18, 2024",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "522 (Computer Lab) (111201228-1112310063)                                                                                                                                                                                                                       523 (Computer Lab) (1112310064-1142310004)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ACN 1205/AIS 1201",
+    "CourseTitle": "Financial Accounting I/Principles of Accounting",
+    "Section": "A",
+    "Teacher": "SIT",
+    "ExamDate": "December 19, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "205 (111191074-1112330169)                                                                                                                                                                                                                       206 (1112330207-1212330003)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ACN 1205/AIS 1201",
+    "CourseTitle": "Financial Accounting I/Principles of Accounting",
+    "Section": "B",
+    "Teacher": "JBS",
+    "ExamDate": "December 19, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "207 (111222129-1112410053)                                                                                                                                                                                                                       208 (1112410061-1142410003)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ACN 1205/AIS 1201",
+    "CourseTitle": "Financial Accounting I/Principles of Accounting",
+    "Section": "C",
+    "Teacher": "SKa",
+    "ExamDate": "December 19, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "209 (111191071-1112410012)                                                                                                                                                                                                                       210 (1112410045-1212330016)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ACN 1205/AIS 1201",
+    "CourseTitle": "Financial Accounting I/Principles of Accounting",
+    "Section": "D",
+    "Teacher": "JBS",
+    "ExamDate": "December 19, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "211 (111192094-1112410076)                                                                                                                                                                                                                       222 (1112410115-1212330026)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ACN 4136/AIS 2204",
+    "CourseTitle": "Advanced Accounting-I/Advanced Financial Accounting - I",
+    "Section": "A",
+    "Teacher": "MTH",
+    "ExamDate": "December 19, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "211 (111172099-1142330033)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ACN 4238/AIS 3107",
+    "CourseTitle": "Advanced Accounting-II/Advanced Financial Accounting - II",
+    "Section": "A",
+    "Teacher": "MHM",
+    "ExamDate": "December 19, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "222 (111182131-114222006)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BSA 4202",
+    "CourseTitle": "Advanced Analytics",
+    "Section": "A",
+    "Teacher": "AIK",
+    "ExamDate": "December 19, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "227 (Computer Lab) (111191005-111221199)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "HRM 4153",
+    "CourseTitle": "Human Resource Planning",
+    "Section": "A",
+    "Teacher": "HRJ",
+    "ExamDate": "December 19, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "201 (111173038-111222018)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ACN 1309/AIS 1302",
+    "CourseTitle": "Financial Accounting II/Intermediate Accounting",
+    "Section": "A",
+    "Teacher": "IZC",
+    "ExamDate": "December 19, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "202 (111201066-1112330039)                                                                                                                                                                                                                       203 (1112330060-1142410009)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ACN 1309/AIS 1302",
+    "CourseTitle": "Financial Accounting II/Intermediate Accounting",
+    "Section": "B",
+    "Teacher": "MHM",
+    "ExamDate": "December 19, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "204 (111193080-1112330159)                                                                                                                                                                                                                       205 (1112330164-1142410015)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ACN 1309/AIS 1302",
+    "CourseTitle": "Financial Accounting II/Intermediate Accounting",
+    "Section": "C",
+    "Teacher": "IZC",
+    "ExamDate": "December 19, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "206 (111201007-1112330025)                                                                                                                                                                                                                       207 (1112330026-1142330025)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ACN 1309/AIS 1302",
+    "CourseTitle": "Financial Accounting II/Intermediate Accounting",
+    "Section": "D",
+    "Teacher": "MHM",
+    "ExamDate": "December 19, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "208 (111162027-1112320070)                                                                                                                                                                                                                       209 (1112320093-1142330024)"
+  },
+  {
+    "Dept": "BSECO",
+    "CourseCode": "ECO 1303",
+    "CourseTitle": "Mathematics for Business and Economics I",
+    "Section": "A",
+    "Teacher": "TrAd",
+    "ExamDate": "December 19, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "202 (1212330014-1212430013)"
+  },
+  {
+    "Dept": "BSECO",
+    "CourseCode": "ECO 4391",
+    "CourseTitle": "Welfare Economics",
+    "Section": "A",
+    "Teacher": "AAsh",
+    "ExamDate": "December 19, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "203 (121202003-121222011)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 3341",
+    "CourseTitle": "Project Management",
+    "Section": "A",
+    "Teacher": "FAhS",
+    "ExamDate": "December 19, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "204 (111191059-111221175)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 3341",
+    "CourseTitle": "Project Management",
+    "Section": "B",
+    "Teacher": "FAhS",
+    "ExamDate": "December 19, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "205 (111182063-111212028)                                                                                                                                                                                                                       206 (111212033-1112230274)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ACN 2215/AIS 4103",
+    "CourseTitle": "Management Accounting/Management Accounting-I",
+    "Section": "A",
+    "Teacher": "SKa",
+    "ExamDate": "December 19, 2024",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "207 (111183044-1112230049)                                                                                                                                                                                                                       208 (1112230068-114191005)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ACN 2215/AIS 4103",
+    "CourseTitle": "Management Accounting/Management Accounting-I",
+    "Section": "B",
+    "Teacher": "SKa",
+    "ExamDate": "December 19, 2024",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "209 (111183042-1112430112)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ACN 2215/AIS 4103",
+    "CourseTitle": "Management Accounting/Management Accounting-I",
+    "Section": "C",
+    "Teacher": "IJ",
+    "ExamDate": "December 19, 2024",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "210 (111182063-1112230094)                                                                                                                                                                                                                       211 (1112230103-114221011)"
+  },
+  {
+    "Dept": "BSECO",
+    "CourseCode": "ECO 2303",
+    "CourseTitle": "Mathematics for Business and Economics II",
+    "Section": "A",
+    "Teacher": "TrAd",
+    "ExamDate": "December 19, 2024",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "201 (121212001-1212330027)                                                                                                                                                                                                                       202 (1212330028-1212410020)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BDS 1201",
+    "CourseTitle": "History of the Emergence of Bangladesh",
+    "Section": "A",
+    "Teacher": "AAsh",
+    "ExamDate": "December 20, 2024",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "202 (111211049-1112410031)                                                                                                                                                                                                                       203 (1112410085-1212310007)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "FIN 4116",
+    "CourseTitle": "Management of Financial Institutions",
+    "Section": "A",
+    "Teacher": "MEH",
+    "ExamDate": "December 20, 2024",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "203 (111201069-114221028)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "SCM 4311",
+    "CourseTitle": "Supply Chain Risk and Disruption Management",
+    "Section": "A",
+    "Teacher": "SdHn",
+    "ExamDate": "December 20, 2024",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "201 (111173105-111201255)                                                                                                                                                                                                                       202 (111201266-111222118)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BST 1308/ECO 1334/QNT 1202",
+    "CourseTitle": "Basic Statistics/Business Statistics I/Statistics for Business and Economics I",
+    "Section": "A",
+    "Teacher": "MHAMn",
+    "ExamDate": "December 20, 2024",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "202 (111213111-1112330088)                                                                                                                                                                                                                       203 (1112330093-1212410019)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BST 1308/ECO 1334/QNT 1202",
+    "CourseTitle": "Basic Statistics/Business Statistics I/Statistics for Business and Economics I",
+    "Section": "D",
+    "Teacher": "ItJn",
+    "ExamDate": "December 20, 2024",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "204 (111192002-1112230231)                                                                                                                                                                                                                       205 (1112230276-1212330035)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BST 1308/QNT 1202",
+    "CourseTitle": "Basic Statistics/Business Statistics I",
+    "Section": "B",
+    "Teacher": "MHAMn",
+    "ExamDate": "December 20, 2024",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "203 (111171276-1112330048)                                                                                                                                                                                                                       204 (1112330052-1142410019)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BST 1308/QNT 1202",
+    "CourseTitle": "Basic Statistics/Business Statistics I",
+    "Section": "C",
+    "Teacher": "SBAr",
+    "ExamDate": "December 20, 2024",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "205 (111183076-1112310079)                                                                                                                                                                                                                       206 (1112310116-1142410014)"
+  },
+  {
+    "Dept": "BSECO",
+    "CourseCode": "ECO 3370/ECO 3372",
+    "CourseTitle": "Basic Econometrics/Econometrics I",
+    "Section": "A",
+    "Teacher": "MAkHn",
+    "ExamDate": "December 20, 2024",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "206 (121203002-1212310017)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MKT 4311",
+    "CourseTitle": "Brand Management",
+    "Section": "A",
+    "Teacher": "KMR",
+    "ExamDate": "December 20, 2024",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "201 (111191052-111213095)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BST 2216/QNT 3307",
+    "CourseTitle": "Applied Business Statistics/Business Statistics II",
+    "Section": "A",
+    "Teacher": "MUd",
+    "ExamDate": "December 20, 2024",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "202 (111173038-1112230163)                                                                                                                                                                                                                       203 (1112230185-1142230017)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BST 2216/QNT 3307",
+    "CourseTitle": "Applied Business Statistics/Business Statistics II",
+    "Section": "B",
+    "Teacher": "MUd",
+    "ExamDate": "December 20, 2024",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "204 (111161188-1112230267)                                                                                                                                                                                                                       205 (1112310013-1142430019)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BST 2216/QNT 3307",
+    "CourseTitle": "Applied Business Statistics/Business Statistics II",
+    "Section": "C",
+    "Teacher": "MUd",
+    "ExamDate": "December 20, 2024",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "206 (111171117-111222080)                                                                                                                                                                                                                       207 (111222127-1142330004)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BST 2216/QNT 3307",
+    "CourseTitle": "Applied Business Statistics/Business Statistics II",
+    "Section": "D",
+    "Teacher": "ItJn",
+    "ExamDate": "December 20, 2024",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "208 (111183026-1112230085)                                                                                                                                                                                                                       209 (1112230087-1142320006)"
+  },
+  {
+    "Dept": "BSECO",
+    "CourseCode": "ECO 1374",
+    "CourseTitle": "Statistics for Business and Economics II",
+    "Section": "A",
+    "Teacher": "MSS",
+    "ExamDate": "December 20, 2024",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "202 (121211009-1212330037)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MIS 4399",
+    "CourseTitle": "Introduction to Big Data",
+    "Section": "A",
+    "Teacher": "AIK",
+    "ExamDate": "December 20, 2024",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "227 (Computer Lab) (111201023-111202136)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 3225",
+    "CourseTitle": "E-Business",
+    "Section": "A",
+    "Teacher": "TIM",
+    "ExamDate": "December 21, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "227 (Computer Lab) (111191063-111213016)                                                                                                                                                                                                                       326 (Computer Lab) (111213081-111222168)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 3225",
+    "CourseTitle": "E-Business",
+    "Section": "B",
+    "Teacher": "TIM",
+    "ExamDate": "December 21, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "327 (Computer Lab) (111183098-1142230011)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ACN 4237/AIS 3208",
+    "CourseTitle": "Cost Accounting",
+    "Section": "A",
+    "Teacher": "JBS",
+    "ExamDate": "December 21, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "202 (111201234-114221022)                                                                                                                                                                                                                       203 (114221023-1142310007)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BUS 2112",
+    "CourseTitle": "Business Communications",
+    "Section": "A",
+    "Teacher": "MKHn",
+    "ExamDate": "December 21, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "204 (111181087-1112330126)                                                                                                                                                                                                                       205 (1112330212-1212410017)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BUS 2112",
+    "CourseTitle": "Business Communications",
+    "Section": "B",
+    "Teacher": "MKHn",
+    "ExamDate": "December 21, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "206 (111193122-1112330094)                                                                                                                                                                                                                       207 (1112330101-1212420013)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BUS 2112",
+    "CourseTitle": "Business Communications",
+    "Section": "C",
+    "Teacher": "KMR",
+    "ExamDate": "December 21, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "208 (111213123-1112330046)                                                                                                                                                                                                                       209 (1112330049-1212330036)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BUS 2112",
+    "CourseTitle": "Business Communications",
+    "Section": "D",
+    "Teacher": "KMR",
+    "ExamDate": "December 21, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "210 (111193041-1112330124)                                                                                                                                                                                                                       211 (1112330129-1212320007)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MKT 4313",
+    "CourseTitle": "Digital Marketing",
+    "Section": "A",
+    "Teacher": "TIM",
+    "ExamDate": "December 21, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "326 (Computer Lab) (111182059-111201239)                                                                                                                                                                                                                       327 (Computer Lab) (111201241-111211097)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "CST 2321",
+    "CourseTitle": "Business Analytics",
+    "Section": "A",
+    "Teacher": "ZN",
+    "ExamDate": "December 21, 2024",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "326 (Computer Lab) (111191074-111221043)                                                                                                                                                                                                                       327 (Computer Lab) (111221080-114222014)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "CST 2321",
+    "CourseTitle": "Business Analytics",
+    "Section": "B",
+    "Teacher": "AIK",
+    "ExamDate": "December 21, 2024",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "422 (Computer Lab) (111183011-111212014)                                                                                                                                                                                                                       424 (Computer Lab) (111212023-114221001)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "CST 2321",
+    "CourseTitle": "Business Analytics",
+    "Section": "C",
+    "Teacher": "MdQ",
+    "ExamDate": "December 21, 2024",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "227 (Computer Lab) (111163108-114222006)"
+  },
+  {
+    "Dept": "BSECO",
+    "CourseCode": "ECO 3311",
+    "CourseTitle": "Public Finance",
+    "Section": "A",
+    "Teacher": "MSS",
+    "ExamDate": "December 21, 2024",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "201 (121192006-1212310017)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BMT 1103/QNT 1104",
+    "CourseTitle": "Basic Mathematics/Business Mathematics I",
+    "Section": "A",
+    "Teacher": "SBAr",
+    "ExamDate": "December 22, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "305 (111222017-1112420111)                                                                                                                                                                                                                       306 (1112420115-1142420004)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BMT 1103/QNT 1104",
+    "CourseTitle": "Basic Mathematics/Business Mathematics I",
+    "Section": "B",
+    "Teacher": "GCD",
+    "ExamDate": "December 22, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "307 (111213030-1112420079)                                                                                                                                                                                                                       308 (1112420083-1142420025)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BMT 1103/QNT 1104",
+    "CourseTitle": "Basic Mathematics/Business Mathematics I",
+    "Section": "C",
+    "Teacher": "SIT",
+    "ExamDate": "December 22, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "209 (111202002-1112420092)                                                                                                                                                                                                                       207 (1112420098-1142420024)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BMT 1103/QNT 1104",
+    "CourseTitle": "Basic Mathematics/Business Mathematics I",
+    "Section": "D",
+    "Teacher": "MSna",
+    "ExamDate": "December 22, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "309 (111221025-1112420131)                                                                                                                                                                                                                       322 (1112420133-1142420012)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BMT 1103/QNT 1104",
+    "CourseTitle": "Basic Mathematics/Business Mathematics I",
+    "Section": "E",
+    "Teacher": "MSna",
+    "ExamDate": "December 22, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "210 (111201139-1112420087)                                                                                                                                                                                                                       211 (1112420089-1142420026)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BMT 1103/QNT 1104",
+    "CourseTitle": "Basic Mathematics/Business Mathematics I",
+    "Section": "F",
+    "Teacher": "SIT",
+    "ExamDate": "December 22, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "222 (111221185-1112420053)                                                                                                                                                                                                                       223 (1112420066-1142430011)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BMT 1103/QNT 1104",
+    "CourseTitle": "Basic Mathematics/Business Mathematics I",
+    "Section": "G",
+    "Teacher": "GCD",
+    "ExamDate": "December 22, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "224 (111221051-1112430088)                                                                                                                                                                                                                       225 (1112430091-1142430014)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BMT 1103/QNT 1104",
+    "CourseTitle": "Basic Mathematics/Business Mathematics I",
+    "Section": "H",
+    "Teacher": "GCD",
+    "ExamDate": "December 22, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "323 (111212045-1112430076)                                                                                                                                                                                                                       324 ( 1112430079-1142430017)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BMT 1103/QNT 1104",
+    "CourseTitle": "Basic Mathematics/Business Mathematics I",
+    "Section": "I",
+    "Teacher": "GCD",
+    "ExamDate": "December 22, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "201 (111221066-1112430063)                                                                                                                                                                                                                       202 (1112430066-1142430010)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BMT 1103/QNT 1104",
+    "CourseTitle": "Basic Mathematics/Business Mathematics I",
+    "Section": "J",
+    "Teacher": "GCD",
+    "ExamDate": "December 22, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "203 (111222150-1112430078)                                                                                                                                                                                                                       204 (1112430082-1142430020)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BMT 1103/QNT 1104",
+    "CourseTitle": "Basic Mathematics/Business Mathematics I",
+    "Section": "K",
+    "Teacher": "IZC",
+    "ExamDate": "December 22, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "205 (111211049-1112430048)                                                                                                                                                                                                                       206 (1112430050-1142430018)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ECN 2214/ECO 1302",
+    "CourseTitle": "Introduction to Macroeconomics/Macroeconomics",
+    "Section": "A",
+    "Teacher": "TJT",
+    "ExamDate": "December 22, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "202 (111222112-1112320095)                                                                                                                                                                                                                       203 (1112320113-1212420011)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ECN 2214/ECO 1302",
+    "CourseTitle": "Introduction to Macroeconomics/Macroeconomics",
+    "Section": "B",
+    "Teacher": "TJT",
+    "ExamDate": "December 22, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "228 (111183076-1212420010)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ECN 2214/ECO 1302",
+    "CourseTitle": "Introduction to Macroeconomics/Macroeconomics",
+    "Section": "C",
+    "Teacher": "TaA",
+    "ExamDate": "December 22, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "205 (111192088-1112230163)                                                                                                                                                                                                                       206 (1112230185-1212410019)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ECN 2214/ECO 1302",
+    "CourseTitle": "Introduction to Macroeconomics/Macroeconomics",
+    "Section": "D",
+    "Teacher": "MSS",
+    "ExamDate": "December 22, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "207 (111213040-1112320049)                                                                                                                                                                                                                       208 (1112320064-1212420015)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "FIN 4332",
+    "CourseTitle": "Financial Technology (FinTech)",
+    "Section": "A",
+    "Teacher": "MdQ",
+    "ExamDate": "December 22, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "227 (Computer Lab) (111191071-111221049)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "IBS 3121",
+    "CourseTitle": "International Business",
+    "Section": "A",
+    "Teacher": "PMM",
+    "ExamDate": "December 22, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "208 (111171117-111222075)                                                                                                                                                                                                                       209 (111222111-121212005)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "IBS 3121",
+    "CourseTitle": "International Business",
+    "Section": "B",
+    "Teacher": "PMM",
+    "ExamDate": "December 22, 2024",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "306 (111191020-111222091)                                                                                                                                                                                                                       308 (111222105-121212006)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ECN 2111/ECO 1301",
+    "CourseTitle": "Introduction to Microeconomics/Microeconomics",
+    "Section": "A",
+    "Teacher": "MOF",
+    "ExamDate": "December 22, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "209 (111212036-1112330103)                                                                                                                                                                                                                       201 (1112330104-1212430013)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ECN 2111/ECO 1301",
+    "CourseTitle": "Introduction to Microeconomics/Microeconomics",
+    "Section": "B",
+    "Teacher": "MOF",
+    "ExamDate": "December 22, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "211 (111192002-1112330116)                                                                                                                                                                                                                       202 (1112330126-1212430004)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ECN 2111/ECO 1301",
+    "CourseTitle": "Introduction to Microeconomics/Microeconomics",
+    "Section": "C",
+    "Teacher": "SCT",
+    "ExamDate": "December 22, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "223 (111212004-1112330049)                                                                                                                                                                                                                       224 (1112330052-1212430011)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ECN 2111/ECO 1301",
+    "CourseTitle": "Introduction to Microeconomics/Microeconomics",
+    "Section": "D",
+    "Teacher": "TrAd",
+    "ExamDate": "December 22, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "225 (111222128-1112330055)                                                                                                                                                                                                                       228 (1112330065-1212430012)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "SCM 4203",
+    "CourseTitle": "Inventory Management",
+    "Section": "A",
+    "Teacher": "SdHn",
+    "ExamDate": "December 22, 2024",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "201 (111191070-111201225)                                                                                                                                                                                                                       202 (111201260-111222118)"
+  },
+  {
+    "Dept": "BBA in AIS",
+    "CourseCode": "AIS 4303",
+    "CourseTitle": "Corporate Financial Reporting",
+    "Section": "A",
+    "Teacher": "JBS",
+    "ExamDate": "December 22, 2024",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "202 (114191005-1142230011)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MKT 4306",
+    "CourseTitle": "Marketing Research",
+    "Section": "A",
+    "Teacher": "MHAMn",
+    "ExamDate": "December 22, 2024",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "201 (111151098-111222130)"
+  }
 ]
