@@ -1,1526 +1,6 @@
 [
   {
     "Dept": "BSCSE",
-    "CourseCode": "CSE 4509/CSI 309",
-    "CourseTitle": "Operating System Concepts/Operating Systems",
-    "Section": "A",
-    "Teacher": "ARnA",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "801 (011182110-011203014)                                                                                                                                                                                                                       802 (011203027-011222150)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 4509/CSI 309",
-    "CourseTitle": "Operating System Concepts/Operating Systems",
-    "Section": "B",
-    "Teacher": "ARnA",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "707 (011181193-011203012)                                                                                                                                                                                                                       708 (011203024-0112230954)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 4509/CSI 309",
-    "CourseTitle": "Operating System Concepts/Operating Systems",
-    "Section": "C",
-    "Teacher": "ARnA",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "308 (011162018-011201466)                                                                                                                                                                                                                       309 (011202004-011222025)"
-  },
-  {
-    "Dept": "BSEEE",
-    "CourseCode": "EEE 4317/EEE 457",
-    "CourseTitle": "Mobile Cellular Communication",
-    "Section": "A",
-    "Teacher": "RM",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "303 (021162038-021213010)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ENG 1011",
-    "CourseTitle": "English I",
-    "Section": "AA",
-    "Teacher": "SaFe",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "711 (0112330190-0112430028)                                                                                                                                                                                                                       722 (0112430029-0112430728)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ENG 1011",
-    "CourseTitle": "English I",
-    "Section": "AB",
-    "Teacher": "NB",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "322 (0112410505-0112430052)                                                                                                                                                                                                                       323 (0112430053-0152430105)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ENG 1011",
-    "CourseTitle": "English I",
-    "Section": "AC",
-    "Teacher": "MJSh",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "601 (0112330241-0112430083)                                                                                                                                                                                                                       602 (0112430084-0112430731)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ENG 1011",
-    "CourseTitle": "English I",
-    "Section": "AE",
-    "Teacher": "SMMS",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "328 (0112420552-0112430145)                                                                                                                                                                                                                       329 (0112430146-0152430104)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ENG 1011",
-    "CourseTitle": "English I",
-    "Section": "AF",
-    "Teacher": "MZK",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "425 (0112330974-0112430164)                                                                                                                                                                                                                       428 (0112430166-0152430107)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ENG 1011",
-    "CourseTitle": "English I",
-    "Section": "AG",
-    "Teacher": "SaHn",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "407 (0112410050-0112430199)                                                                                                                                                                                                                       408 (0112430200-0112430605)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ENG 1011",
-    "CourseTitle": "English I",
-    "Section": "AH",
-    "Teacher": "ChMR",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "429 (0112320080-0112430235)                                                                                                                                                                                                                       431 (0112430236-0112430744)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ENG 1011",
-    "CourseTitle": "English I",
-    "Section": "AI",
-    "Teacher": "AnAn",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "603 (0112310322-0112430264)                                                                                                                                                                                                                       604 (0112430265-0152430106)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ENG 1011",
-    "CourseTitle": "English I",
-    "Section": "AJ",
-    "Teacher": "AnAn",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "404 (0112330207-0112430294)                                                                                                                                                                                                                       405 (0112430297-0112430727)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ENG 1011",
-    "CourseTitle": "English I",
-    "Section": "AK",
-    "Teacher": "MJSh",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "409 (0112430283-0112430325)                                                                                                                                                                                                                       410 (0112430327-0112430739)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ENG 1011",
-    "CourseTitle": "English I",
-    "Section": "AL",
-    "Teacher": "ChMR",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "406 (0112420288-0152430064)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ENG 1011",
-    "CourseTitle": "English I",
-    "Section": "AM",
-    "Teacher": "AArSh",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "402 (0112330761-0112430379)                                                                                                                                                                                                                       403 (0112430381-0112430741)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ENG 1011",
-    "CourseTitle": "English I",
-    "Section": "AN",
-    "Teacher": "ChMR",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "330 (0112330200-0112430465)                                                                                                                                                                                                                       401 (0112430466-0112430726)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ENG 1011",
-    "CourseTitle": "English I",
-    "Section": "AO",
-    "Teacher": "AShK",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "308 (011213120-0112430481)                                                                                                                                                                                                                       309 (0112430482-0112430732)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ENG 1011",
-    "CourseTitle": "English I",
-    "Section": "AP",
-    "Teacher": "SMMS",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "805 (0112430494-0112430574)                                                                                                                                                                                                                       806 (0112430575-0112430733)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ENG 1011",
-    "CourseTitle": "English I",
-    "Section": "AR",
-    "Teacher": "SMMS",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "324 (0112420266-0112430660)                                                                                                                                                                                                                       325 (0112430661-0152430100)"
-  },
-  {
-    "Dept": "BSDS",
-    "CourseCode": "ENG 1011",
-    "CourseTitle": "English I",
-    "Section": "BA",
-    "Teacher": "AnAn",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "605 (0112410134-0152430010)                                                                                                                                                                                                                       630 (0152430011-0152430079)"
-  },
-  {
-    "Dept": "BSDS",
-    "CourseCode": "ENG 1011",
-    "CourseTitle": "English I",
-    "Section": "BB",
-    "Teacher": "NB",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "631 (0112420418-0152430050)                                                                                                                                                                                                                       632 (0152430051-0152430077)"
-  },
-  {
-    "Dept": "BSEEE",
-    "CourseCode": "ENG 1011",
-    "CourseTitle": "English I",
-    "Section": "P",
-    "Teacher": "ShMSh",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "307 (0112430745-0212430089)"
-  },
-  {
-    "Dept": "BSEEE",
-    "CourseCode": "ENG 1011",
-    "CourseTitle": "English I",
-    "Section": "Q",
-    "Teacher": "SaFe",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "304 (0112330597-0212430014)                                                                                                                                                                                                                       305 (0212430015-0212430090)"
-  },
-  {
-    "Dept": "BSEEE",
-    "CourseCode": "ENG 1011",
-    "CourseTitle": "English I",
-    "Section": "R",
-    "Teacher": "AShK",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "306 (0212330035-0212430091)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ENG 1011/ENG 1105",
-    "CourseTitle": "English I/Intensive English I",
-    "Section": "AD",
-    "Teacher": "SaHn",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "803 (011202200-0112430113)                                                                                                                                                                                                                       804 (0112430114-0152410072)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "IPE 3401",
-    "CourseTitle": "Industrial and Operational Management",
-    "Section": "C",
-    "Teacher": "WF",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "603 (011192087-0112230581)                                                                                                                                                                                                                       604 (0112230610-0112331099)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "IPE 3401",
-    "CourseTitle": "Industrial and Operational Management",
-    "Section": "E",
-    "Teacher": "WF",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "605 (011192034-0112230210)                                                                                                                                                                                                                       630 (0112230250-0112330863)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "IPE 3401",
-    "CourseTitle": "Industrial and Operational Management",
-    "Section": "F",
-    "Teacher": "MFI",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "303 (011193018-011222314)                                                                                                                                                                                                                       304 (011222318-0112330700)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "IPE 3401/IPE 401",
-    "CourseTitle": "Industrial and Operational Management/Industrial Management",
-    "Section": "A",
-    "Teacher": "MFI",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "631 (011182034-0112230561)                                                                                                                                                                                                                       632 (0112230604-0152330080)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "IPE 3401/IPE 401",
-    "CourseTitle": "Industrial and Operational Management/Industrial Management",
-    "Section": "B",
-    "Teacher": "MFI",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "601 (011202132-0112310317)                                                                                                                                                                                                                       602 (0112310399-0152330150)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "IPE 3401/IPE 401",
-    "CourseTitle": "Industrial and Operational Management/Industrial Management",
-    "Section": "D",
-    "Teacher": "MFI",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "703 (011191060-011222302)                                                                                                                                                                                                                       706 (011222347-0112410347)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "IPE 3401/IPE 401",
-    "CourseTitle": "Industrial and Operational Management/Industrial Management",
-    "Section": "G",
-    "Teacher": "WF",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "701 (011181104-0112230211)                                                                                                                                                                                                                       702 (0112230222-0112410090)"
-  },
-  {
-    "Dept": "BSEEE",
-    "CourseCode": "EEE 301/EEE 3107",
-    "CourseTitle": "Electrical Properties of Materials",
-    "Section": "A",
-    "Teacher": "IBC",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "309 (021201036-0212230112)"
-  },
-  {
-    "Dept": "BSEEE",
-    "CourseCode": "EEE 301/EEE 3107",
-    "CourseTitle": "Electrical Properties of Materials",
-    "Section": "B",
-    "Teacher": "IBC",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "308 (021201069-0212230107)"
-  },
-  {
-    "Dept": "BSEEE",
-    "CourseCode": "EEE 305/EEE 3205",
-    "CourseTitle": "Power System",
-    "Section": "A",
-    "Teacher": "HB",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "308 (021131165-021221024)"
-  },
-  {
-    "Dept": "BSEEE",
-    "CourseCode": "EEE 305/EEE 3205",
-    "CourseTitle": "Power System",
-    "Section": "B",
-    "Teacher": "SMLK",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "309 (021181027-021203003)                                                                                                                                                                                                                       322 (021203004-021221101)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ENG 1013",
-    "CourseTitle": "English II",
-    "Section": "AA",
-    "Teacher": "SaHn",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "604 (0112330330-0112420434)                                                                                                                                                                                                                       605 (0112420437-0112420720)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ENG 1013",
-    "CourseTitle": "English II",
-    "Section": "AB",
-    "Teacher": "NB",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "630 (0112410007-0152420008)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ENG 1013",
-    "CourseTitle": "English II",
-    "Section": "AC",
-    "Teacher": "SaFe",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "602 (011213090-0112420346)                                                                                                                                                                                                                       603 (0112420350-0112420730)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ENG 1013",
-    "CourseTitle": "English II",
-    "Section": "AD",
-    "Teacher": "RnIm",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "409 (0112230343-0112430109)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ENG 1013",
-    "CourseTitle": "English II",
-    "Section": "AE",
-    "Teacher": "SMMS",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "428 (0112310143-0112420460)                                                                                                                                                                                                                       429 (0112420488-0152420021)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ENG 1013",
-    "CourseTitle": "English II",
-    "Section": "AF",
-    "Teacher": "RnIm",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "401 (011222047-0112420070)                                                                                                                                                                                                                       402 (0112420082-0112420727)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ENG 1013",
-    "CourseTitle": "English II",
-    "Section": "AG",
-    "Teacher": "MZK",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "407 (0112310018-0112420246)                                                                                                                                                                                                                       408 (0112420249-0152420027)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ENG 1013",
-    "CourseTitle": "English II",
-    "Section": "AH",
-    "Teacher": "ShMSh",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "405 (0112410058-0112420580)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ENG 1013",
-    "CourseTitle": "English II",
-    "Section": "AI",
-    "Teacher": "SaHn",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "406 (0112230265-0112420718)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ENG 1013",
-    "CourseTitle": "English II",
-    "Section": "AJ",
-    "Teacher": "AShK",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "432 (011221472-0112420336)                                                                                                                                                                                                                       601 (0112420340-0112420722)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ENG 1013",
-    "CourseTitle": "English II",
-    "Section": "AK",
-    "Teacher": "ShMSh",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "329 (0112320009-0112420354)                                                                                                                                                                                                                       330 (0112420356-0152420025)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ENG 1013",
-    "CourseTitle": "English II",
-    "Section": "AM",
-    "Teacher": "KhJS",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "410 (0112320101-0112420504)                                                                                                                                                                                                                       425 (0112420505-0152420020)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ENG 1013",
-    "CourseTitle": "English II",
-    "Section": "AN",
-    "Teacher": "UH",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "403 (0112230859-0112420324)                                                                                                                                                                                                                       404 (0112420330-0112420729)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ENG 1013",
-    "CourseTitle": "English II",
-    "Section": "AO",
-    "Teacher": "RnIm",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "631 (0112230730-0112420290)                                                                                                                                                                                                                       632 (0112420328-0152420026)"
-  },
-  {
-    "Dept": "BSEEE",
-    "CourseCode": "ENG 1013",
-    "CourseTitle": "English II",
-    "Section": "P",
-    "Teacher": "ShMSh",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "305 (021222037-0212420068)"
-  },
-  {
-    "Dept": "BSEEE",
-    "CourseCode": "ENG 1013",
-    "CourseTitle": "English II",
-    "Section": "Q",
-    "Teacher": "AnAn",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "304 (0212310028-0212420081)"
-  },
-  {
-    "Dept": "BSEEE",
-    "CourseCode": "ENG 1013",
-    "CourseTitle": "English II",
-    "Section": "R",
-    "Teacher": "KhJS",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "306 (0212420002-0212420078)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ENG 1013/ENG 1207",
-    "CourseTitle": "English II/Intensive English II",
-    "Section": "AL",
-    "Teacher": "NB",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "431 (011202037-0112420325)                                                                                                                                                                                                                       432 (0112420333-0112420706)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 313/CSE 3313",
-    "CourseTitle": "Computer Architecture",
-    "Section": "C",
-    "Teacher": "RHn",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "328 (011192101-0112230378)                                                                                                                                                                                                                       329 (0112230379-0112310497)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 313/CSE 3313",
-    "CourseTitle": "Computer Architecture",
-    "Section": "D",
-    "Teacher": "SAhSh",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "602 (011172045-0112230592)                                                                                                                                                                                                                       604 (0112230636-0112310535)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 313/CSE 3313",
-    "CourseTitle": "Computer Architecture",
-    "Section": "E",
-    "Teacher": "RHn",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "330 (011162047-0112230471)                                                                                                                                                                                                                       401 (0112230472-0112310594)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 3313",
-    "CourseTitle": "Computer Architecture",
-    "Section": "A",
-    "Teacher": "SAhSh",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "631 (011191246-0112230450)                                                                                                                                                                                                                       632 (0112230487-0112310568)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 3313",
-    "CourseTitle": "Computer Architecture",
-    "Section": "B",
-    "Teacher": "RaK",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "605 (011192094-0112230213)                                                                                                                                                                                                                       630 (0112230292-0112310269)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 3313",
-    "CourseTitle": "Computer Architecture",
-    "Section": "F",
-    "Teacher": "TaSa",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "324 (011203038-0112230482)                                                                                                                                                                                                                       325 (0112230483-0112310483)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 3313",
-    "CourseTitle": "Computer Architecture",
-    "Section": "G",
-    "Teacher": "AHAF",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "432 (011213094-0112230624)                                                                                                                                                                                                                       601 (0112230638-0112310489)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 3313",
-    "CourseTitle": "Computer Architecture",
-    "Section": "H",
-    "Teacher": "RaK",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "402 (011201248-0112230208)                                                                                                                                                                                                                       403 (0112230210-0112310423)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 3313",
-    "CourseTitle": "Computer Architecture",
-    "Section": "I",
-    "Teacher": "AHAF",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "404 (011183016-0112230301)                                                                                                                                                                                                                       405 (0112230303-0112320037)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 3313",
-    "CourseTitle": "Computer Architecture",
-    "Section": "J",
-    "Teacher": "AHAF",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "429 (011203022-0112310006)                                                                                                                                                                                                                       431 (0112310010-0112310597)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 3313",
-    "CourseTitle": "Computer Architecture",
-    "Section": "K",
-    "Teacher": "RaK",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "701 (011192148-0112230558)                                                                                                                                                                                                                       702 (0112230654-0112310530)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 4889",
-    "CourseTitle": "Machine Learning",
-    "Section": "B",
-    "Teacher": "SaIs",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "711 (011183008-011213067)                                                                                                                                                                                                                       722 (011213079-011222063)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 4889/CSE 489",
-    "CourseTitle": "Machine Learning",
-    "Section": "A",
-    "Teacher": "DMF",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "325 (011182073-011221450)"
-  },
-  {
-    "Dept": "BSEEE",
-    "CourseCode": "EEE 2101",
-    "CourseTitle": "Electronics I",
-    "Section": "A",
-    "Teacher": "RaBr",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "703 (021193017-0212330055)                                                                                                                                                                                                                       706 (0212330061-0212410042)"
-  },
-  {
-    "Dept": "BSEEE",
-    "CourseCode": "EEE 2101",
-    "CourseTitle": "Electronics I",
-    "Section": "B",
-    "Teacher": "RaBr",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "707 (021201046-0212410007)                                                                                                                                                                                                                       708 (0212410008-0212410046)"
-  },
-  {
-    "Dept": "BSEEE",
-    "CourseCode": "EEE 401/EEE 4109",
-    "CourseTitle": "Control System",
-    "Section": "A",
-    "Teacher": "MKMR",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "711 (021131142-021193027)                                                                                                                                                                                                                       722 (021201006-021213032)"
-  },
-  {
-    "Dept": "BSEEE",
-    "CourseCode": "MAT 2109/MATH 201",
-    "CourseTitle": "Coordinate Geometry and Vector Analysis",
-    "Section": "A",
-    "Teacher": "TN",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "306 (021201052-0212310016)                                                                                                                                                                                                                       307 (0212310027-0212330028)"
-  },
-  {
-    "Dept": "BSEEE",
-    "CourseCode": "MAT 2109/MATH 201",
-    "CourseTitle": "Coordinate Geometry and Vector Analysis",
-    "Section": "B",
-    "Teacher": "TN",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "308 (021201048-0212330128)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "MATH 183/MATH 2183",
-    "CourseTitle": "Calculus and Linear Algebra/Linear Algebra, Ordinary & Partial Differential Equations",
-    "Section": "F",
-    "Teacher": "ShIA",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "303 (011171104-0112420513)"
-  },
-  {
-    "Dept": "BSDS",
-    "CourseCode": "MATH 2107",
-    "CourseTitle": "Linear Algebra",
-    "Section": "BA",
-    "Teacher": "AkAd",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "410 (0152330001-0152410015)                                                                                                                                                                                                                       425 (0152410016-0152410071)"
-  },
-  {
-    "Dept": "BSDS",
-    "CourseCode": "MATH 2107",
-    "CourseTitle": "Linear Algebra",
-    "Section": "BB",
-    "Teacher": "AkAd",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "428 (0152330044-0152420017)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "MATH 2107/MATH 2183",
-    "CourseTitle": "Calculus and Linear Algebra/Linear Algebra",
-    "Section": "M",
-    "Teacher": "NSM",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "406 (011212117-0112410079)                                                                                                                                                                                                                       407 (0112410092-015222005)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "MATH 2183",
-    "CourseTitle": "Calculus and Linear Algebra",
-    "Section": "A",
-    "Teacher": "MoIm",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "410 (011201269-0112410128)                                                                                                                                                                                                                       425 (0112410147-0112420623)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "MATH 2183",
-    "CourseTitle": "Calculus and Linear Algebra",
-    "Section": "B",
-    "Teacher": "TN",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "431 (011222078-0112410175)                                                                                                                                                                                                                       432 (0112410197-0112410544)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "MATH 2183",
-    "CourseTitle": "Calculus and Linear Algebra",
-    "Section": "C",
-    "Teacher": "SamAr",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "409 (011221463-0112410495)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "MATH 2183",
-    "CourseTitle": "Calculus and Linear Algebra",
-    "Section": "D",
-    "Teacher": "NPn",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "630 (011201363-0112410043)                                                                                                                                                                                                                       631 (0112410062-0112420715)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "MATH 2183",
-    "CourseTitle": "Calculus and Linear Algebra",
-    "Section": "E",
-    "Teacher": "NPn",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "723 (011201341-0112410538)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "MATH 2183",
-    "CourseTitle": "Calculus and Linear Algebra",
-    "Section": "G",
-    "Teacher": "SamAr",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "601 (011191086-0112310380)                                                                                                                                                                                                                       602 (0112310425-0112410532)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "MATH 2183",
-    "CourseTitle": "Calculus and Linear Algebra",
-    "Section": "H",
-    "Teacher": "MMBK",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "632 (011221396-0112331027)                                                                                                                                                                                                                       701 (0112331034-0112410537)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "MATH 2183",
-    "CourseTitle": "Calculus and Linear Algebra",
-    "Section": "I",
-    "Teacher": "MdAIm",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "408 (011201339-0112410514)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "MATH 2183",
-    "CourseTitle": "Calculus and Linear Algebra",
-    "Section": "K",
-    "Teacher": "NPn",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "604 (0112230867-0112410528)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "MATH 2183",
-    "CourseTitle": "Calculus and Linear Algebra",
-    "Section": "L",
-    "Teacher": "MoIm",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "407 (011211080-0112410522)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "MATH 2183",
-    "CourseTitle": "Calculus and Linear Algebra",
-    "Section": "N",
-    "Teacher": "NPn",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "603 (011191001-0112420492)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "MATH 2183",
-    "CourseTitle": "Calculus and Linear Algebra",
-    "Section": "O",
-    "Teacher": "RaRa",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "428 (011221063-0112330857)                                                                                                                                                                                                                       429 (0112330902-0112410540)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "MATH 2183",
-    "CourseTitle": "Calculus and Linear Algebra",
-    "Section": "P",
-    "Teacher": "MoIm",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "605 (0112230035-0112410546)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "MATH 2183",
-    "CourseTitle": "Calculus and Linear Algebra",
-    "Section": "Q",
-    "Teacher": "RaRa",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "702 (011213085-0112410524)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "MATH 2183",
-    "CourseTitle": "Calculus and Linear Algebra",
-    "Section": "R",
-    "Teacher": "ShIA",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "406 (011213189-0112420363)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "SOC 101/SOC 2101",
-    "CourseTitle": "Society, Environment and Engineering Ethics/Society, Technology and Engineering Ethics",
-    "Section": "B",
-    "Teacher": "NSS",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "707 (011163013-0112310515)                                                                                                                                                                                                                       708 (0112310521-0112410405)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "SOC 101/SOC 2101/SOC 2102",
-    "CourseTitle": "Society, Environment and Computing Ethics/Society, Environment and Engineering Ethics/Society, Technology and Engineering Ethics",
-    "Section": "C",
-    "Teacher": "HAN",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "703 (011171008-0112330030)                                                                                                                                                                                                                       706 (0112330036-0112420627)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "SOC 101/SOC 2101/SOC 2102",
-    "CourseTitle": "Society, Environment and Computing Ethics/Society, Environment and Engineering Ethics/Society, Technology and Engineering Ethics",
-    "Section": "G",
-    "Teacher": "MoI",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "309 (011181193-0112310179)                                                                                                                                                                                                                       322 (0112310247-0152310004)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "SOC 2101",
-    "CourseTitle": "Society, Environment and Engineering Ethics",
-    "Section": "F",
-    "Teacher": "MdShA",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "303 (011213088-0112320143)                                                                                                                                                                                                                       304 (0112320144-0112420465)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "SOC 2101/SOC 2102",
-    "CourseTitle": "Society, Environment and Computing Ethics/Society, Environment and Engineering Ethics",
-    "Section": "A",
-    "Teacher": "MMAS",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "308 (011211021-0112320140)                                                                                                                                                                                                                       309 (0112320151-0152310002)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "SOC 2101/SOC 2102",
-    "CourseTitle": "Society, Environment and Computing Ethics/Society, Environment and Engineering Ethics",
-    "Section": "D",
-    "Teacher": "AHAF",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "304 (011202023-0112310591)                                                                                                                                                                                                                       305 (0112320002-0152330129)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "SOC 2101/SOC 2102",
-    "CourseTitle": "Society, Environment and Computing Ethics/Society, Environment and Engineering Ethics",
-    "Section": "E",
-    "Teacher": "FdAR",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "322 (011221112-0112310073)                                                                                                                                                                                                                       323 (0112310130-0152420002)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "SOC 2101/SOC 2102",
-    "CourseTitle": "Society, Environment and Computing Ethics/Society, Environment and Engineering Ethics",
-    "Section": "H",
-    "Teacher": "CAG",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "306 (011193147-0112320289)                                                                                                                                                                                                                       307 (0112330025-0152330065)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 1110",
-    "CourseTitle": "Introduction to Computer Systems",
-    "Section": "A",
-    "Teacher": "SMSR",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "Computer Lab 3 (0327) (0112320057-0112430021)                                                                                                                                                                                                                       Computer Lab 4 (0427) (0112430022-0112430734)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 1110",
-    "CourseTitle": "Introduction to Computer Systems",
-    "Section": "B",
-    "Teacher": "FBA",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "Computer Lab 8 (0528) (0112410519-0112430046)                                                                                                                                                                                                                       Computer Lab 8 (0528) (0112430047-0112430539)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 1110",
-    "CourseTitle": "Introduction to Computer Systems",
-    "Section": "E",
-    "Teacher": "SaIs",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "Computer Lab 9 (0529) (0112310279-0112430138)                                                                                                                                                                                                                       Computer Lab 9 (0529) (0112430139-0112430703)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 1110",
-    "CourseTitle": "Introduction to Computer Systems",
-    "Section": "G",
-    "Teacher": "SHMm",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "Computer Lab 20 (0424) (0112330800-0112430196)                                                                                                                                                                                                                       Computer Lab 21 (0422) (0112430197-0112430745)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 1110",
-    "CourseTitle": "Introduction to Computer Systems",
-    "Section": "J",
-    "Teacher": "ShArn",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "Computer Lab 14 (0426) (0112330377-0112430284)                                                                                                                                                                                                                       Computer Lab 14 (0426) (0112430286-0112430615)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 1110",
-    "CourseTitle": "Introduction to Computer Systems",
-    "Section": "L",
-    "Teacher": "MoA",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "Computer Lab 22 (0926) (0112420632-0112430349)                                                                                                                                                                                                                       Computer Lab 22 (0926) (0112430351-0152430064)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 1110",
-    "CourseTitle": "Introduction to Computer Systems",
-    "Section": "M",
-    "Teacher": "ABF",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "Computer Lab 12 (0532) (0112310158-0112430382)                                                                                                                                                                                                                       Computer Lab 12 (0532) (0112430383-0112430741)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 1110",
-    "CourseTitle": "Introduction to Computer Systems",
-    "Section": "N",
-    "Teacher": "FBA",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "Computer Lab 15 (0626) (011213120-0112430458)                                                                                                                                                                                                                       Computer Lab 15 (0626) (0112430459-0112430739)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 1110",
-    "CourseTitle": "Introduction to Computer Systems",
-    "Section": "P",
-    "Teacher": "NSS",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "Computer Lab 7 (0522) (011222272-0112430543)                                                                                                                                                                                                                       Computer Lab 7 (0522) (0112430544-0112430602)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 1110",
-    "CourseTitle": "Introduction to Computer Systems",
-    "Section": "Q",
-    "Teacher": "SAAMZ",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "Computer Lab 10 (0530) (0112430050-0112430470)                                                                                                                                                                                                                       Computer Lab 10 (0530) (0112430472-0112430682)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 1110",
-    "CourseTitle": "Introduction to Computer Systems",
-    "Section": "R",
-    "Teacher": "HHS",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "Computer Lab 13 (0326) (0112310368-0112430732)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 1110",
-    "CourseTitle": "Introduction to Computer Systems",
-    "Section": "T",
-    "Teacher": "AAJr",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "Computer Lab 5 (0523) (0112320048-0112430637)                                                                                                                                                                                                                       Computer Lab 6 (0524) (0112430638-0112430743)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 1110",
-    "CourseTitle": "Introduction to Computer Systems",
-    "Section": "U",
-    "Teacher": "SYH",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "Computer Lab 19 (0727) (0112330739-0112430619)                                                                                                                                                                                                                       Computer Lab 19 (0727) (0112430620-0112430740)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 1110",
-    "CourseTitle": "Introduction to Computer Systems",
-    "Section": "W",
-    "Teacher": "NZM",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "Computer Lab 18 (0726) (0112410134-0112430688)                                                                                                                                                                                                                       Computer Lab 18 (0726) (0112430689-0112430723)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 4611/CSI 411",
-    "CourseTitle": "Compiler/Compiler Design",
-    "Section": "A",
-    "Teacher": "NSS",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "308 (011163028-011203006)                                                                                                                                                                                                                       309 (011203007-0112230191)"
-  },
-  {
-    "Dept": "BSEEE",
-    "CourseCode": "MAT 1103",
-    "CourseTitle": "Calculus II",
-    "Section": "A",
-    "Teacher": "AM",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "322 (021213015-0212420079)"
-  },
-  {
-    "Dept": "BSEEE",
-    "CourseCode": "MAT 1103",
-    "CourseTitle": "Calculus II",
-    "Section": "C",
-    "Teacher": "AM",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "305 (0212230065-0212420035)                                                                                                                                                                                                                       306 (0212420036-0212420081)"
-  },
-  {
-    "Dept": "BSEEE",
-    "CourseCode": "MAT 1103/MATH 151",
-    "CourseTitle": "Calculus II/Differential and Integral Calculus",
-    "Section": "B",
-    "Teacher": "AM",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "307 (021181106-0212420082)"
-  },
-  {
-    "Dept": "BSEEE",
-    "CourseCode": "SOC 101/SOC 3101",
-    "CourseTitle": "Society, Environment and Engineering Ethics/Society, Technology and Engineering Ethics",
-    "Section": "I",
-    "Teacher": "JJM",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "303 (021193010-021221037)                                                                                                                                                                                                                       304 (021221045-0212230112)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 1110",
-    "CourseTitle": "Introduction to Computer Systems",
-    "Section": "C",
-    "Teacher": "SAAMZ",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "Computer Lab 3 (0327) (0112330932-0112430077)                                                                                                                                                                                                                       Computer Lab 4 (0427) (0112430078-0112430538)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 1110",
-    "CourseTitle": "Introduction to Computer Systems",
-    "Section": "D",
-    "Teacher": "HHS",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "Computer Lab 7 (0522) (0112420365-0112430107)                                                                                                                                                                                                                       Computer Lab 8 (0528) (0112430108-0112430744)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 1110",
-    "CourseTitle": "Introduction to Computer Systems",
-    "Section": "F",
-    "Teacher": "SaIs",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "Computer Lab 12 (0532) (01123104530112430160)                                                                                                                                                                                                                       Computer Lab 12 (0532) (0112430162-0112430557)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 1110",
-    "CourseTitle": "Introduction to Computer Systems",
-    "Section": "H",
-    "Teacher": "ABF",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "Computer Lab 18 (0726) (0112310519-0112430226)                                                                                                                                                                                                                       Computer Lab 19 (0727) (0112430227-0112430556)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 1110",
-    "CourseTitle": "Introduction to Computer Systems",
-    "Section": "I",
-    "Teacher": "NSS",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "Computer Lab 13 (0326) (0112320166-0112430251)                                                                                                                                                                                                                       Computer Lab 13 (0326) (0112430252-0112430727)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 1110",
-    "CourseTitle": "Introduction to Computer Systems",
-    "Section": "K",
-    "Teacher": "AAJr",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "Computer Lab 14 (0426) (011221313-0112430314)                                                                                                                                                                                                                       Computer Lab 14 (0426) (0112430315-0112430733)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 1110",
-    "CourseTitle": "Introduction to Computer Systems",
-    "Section": "O",
-    "Teacher": "FBA",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "Computer Lab 9 (0529) (0112320084-0112430412)                                                                                                                                                                                                                       Computer Lab 9 (0529) (0112430413-0112430431)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 1110",
-    "CourseTitle": "Introduction to Computer Systems",
-    "Section": "S",
-    "Teacher": "MoA",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "Computer Lab 6 (0524) (011222266-0112430512)                                                                                                                                                                                                                       Computer Lab 6 (0524) (0112430536-0112430715)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 1110",
-    "CourseTitle": "Introduction to Computer Systems",
-    "Section": "V",
-    "Teacher": "ABF",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "Computer Lab 5 (0523) (0112410052-0112430669)                                                                                                                                                                                                                       Computer Lab 5 (0523) (0112430670-0112430742)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 425/CSE 4325",
-    "CourseTitle": "Microprocessor, Microcontroller and Interfacing/Microprocessors and Microcontrollers",
-    "Section": "A",
-    "Teacher": "MSTR",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "308 (011181303-011221088)                                                                                                                                                                                                                       309 (011221097-0112230705)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 425/CSE 4325",
-    "CourseTitle": "Microprocessor, Microcontroller and Interfacing/Microprocessors and Microcontrollers",
-    "Section": "C",
-    "Teacher": "KMRH",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "306 (011173025-011213207)                                                                                                                                                                                                                       307 (011213208-0112230839)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 425/CSE 4325",
-    "CourseTitle": "Microprocessor, Microcontroller and Interfacing/Microprocessors and Microcontrollers",
-    "Section": "D",
-    "Teacher": "MSTR",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "304 (011172130-011221146)                                                                                                                                                                                                                       305 (011221150-011222280)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 4325",
-    "CourseTitle": "Microprocessors and Microcontrollers",
-    "Section": "B",
-    "Teacher": "MSTR",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "323 (011191147-011221165)                                                                                                                                                                                                                       324 (011221167-0112230274)"
-  },
-  {
-    "Dept": "BSEEE",
-    "CourseCode": "EEE 207/EEE 2103",
-    "CourseTitle": "Electronics II",
-    "Section": "A",
-    "Teacher": "RaBr",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "322 (021173038-0212330162)"
-  },
-  {
-    "Dept": "BSEEE",
-    "CourseCode": "EEE 207/EEE 2103",
-    "CourseTitle": "Electronics II",
-    "Section": "B",
-    "Teacher": "SdM",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "307 (021201050-0212330036)                                                                                                                                                                                                                       308 (0212330043-0212330160)"
-  },
-  {
-    "Dept": "BSEEE",
-    "CourseCode": "EEE 207/EEE 2103",
-    "CourseTitle": "Electronics II",
-    "Section": "C",
-    "Teacher": "SdM",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "309 (021131142-0212330102)"
-  },
-  {
-    "Dept": "BSEEE",
-    "CourseCode": "IPE 401/IPE 4101",
-    "CourseTitle": "Industrial Management/Industrial Production Engineering",
-    "Section": "A",
-    "Teacher": "WF",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "303 (021171036-021203013)                                                                                                                                                                                                                       304 (021211014-021221105)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ACT 2111",
-    "CourseTitle": "Financial and Managerial Accounting",
-    "Section": "A",
-    "Teacher": "IJ",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "325 (011183077-0112230931)                                                                                                                                                                                                                       328 (0112230979-0152420018)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "ACT 2111",
-    "CourseTitle": "Financial and Managerial Accounting",
-    "Section": "B",
-    "Teacher": "IJ",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "305 (011193124-011221602)                                                                                                                                                                                                                       306 (011222022-0152430075)"
-  },
-  {
-    "Dept": "BSEEE",
-    "CourseCode": "CSE 4327/EEE 4121/EEE 441",
-    "CourseTitle": "VLSI Design",
-    "Section": "A",
-    "Teacher": "MdZA",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "303 (011193057-0212310077)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "CSE 4893/CSE 493",
-    "CourseTitle": "Introduction to Bioinformatics",
-    "Section": "A",
-    "Teacher": "RtAm",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "329 (011183104-011221119)"
-  },
-  {
-    "Dept": "BSEEE",
-    "CourseCode": "EEE 203/EEE 2201",
-    "CourseTitle": "Energy Conversion I",
-    "Section": "A",
-    "Teacher": "NAD",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "323 (021131142-021222021)                                                                                                                                                                                                                       324 (021222022-0212320013)"
-  },
-  {
-    "Dept": "BSEEE",
-    "CourseCode": "EEE 203/EEE 2201",
-    "CourseTitle": "Energy Conversion I",
-    "Section": "B",
-    "Teacher": "MFK",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "325 (021171016-0212230008)                                                                                                                                                                                                                       328 (0212230010-0212310076)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "MATH 2205",
-    "CourseTitle": "Probability and Statistics",
-    "Section": "B",
-    "Teacher": "MUn",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "407 (011211026-0152420009)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "MATH 2205",
-    "CourseTitle": "Probability and Statistics",
-    "Section": "D",
-    "Teacher": "MUn",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "307 (011201036-0112331050)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "MATH 2205",
-    "CourseTitle": "Probability and Statistics",
-    "Section": "E",
-    "Teacher": "MoIm",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "405 (011201236-0112230139)                                                                                                                                                                                                                       406 (0112230148-0112330987)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "MATH 2205",
-    "CourseTitle": "Probability and Statistics",
-    "Section": "F",
-    "Teacher": "SamAr",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "401 (011201082-0112231023)                                                                                                                                                                                                                       402 (0112231030-0112320246)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "MATH 2205",
-    "CourseTitle": "Probability and Statistics",
-    "Section": "I",
-    "Teacher": "SamAr",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "403 (011201401-0112310106)                                                                                                                                                                                                                       404 (0112310145-0112410471)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "MATH 2205/STAT 205",
-    "CourseTitle": "Probability and Statistics",
-    "Section": "A",
-    "Teacher": "JAS",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "322 (011181042-0112230717)                                                                                                                                                                                                                       323 (0112230728-0112320272)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "MATH 2205/STAT 205",
-    "CourseTitle": "Probability and Statistics",
-    "Section": "C",
-    "Teacher": "JAS",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "308 (011183058-0112230863)                                                                                                                                                                                                                       309 (0112230946-0112330381)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "MATH 2205/STAT 205",
-    "CourseTitle": "Probability and Statistics",
-    "Section": "G",
-    "Teacher": "SamAr",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "305 (011201079-0112310058)                                                                                                                                                                                                                       306 (0112310071-0112330687)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "MATH 2205/STAT 205",
-    "CourseTitle": "Probability and Statistics",
-    "Section": "H",
-    "Teacher": "MUn",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "324 (011162003-0112330457)"
-  },
-  {
-    "Dept": "BSCSE",
-    "CourseCode": "MATH 2205/STAT 205",
-    "CourseTitle": "Probability and Statistics",
-    "Section": "J",
-    "Teacher": "MoIm",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "303 (011183048-0112230485)                                                                                                                                                                                                                       304 (0112230512-0152420003)"
-  },
-  {
-    "Dept": "BSCSE",
     "CourseCode": "CSE 3811",
     "CourseTitle": "Artificial Intelligence",
     "Section": "B",
@@ -2168,6 +648,1006 @@
     "ExamDate": "February 06, 2025",
     "ExamTime": "02:00 PM - 04:00 PM",
     "Room": "303 (021162038-021201065)                                                                                                                                                                                                                       304 (021201107-021221042)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 4509/CSI 309",
+    "CourseTitle": "Operating System Concepts/Operating Systems",
+    "Section": "A",
+    "Teacher": "ARnA",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "801 (011182110-011203014)                                                                                                                                                                                                                       802 (011203027-011222150)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 4509/CSI 309",
+    "CourseTitle": "Operating System Concepts/Operating Systems",
+    "Section": "B",
+    "Teacher": "ARnA",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "707 (011181193-011203012)                                                                                                                                                                                                                       708 (011203024-0112230954)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 4509/CSI 309",
+    "CourseTitle": "Operating System Concepts/Operating Systems",
+    "Section": "C",
+    "Teacher": "ARnA",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "308 (011162018-011201466)                                                                                                                                                                                                                       309 (011202004-011222025)"
+  },
+  {
+    "Dept": "BSEEE",
+    "CourseCode": "EEE 4317/EEE 457",
+    "CourseTitle": "Mobile Cellular Communication",
+    "Section": "A",
+    "Teacher": "RM",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "303 (021162038-021213010)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ENG 1011",
+    "CourseTitle": "English I",
+    "Section": "AA",
+    "Teacher": "SaFe",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "711 (0112330190-0112430028)                                                                                                                                                                                                                       722 (0112430029-0112430728)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ENG 1011",
+    "CourseTitle": "English I",
+    "Section": "AB",
+    "Teacher": "NB",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "322 (0112410505-0112430052)                                                                                                                                                                                                                       323 (0112430053-0152430105)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ENG 1011",
+    "CourseTitle": "English I",
+    "Section": "AC",
+    "Teacher": "MJSh",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "601 (0112330241-0112430083)                                                                                                                                                                                                                       602 (0112430084-0112430731)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ENG 1011",
+    "CourseTitle": "English I",
+    "Section": "AE",
+    "Teacher": "SMMS",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "328 (0112420552-0112430145)                                                                                                                                                                                                                       329 (0112430146-0152430104)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ENG 1011",
+    "CourseTitle": "English I",
+    "Section": "AF",
+    "Teacher": "MZK",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "425 (0112330974-0112430164)                                                                                                                                                                                                                       428 (0112430166-0152430107)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ENG 1011",
+    "CourseTitle": "English I",
+    "Section": "AG",
+    "Teacher": "SaHn",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "407 (0112410050-0112430199)                                                                                                                                                                                                                       408 (0112430200-0112430605)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ENG 1011",
+    "CourseTitle": "English I",
+    "Section": "AH",
+    "Teacher": "ChMR",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "429 (0112320080-0112430235)                                                                                                                                                                                                                       431 (0112430236-0112430744)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ENG 1011",
+    "CourseTitle": "English I",
+    "Section": "AI",
+    "Teacher": "AnAn",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "603 (0112310322-0112430264)                                                                                                                                                                                                                       604 (0112430265-0152430106)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ENG 1011",
+    "CourseTitle": "English I",
+    "Section": "AJ",
+    "Teacher": "AnAn",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "404 (0112330207-0112430294)                                                                                                                                                                                                                       405 (0112430297-0112430727)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ENG 1011",
+    "CourseTitle": "English I",
+    "Section": "AK",
+    "Teacher": "MJSh",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "409 (0112430283-0112430325)                                                                                                                                                                                                                       410 (0112430327-0112430739)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ENG 1011",
+    "CourseTitle": "English I",
+    "Section": "AL",
+    "Teacher": "ChMR",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "406 (0112420288-0152430064)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ENG 1011",
+    "CourseTitle": "English I",
+    "Section": "AM",
+    "Teacher": "AArSh",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "402 (0112330761-0112430379)                                                                                                                                                                                                                       403 (0112430381-0112430741)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ENG 1011",
+    "CourseTitle": "English I",
+    "Section": "AN",
+    "Teacher": "ChMR",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "330 (0112330200-0112430465)                                                                                                                                                                                                                       401 (0112430466-0112430726)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ENG 1011",
+    "CourseTitle": "English I",
+    "Section": "AO",
+    "Teacher": "AShK",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "308 (011213120-0112430481)                                                                                                                                                                                                                       309 (0112430482-0112430732)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ENG 1011",
+    "CourseTitle": "English I",
+    "Section": "AP",
+    "Teacher": "SMMS",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "805 (0112430494-0112430574)                                                                                                                                                                                                                       806 (0112430575-0112430733)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ENG 1011",
+    "CourseTitle": "English I",
+    "Section": "AR",
+    "Teacher": "SMMS",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "324 (0112420266-0112430660)                                                                                                                                                                                                                       325 (0112430661-0152430100)"
+  },
+  {
+    "Dept": "BSDS",
+    "CourseCode": "ENG 1011",
+    "CourseTitle": "English I",
+    "Section": "BA",
+    "Teacher": "AnAn",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "605 (0112410134-0152430010)                                                                                                                                                                                                                       630 (0152430011-0152430079)"
+  },
+  {
+    "Dept": "BSDS",
+    "CourseCode": "ENG 1011",
+    "CourseTitle": "English I",
+    "Section": "BB",
+    "Teacher": "NB",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "631 (0112420418-0152430050)                                                                                                                                                                                                                       632 (0152430051-0152430077)"
+  },
+  {
+    "Dept": "BSEEE",
+    "CourseCode": "ENG 1011",
+    "CourseTitle": "English I",
+    "Section": "P",
+    "Teacher": "ShMSh",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "307 (0112430745-0212430089)"
+  },
+  {
+    "Dept": "BSEEE",
+    "CourseCode": "ENG 1011",
+    "CourseTitle": "English I",
+    "Section": "Q",
+    "Teacher": "SaFe",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "304 (0112330597-0212430014)                                                                                                                                                                                                                       305 (0212430015-0212430090)"
+  },
+  {
+    "Dept": "BSEEE",
+    "CourseCode": "ENG 1011",
+    "CourseTitle": "English I",
+    "Section": "R",
+    "Teacher": "AShK",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "306 (0212330035-0212430091)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ENG 1011/ENG 1105",
+    "CourseTitle": "English I/Intensive English I",
+    "Section": "AD",
+    "Teacher": "SaHn",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "803 (011202200-0112430113)                                                                                                                                                                                                                       804 (0112430114-0152410072)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "IPE 3401",
+    "CourseTitle": "Industrial and Operational Management",
+    "Section": "C",
+    "Teacher": "WF",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "603 (011192087-0112230581)                                                                                                                                                                                                                       604 (0112230610-0112331099)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "IPE 3401",
+    "CourseTitle": "Industrial and Operational Management",
+    "Section": "E",
+    "Teacher": "WF",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "605 (011192034-0112230210)                                                                                                                                                                                                                       630 (0112230250-0112330863)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "IPE 3401",
+    "CourseTitle": "Industrial and Operational Management",
+    "Section": "F",
+    "Teacher": "MFI",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "303 (011193018-011222314)                                                                                                                                                                                                                       304 (011222318-0112330700)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "IPE 3401/IPE 401",
+    "CourseTitle": "Industrial and Operational Management/Industrial Management",
+    "Section": "A",
+    "Teacher": "MFI",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "631 (011182034-0112230561)                                                                                                                                                                                                                       632 (0112230604-0152330080)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "IPE 3401/IPE 401",
+    "CourseTitle": "Industrial and Operational Management/Industrial Management",
+    "Section": "B",
+    "Teacher": "MFI",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "601 (011202132-0112310317)                                                                                                                                                                                                                       602 (0112310399-0152330150)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "IPE 3401/IPE 401",
+    "CourseTitle": "Industrial and Operational Management/Industrial Management",
+    "Section": "D",
+    "Teacher": "MFI",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "703 (011191060-011222302)                                                                                                                                                                                                                       706 (011222347-0112410347)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "IPE 3401/IPE 401",
+    "CourseTitle": "Industrial and Operational Management/Industrial Management",
+    "Section": "G",
+    "Teacher": "WF",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "701 (011181104-0112230211)                                                                                                                                                                                                                       702 (0112230222-0112410090)"
+  },
+  {
+    "Dept": "BSEEE",
+    "CourseCode": "EEE 301/EEE 3107",
+    "CourseTitle": "Electrical Properties of Materials",
+    "Section": "A",
+    "Teacher": "IBC",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "309 (021201036-0212230112)"
+  },
+  {
+    "Dept": "BSEEE",
+    "CourseCode": "EEE 301/EEE 3107",
+    "CourseTitle": "Electrical Properties of Materials",
+    "Section": "B",
+    "Teacher": "IBC",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "308 (021201069-0212230107)"
+  },
+  {
+    "Dept": "BSEEE",
+    "CourseCode": "EEE 305/EEE 3205",
+    "CourseTitle": "Power System",
+    "Section": "A",
+    "Teacher": "HB",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "308 (021131165-021221024)"
+  },
+  {
+    "Dept": "BSEEE",
+    "CourseCode": "EEE 305/EEE 3205",
+    "CourseTitle": "Power System",
+    "Section": "B",
+    "Teacher": "SMLK",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "309 (021181027-021203003)                                                                                                                                                                                                                       322 (021203004-021221101)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ENG 1013",
+    "CourseTitle": "English II",
+    "Section": "AA",
+    "Teacher": "SaHn",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "604 (0112330330-0112420434)                                                                                                                                                                                                                       605 (0112420437-0112420720)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ENG 1013",
+    "CourseTitle": "English II",
+    "Section": "AB",
+    "Teacher": "NB",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "630 (0112410007-0152420008)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ENG 1013",
+    "CourseTitle": "English II",
+    "Section": "AC",
+    "Teacher": "SaFe",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "602 (011213090-0112420346)                                                                                                                                                                                                                       603 (0112420350-0112420730)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ENG 1013",
+    "CourseTitle": "English II",
+    "Section": "AD",
+    "Teacher": "RnIm",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "409 (0112230343-0112430109)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ENG 1013",
+    "CourseTitle": "English II",
+    "Section": "AE",
+    "Teacher": "SMMS",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "428 (0112310143-0112420460)                                                                                                                                                                                                                       429 (0112420488-0152420021)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ENG 1013",
+    "CourseTitle": "English II",
+    "Section": "AF",
+    "Teacher": "RnIm",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "401 (011222047-0112420070)                                                                                                                                                                                                                       402 (0112420082-0112420727)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ENG 1013",
+    "CourseTitle": "English II",
+    "Section": "AG",
+    "Teacher": "MZK",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "407 (0112310018-0112420246)                                                                                                                                                                                                                       408 (0112420249-0152420027)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ENG 1013",
+    "CourseTitle": "English II",
+    "Section": "AH",
+    "Teacher": "ShMSh",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "405 (0112410058-0112420580)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ENG 1013",
+    "CourseTitle": "English II",
+    "Section": "AI",
+    "Teacher": "SaHn",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "406 (0112230265-0112420718)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ENG 1013",
+    "CourseTitle": "English II",
+    "Section": "AJ",
+    "Teacher": "AShK",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "432 (011221472-0112420336)                                                                                                                                                                                                                       601 (0112420340-0112420722)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ENG 1013",
+    "CourseTitle": "English II",
+    "Section": "AK",
+    "Teacher": "ShMSh",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "329 (0112320009-0112420354)                                                                                                                                                                                                                       330 (0112420356-0152420025)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ENG 1013",
+    "CourseTitle": "English II",
+    "Section": "AM",
+    "Teacher": "KhJS",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "410 (0112320101-0112420504)                                                                                                                                                                                                                       425 (0112420505-0152420020)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ENG 1013",
+    "CourseTitle": "English II",
+    "Section": "AN",
+    "Teacher": "UH",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "403 (0112230859-0112420324)                                                                                                                                                                                                                       404 (0112420330-0112420729)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ENG 1013",
+    "CourseTitle": "English II",
+    "Section": "AO",
+    "Teacher": "RnIm",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "631 (0112230730-0112420290)                                                                                                                                                                                                                       632 (0112420328-0152420026)"
+  },
+  {
+    "Dept": "BSEEE",
+    "CourseCode": "ENG 1013",
+    "CourseTitle": "English II",
+    "Section": "P",
+    "Teacher": "ShMSh",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "305 (021222037-0212420068)"
+  },
+  {
+    "Dept": "BSEEE",
+    "CourseCode": "ENG 1013",
+    "CourseTitle": "English II",
+    "Section": "Q",
+    "Teacher": "AnAn",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "304 (0212310028-0212420081)"
+  },
+  {
+    "Dept": "BSEEE",
+    "CourseCode": "ENG 1013",
+    "CourseTitle": "English II",
+    "Section": "R",
+    "Teacher": "KhJS",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "306 (0212420002-0212420078)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ENG 1013/ENG 1207",
+    "CourseTitle": "English II/Intensive English II",
+    "Section": "AL",
+    "Teacher": "NB",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "431 (011202037-0112420325)                                                                                                                                                                                                                       432 (0112420333-0112420706)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 313/CSE 3313",
+    "CourseTitle": "Computer Architecture",
+    "Section": "C",
+    "Teacher": "RHn",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "328 (011192101-0112230378)                                                                                                                                                                                                                       329 (0112230379-0112310497)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 313/CSE 3313",
+    "CourseTitle": "Computer Architecture",
+    "Section": "D",
+    "Teacher": "SAhSh",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "602 (011172045-0112230592)                                                                                                                                                                                                                       604 (0112230636-0112310535)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 313/CSE 3313",
+    "CourseTitle": "Computer Architecture",
+    "Section": "E",
+    "Teacher": "RHn",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "330 (011162047-0112230471)                                                                                                                                                                                                                       401 (0112230472-0112310594)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 3313",
+    "CourseTitle": "Computer Architecture",
+    "Section": "A",
+    "Teacher": "SAhSh",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "631 (011191246-0112230450)                                                                                                                                                                                                                       632 (0112230487-0112310568)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 3313",
+    "CourseTitle": "Computer Architecture",
+    "Section": "B",
+    "Teacher": "RaK",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "605 (011192094-0112230213)                                                                                                                                                                                                                       630 (0112230292-0112310269)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 3313",
+    "CourseTitle": "Computer Architecture",
+    "Section": "F",
+    "Teacher": "TaSa",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "324 (011203038-0112230482)                                                                                                                                                                                                                       325 (0112230483-0112310483)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 3313",
+    "CourseTitle": "Computer Architecture",
+    "Section": "G",
+    "Teacher": "AHAF",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "432 (011213094-0112230624)                                                                                                                                                                                                                       601 (0112230638-0112310489)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 3313",
+    "CourseTitle": "Computer Architecture",
+    "Section": "H",
+    "Teacher": "RaK",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "402 (011201248-0112230208)                                                                                                                                                                                                                       403 (0112230210-0112310423)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 3313",
+    "CourseTitle": "Computer Architecture",
+    "Section": "I",
+    "Teacher": "AHAF",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "404 (011183016-0112230301)                                                                                                                                                                                                                       405 (0112230303-0112320037)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 3313",
+    "CourseTitle": "Computer Architecture",
+    "Section": "J",
+    "Teacher": "AHAF",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "429 (011203022-0112310006)                                                                                                                                                                                                                       431 (0112310010-0112310597)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 3313",
+    "CourseTitle": "Computer Architecture",
+    "Section": "K",
+    "Teacher": "RaK",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "701 (011192148-0112230558)                                                                                                                                                                                                                       702 (0112230654-0112310530)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 4889",
+    "CourseTitle": "Machine Learning",
+    "Section": "B",
+    "Teacher": "SaIs",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "711 (011183008-011213067)                                                                                                                                                                                                                       722 (011213079-011222063)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 4889/CSE 489",
+    "CourseTitle": "Machine Learning",
+    "Section": "A",
+    "Teacher": "DMF",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "325 (011182073-011221450)"
+  },
+  {
+    "Dept": "BSEEE",
+    "CourseCode": "EEE 2101",
+    "CourseTitle": "Electronics I",
+    "Section": "A",
+    "Teacher": "RaBr",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "703 (021193017-0212330055)                                                                                                                                                                                                                       706 (0212330061-0212410042)"
+  },
+  {
+    "Dept": "BSEEE",
+    "CourseCode": "EEE 2101",
+    "CourseTitle": "Electronics I",
+    "Section": "B",
+    "Teacher": "RaBr",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "707 (021201046-0212410007)                                                                                                                                                                                                                       708 (0212410008-0212410046)"
+  },
+  {
+    "Dept": "BSEEE",
+    "CourseCode": "EEE 401/EEE 4109",
+    "CourseTitle": "Control System",
+    "Section": "A",
+    "Teacher": "MKMR",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "711 (021131142-021193027)                                                                                                                                                                                                                       722 (021201006-021213032)"
+  },
+  {
+    "Dept": "BSEEE",
+    "CourseCode": "MAT 2109/MATH 201",
+    "CourseTitle": "Coordinate Geometry and Vector Analysis",
+    "Section": "A",
+    "Teacher": "TN",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "306 (021201052-0212310016)                                                                                                                                                                                                                       307 (0212310027-0212330028)"
+  },
+  {
+    "Dept": "BSEEE",
+    "CourseCode": "MAT 2109/MATH 201",
+    "CourseTitle": "Coordinate Geometry and Vector Analysis",
+    "Section": "B",
+    "Teacher": "TN",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "308 (021201048-0212330128)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "MATH 183/MATH 2183",
+    "CourseTitle": "Calculus and Linear Algebra/Linear Algebra, Ordinary & Partial Differential Equations",
+    "Section": "F",
+    "Teacher": "ShIA",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "303 (011171104-0112420513)"
+  },
+  {
+    "Dept": "BSDS",
+    "CourseCode": "MATH 2107",
+    "CourseTitle": "Linear Algebra",
+    "Section": "BA",
+    "Teacher": "AkAd",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "410 (0152330001-0152410015)                                                                                                                                                                                                                       425 (0152410016-0152410071)"
+  },
+  {
+    "Dept": "BSDS",
+    "CourseCode": "MATH 2107",
+    "CourseTitle": "Linear Algebra",
+    "Section": "BB",
+    "Teacher": "AkAd",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "428 (0152330044-0152420017)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "MATH 2107/MATH 2183",
+    "CourseTitle": "Calculus and Linear Algebra/Linear Algebra",
+    "Section": "M",
+    "Teacher": "NSM",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "406 (011212117-0112410079)                                                                                                                                                                                                                       407 (0112410092-015222005)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "MATH 2183",
+    "CourseTitle": "Calculus and Linear Algebra",
+    "Section": "A",
+    "Teacher": "MoIm",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "410 (011201269-0112410128)                                                                                                                                                                                                                       425 (0112410147-0112420623)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "MATH 2183",
+    "CourseTitle": "Calculus and Linear Algebra",
+    "Section": "B",
+    "Teacher": "TN",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "431 (011222078-0112410175)                                                                                                                                                                                                                       432 (0112410197-0112410544)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "MATH 2183",
+    "CourseTitle": "Calculus and Linear Algebra",
+    "Section": "C",
+    "Teacher": "SamAr",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "409 (011221463-0112410495)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "MATH 2183",
+    "CourseTitle": "Calculus and Linear Algebra",
+    "Section": "D",
+    "Teacher": "NPn",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "630 (011201363-0112410043)                                                                                                                                                                                                                       631 (0112410062-0112420715)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "MATH 2183",
+    "CourseTitle": "Calculus and Linear Algebra",
+    "Section": "E",
+    "Teacher": "NPn",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "723 (011201341-0112410538)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "MATH 2183",
+    "CourseTitle": "Calculus and Linear Algebra",
+    "Section": "G",
+    "Teacher": "SamAr",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "601 (011191086-0112310380)                                                                                                                                                                                                                       602 (0112310425-0112410532)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "MATH 2183",
+    "CourseTitle": "Calculus and Linear Algebra",
+    "Section": "H",
+    "Teacher": "MMBK",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "632 (011221396-0112331027)                                                                                                                                                                                                                       701 (0112331034-0112410537)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "MATH 2183",
+    "CourseTitle": "Calculus and Linear Algebra",
+    "Section": "I",
+    "Teacher": "MdAIm",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "408 (011201339-0112410514)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "MATH 2183",
+    "CourseTitle": "Calculus and Linear Algebra",
+    "Section": "K",
+    "Teacher": "NPn",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "604 (0112230867-0112410528)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "MATH 2183",
+    "CourseTitle": "Calculus and Linear Algebra",
+    "Section": "L",
+    "Teacher": "MoIm",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "407 (011211080-0112410522)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "MATH 2183",
+    "CourseTitle": "Calculus and Linear Algebra",
+    "Section": "N",
+    "Teacher": "NPn",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "603 (011191001-0112420492)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "MATH 2183",
+    "CourseTitle": "Calculus and Linear Algebra",
+    "Section": "O",
+    "Teacher": "RaRa",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "428 (011221063-0112330857)                                                                                                                                                                                                                       429 (0112330902-0112410540)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "MATH 2183",
+    "CourseTitle": "Calculus and Linear Algebra",
+    "Section": "P",
+    "Teacher": "MoIm",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "605 (0112230035-0112410546)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "MATH 2183",
+    "CourseTitle": "Calculus and Linear Algebra",
+    "Section": "Q",
+    "Teacher": "RaRa",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "702 (011213085-0112410524)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "MATH 2183",
+    "CourseTitle": "Calculus and Linear Algebra",
+    "Section": "R",
+    "Teacher": "ShIA",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "406 (011213189-0112420363)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "SOC 101/SOC 2101",
+    "CourseTitle": "Society, Environment and Engineering Ethics/Society, Technology and Engineering Ethics",
+    "Section": "B",
+    "Teacher": "NSS",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "707 (011163013-0112310515)                                                                                                                                                                                                                       708 (0112310521-0112410405)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "SOC 101/SOC 2101/SOC 2102",
+    "CourseTitle": "Society, Environment and Computing Ethics/Society, Environment and Engineering Ethics/Society, Technology and Engineering Ethics",
+    "Section": "C",
+    "Teacher": "HAN",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "703 (011171008-0112330030)                                                                                                                                                                                                                       706 (0112330036-0112420627)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "SOC 101/SOC 2101/SOC 2102",
+    "CourseTitle": "Society, Environment and Computing Ethics/Society, Environment and Engineering Ethics/Society, Technology and Engineering Ethics",
+    "Section": "G",
+    "Teacher": "MoI",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "309 (011181193-0112310179)                                                                                                                                                                                                                       322 (0112310247-0152310004)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "SOC 2101",
+    "CourseTitle": "Society, Environment and Engineering Ethics",
+    "Section": "F",
+    "Teacher": "MdShA",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "303 (011213088-0112320143)                                                                                                                                                                                                                       304 (0112320144-0112420465)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "SOC 2101/SOC 2102",
+    "CourseTitle": "Society, Environment and Computing Ethics/Society, Environment and Engineering Ethics",
+    "Section": "A",
+    "Teacher": "MMAS",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "308 (011211021-0112320140)                                                                                                                                                                                                                       309 (0112320151-0152310002)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "SOC 2101/SOC 2102",
+    "CourseTitle": "Society, Environment and Computing Ethics/Society, Environment and Engineering Ethics",
+    "Section": "D",
+    "Teacher": "AHAF",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "304 (011202023-0112310591)                                                                                                                                                                                                                       305 (0112320002-0152330129)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "SOC 2101/SOC 2102",
+    "CourseTitle": "Society, Environment and Computing Ethics/Society, Environment and Engineering Ethics",
+    "Section": "E",
+    "Teacher": "FdAR",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "322 (011221112-0112310073)                                                                                                                                                                                                                       323 (0112310130-0152420002)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "SOC 2101/SOC 2102",
+    "CourseTitle": "Society, Environment and Computing Ethics/Society, Environment and Engineering Ethics",
+    "Section": "H",
+    "Teacher": "CAG",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "306 (011193147-0112320289)                                                                                                                                                                                                                       307 (0112330025-0152330065)"
   },
   {
     "Dept": "BSCSE",
@@ -4968,5 +4448,525 @@
     "ExamDate": "February 11, 2025",
     "ExamTime": "02:00 PM - 04:00 PM",
     "Room": "328 (011221005-0112410407)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 1110",
+    "CourseTitle": "Introduction to Computer Systems",
+    "Section": "A",
+    "Teacher": "SMSR",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "Computer Lab 3 (0327) (0112320057-0112430021)                                                                                                                                                                                                                       Computer Lab 4 (0427) (0112430022-0112430734)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 1110",
+    "CourseTitle": "Introduction to Computer Systems",
+    "Section": "B",
+    "Teacher": "FBA",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "Computer Lab 8 (0528) (0112410519-0112430046)                                                                                                                                                                                                                       Computer Lab 8 (0528) (0112430047-0112430539)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 1110",
+    "CourseTitle": "Introduction to Computer Systems",
+    "Section": "E",
+    "Teacher": "SaIs",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "Computer Lab 9 (0529) (0112310279-0112430138)                                                                                                                                                                                                                       Computer Lab 9 (0529) (0112430139-0112430703)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 1110",
+    "CourseTitle": "Introduction to Computer Systems",
+    "Section": "G",
+    "Teacher": "SHMm",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "Computer Lab 20 (0424) (0112330800-0112430196)                                                                                                                                                                                                                       Computer Lab 21 (0422) (0112430197-0112430745)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 1110",
+    "CourseTitle": "Introduction to Computer Systems",
+    "Section": "J",
+    "Teacher": "ShArn",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "Computer Lab 14 (0426) (0112330377-0112430284)                                                                                                                                                                                                                       Computer Lab 14 (0426) (0112430286-0112430615)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 1110",
+    "CourseTitle": "Introduction to Computer Systems",
+    "Section": "L",
+    "Teacher": "MoA",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "Computer Lab 22 (0926) (0112420632-0112430349)                                                                                                                                                                                                                       Computer Lab 22 (0926) (0112430351-0152430064)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 1110",
+    "CourseTitle": "Introduction to Computer Systems",
+    "Section": "M",
+    "Teacher": "ABF",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "Computer Lab 12 (0532) (0112310158-0112430382)                                                                                                                                                                                                                       Computer Lab 12 (0532) (0112430383-0112430741)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 1110",
+    "CourseTitle": "Introduction to Computer Systems",
+    "Section": "N",
+    "Teacher": "FBA",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "Computer Lab 15 (0626) (011213120-0112430458)                                                                                                                                                                                                                       Computer Lab 15 (0626) (0112430459-0112430739)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 1110",
+    "CourseTitle": "Introduction to Computer Systems",
+    "Section": "P",
+    "Teacher": "NSS",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "Computer Lab 7 (0522) (011222272-0112430543)                                                                                                                                                                                                                       Computer Lab 7 (0522) (0112430544-0112430602)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 1110",
+    "CourseTitle": "Introduction to Computer Systems",
+    "Section": "Q",
+    "Teacher": "SAAMZ",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "Computer Lab 10 (0530) (0112430050-0112430470)                                                                                                                                                                                                                       Computer Lab 10 (0530) (0112430472-0112430682)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 1110",
+    "CourseTitle": "Introduction to Computer Systems",
+    "Section": "R",
+    "Teacher": "HHS",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "Computer Lab 13 (0326) (0112310368-0112430732)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 1110",
+    "CourseTitle": "Introduction to Computer Systems",
+    "Section": "T",
+    "Teacher": "AAJr",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "Computer Lab 5 (0523) (0112320048-0112430637)                                                                                                                                                                                                                       Computer Lab 6 (0524) (0112430638-0112430743)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 1110",
+    "CourseTitle": "Introduction to Computer Systems",
+    "Section": "U",
+    "Teacher": "SYH",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "Computer Lab 19 (0727) (0112330739-0112430619)                                                                                                                                                                                                                       Computer Lab 19 (0727) (0112430620-0112430740)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 1110",
+    "CourseTitle": "Introduction to Computer Systems",
+    "Section": "W",
+    "Teacher": "NZM",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "Computer Lab 18 (0726) (0112410134-0112430688)                                                                                                                                                                                                                       Computer Lab 18 (0726) (0112430689-0112430723)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 4611/CSI 411",
+    "CourseTitle": "Compiler/Compiler Design",
+    "Section": "A",
+    "Teacher": "NSS",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "308 (011163028-011203006)                                                                                                                                                                                                                       309 (011203007-0112230191)"
+  },
+  {
+    "Dept": "BSEEE",
+    "CourseCode": "MAT 1103",
+    "CourseTitle": "Calculus II",
+    "Section": "A",
+    "Teacher": "AM",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "322 (021213015-0212420079)"
+  },
+  {
+    "Dept": "BSEEE",
+    "CourseCode": "MAT 1103",
+    "CourseTitle": "Calculus II",
+    "Section": "C",
+    "Teacher": "AM",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "305 (0212230065-0212420035)                                                                                                                                                                                                                       306 (0212420036-0212420081)"
+  },
+  {
+    "Dept": "BSEEE",
+    "CourseCode": "MAT 1103/MATH 151",
+    "CourseTitle": "Calculus II/Differential and Integral Calculus",
+    "Section": "B",
+    "Teacher": "AM",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "307 (021181106-0212420082)"
+  },
+  {
+    "Dept": "BSEEE",
+    "CourseCode": "SOC 101/SOC 3101",
+    "CourseTitle": "Society, Environment and Engineering Ethics/Society, Technology and Engineering Ethics",
+    "Section": "I",
+    "Teacher": "JJM",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "303 (021193010-021221037)                                                                                                                                                                                                                       304 (021221045-0212230112)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 1110",
+    "CourseTitle": "Introduction to Computer Systems",
+    "Section": "C",
+    "Teacher": "SAAMZ",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "Computer Lab 3 (0327) (0112330932-0112430077)                                                                                                                                                                                                                       Computer Lab 4 (0427) (0112430078-0112430538)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 1110",
+    "CourseTitle": "Introduction to Computer Systems",
+    "Section": "D",
+    "Teacher": "HHS",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "Computer Lab 7 (0522) (0112420365-0112430107)                                                                                                                                                                                                                       Computer Lab 8 (0528) (0112430108-0112430744)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 1110",
+    "CourseTitle": "Introduction to Computer Systems",
+    "Section": "F",
+    "Teacher": "SaIs",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "Computer Lab 12 (0532) (01123104530112430160)                                                                                                                                                                                                                       Computer Lab 12 (0532) (0112430162-0112430557)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 1110",
+    "CourseTitle": "Introduction to Computer Systems",
+    "Section": "H",
+    "Teacher": "ABF",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "Computer Lab 18 (0726) (0112310519-0112430226)                                                                                                                                                                                                                       Computer Lab 19 (0727) (0112430227-0112430556)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 1110",
+    "CourseTitle": "Introduction to Computer Systems",
+    "Section": "I",
+    "Teacher": "NSS",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "Computer Lab 13 (0326) (0112320166-0112430251)                                                                                                                                                                                                                       Computer Lab 13 (0326) (0112430252-0112430727)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 1110",
+    "CourseTitle": "Introduction to Computer Systems",
+    "Section": "K",
+    "Teacher": "AAJr",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "Computer Lab 14 (0426) (011221313-0112430314)                                                                                                                                                                                                                       Computer Lab 14 (0426) (0112430315-0112430733)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 1110",
+    "CourseTitle": "Introduction to Computer Systems",
+    "Section": "O",
+    "Teacher": "FBA",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "Computer Lab 9 (0529) (0112320084-0112430412)                                                                                                                                                                                                                       Computer Lab 9 (0529) (0112430413-0112430431)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 1110",
+    "CourseTitle": "Introduction to Computer Systems",
+    "Section": "S",
+    "Teacher": "MoA",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "Computer Lab 6 (0524) (011222266-0112430512)                                                                                                                                                                                                                       Computer Lab 6 (0524) (0112430536-0112430715)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 1110",
+    "CourseTitle": "Introduction to Computer Systems",
+    "Section": "V",
+    "Teacher": "ABF",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "Computer Lab 5 (0523) (0112410052-0112430669)                                                                                                                                                                                                                       Computer Lab 5 (0523) (0112430670-0112430742)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 425/CSE 4325",
+    "CourseTitle": "Microprocessor, Microcontroller and Interfacing/Microprocessors and Microcontrollers",
+    "Section": "A",
+    "Teacher": "MSTR",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "308 (011181303-011221088)                                                                                                                                                                                                                       309 (011221097-0112230705)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 425/CSE 4325",
+    "CourseTitle": "Microprocessor, Microcontroller and Interfacing/Microprocessors and Microcontrollers",
+    "Section": "C",
+    "Teacher": "KMRH",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "306 (011173025-011213207)                                                                                                                                                                                                                       307 (011213208-0112230839)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 425/CSE 4325",
+    "CourseTitle": "Microprocessor, Microcontroller and Interfacing/Microprocessors and Microcontrollers",
+    "Section": "D",
+    "Teacher": "MSTR",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "304 (011172130-011221146)                                                                                                                                                                                                                       305 (011221150-011222280)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 4325",
+    "CourseTitle": "Microprocessors and Microcontrollers",
+    "Section": "B",
+    "Teacher": "MSTR",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "323 (011191147-011221165)                                                                                                                                                                                                                       324 (011221167-0112230274)"
+  },
+  {
+    "Dept": "BSEEE",
+    "CourseCode": "EEE 207/EEE 2103",
+    "CourseTitle": "Electronics II",
+    "Section": "A",
+    "Teacher": "RaBr",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "322 (021173038-0212330162)"
+  },
+  {
+    "Dept": "BSEEE",
+    "CourseCode": "EEE 207/EEE 2103",
+    "CourseTitle": "Electronics II",
+    "Section": "B",
+    "Teacher": "SdM",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "307 (021201050-0212330036)                                                                                                                                                                                                                       308 (0212330043-0212330160)"
+  },
+  {
+    "Dept": "BSEEE",
+    "CourseCode": "EEE 207/EEE 2103",
+    "CourseTitle": "Electronics II",
+    "Section": "C",
+    "Teacher": "SdM",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "309 (021131142-0212330102)"
+  },
+  {
+    "Dept": "BSEEE",
+    "CourseCode": "IPE 401/IPE 4101",
+    "CourseTitle": "Industrial Management/Industrial Production Engineering",
+    "Section": "A",
+    "Teacher": "WF",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "303 (021171036-021203013)                                                                                                                                                                                                                       304 (021211014-021221105)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ACT 2111",
+    "CourseTitle": "Financial and Managerial Accounting",
+    "Section": "A",
+    "Teacher": "IJ",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "325 (011183077-0112230931)                                                                                                                                                                                                                       328 (0112230979-0152420018)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "ACT 2111",
+    "CourseTitle": "Financial and Managerial Accounting",
+    "Section": "B",
+    "Teacher": "IJ",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "305 (011193124-011221602)                                                                                                                                                                                                                       306 (011222022-0152430075)"
+  },
+  {
+    "Dept": "BSEEE",
+    "CourseCode": "CSE 4327/EEE 4121/EEE 441",
+    "CourseTitle": "VLSI Design",
+    "Section": "A",
+    "Teacher": "MdZA",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "303 (011193057-0212310077)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "CSE 4893/CSE 493",
+    "CourseTitle": "Introduction to Bioinformatics",
+    "Section": "A",
+    "Teacher": "RtAm",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "329 (011183104-011221119)"
+  },
+  {
+    "Dept": "BSEEE",
+    "CourseCode": "EEE 203/EEE 2201",
+    "CourseTitle": "Energy Conversion I",
+    "Section": "A",
+    "Teacher": "NAD",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "323 (021131142-021222021)                                                                                                                                                                                                                       324 (021222022-0212320013)"
+  },
+  {
+    "Dept": "BSEEE",
+    "CourseCode": "EEE 203/EEE 2201",
+    "CourseTitle": "Energy Conversion I",
+    "Section": "B",
+    "Teacher": "MFK",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "325 (021171016-0212230008)                                                                                                                                                                                                                       328 (0212230010-0212310076)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "MATH 2205",
+    "CourseTitle": "Probability and Statistics",
+    "Section": "B",
+    "Teacher": "MUn",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "407 (011211026-0152420009)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "MATH 2205",
+    "CourseTitle": "Probability and Statistics",
+    "Section": "D",
+    "Teacher": "MUn",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "307 (011201036-0112331050)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "MATH 2205",
+    "CourseTitle": "Probability and Statistics",
+    "Section": "E",
+    "Teacher": "MoIm",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "405 (011201236-0112230139)                                                                                                                                                                                                                       406 (0112230148-0112330987)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "MATH 2205",
+    "CourseTitle": "Probability and Statistics",
+    "Section": "F",
+    "Teacher": "SamAr",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "401 (011201082-0112231023)                                                                                                                                                                                                                       402 (0112231030-0112320246)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "MATH 2205",
+    "CourseTitle": "Probability and Statistics",
+    "Section": "I",
+    "Teacher": "SamAr",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "403 (011201401-0112310106)                                                                                                                                                                                                                       404 (0112310145-0112410471)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "MATH 2205/STAT 205",
+    "CourseTitle": "Probability and Statistics",
+    "Section": "A",
+    "Teacher": "JAS",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "322 (011181042-0112230717)                                                                                                                                                                                                                       323 (0112230728-0112320272)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "MATH 2205/STAT 205",
+    "CourseTitle": "Probability and Statistics",
+    "Section": "C",
+    "Teacher": "JAS",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "308 (011183058-0112230863)                                                                                                                                                                                                                       309 (0112230946-0112330381)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "MATH 2205/STAT 205",
+    "CourseTitle": "Probability and Statistics",
+    "Section": "G",
+    "Teacher": "SamAr",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "305 (011201079-0112310058)                                                                                                                                                                                                                       306 (0112310071-0112330687)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "MATH 2205/STAT 205",
+    "CourseTitle": "Probability and Statistics",
+    "Section": "H",
+    "Teacher": "MUn",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "324 (011162003-0112330457)"
+  },
+  {
+    "Dept": "BSCSE",
+    "CourseCode": "MATH 2205/STAT 205",
+    "CourseTitle": "Probability and Statistics",
+    "Section": "J",
+    "Teacher": "MoIm",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "303 (011183048-0112230485)                                                                                                                                                                                                                       304 (0112230512-0152420003)"
   }
 ]
