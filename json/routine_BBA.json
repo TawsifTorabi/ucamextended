@@ -1,406 +1,6 @@
 [
   {
     "Dept": "BBA",
-    "CourseCode": "BMT 2113/QNT 2105",
-    "CourseTitle": "Business Mathematics II/Mathematics for Business Decision",
-    "Section": "A",
-    "Teacher": "IZC",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "201 (111213034-1112410026)                                                                                                                                                                                                                       202 (1112410050-1142410009)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "BMT 2113/QNT 2105",
-    "CourseTitle": "Business Mathematics II/Mathematics for Business Decision",
-    "Section": "B",
-    "Teacher": "ShAz",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "203 (111201093-1112330132)                                                                                                                                                                                                                       204 (1112330169-1142330023)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "BMT 2113/QNT 2105",
-    "CourseTitle": "Business Mathematics II/Mathematics for Business Decision",
-    "Section": "C",
-    "Teacher": "ShAz",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "205 (111191074-1112320105)                                                                                                                                                                                                                       206 (1112330036-1142330024)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "BMT 2113/QNT 2105",
-    "CourseTitle": "Business Mathematics II/Mathematics for Business Decision",
-    "Section": "D",
-    "Teacher": "SCT",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "207 (111181048-1112330070)                                                                                                                                                                                                                       208 (1112330129-1142410015)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "BMT 2113/QNT 2105",
-    "CourseTitle": "Business Mathematics II/Mathematics for Business Decision",
-    "Section": "E",
-    "Teacher": "ShAz",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "225 (111191154-1142330026)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "ENG 1011",
-    "CourseTitle": "English I",
-    "Section": "A",
-    "Teacher": "AArSh",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "202 (1112330137-1112430129)                                                                                                                                                                                                                       203 (1112430130-1212430013)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "ENG 1011",
-    "CourseTitle": "English I",
-    "Section": "B",
-    "Teacher": "SaFe",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "204 (1112330105-1112430106)                                                                                                                                                                                                                       205 (1112430117-1212410008)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "ENG 1011",
-    "CourseTitle": "English I",
-    "Section": "C",
-    "Teacher": "AShK",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "222 (1112410130-1112430089)                                                                                                                                                                                                                       223 (1112430090-1212430004)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "ENG 1011",
-    "CourseTitle": "English I",
-    "Section": "D",
-    "Teacher": "AArSh",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "207 (1112230245-1112430096)                                                                                                                                                                                                                       208 (1112430098-1142430010)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "ENG 1011",
-    "CourseTitle": "English I",
-    "Section": "E",
-    "Teacher": "AArSh",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "209 (1112320035-1112430083)                                                                                                                                                                                                                       210 (1112430085-1142430020)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "FIN 4333",
-    "CourseTitle": "Financial Analytics",
-    "Section": "A",
-    "Teacher": "MUd",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "Computer Lab 1 (0226) (111191071-114221028)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "MGT 3224/MGT 4132",
-    "CourseTitle": "Operations Management/Production and Operations Management",
-    "Section": "A",
-    "Teacher": "MSna",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "222 (111172068-111222005)                                                                                                                                                                                                                       223 (111222006-121213006)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "MGT 3224/MGT 4132",
-    "CourseTitle": "Operations Management/Production and Operations Management",
-    "Section": "B",
-    "Teacher": "MSna",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "224 (111182016-111221200)                                                                                                                                                                                                                       225 (111222008-114182001)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "MGT 3224/MGT 4132",
-    "CourseTitle": "Operations Management/Production and Operations Management",
-    "Section": "C",
-    "Teacher": "NHMS",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "228 (111181086-111221092)                                                                                                                                                                                                                       201 (111221095-1112330226)"
-  },
-  {
-    "Dept": "BBA in AIS",
-    "CourseCode": "AIS 3209",
-    "CourseTitle": "Tax Accounting and Tax Planning",
-    "Section": "A",
-    "Teacher": "MHM",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "201 (114191009-1142310007)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "ENG 1013",
-    "CourseTitle": "English II",
-    "Section": "A",
-    "Teacher": "TAT",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "202 (111221089-1112420066)                                                                                                                                                                                                                       203 (1112420067-1212420010)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "ENG 1013",
-    "CourseTitle": "English II",
-    "Section": "B",
-    "Teacher": "RnIm",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "204 (1112310013-1112420153)                                                                                                                                                                                                                       205 (1112420155-1212420011)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "ENG 1013",
-    "CourseTitle": "English II",
-    "Section": "C",
-    "Teacher": "TAT",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "206 (1112310026-1112420109)                                                                                                                                                                                                                       207 (1112420113-1212410020)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "ENG 1013",
-    "CourseTitle": "English II",
-    "Section": "D",
-    "Teacher": "ChMR",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "208 (111213064-1112420129)                                                                                                                                                                                                                       209 (1112420131-1142420026)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "ENG 1013",
-    "CourseTitle": "English II",
-    "Section": "E",
-    "Teacher": "KhJS",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "210 (111222010-1212330009)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "ENG 1013",
-    "CourseTitle": "English II",
-    "Section": "F",
-    "Teacher": "UH",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "211 (111212081-1112420110)                                                                                                                                                                                                                       222 (1112420112-1142420022)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "MKT 4204",
-    "CourseTitle": "Strategic Marketing",
-    "Section": "A",
-    "Teacher": "KA",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "203 (111162027-111213095)"
-  },
-  {
-    "Dept": "BSECO",
-    "CourseCode": "ECO 3302/ECO 3304",
-    "CourseTitle": "Intermediate Macroeconomic Theory II/Intermediate Macroeconomics II",
-    "Section": "A",
-    "Teacher": "MAkHn",
-    "ExamDate": "February 04, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "201 (121182003-1212310014)"
-  },
-  {
-    "Dept": "BSECO",
-    "CourseCode": "ECO 3360",
-    "CourseTitle": "Socioeconomic Profiles of Bangladesh",
-    "Section": "A",
-    "Teacher": "AAsh",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "202 (121211006-121222002)                                                                                                                                                                                                                       203 (121222009-1212310018)"
-  },
-  {
-    "Dept": "BBA in AIS",
-    "CourseCode": "MGT 2208",
-    "CourseTitle": "Human Resource Management & Organizational Behavior",
-    "Section": "A",
-    "Teacher": "IS",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "202 (114172005-1142430019)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "MGT 2318",
-    "CourseTitle": "Organizational Behavior",
-    "Section": "A",
-    "Teacher": "IS",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "203 (111201139-1112230221)                                                                                                                                                                                                                       204 (1112230234-1112330090)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "MGT 2318",
-    "CourseTitle": "Organizational Behavior",
-    "Section": "B",
-    "Teacher": "IS",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "205 (111221085-1112310066)                                                                                                                                                                                                                       206 (1112310097-1112410146)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "MGT 2318",
-    "CourseTitle": "Organizational Behavior",
-    "Section": "C",
-    "Teacher": "SK",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "207 (111181087-1112230057)                                                                                                                                                                                                                       208 (1112230145-1112320122)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "MGT 3122",
-    "CourseTitle": "Human Resources Management",
-    "Section": "A",
-    "Teacher": "HRJ",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "204 (111192018-111221175)                                                                                                                                                                                                                       205 (111222004-1112320063)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "MGT 3122",
-    "CourseTitle": "Human Resources Management",
-    "Section": "B",
-    "Teacher": "HRJ",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "206 (111173097-111222169)                                                                                                                                                                                                                       207 (1112230004-1112330074)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "MGT 3122",
-    "CourseTitle": "Human Resources Management",
-    "Section": "C",
-    "Teacher": "ASSZ",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "208 (111183011-111222030)                                                                                                                                                                                                                       209 (111222073-1112320087)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "MGT 4356",
-    "CourseTitle": "Strategic Management",
-    "Section": "A",
-    "Teacher": "ASSZ",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "209 (111191020-111202030)                                                                                                                                                                                                                       210 (111202094-114221001)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "MGT 4356",
-    "CourseTitle": "Strategic Management",
-    "Section": "B",
-    "Teacher": "NAr",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "09:00 AM - 11:00 AM",
-    "Room": "211 (111151098-111201239)                                                                                                                                                                                                                       222 (111201268-114221011)"
-  },
-  {
-    "Dept": "BSECO",
-    "CourseCode": "ECO 2301/ECO 2304/ECO 2314",
-    "CourseTitle": "Intermediate Microeconomic Theory I/Intermediate Microeconomics/Intermediate Microeconomics I",
-    "Section": "A",
-    "Teacher": "MSS",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "210 (121182003-1212330009)                                                                                                                                                                                                                       222 (1212330010-1212410004)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "MGT 1307",
-    "CourseTitle": "Principles of Management",
-    "Section": "A",
-    "Teacher": "BJ",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "222 (111202111-1112410061)                                                                                                                                                                                                                       223 (1112410067-1142410019)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "MGT 1307",
-    "CourseTitle": "Principles of Management",
-    "Section": "B",
-    "Teacher": "BJ",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "224 (111221025-1112330138)                                                                                                                                                                                                                       225 (1112330163-1142330012)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "MGT 1307",
-    "CourseTitle": "Principles of Management",
-    "Section": "C",
-    "Teacher": "SK",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "228 (111191020-1112330215)                                                                                                                                                                                                                       201 (1112330219-1142330025)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "MGT 1307",
-    "CourseTitle": "Principles of Management",
-    "Section": "D",
-    "Teacher": "SK",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "202 (111221051-1112410027)                                                                                                                                                                                                                       203 (1112410030-1142410014)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "SCM 4313",
-    "CourseTitle": "Service Operation Management",
-    "Section": "A",
-    "Teacher": "SdHn",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "11:30 AM - 01:30 PM",
-    "Room": "204 (111171185-111221113)"
-  },
-  {
-    "Dept": "BBA",
-    "CourseCode": "ACN 4340/AIS 2306",
-    "CourseTitle": "Auditing/Principles of Auditing",
-    "Section": "A",
-    "Teacher": "MTH",
-    "ExamDate": "February 05, 2025",
-    "ExamTime": "02:00 PM - 04:00 PM",
-    "Room": "201 (111182131-1142310004)"
-  },
-  {
-    "Dept": "BBA",
     "CourseCode": "BUS 1102",
     "CourseTitle": "Introduction to Business",
     "Section": "A",
@@ -648,6 +248,236 @@
     "ExamDate": "February 06, 2025",
     "ExamTime": "02:00 PM - 04:00 PM",
     "Room": "201 (114212004-1142310007)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BMT 2113/QNT 2105",
+    "CourseTitle": "Business Mathematics II/Mathematics for Business Decision",
+    "Section": "A",
+    "Teacher": "IZC",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "201 (111213034-1112410026)                                                                                                                                                                                                                       202 (1112410050-1142410009)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BMT 2113/QNT 2105",
+    "CourseTitle": "Business Mathematics II/Mathematics for Business Decision",
+    "Section": "B",
+    "Teacher": "ShAz",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "203 (111201093-1112330132)                                                                                                                                                                                                                       204 (1112330169-1142330023)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BMT 2113/QNT 2105",
+    "CourseTitle": "Business Mathematics II/Mathematics for Business Decision",
+    "Section": "C",
+    "Teacher": "ShAz",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "205 (111191074-1112320105)                                                                                                                                                                                                                       206 (1112330036-1142330024)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BMT 2113/QNT 2105",
+    "CourseTitle": "Business Mathematics II/Mathematics for Business Decision",
+    "Section": "D",
+    "Teacher": "SCT",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "207 (111181048-1112330070)                                                                                                                                                                                                                       208 (1112330129-1142410015)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "BMT 2113/QNT 2105",
+    "CourseTitle": "Business Mathematics II/Mathematics for Business Decision",
+    "Section": "E",
+    "Teacher": "ShAz",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "225 (111191154-1142330026)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ENG 1011",
+    "CourseTitle": "English I",
+    "Section": "A",
+    "Teacher": "AArSh",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "202 (1112330137-1112430129)                                                                                                                                                                                                                       203 (1112430130-1212430013)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ENG 1011",
+    "CourseTitle": "English I",
+    "Section": "B",
+    "Teacher": "SaFe",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "204 (1112330105-1112430106)                                                                                                                                                                                                                       205 (1112430117-1212410008)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ENG 1011",
+    "CourseTitle": "English I",
+    "Section": "C",
+    "Teacher": "AShK",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "222 (1112410130-1112430089)                                                                                                                                                                                                                       223 (1112430090-1212430004)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ENG 1011",
+    "CourseTitle": "English I",
+    "Section": "D",
+    "Teacher": "AArSh",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "207 (1112230245-1112430096)                                                                                                                                                                                                                       208 (1112430098-1142430010)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ENG 1011",
+    "CourseTitle": "English I",
+    "Section": "E",
+    "Teacher": "AArSh",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "209 (1112320035-1112430083)                                                                                                                                                                                                                       210 (1112430085-1142430020)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "FIN 4333",
+    "CourseTitle": "Financial Analytics",
+    "Section": "A",
+    "Teacher": "MUd",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "Computer Lab 1 (0226) (111191071-114221028)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 3224/MGT 4132",
+    "CourseTitle": "Operations Management/Production and Operations Management",
+    "Section": "A",
+    "Teacher": "MSna",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "222 (111172068-111222005)                                                                                                                                                                                                                       223 (111222006-121213006)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 3224/MGT 4132",
+    "CourseTitle": "Operations Management/Production and Operations Management",
+    "Section": "B",
+    "Teacher": "MSna",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "224 (111182016-111221200)                                                                                                                                                                                                                       225 (111222008-114182001)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 3224/MGT 4132",
+    "CourseTitle": "Operations Management/Production and Operations Management",
+    "Section": "C",
+    "Teacher": "NHMS",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "08:30 AM - 10:30 AM",
+    "Room": "228 (111181086-111221092)                                                                                                                                                                                                                       201 (111221095-1112330226)"
+  },
+  {
+    "Dept": "BBA in AIS",
+    "CourseCode": "AIS 3209",
+    "CourseTitle": "Tax Accounting and Tax Planning",
+    "Section": "A",
+    "Teacher": "MHM",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "201 (114191009-1142310007)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ENG 1013",
+    "CourseTitle": "English II",
+    "Section": "A",
+    "Teacher": "TAT",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "202 (111221089-1112420066)                                                                                                                                                                                                                       203 (1112420067-1212420010)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ENG 1013",
+    "CourseTitle": "English II",
+    "Section": "B",
+    "Teacher": "RnIm",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "204 (1112310013-1112420153)                                                                                                                                                                                                                       205 (1112420155-1212420011)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ENG 1013",
+    "CourseTitle": "English II",
+    "Section": "C",
+    "Teacher": "TAT",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "206 (1112310026-1112420109)                                                                                                                                                                                                                       207 (1112420113-1212410020)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ENG 1013",
+    "CourseTitle": "English II",
+    "Section": "D",
+    "Teacher": "ChMR",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "208 (111213064-1112420129)                                                                                                                                                                                                                       209 (1112420131-1142420026)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ENG 1013",
+    "CourseTitle": "English II",
+    "Section": "E",
+    "Teacher": "KhJS",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "210 (111222010-1212330009)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ENG 1013",
+    "CourseTitle": "English II",
+    "Section": "F",
+    "Teacher": "UH",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "211 (111212081-1112420110)                                                                                                                                                                                                                       222 (1112420112-1142420022)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MKT 4204",
+    "CourseTitle": "Strategic Marketing",
+    "Section": "A",
+    "Teacher": "KA",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "11:00 AM - 01:00 PM",
+    "Room": "203 (111162027-111213095)"
+  },
+  {
+    "Dept": "BSECO",
+    "CourseCode": "ECO 3302/ECO 3304",
+    "CourseTitle": "Intermediate Macroeconomic Theory II/Intermediate Macroeconomics II",
+    "Section": "A",
+    "Teacher": "MAkHn",
+    "ExamDate": "February 07, 2025",
+    "ExamTime": "02:30 PM - 04:30 PM",
+    "Room": "201 (121182003-1212310014)"
   },
   {
     "Dept": "BBA",
@@ -1628,5 +1458,175 @@
     "ExamDate": "February 12, 2025",
     "ExamTime": "02:00 PM - 04:00 PM",
     "Room": "201 (111151098-111222130)"
+  },
+  {
+    "Dept": "BSECO",
+    "CourseCode": "ECO 3360",
+    "CourseTitle": "Socioeconomic Profiles of Bangladesh",
+    "Section": "A",
+    "Teacher": "AAsh",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "202 (121211006-121222002)                                                                                                                                                                                                                       203 (121222009-1212310018)"
+  },
+  {
+    "Dept": "BBA in AIS",
+    "CourseCode": "MGT 2208",
+    "CourseTitle": "Human Resource Management & Organizational Behavior",
+    "Section": "A",
+    "Teacher": "IS",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "202 (114172005-1142430019)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 2318",
+    "CourseTitle": "Organizational Behavior",
+    "Section": "A",
+    "Teacher": "IS",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "203 (111201139-1112230221)                                                                                                                                                                                                                       204 (1112230234-1112330090)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 2318",
+    "CourseTitle": "Organizational Behavior",
+    "Section": "B",
+    "Teacher": "IS",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "205 (111221085-1112310066)                                                                                                                                                                                                                       206 (1112310097-1112410146)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 2318",
+    "CourseTitle": "Organizational Behavior",
+    "Section": "C",
+    "Teacher": "SK",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "207 (111181087-1112230057)                                                                                                                                                                                                                       208 (1112230145-1112320122)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 3122",
+    "CourseTitle": "Human Resources Management",
+    "Section": "A",
+    "Teacher": "HRJ",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "204 (111192018-111221175)                                                                                                                                                                                                                       205 (111222004-1112320063)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 3122",
+    "CourseTitle": "Human Resources Management",
+    "Section": "B",
+    "Teacher": "HRJ",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "206 (111173097-111222169)                                                                                                                                                                                                                       207 (1112230004-1112330074)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 3122",
+    "CourseTitle": "Human Resources Management",
+    "Section": "C",
+    "Teacher": "ASSZ",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "208 (111183011-111222030)                                                                                                                                                                                                                       209 (111222073-1112320087)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 4356",
+    "CourseTitle": "Strategic Management",
+    "Section": "A",
+    "Teacher": "ASSZ",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "209 (111191020-111202030)                                                                                                                                                                                                                       210 (111202094-114221001)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 4356",
+    "CourseTitle": "Strategic Management",
+    "Section": "B",
+    "Teacher": "NAr",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "09:00 AM - 11:00 AM",
+    "Room": "211 (111151098-111201239)                                                                                                                                                                                                                       222 (111201268-114221011)"
+  },
+  {
+    "Dept": "BSECO",
+    "CourseCode": "ECO 2301/ECO 2304/ECO 2314",
+    "CourseTitle": "Intermediate Microeconomic Theory I/Intermediate Microeconomics/Intermediate Microeconomics I",
+    "Section": "A",
+    "Teacher": "MSS",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "210 (121182003-1212330009)                                                                                                                                                                                                                       222 (1212330010-1212410004)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 1307",
+    "CourseTitle": "Principles of Management",
+    "Section": "A",
+    "Teacher": "BJ",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "222 (111202111-1112410061)                                                                                                                                                                                                                       223 (1112410067-1142410019)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 1307",
+    "CourseTitle": "Principles of Management",
+    "Section": "B",
+    "Teacher": "BJ",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "224 (111221025-1112330138)                                                                                                                                                                                                                       225 (1112330163-1142330012)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 1307",
+    "CourseTitle": "Principles of Management",
+    "Section": "C",
+    "Teacher": "SK",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "228 (111191020-1112330215)                                                                                                                                                                                                                       201 (1112330219-1142330025)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "MGT 1307",
+    "CourseTitle": "Principles of Management",
+    "Section": "D",
+    "Teacher": "SK",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "202 (111221051-1112410027)                                                                                                                                                                                                                       203 (1112410030-1142410014)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "SCM 4313",
+    "CourseTitle": "Service Operation Management",
+    "Section": "A",
+    "Teacher": "SdHn",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "11:30 AM - 01:30 PM",
+    "Room": "204 (111171185-111221113)"
+  },
+  {
+    "Dept": "BBA",
+    "CourseCode": "ACN 4340/AIS 2306",
+    "CourseTitle": "Auditing/Principles of Auditing",
+    "Section": "A",
+    "Teacher": "MTH",
+    "ExamDate": "February 13, 2025",
+    "ExamTime": "02:00 PM - 04:00 PM",
+    "Room": "201 (111182131-1142310004)"
   }
 ]
